@@ -2,16 +2,47 @@
     <head>
         <title>Bilboko Konpartsak</title>
         <meta charset="utf8">
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+        <link rel="stylesheet" href="bulma.min.css">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <h1>Aste Nagusia 2018 - Bilboko Konpartsak</h1>
-        <% Object.keys(data.events).forEach((day) => { var events = data.events[day]; %>
-            <h2><%= day %></h2>
-            <ul>
-                <% events.forEach((event) => { %>
-                    <li><%= event.hour %> - <%= event.location %> - <%= event.name %></li>
+        <div class="container">
+            <h1 class="title">Bilboko Konpartsak</h1>
+
+            <div class="days">
+                <% Object.keys(data.events).forEach((day) => { var dayNumber = data.events[day].day; %>
+                    <a class="day" href="#day_<%= dayNumber %>"><%= dayNumber %></a>
                 <% }) %>
-            </ul>
-        <% }) %>
+            </div>
+
+            <% Object.keys(data.events).forEach((day) => { var events = data.events[day].events; var dayNumber = data.events[day].day; %>
+                <h2 id="day_<%= dayNumber %>"><%= day %></h2>
+
+                <div class="hours">
+                    <% var hourMap = {}; %>
+                    <% events.forEach((event) => { %>
+                        <% if (!hourMap[event.hour]) { hourMap[event.hour] = true; %>
+                            <a class="hour-button" href="#day_<%= dayNumber %>_hour_<%= event.hour.replace(':', '_') %>"><%= event.hour %></a>
+                        <% } %>
+                    <% }) %>
+                </div>
+
+                <% var currentHour = '' %>
+                <% events.forEach((event) => { %>
+                    <%
+                        if (currentHour !== event.hour) {
+                            currentHour = event.hour;
+                    %>
+                        <div id="day_<%= dayNumber %>_hour_<%= currentHour.replace(':', '_') %>" class="hour"><%= currentHour %></div>
+                    <% } %>
+                    <div class="event">
+                        <div class="event-location"><%= event.location %></div>
+                        <div class="event-name"><%= event.name %></div>
+                    </div>
+                <% }) %>
+
+            <% }) %>
+        </div>
     </body>
 </html>

@@ -41,6 +41,10 @@ function getLocation(element) {
     return text;
 }
 
+function parseDay(text) {
+    return parseInt(text.match(/[0-9]+/)[0]);
+}
+
 function process($) {
     var paragraphs = $('#cont_embed_noticia > p');
 
@@ -56,7 +60,14 @@ function process($) {
 
         if (!currentDay) return;
         if (!result[currentDay]) {
-            result[currentDay] = [];
+            result[currentDay] = {
+                day: parseDay(currentDay),
+                events: []
+            };
+        }
+
+        function addEvent(event) {
+            result[currentDay].events.push(event);
         }
 
         var text = $(this).text().trim();
@@ -73,7 +84,7 @@ function process($) {
                     location: getLocation($(this)),
                     name: getName($(this))
                 }
-                result[currentDay].push(newEvent);
+                addEvent(newEvent);
             }
             return;
         }
@@ -84,7 +95,7 @@ function process($) {
                 location: getLocation($(this)),
                 name: getName($(this))
             }
-            result[currentDay].push(newEvent);
+            addEvent(newEvent);
         }
     });
 

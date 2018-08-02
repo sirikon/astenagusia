@@ -1,0 +1,63 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    display: block;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.hour {
+    background-color: #eaeaea;
+    padding: .3em .5em;
+    margin-top: 1em;
+}
+
+.event {
+    background-color: whitesmoke;
+    padding: .3em .5em;
+
+    &-location {
+        font-weight: bold;
+        display: inline;
+    }
+
+    &-name {
+        display: inline;
+    }
+}
+
+.days {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.day {
+    font-size: 1.4em;
+    text-decoration: none;
+    background-color: whitesmoke;
+    color: grey;
+    padding: .3em .5em .4em .5em;
+    display: inline-block;
+    margin: 0 5px 5px 0;
+}
+
+.hours {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hour-button {
+    font-size: 1.1em;
+    text-decoration: none;
+    background-color: whitesmoke;
+    color: grey;
+    padding: .3em .5em .4em .5em;
+    display: inline-block;
+    margin: 0 5px 5px 0;
+}
