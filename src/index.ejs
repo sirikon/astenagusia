@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, user-scalable=no">
         <link rel="stylesheet" href="bulma.min.css">
         <link rel="stylesheet" href="style.css">
+        <script type="text/javascript" src="main.js"></script>
     </head>
     <body>
         <div class="container">
@@ -17,30 +18,30 @@
             </div>
 
             <% Object.keys(data.events).forEach((day) => { var events = data.events[day].events; var dayNumber = data.events[day].day; %>
-                <h2 id="day_<%= dayNumber %>"><%= day %></h2>
+                <dl>
+                    <dt id="day_<%= dayNumber %>" class="day-title"><%= day %></dt>
 
-                <div class="hours">
-                    <% var hourMap = {}; %>
-                    <% events.forEach((event) => { %>
-                        <% if (!hourMap[event.hour]) { hourMap[event.hour] = true; %>
-                            <a class="hour-button" href="#day_<%= dayNumber %>_hour_<%= event.hour.replace(':', '_') %>"><%= event.hour %></a>
-                        <% } %>
-                    <% }) %>
-                </div>
-
-                <% var currentHour = '' %>
-                <% events.forEach((event) => { %>
-                    <%
-                        if (currentHour !== event.hour) {
-                            currentHour = event.hour;
-                    %>
-                        <div id="day_<%= dayNumber %>_hour_<%= currentHour.replace(':', '_') %>" class="hour"><%= currentHour %></div>
-                    <% } %>
-                    <div class="event">
-                        <div class="event-location"><%= event.location %></div>
-                        <div class="event-name"><%= event.name %></div>
+                    <div class="hours">
+                        <% Object.keys(events).forEach((hour) => { %>
+                            <a class="hour-button" href="#day_<%= dayNumber %>_hour_<%= hour.replace(':', '_') %>"><%= hour %></a>
+                        <% }) %>
                     </div>
-                <% }) %>
+
+                    <% Object.keys(events).forEach((hour) => { var hourEvents = events[hour]; %>
+
+                        <dl style="margin: 0;">
+                            <dt id="day_<%= dayNumber %>_hour_<%= hour.replace(':', '_') %>" class="hour"><%= hour %></dt>
+                            <% hourEvents.forEach((event) => { %>
+                                <dd class="event">
+                                    <span class="event-location"><%= event.location %></span>
+                                    <span class="event-name"><%= event.name %></span>
+                                </dd>
+                            <% }) %>
+                        </dl>
+
+                    <% }) %>
+
+                </dl>
 
             <% }) %>
         </div>

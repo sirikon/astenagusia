@@ -62,12 +62,15 @@ function process($) {
         if (!result[currentDay]) {
             result[currentDay] = {
                 day: parseDay(currentDay),
-                events: []
+                events: {}
             };
         }
 
         function addEvent(event) {
-            result[currentDay].events.push(event);
+            if (result[currentDay].events[currentHour] === undefined) {
+                result[currentDay].events[currentHour] = [];
+            }
+            result[currentDay].events[currentHour].push(event);
         }
 
         var text = $(this).text().trim();
@@ -80,7 +83,6 @@ function process($) {
 
             if (cleanText !== '') {
                 var newEvent = {
-                    hour: hour,
                     location: getLocation($(this)),
                     name: getName($(this))
                 }
@@ -91,7 +93,6 @@ function process($) {
 
         if (text.substr(0, 1) === '-') {
             var newEvent = {
-                hour: currentHour,
                 location: getLocation($(this)),
                 name: getName($(this))
             }

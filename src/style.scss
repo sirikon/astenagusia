@@ -16,19 +16,20 @@ body {
     background-color: #eaeaea;
     padding: .3em .5em;
     margin-top: 1em;
+    position: sticky;
+    top: 42px;
 }
 
 .event {
     background-color: whitesmoke;
     padding: .3em .5em;
+    margin: 0;
 
     &-location {
         font-weight: bold;
-        display: inline;
     }
 
     &-name {
-        display: inline;
     }
 }
 
@@ -59,5 +60,16 @@ body {
     color: grey;
     padding: .3em .5em .4em .5em;
     display: inline-block;
-    margin: 0 5px 5px 0;
+    margin: 5px 5px 0 0;
+}
+
+.day-title {
+    position: sticky;
+    top: 0;
+    font-size: 22px;
+    line-height: 1em;
+    font-weight: bold;
+    z-index: 1;
+    background-color: lightblue;
+    padding: 10px;
 }
