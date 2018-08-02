@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Bilboko Konpartsak</title>
+        <meta charset="utf8">
+    </head>
+    <body>
+        <h1>Aste Nagusia 2018 - Bilboko Konpartsak</h1>
+        <% Object.keys(data.events).forEach((day) => { var events = data.events[day]; %>
+            <h2><%= day %></h2>
+            <ul>
+                <% events.forEach((event) => { %>
+                    <li><%= event.hour %> - <%= event.location %> - <%= event.name %></li>
+                <% }) %>
+            </ul>
+        <% }) %>
+    </body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "name": "astenagusi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pitch build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sirikon/astenagusia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sirikon/astenagusia/issues"
+  },
+  "homepage": "https://github.com/Sirikon/astenagusia#readme",
+  "dependencies": {
+    "pitch-cli": "0.0.8"
+  }
+}
