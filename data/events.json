@@ -24,12 +24,32 @@
         {
           "location": "Arriagako Atz",
           "name": "Apertura de txosnas con Marijaia"
+        },
+        {
+          "name": "NEGRACALAVERA, Bilbao (ROCK&ROLL)",
+          "location": "Bilborock"
         }
       ],
       "20:30": [
         {
           "location": "Arriaga plaza",
           "name": "Toro de fuego"
+        },
+        {
+          "name": "Jonathan Merino",
+          "location": "La Carbonería"
+        }
+      ],
+      "21:00": [
+        {
+          "name": "WICKED WIZZARD, Uribe-Kosta (STONER ROCK)",
+          "location": "Bilborock"
+        }
+      ],
+      "21:30": [
+        {
+          "name": "Unholy Covers + Radio Guerrilla / Alex III + Casual Groupies (DJs)",
+          "location": "SHAKE!"
         }
       ],
       "22:30": [
@@ -42,6 +62,10 @@
         {
           "location": "Algara",
           "name": "DJ ELEPUNTO"
+        },
+        {
+          "name": "Distorsion + Elortegi Anayak (10 €)",
+          "location": "Kafe Antzokia"
         }
       ],
       "23:30": [
@@ -56,6 +80,14 @@
         {
           "location": "Komantxe",
           "name": "AIARALDEKO SOINU SISTEMA & LAGUNAK"
+        },
+        {
+          "name": "Gatibu",
+          "location": "Abandoibarra"
+        },
+        {
+          "name": "Larry & His Flask + Dead Bronco",
+          "location": "Plaza Nueva"
         }
       ],
       "00:30": [
@@ -181,6 +213,10 @@
         {
           "location": "Uribarri",
           "name": "Talleres infantiles"
+        },
+        {
+          "name": "La Frontera (19€)",
+          "location": "NAVE 9"
         }
       ],
       "13:30": [
@@ -279,6 +315,10 @@
         {
           "location": "Txinbotarrak",
           "name": "FABE DE FUKA (elektrotxaranga)"
+        },
+        {
+          "name": "MOIKAVE, Bilbao (BLUES ROCK)",
+          "location": "Bilborock"
         }
       ],
       "20:30": [
@@ -293,12 +333,26 @@
         {
           "location": "Pa...Ya!",
           "name": "TOCAN2 LA POLLA"
+        },
+        {
+          "name": "William",
+          "location": "La Carbonería"
         }
       ],
       "21:00": [
         {
           "location": "Euskalgune",
           "name": "Laburmetrai lehiaketa"
+        },
+        {
+          "name": "DUDU OUCHEN, Bilbao (SOUL FUNK)",
+          "location": "Bilborock"
+        }
+      ],
+      "21:30": [
+        {
+          "name": "The Ribbons + Diablo Cuney",
+          "location": "SHAKE!"
         }
       ],
       "22:30": [
@@ -345,6 +399,14 @@
         {
           "location": "Tintigorri",
           "name": "ROCK CHOPPER BLUES"
+        },
+        {
+          "name": "Banda Municipal de Bilbao con Doctor Deseo",
+          "location": "Abandoibarra"
+        },
+        {
+          "name": "The Electric Swing Circus",
+          "location": "Plaza Nueva"
         }
       ],
       "23:45": [
@@ -652,6 +714,10 @@
         {
           "location": "Askapeña",
           "name": "DCAPRICHO"
+        },
+        {
+          "name": "MAREN, Gernika-Lumo (POP)",
+          "location": "Bilborock"
         }
       ],
       "20:30": [
@@ -668,6 +734,20 @@
         {
           "location": "Kaskagorri",
           "name": "ANITA PARKER & LA FURIA"
+        },
+        {
+          "name": "DEBAJO DEL PARAGUAS, Bilbao (POP-ROCK)",
+          "location": "Bilborock"
+        },
+        {
+          "name": "Los Wavy Gravies + DJs (5€)",
+          "location": "NAVE 9"
+        }
+      ],
+      "21:30": [
+        {
+          "name": "Silver Surfing Machine + The Moths",
+          "location": "SHAKE!"
         }
       ],
       "22:30": [
@@ -714,6 +794,18 @@
         {
           "location": "Tintigorri",
           "name": "JOSE ANTONIO PAINO"
+        },
+        {
+          "name": "Rozalén",
+          "location": "Abandoibarra"
+        },
+        {
+          "name": "Fanfaraï Big Band",
+          "location": "Plaza Nueva"
+        },
+        {
+          "name": "Jose Antonio Paiano",
+          "location": "Tintigorri"
         }
       ],
       "23:45": [
@@ -1021,6 +1113,14 @@
         {
           "location": "Kaialde",
           "name": "Zumba Master"
+        },
+        {
+          "name": "YO GERARD, Bilbao (INDIE POP-ROCK)",
+          "location": "Bilborock"
+        },
+        {
+          "name": "Shöck + Soma 101 (Gratis)",
+          "location": "NAVE 9"
         }
       ],
       "20:30": [
@@ -1035,6 +1135,10 @@
         {
           "location": "Tintigorri",
           "name": "LONG JOHN & AITOR DIEGO"
+        },
+        {
+          "name": "Javier Urquijo (Los Secretos)",
+          "location": "La Carbonería"
         }
       ],
       "20:45": [
@@ -1051,6 +1155,16 @@
         {
           "location": "Piztiak",
           "name": "THE PUSHERMEN"
+        },
+        {
+          "name": "XATIRO, Bilbao (RAP)",
+          "location": "Bilborock"
+        }
+      ],
+      "21:30": [
+        {
+          "name": "Sua + The Beatpunkers",
+          "location": "SHAKE!"
         }
       ],
       "22:30": [
@@ -1111,6 +1225,14 @@
         {
           "location": "Tintigorri",
           "name": "RECAMBIOS ZORROZA"
+        },
+        {
+          "name": "Hombres G",
+          "location": "Abandoibarra"
+        },
+        {
+          "name": "Gwendal",
+          "location": "Plaza Nueva"
         }
       ],
       "23:45": [
@@ -1121,6 +1243,10 @@
         {
           "location": "Mamiki",
           "name": "PROSÓDIA. Rap Metal Melódiko Feminista"
+        },
+        {
+          "name": "Prosodia",
+          "location": "Mamiki"
         }
       ],
       "00:00": [
@@ -1348,6 +1474,12 @@
           "name": "Bertso bazkaria Uxue Alberdi eta Unai Iturriagarekin"
         }
       ],
+      "16:00": [
+        {
+          "name": "Anje Duhalde",
+          "location": "Algara"
+        }
+      ],
       "16:30": [
         {
           "location": "Arriagako Atz.",
@@ -1452,6 +1584,14 @@
         {
           "location": "Triangune",
           "name": "Música experimental: FRANZ REICHELT"
+        },
+        {
+          "name": "NEVADAH, Durangaldea (HARD ROCK’N BLUES)",
+          "location": "Bilborock"
+        },
+        {
+          "name": "Ruby The Hatchet (Gratis)",
+          "location": "NAVE 9"
         }
       ],
       "20:15": [
@@ -1468,6 +1608,10 @@
         {
           "location": "Moskotarrak",
           "name": "MOSKOGOLA"
+        },
+        {
+          "name": "Javier Urquijo (Los Secretos)",
+          "location": "La Carbonería"
         }
       ],
       "20:45": [
@@ -1484,12 +1628,20 @@
         {
           "location": "Uribarri",
           "name": "JEAN PAOLO Y LA SIEMPREVIVA"
+        },
+        {
+          "name": "FREE THE WHEEL, Bilbao (HARD ROCK’N BLUES)",
+          "location": "Bilborock"
         }
       ],
       "21:30": [
         {
           "location": "Txomin Barullo",
           "name": "LARRUTAN DEL CHÉ"
+        },
+        {
+          "name": "Atila Txiguagua Beldurgarria + La Última Bala",
+          "location": "SHAKE!"
         }
       ],
       "22:30": [
@@ -1522,6 +1674,10 @@
         {
           "location": "Uribarri",
           "name": "BERANDUEGI ERROMERIA"
+        },
+        {
+          "name": "Obsesión Fatal",
+          "location": "Txomin Barullo"
         }
       ],
       "23:15": [
@@ -1546,6 +1702,14 @@
         {
           "location": "Tintigorri",
           "name": "RUNAWAY (Bon Jovi)"
+        },
+        {
+          "name": "BOS + Ute Lemper",
+          "location": "Abandoibarra"
+        },
+        {
+          "name": "Johnny Osbourne",
+          "location": "Plaza Nueva"
         }
       ],
       "23:45": [
@@ -1558,6 +1722,10 @@
         {
           "location": "Abante!",
           "name": "DJ emanaldia"
+        },
+        {
+          "name": "Skakeitan + Vendetta",
+          "location": "Parque Europa"
         }
       ],
       "00:30": [
@@ -1901,6 +2069,14 @@
         {
           "location": "Zazpi Kaleak",
           "name": "Bilbo Kantari"
+        },
+        {
+          "name": "MUSHKUM, Bilbao (ROCK FRONTERIZO)",
+          "location": "Bilborock"
+        },
+        {
+          "name": "The Professionals + Negracalavera (17€)",
+          "location": "NAVE 9"
         }
       ],
       "20:30": [
@@ -1911,6 +2087,10 @@
         {
           "location": "Piztiak",
           "name": "ISILDU ZAITEZ"
+        },
+        {
+          "name": "Urban",
+          "location": "La Carbonería"
         }
       ],
       "21:00": [
@@ -1925,12 +2105,20 @@
         {
           "location": "Triangune",
           "name": "GUDA DANTZA"
+        },
+        {
+          "name": "AIZKORAK ZORROZTU & THE MIA WALLACE BAND, Bilbao (ROCK FUNKSION)",
+          "location": "Bilborock"
         }
       ],
       "21:30": [
         {
           "location": "Kaskagorri",
           "name": "Poteo nostalgikoa"
+        },
+        {
+          "name": "Ornamento y Delito + Los Paralíticos del Ritmo / Cavaliere + Adrián + Mr. Chase + James Hustler (Djs)",
+          "location": "SHAKE!"
         }
       ],
       "22:30": [
@@ -1947,6 +2135,10 @@
         {
           "location": "Euskalgune",
           "name": "GARILAK 26"
+        },
+        {
+          "name": "Rat-Zinger + Svetlanas (10 €)",
+          "location": "Kafe Antzokia"
         }
       ],
       "23:15": [
@@ -1975,6 +2167,14 @@
         {
           "location": "Pa... Ya!",
           "name": "TTUN TTUN BRIGADE"
+        },
+        {
+          "name": "La Pegatina",
+          "location": "Abandoibarra"
+        },
+        {
+          "name": "La Kaíta, Guadiana, El Perrete, Javier Conde, el bailaor El Peregrino, Juanjo Navas y Sonakai.",
+          "location": "Plaza Nueva"
         }
       ],
       "23:45": [
@@ -1995,6 +2195,16 @@
         {
           "location": "Triangune",
           "name": "Playback"
+        },
+        {
+          "name": "Fiesta Máxima FM",
+          "location": "Parque Europa"
+        }
+      ],
+      "00:30": [
+        {
+          "name": "Olé Olé 2.0",
+          "location": "Pinpilipauxa"
         }
       ],
       "01:00": [
@@ -2286,6 +2496,14 @@
         {
           "location": "Txomin Barullo",
           "name": "Triki kalejira Marijaiarekin"
+        },
+        {
+          "name": "VALKYRIA, Bilbao (HEAVY METAL)",
+          "location": "Bilborock"
+        },
+        {
+          "name": "The Dustaphonics + DJs (Gratis)",
+          "location": "NAVE 9"
         }
       ],
       "20:30": [
@@ -2296,6 +2514,10 @@
         {
           "location": "Kaialde",
           "name": "HOWDY"
+        },
+        {
+          "name": "Aida",
+          "location": "La Carbonería"
         }
       ],
       "20:45": [
@@ -2308,12 +2530,20 @@
         {
           "location": "Piztiak",
           "name": "MICKY & THE BUZZ"
+        },
+        {
+          "name": "HEX, Bilbao (DEATH METAL)",
+          "location": "Bilborock"
         }
       ],
       "21:30": [
         {
           "location": "Kaskagorri",
           "name": "Playback"
+        },
+        {
+          "name": "General Lee + Coppel / Double Trouble + K-Billy",
+          "location": "SHAKE!"
         }
       ],
       "22:30": [
@@ -2326,6 +2556,10 @@
         {
           "location": "Askapeña",
           "name": "EZETAERRE"
+        },
+        {
+          "name": "XXL + Lukiek (Gratis)",
+          "location": "Kafe Antzokia"
         }
       ],
       "23:30": [
@@ -2340,6 +2574,14 @@
         {
           "location": "Komantxe",
           "name": "SAN SON DYEAH!"
+        },
+        {
+          "name": "Santiago Auseron + Sexy Sadie",
+          "location": "Abandoibarra"
+        },
+        {
+          "name": "Orquesta Radio Topolino",
+          "location": "Plaza Nueva"
         }
       ],
       "23:45": [
@@ -2350,6 +2592,12 @@
         {
           "location": "Zaratas",
           "name": "DJ JEREMIAH JOHNSON"
+        }
+      ],
+      "00:00": [
+        {
+          "name": "Adi Bilbao + Megastar + Dj Valdi",
+          "location": "Parque Europa"
         }
       ],
       "00:30": [
@@ -2503,6 +2751,10 @@
         {
           "location": "Irrintzi",
           "name": "Txistularis: Pasacalles Arenal, Plaza Nueva y Siete calles"
+        },
+        {
+          "name": "Go!azen",
+          "location": "Abandoibarra"
         }
       ],
       "20:00": [
@@ -2517,6 +2769,14 @@
         {
           "location": "Zazpi Kaleak",
           "name": "Bilbo Kantari"
+        },
+        {
+          "name": "BLACK OCEAN WITNESS, Bilbao (DEATHCORE)",
+          "location": "Bilborock"
+        },
+        {
+          "name": "Toni Metralla Y Los Antibalas + Grupo Sorpresa (Gratis)",
+          "location": "NAVE 9"
         }
       ],
       "20:30": [
@@ -2527,18 +2787,38 @@
         {
           "location": "Pa... Ya!",
           "name": "TXALAINAK"
+        },
+        {
+          "name": "Los Bribones Blues Band",
+          "location": "La Carbonería"
         }
       ],
       "21:00": [
         {
           "location": "Kulturgune",
           "name": "XUTIK Txaranga"
+        },
+        {
+          "name": "GUDAZALEAK, Bilbao (HARDCORE)",
+          "location": "Bilborock"
+        }
+      ],
+      "21:30": [
+        {
+          "name": "F.R.A.N.C.O. + The Owl Project / Malcolm + Satte (Soulero) + Adrián (DJs)",
+          "location": "SHAKE!"
         }
       ],
       "22:30": [
         {
           "location": "Etxebarria Parkea",
           "name": "Fuegos artificiales exhibición: ASTONDOA PIROTEKNIA. (BIZKAIA)"
+        }
+      ],
+      "23:00": [
+        {
+          "name": "Vhaldemar + Coffeinne (10 €)",
+          "location": "Kafe Antzokia"
         }
       ],
       "23:30": [
@@ -2549,12 +2829,27 @@
         {
           "location": "Irrintzi",
           "name": "DJ PAUL SWYLË"
+        },
+        {
+          "name": "David DeMaría",
+          "location": "Abandoibarra"
+        },
+        {
+          "name": "EUSKAL KANTARIEN JIRA-BIRA (Gontzal Mendibil, Gorka Knorr, Urko y TxominArtola)",
+          "location": "Plaza Nueva"
         }
       ],
       "23:45": [
         {
           "location": "Zaratas",
           "name": "DJ CISCAR"
+        }
+      ],
+      
+      "00:00": [
+        {
+          "name": "Sebastián Yatra",
+          "location": "Parque Europa"
         }
       ],
       "00:30": [
@@ -2624,6 +2919,10 @@
         {
           "location": "Uribarri",
           "name": "Talleres infantiles"
+        },
+        {
+          "name": "The Neatbeats + DJs (Gratis)",
+          "location": "NAVE 9"
         }
       ],
       "13:30": [
