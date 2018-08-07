@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Bilboko Konpartsak</title>
+        <title>Aste Nagusi</title>
         <meta charset="utf8">
         <meta name="viewport" content="width=device-width, user-scalable=no">
         <link rel="stylesheet" href="bulma.min.css">
@@ -16,7 +16,7 @@
     </head>
     <body>
         <div class="container">
-            <h1 class="title">Bilboko Konpartsak</h1>
+            <h1 class="title">Aste Nagusi</h1>
 
             <div class="days">
                 <% Object.keys(data.events).forEach((day) => { var dayNumber = data.events[day].day; %>
@@ -55,7 +55,10 @@
             <% }) %>
 
             <footer class="footer">
-                <a class="footer-link" href="https://twitter.com/Sirikon">@Sirikon</a> - 2018
+                <div>Orígenes de datos: <a target="_blank" href="http://www.bifmradio.com/musica/aste-nagusia-conciertos-2018/">BI FM</a>, <a target="_blank" href="https://www.eitb.eus/es/pueblos-ciudades/detalle/5768155/programa-bilboko-konpartsak-aste-nagusia-2018-programacion-comparsas/">EiTB</a>.</div>
+                <div>
+                    <a href="https://twitter.com/Sirikon">@Sirikon</a> - 2018
+                </div>
             </footer>
         </div>
     </body>
