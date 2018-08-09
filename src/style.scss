@@ -172,6 +172,7 @@ button {
     z-index: 1000;
     background-color: white;
     overflow-y: auto;
+    padding: 0 10px;
 
     &--visible {
         display: block;
