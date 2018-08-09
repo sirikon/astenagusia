@@ -1,8 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DAY_START_HOUR = 5;
-const HOUR_SORT_VALUE_ADJUST = -(DAY_START_HOUR * 60);
+const WEEKDAYS = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
 
 class Event {
     constructor(day, hour, location, name) {
@@ -35,10 +34,12 @@ function getHourInfo(hourText) {
     var hours = parseInt(chunks[0]);
     var minutes = parseInt(chunks[1]);
 
+    var hoursForSortValue = (hours - 6 + 24) % 24;
+
     return {
         hours,
         minutes,
-        sortValue: ((hours * 60) + minutes)
+        sortValue: ((hoursForSortValue * 60) + minutes)
     }
 }
 
@@ -67,6 +68,11 @@ function getEvents() {
 
 const events = getEvents();
 
+function getDayText(dayNumber) {
+    var weekDay = (new Date(2018, 7, dayNumber, 12, 0, 0, 0)).getDay();
+    return `${WEEKDAYS[weekDay]} ${dayNumber}`;
+}
+
 module.exports = {
     get data() {
         return {
@@ -81,6 +87,7 @@ module.exports = {
                     if (!dayIndex[event.day]) {
                         dayIndex[event.day] = {
                             number: event.day,
+                            text: getDayText(event.day),
                             hours: []
                         };
                         result.days.push(dayIndex[event.day]);
