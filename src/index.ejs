@@ -19,28 +19,28 @@
             <h1 class="title">Aste Nagusi</h1>
 
             <div class="days">
-                <% Object.keys(data.events).forEach((day) => { var dayNumber = data.events[day].day; %>
-                    <a class="day" href="#day_<%= dayNumber %>"><%= dayNumber %></a>
+                <% data.index.home.days.forEach((day) => { %>
+                    <a class="day" href="#day_<%= day.number %>"><%= day.number %></a>
                 <% }) %>
             </div>
 
-            <% Object.keys(data.events).forEach((day) => { var events = data.events[day].events; var dayNumber = data.events[day].day; %>
+            <% data.index.home.days.forEach((day) => { %>
                 <dl>
-                    <dt id="day_<%= dayNumber %>" class="day-title">
-                        <%= day %>
+                    <dt id="day_<%= day.number %>" class="day-title">
+                        <%= day.number %>
                     </dt>
 
                     <div class="hours">
-                        <% Object.keys(events).forEach((hour) => { %>
-                            <a class="hour-button" href="#day_<%= dayNumber %>_hour_<%= hour.replace(':', '_') %>"><%= hour %></a>
+                        <% day.hours.forEach((hour) => { %>
+                            <a class="hour-button" href="#day_<%= day.number %>_hour_<%= hour.text.replace(':', '_') %>"><%= hour.text %></a>
                         <% }) %>
                     </div>
 
-                    <% Object.keys(events).forEach((hour) => { var hourEvents = events[hour]; %>
+                    <% day.hours.forEach((hour) => { %>
 
                         <dl style="margin: 0;">
-                            <dt id="day_<%= dayNumber %>_hour_<%= hour.replace(':', '_') %>" class="hour"><%= hour %></dt>
-                            <% hourEvents.forEach((event) => { %>
+                            <dt id="day_<%= day.number %>_hour_<%= hour.text.replace(':', '_') %>" class="hour"><%= hour.text %></dt>
+                            <% hour.events.forEach((event) => { %>
                                 <dd class="event">
                                     <span class="event-location"><%= event.location %></span>
                                     <span class="event-name"><%= event.name %></span>
