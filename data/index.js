@@ -62,6 +62,20 @@ function getEvents() {
             return 1;
         }
 
+        if (a.location < b.location) {
+            return -1;
+        }
+        if (a.location > b.location) {
+            return 1;
+        }
+
+        if (a.name < b.name) {
+            return -1;
+        }
+        if (a.name > b.name) {
+            return 1;
+        }
+
         return 0;
     })
 }
@@ -80,6 +94,7 @@ module.exports = {
                 var dayIndex = {};
                 var dayHourIndex = {};
                 var result = {
+                    locations: [],
                     days: []
                 };
 
@@ -88,6 +103,7 @@ module.exports = {
                         dayIndex[event.day] = {
                             number: event.day,
                             text: getDayText(event.day),
+                            locations: [],
                             hours: []
                         };
                         result.days.push(dayIndex[event.day]);
@@ -97,16 +113,36 @@ module.exports = {
                     if (!dayHourIndex[dayHourKey]) {
                         dayHourIndex[dayHourKey] = {
                             text: event.hour,
+                            locations: [],
                             events: []
                         }
                         day.hours.push(dayHourIndex[dayHourKey]);
                     }
                     var hour = dayHourIndex[dayHourKey];
+                    if (hour.locations.indexOf(event.location) === -1) {
+                        hour.locations.push(event.location);
+                    }
+                    if (day.locations.indexOf(event.location) === -1) {
+                        day.locations.push(event.location);
+                    }
+                    if (result.locations.indexOf(event.location) === -1) {
+                        result.locations.push(event.location);
+                    }
                     hour.events.push({
                         location: event.location,
                         name: event.name
                     });
                 });
+
+                result.locations = result.locations.sort((a, b) => {
+                    if (a < b) {
+                        return -1;
+                    }
+                    if (a > b) {
+                        return 1;
+                    }
+                    return 0;
+                })
                 
                 return result;
             }

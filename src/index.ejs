@@ -5,7 +5,6 @@
         <meta name="viewport" content="width=device-width, user-scalable=no">
         <link rel="stylesheet" href="bulma.min.css">
         <link rel="stylesheet" href="style.css">
-        <script type="text/javascript" src="main.js"></script>
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -13,35 +12,48 @@
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#b33939">
         <meta name="msapplication-TileColor" content="#b33939">
         <meta name="theme-color" content="#b33939">
+        <style id="dynamic-style"></style>
     </head>
     <body>
         <div class="container">
-            <h1 class="title">Aste Nagusi</h1>
+            <div class="title-wrapper">
+                <div class="title">
+                    <h1>Aste Nagusi</h1>
+                    <button class="title-filter" type="button">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 402.577 402.577" style="enable-background:new 0 0 402.577 402.577;" xml:space="preserve">
+                            <g>
+                                <path d="M400.858,11.427c-3.241-7.421-8.85-11.132-16.854-11.136H18.564c-7.993,0-13.61,3.715-16.846,11.136   c-3.234,7.801-1.903,14.467,3.999,19.985l140.757,140.753v138.755c0,4.955,1.809,9.232,5.424,12.854l73.085,73.083   c3.429,3.614,7.71,5.428,12.851,5.428c2.282,0,4.66-0.479,7.135-1.43c7.426-3.238,11.14-8.851,11.14-16.845V172.166L396.861,31.413   C402.765,25.895,404.093,19.231,400.858,11.427z" fill="#FFFFFF"/>
+                            </g>
+                        </svg>     
+                        <span>Filtrar por lugar</span>
+                    </button>
+                </div>
+            </div>            
 
             <div class="days">
                 <% data.index.home.days.forEach((day) => { %>
-                    <a class="day" href="#day_<%= day.number %>"><%= day.number %></a>
+                    <a data-locations="__<%= day.locations.join('__') %>__" class="day" href="#day_<%= day.number %>"><%= day.number %></a>
                 <% }) %>
             </div>
 
             <% data.index.home.days.forEach((day) => { %>
-                <dl>
+                <dl data-locations="__<%= day.locations.join('__') %>__">
                     <dt id="day_<%= day.number %>" class="day-title">
                         <%= day.text %>
                     </dt>
 
                     <div class="hours">
                         <% day.hours.forEach((hour) => { %>
-                            <a class="hour-button" href="#day_<%= day.number %>_hour_<%= hour.text.replace(':', '_') %>"><%= hour.text %></a>
+                            <a data-locations="__<%= hour.locations.join('__') %>__" class="hour-button" href="#day_<%= day.number %>_hour_<%= hour.text.replace(':', '_') %>"><%= hour.text %></a>
                         <% }) %>
                     </div>
 
                     <% day.hours.forEach((hour) => { %>
 
-                        <dl style="margin: 0;">
+                        <dl data-locations="__<%= hour.locations.join('__') %>__" style="margin: 0;">
                             <dt id="day_<%= day.number %>_hour_<%= hour.text.replace(':', '_') %>" class="hour"><%= hour.text %></dt>
                             <% hour.events.forEach((event) => { %>
-                                <dd class="event">
+                                <dd class="event" data-location="<%= event.location %>">
                                     <span class="event-location"><%= event.location %></span>
                                     <span class="event-name"><%= event.name %></span>
                                 </dd>
@@ -61,5 +73,19 @@
                 </div>
             </footer>
         </div>
+
+        <div class="location-popup">
+            <div class="location-popup-header">
+                <span>Selecciona un lugar:</span>
+            </div>
+            <div class="location-popup-list">
+                <button onclick="onFilterOptionClick(null)" class="location-popup-button" type="button">(Sin filtro)</button>
+                <% data.index.home.locations.forEach((location) => { %>
+                    <button onclick="onFilterOptionClick('<%= location %>')" class="location-popup-button" type="button"><%= location %></button>
+                <% }) %>
+            </div>
+        </div>
+
+        <script type="text/javascript" src="main.js"></script>
     </body>
 </html>
