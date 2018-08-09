@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const slugify = require('slugify');
 
 const WEEKDAYS = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
 
@@ -87,11 +88,20 @@ function getDayText(dayNumber) {
     return `${WEEKDAYS[weekDay]} ${dayNumber}`;
 }
 
+function slugifyLocation(locationName) {
+    return slugify(locationName)
+        .replace(/\.\.\./g, '-')
+        .replace(/\./g, '')
+        .replace(/\!/g, '')
+        .toLowerCase();
+}
+
 module.exports = {
     get data() {
         return {
             get home() {
                 var dayIndex = {};
+                var locationIndex = {};
                 var dayHourIndex = {};
                 var result = {
                     locations: [],
@@ -119,26 +129,34 @@ module.exports = {
                         day.hours.push(dayHourIndex[dayHourKey]);
                     }
                     var hour = dayHourIndex[dayHourKey];
-                    if (hour.locations.indexOf(event.location) === -1) {
-                        hour.locations.push(event.location);
+                    var locationSlug = slugifyLocation(event.location);
+                    if (hour.locations.indexOf(locationSlug) === -1) {
+                        hour.locations.push(locationSlug);
                     }
-                    if (day.locations.indexOf(event.location) === -1) {
-                        day.locations.push(event.location);
+                    if (day.locations.indexOf(locationSlug) === -1) {
+                        day.locations.push(locationSlug);
                     }
-                    if (result.locations.indexOf(event.location) === -1) {
-                        result.locations.push(event.location);
+                    if (!locationIndex[locationSlug]) {
+                        locationIndex[locationSlug] = {
+                            name: event.location,
+                            slug: locationSlug
+                        }
+                        result.locations.push(locationIndex[locationSlug]);
                     }
                     hour.events.push({
-                        location: event.location,
+                        location: {
+                            name: event.location,
+                            slug: locationSlug
+                        },
                         name: event.name
                     });
                 });
 
                 result.locations = result.locations.sort((a, b) => {
-                    if (a < b) {
+                    if (a.name < b.name) {
                         return -1;
                     }
-                    if (a > b) {
+                    if (a.name > b.name) {
                         return 1;
                     }
                     return 0;

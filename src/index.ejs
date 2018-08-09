@@ -54,8 +54,8 @@
                         <dl data-locations="__<%= hour.locations.join('__') %>__" style="margin: 0;">
                             <dt id="day_<%= day.number %>_hour_<%= hour.text.replace(':', '_') %>" class="hour"><%= hour.text %></dt>
                             <% hour.events.forEach((event) => { %>
-                                <dd class="event" data-location="<%= event.location %>">
-                                    <span class="event-location"><%= event.location %></span>
+                                <dd class="event" data-location="<%= event.location.slug %>">
+                                    <span class="event-location"><%= event.location.name %></span>
                                     <span class="event-name"><%= event.name %></span>
                                 </dd>
                             <% }) %>
@@ -82,7 +82,7 @@
             <div class="location-popup-list">
                 <button onclick="onFilterOptionClick(null)" class="location-popup-button" type="button">(Sin filtro)</button>
                 <% data.index.home.locations.forEach((location) => { %>
-                    <button onclick="onFilterOptionClick('<%= location %>')" class="location-popup-button" type="button"><%= location %></button>
+                    <button onclick="onFilterOptionClick('<%= location.name %>', '<%= location.slug %>')" class="location-popup-button" type="button"><%= location.name %></button>
                 <% }) %>
             </div>
         </div>

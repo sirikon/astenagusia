@@ -24,9 +24,9 @@ function render() {
         dynamicStyleElement.textContent = '' +
             '[data-location] { display: none; } ' +
             '[data-locations] { display: none; } ' +
-            '[data-location="' + state.currentFilter + '"] { display: block; }' +
-            '[data-locations*="__' + state.currentFilter + '__"] { display: block; }';
-        filterButtonElement.querySelector('span').textContent = 'Borrar filtro (' + state.currentFilter + ')';
+            '[data-location="' + state.currentFilter.slug + '"] { display: block; }' +
+            '[data-locations*="__' + state.currentFilter.slug + '__"] { display: block; }';
+        filterButtonElement.querySelector('span').textContent = 'Borrar filtro (' + state.currentFilter.name + ')';
     } else {
         dynamicStyleElement.textContent = '';
         filterButtonElement.querySelector('span').textContent = 'Filtrar por lugar';
@@ -46,8 +46,16 @@ function onFilterButtonClick() {
     render();
 }
 
-function onFilterOptionClick(locationName) {
-    state.currentFilter = locationName;
+function onFilterOptionClick(locationName, locationSlug) {
+    if (!locationName) {
+        state.currentFilter = null;
+    } else {
+        state.currentFilter = {
+            name: locationName,
+            slug: locationSlug
+        };
+    }
+   
     state.filterMenuOpen = false;
 
     render();
