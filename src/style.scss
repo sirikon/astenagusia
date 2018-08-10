@@ -17,9 +17,12 @@ body {
     font-family: $font-family;
     margin: 0;
     padding: 0;
+    overflow-y: scroll;
+    overflow-x: hidden;
 
     &.scroll-blocked {
-        overflow: hidden;
+        overflow-y: hidden;
+        overflow-x: hidden;
     }
 }
 
