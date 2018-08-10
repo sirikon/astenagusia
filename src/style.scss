@@ -213,6 +213,34 @@ button {
     background-color: #b33939;
     color: white;
     padding: 10px;
+
+    &-goup {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        margin: 0;
+        appearance: none;
+        -webkit-appearance: none;
+        border: none;
+        padding: .5em .7em;
+        background-color: rgba(0,0,0,0.2);
+        color: white;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: normal;
+
+        svg {
+            $size: 16px;
+            width: $size;
+            height: $size;
+            margin-right: $size * .35;
+        }
+    }
 }
 
 .footer {
