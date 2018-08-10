@@ -17,7 +17,7 @@
 18|00:30|Pinpilinpauxa|PUTILATEX + LA PUNKA PAKA|🎵
 19|10:00|Arriaga Plaza|Diana de txistularis y txupín
 19|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
-19|10:00|Somera Kalea|VII Open Magic The Gathering. Inscripción
+19|10:00|Somera Kalea|VII Open Magic The Gathering. Inscripción|🏆
 19|10:00|Arenal|Mercado de productores del agro bizkaino: Gure lurreko merkatuak
 19|10:30|Triangune|Muestra de juego de mesa Blood Bowl
 19|11:00|Konsuletxearen Pl.|KONPARTSAKIDETU!: Taller de goitibeheras
@@ -26,7 +26,7 @@
 19|11:00|Arenal|Reparto de pintxos con las Peñas del Athletic: pollo, hamburguesas y parrillada de verdura
 19|11:00|Triangune|Taller de Txalaparta infantil + Mercado Txalaparta infantil
 19|11:30|Askapeña|Juegos infantiles
-19|11:30|Zaratas|III Concurso mundial de Selfies de Aste Nagusia
+19|11:30|Zaratas|III Concurso mundial de Selfies de Aste Nagusia|🏆
 19|12:00|AixeBerri|Turno solidario
 19|12:00|Euskalgune|Igerilekua
 19|12:00|Euskalgune|Euskal txikigune
@@ -59,7 +59,7 @@
 19|19:30|Hontzak|CADIPSONIANS|🎵
 19|20:00|AixeBerri|LOS COJONES|🎵
 19|20:00|Askapeña|GATOM|🎵
-19|20:00|Kaialde|Concurso Come-Flanes
+19|20:00|Kaialde|Concurso Come-Flanes|🏆
 19|20:00|Txinbotarrak|FABE DE FUKA (elektrotxaranga)|🎵
 19|20:00|Bilborock|MOIKAVE, Bilbao (BLUES ROCK)|🎵
 19|20:30|Arriaga Plaza|Toro de fuego
@@ -86,15 +86,15 @@
 19|00:30|Kulturgune|RAGE TO ANTONIO MACHINE (Rage Against the Machine Tributoa)|🎵
 19|00:30|Pinpilinpauxa|KIKA LORACE & ALLEN KING|🎵
 19|02:00|Algara|IGU ALLNIGHTER & TXEFO K-BILLY|🎵
-20|09:00|Arenal|Certamen gastronómico: Patatas en salsa verde. Inscripción
+20|09:00|Arenal|Certamen gastronómico: Patatas en salsa verde. Inscripción|🏆
 20|10:00|Arriaga Plaza|Diana de txistularis y txupín
 20|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
-20|10:00|Tintigorri|Campeonato de Ajedrez. Simultaneas
+20|10:00|Tintigorri|Campeonato de Ajedrez. Simultaneas|🏆
 20|10:30|Triangune|Sesión de zumba para resacos@s
 20|11:00|Altxaporrue|Euskal ekoizleen azoka ekologikoa
 20|11:00|Arenal|Certamen gastronómico: Patatas en salsa verde
 20|11:00|Arenal|KONPARTSAKIDETU!: Aprendiendo a cocinar (Euskal Txiki Master): Ensaladas (bonito, verduras, queso idiazabal, vinagretas...)
-20|11:00|Askapeña|Competición rana
+20|11:00|Askapeña|Competición Rana|🏆
 20|11:00|Ripa|Hinchables y actividades de agua
 20|11:30|Askapeña|Juegos infantiles
 20|11:30|Kaskagorri|SORGINA TXIRULINA
@@ -174,12 +174,12 @@
 20|01:30|Komantxe|TR MISTERY & KASPER|🎵
 20|02:00|Algara|WLDC DJ Sesioa|🎵
 20|02:30|Komantxe|PEON KURTZ|🎵
-21|09:00|Arenal|Certamen Gastronómico: Tortilla de patata. Inscripción
+21|09:00|Arenal|Certamen Gastronómico: Tortilla de patata. Inscripción|🏆
 21|10:00|Arriaga Plaza|Diana de txistularis y txupín
-21|10:00|Tintigorri|Campeonato de Ajedrez a ciegas y antiajedrez
+21|10:00|Tintigorri|Campeonato de Ajedrez a ciegas y antiajedrez|🏆
 21|11:00|Arenal|Certamen gastronómico: Tortilla de patatas
 21|11:00|Arenal|Taller de Sal (Salinas de Leniz)
-21|11:00|Askapeña|Competición Rana (Parejas)
+21|11:00|Askapeña|Competición Rana (Parejas)|🏆
 21|11:00|Ripa|Hinchables y actividades de agua
 21|11:30|Askapeña|Juegos infantiles
 21|11:30|Moskotarrak|Visita Residencia Conde de Aresti Zabala
@@ -206,8 +206,8 @@
 21|13:00|Uribarri|Taller de danzas (Salsa y bachata)
 21|13:30|Euskalgune|KORROKOIEK Marianito musikatua
 21|13:30|Komantxe|Exhibición de Magia
-21|14:30|Arenal|Certamen gastronómico: Entrega de premios
-21|15:00|Abante!|Campeonato de Mus
+21|14:30|Arenal|Certamen gastronómico: Entrega de premios|🏆
+21|15:00|Abante!|Campeonato de Mus|🏆
 21|16:30|Euskalgune|Aurpegi margoketa
 21|17:00|Komantxe|Feria de artesanía
 21|17:00|Komantxe|Taller de serigrafía
@@ -265,16 +265,16 @@
 21|01:00|Mamiki|DJ-MAPATXE|🎵
 21|02:00|Algara|EASYER|🎵
 21|02:30|Komantxe|JOSEBA B. LENOIR|🎵
-22|09:00|Arenal|BKAFF: Certamen gastronómico: Txipirones en su tinta. Inscripción
+22|09:00|Arenal|BKAFF: Certamen gastronómico: Txipirones en su tinta. Inscripción|🏆
 22|10:00|AixeBerri|Basket 3x3
 22|10:00|Arriaga Plaza|Diana de txistularis y txupín
 22|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
-22|10:00|Tintigorri|Campeonato de Ajedrez. Campeonato de partidas rápidas
+22|10:00|Tintigorri|Campeonato de Ajedrez. Campeonato de partidas rápidas|🏆
 22|10:30|Irrintzi|Subida al hospital Basurto acompañando al circo
 22|11:00|Arenal|BKAFF: Certamen gastronómico: Txipirones en su tinta
 22|11:00|Arriagako Atz.|Hinchables
 22|11:00|Arenal|Aprendiendo a cocinar (Euskal Txiki Master): Ensaladas de fruta (sandia, melón, aguacate…)
-22|11:00|Askapeña|Competición Tiragoma
+22|11:00|Askapeña|Competición Tiragoma|🏆
 22|11:00|Basurto|Visita a los niños y las niñas del hospital de Basurto con Marijaia y el circo
 22|11:00|Ripa|Hinchables y actividades de agua
 22|11:30|Askapeña|Juegos infantiles
@@ -367,10 +367,10 @@
 22|04:00|Komantxe|PARCHE CUMBIANTXE DJ kontzertuak /conciertos|🎵
 23|10:00|Arriaga Plaza|Diana de txistularis y txupín
 23|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
-23|10:00|Moskotarrak|Campeonato de Ajedrez: Campeonato de la Amistad (por equipos)
-23|10:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina. Inscripción
+23|10:00|Moskotarrak|Campeonato de Ajedrez: Campeonato de la Amistad (por equipos)|🏆
+23|10:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina. Inscripción|🏆
 23|10:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)
-23|11:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina
+23|11:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina|🏆
 23|11:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)
 23|11:00|Arenal|Degustación de bakalao para celebrar el 40 Aniversario de Aste Nagusia
 23|11:00|Ripa|Actividades de agua
@@ -405,7 +405,7 @@
 23|14:00|Uribitarte|IX Subida Popular de Piraguas por el Ibaizabal (llegada)
 23|14:00|Mamiki|Comida de comparseras
 23|14:30|Kaskagorri|Senideekin bazkaria
-23|14:30|Arenal|BKAFF: Certamen gastronomico: Entrega de premios
+23|14:30|Arenal|BKAFF: Certamen gastronomico: Entrega de premios|🏆
 23|15:00|Euskalgune|Biziprest eguneko herri-bazkaria bazkaria
 23|16:00|Altxaporrue|Kukaña
 23|16:00|Kaskagorri|Ekitaldia
@@ -421,7 +421,7 @@
 23|18:00|Piztiak|Lindy Hour|🎵
 23|18:30|Arriaga Plaza|Homenaje a la Ikurriña
 23|19:00|Kulturgune|Swing ikastaroa eta dantzaldia TWIN ROOM taldearekin|🎵
-23|19:00|Moskotarrak|Concurso Manda Huevos
+23|19:00|Moskotarrak|Concurso Manda Huevos|🏆
 23|19:00|Uribarri|Taller de talos
 23|19:00|Zaratas|ALDATS ELEKTROTXARANGA|🎵
 23|19:30|Arenal|KONPARTSAKIDETU!: Taller de pirotecnia con Lekittoko Deabruak
@@ -435,7 +435,7 @@
 23|20:30|Piztiak|ISILDU ZAITEZ|🎵
 23|20:30|La Carbonería|Urban|🎵
 23|21:00|Kaialde|ADARROTS|🎵
-23|21:00|Moskotarrak|22º Concurso de feos
+23|21:00|Moskotarrak|22º Concurso de feos|🏆
 23|21:00|Triangune|GUDA DANTZA|🎵
 23|21:00|Bilborock|AIZKORAK ZORROZTU & THE MIA WALLACE BAND, Bilbao (ROCK FUNKSION)|🎵
 23|21:30|Kaskagorri|Poteo nostalgikoa
@@ -460,11 +460,11 @@
 23|00:30|Pinpilinpauxa|Olé Olé 2.0|🎵
 23|01:00|Mamiki|MAMIKI DJak|🎵
 23|02:00|Algara|EDDIE MAE + FRANCES BE + LES ALBORREGACH|🎵
-24|09:00|Arenal|BKAFF: Certamen gastronómico: Bakalao al pil pil. Inscripción
+24|09:00|Arenal|BKAFF: Certamen gastronómico: Bakalao al pil pil. Inscripción|🏆
 24|09:00|Arenal|Menú Konpartseril! Inscripción
 24|10:00|Arriaga Plaza|Diana de txistularis y txupín
 24|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
-24|11:00|Arenal|BKAFF: Certamen gastronómico: Bakalao Al pil pil
+24|11:00|Arenal|BKAFF: Certamen gastronómico: Bakalao Al pil pil|🏆
 24|11:00|Arenal|Aprendiendo a cocinar: Kokotxas al pil-pil
 24|11:00|Arriagako Atz.|Hinchables
 24|11:00|Askapeña|Atún asado
@@ -489,7 +489,7 @@
 24|13:00|Uribarri|Talleres infantiles
 24|13:30|Askapeña|Ongi etorri errefuxiatuak exposición
 24|13:30|Komantxe|AIAMA|🎵
-24|14:30|Arenal|BKAFF: Certamen gastronómico: Entrega de premios
+24|14:30|Arenal|BKAFF: Certamen gastronómico: Entrega de premios|🏆
 24|14:30|Arenal|Menú Konpartseril! Comi
 24|15:00|Txori Barrote|Elkartasun bazkaria
 24|16:30|Triangune|Subida del Nervión en barco
@@ -541,11 +541,11 @@
 24|00:30|Pinpilinpauxa|LAS FELLINI|🎵
 24|01:00|Komantxe|MENEO|🎵
 24|02:30|Komantxe|REIMY|🎵
-25|09:00|Arenal|BKAFF: Certamen gastronómico: Marmitako. (Inscripción)
+25|09:00|Arenal|BKAFF: Certamen gastronómico: Marmitako. (Inscripción)|🏆
 25|10:00|Arriaga Plaza|Diana de txistularis y txupín
 25|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
-25|10:00|Zabalguneko Merk.|XIX Campeonato internacional de Ajedrez
-25|11:00|Arenal|BKAFF: Certamen gastronómico: Marmitako
+25|10:00|Zabalguneko Merk.|XIX Campeonato internacional de Ajedrez|🏆
+25|11:00|Arenal|BKAFF: Certamen gastronómico: Marmitako|🏆
 25|11:00|Arriagako Atz.|Hinchables
 25|12:00|Arenal|BKAFF: Reparto de Bonito
 25|12:00|Arenal|KONPARTSAKIDETU!: Taller de kalejira
@@ -562,7 +562,7 @@
 25|13:15|Hontzak|Marianito-Rock con banda en directo
 25|13:30|Askapeña|Euskadi-Kuba exposición
 25|13:30|Euskalgune|DJ DRONKI Marianito musikatua|🎵
-25|14:30|Arenal|BKAFF: Certamen gastronómico: Entrega de premios
+25|14:30|Arenal|BKAFF: Certamen gastronómico: Entrega de premios|🏆
 25|15:00|Arenal|Comida interkonparsas
 25|17:00|Komantxe|Kolektiboen herri denda
 25|17:30|Arriaga Plaza|Herri Kirolak entre Konparsas
@@ -589,11 +589,11 @@
 25|00:00|Parque Europa|Sebastián Yatra|🎵
 25|00:30|Komantxe|DR. BRAVO & THE FUNKYCONSOLE|🎵
 25|00:30|Pinpilinpauxa|Locomía|🎵
-26|09:00|Arenal|Concurso gastronómico de rabo guisado. Inscripción
+26|09:00|Arenal|Concurso gastronómico de rabo guisado. Inscripción|🏆
 26|10:00|Arriaga Plaza|Diana de txistularis y txupín
 26|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
 26|10:00|Pinpilinpauxa|Torneo de juegos de mesa
-26|11:00|Arenal|Concurso gastronómico: Guiso de rabo
+26|11:00|Arenal|Concurso gastronómico: Guiso de rabo|🏆
 26|12:00|Irrintzi|Txistularis - Pasacalles libre
 26|12:00|Kaialde|Taller de chapas
 26|12:00|Kaskagorri|Igerilekua
@@ -603,7 +603,7 @@
 26|13:00|NAVE 9|The Neatbeats + DJs (Gratis)|🎵
 26|13:30|Askapeña|AHAZTUAK
 26|14:00|Irrintzi|Txistularis y grupo de Danzas. Brindis final
-26|14:30|Arenal|Certamen gastronómico: Entrega de premios
+26|14:30|Arenal|Certamen gastronómico: Entrega de premios|🏆
 26|14:30|Askapeña|AHAZTUAK comida
 26|17:00|Komantxe|Kolektiboen herri denda
 26|17:00|Kulturgune|1 2 3... Festa!
