@@ -33,12 +33,14 @@
 
             <div class="days">
                 <% data.index.home.days.forEach((day) => { %>
-                    <a data-locations="__<%= day.locations.join('__') %>__" class="day" href="#day_<%= day.number %>"><%= day.number %></a>
+                    <a data-locations="__<%= day.locations.join('__') %>__" class="day" href="#day_<%= day.number %>">
+                        <span><%= day.number %></span>
+                    </a>
                 <% }) %>
             </div>
 
             <% data.index.home.days.forEach((day) => { %>
-                <dl data-locations="__<%= day.locations.join('__') %>__">
+                <dl style="margin-top: 15px;" data-locations="__<%= day.locations.join('__') %>__">
                     <dt id="day_<%= day.number %>" class="day-title">
                         <%= day.text %>
                     </dt>
@@ -52,11 +54,24 @@
                     <% day.hours.forEach((hour) => { %>
 
                         <dl data-locations="__<%= hour.locations.join('__') %>__" style="margin: 0;">
-                            <dt id="day_<%= day.number %>_hour_<%= hour.text.replace(':', '_') %>" class="hour"><%= hour.text %></dt>
+                            <dt id="day_<%= day.number %>_hour_<%= hour.text.replace(':', '_') %>" class="hour">
+                                <div class="hour-line"></div>
+                                <span><%= hour.text %></span>
+                                <div class="hour-line"></div>
+                            </dt>
                             <% hour.events.forEach((event) => { %>
                                 <dd class="event" data-location="<%= event.location.slug %>">
-                                    <span class="event-location"><%= event.location.name %></span>
-                                    <span class="event-name"><%= event.name %></span>
+                                    <% if (event.badges) { %>
+                                        <div class="event-badges">
+                                            <% event.badges.forEach((badge) => { %>
+                                                <span><%= badge %></span>
+                                            <% }) %>
+                                        </div>
+                                    <% } %>
+                                    <div class="event-info">
+                                        <span class="event-name"><%= event.name %></span>
+                                        <span class="event-location"><%= event.location.name %></span>
+                                    </div>
                                 </dd>
                             <% }) %>
                         </dl>

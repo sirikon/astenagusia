@@ -5,11 +5,12 @@ const slugify = require('slugify');
 const WEEKDAYS = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
 
 class Event {
-    constructor(day, hour, location, name) {
+    constructor(day, hour, location, name, badges) {
         this.day = day;
         this.hour = hour;
         this.location = location;
         this.name = name;
+        this.badges = badges;
     }
 }
 
@@ -25,7 +26,7 @@ function parseEvents(text) {
         line = line.trim();
         if (line === '') return;
         var cells = line.split('|');
-        result.push(new Event(cells[0], cells[1], cells[2], cells[3]));
+        result.push(new Event(cells[0], cells[1], cells[2], cells[3], (cells.length >= 5 ? cells[4].split('-') : null)));
     });
     return result;
 }
@@ -148,7 +149,8 @@ module.exports = {
                             name: event.location,
                             slug: locationSlug
                         },
-                        name: event.name
+                        name: event.name,
+                        badges: event.badges
                     });
                 });
 

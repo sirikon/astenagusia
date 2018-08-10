@@ -86,43 +86,90 @@ button {
 }
 
 .hour {
-    background-color: #eaeaea;
-    padding: .3em .5em;
+    padding: .3em 0;
     margin-top: 1em;
     position: sticky;
     top: 101px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+
+    span {
+        padding: 0 .5em;
+        color: black;
+        flex-shrink: 0;
+    }
+    
+    &-line {
+        flex-grow: 1;
+        flex-basis: 1px;
+        height: 1px;
+        background-color: #efefef;
+    }
 }
 
 .event {
-    background-color: whitesmoke;
-    padding: .3em .5em;
+    background-color: #fbfbfb;
+    padding: .5em .7em;
+    border: 1px solid #efefef;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
     margin: 0;
+
+    @media (max-width: $page-max-width) {
+        margin: 0 10px 10px 10px;
+    }
+
+    &-info {
+        flex-grow: 1;
+    }
+
+    &-badges {
+        padding-right: .3em;
+    }
 
     &-location {
         font-weight: bold;
+        display: block;
+        color: grey;
     }
 
     &-name {
+        font-size: 1.2em;
+        font-weight: 400;
+        display: block;
     }
 }
 
 .days {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     padding: 70px 5px 0 0;
-    margin-bottom: -10px;
+    padding-bottom: 10px;
+    margin-bottom: -15px;
+    background-color: #8F1919;
 }
 
 .day {
+    $size: 44px;
+    width: $size;
+    height: $size;
     font-size: 1.4em;
+    line-height: 1em;
     text-decoration: none;
     background-color: whitesmoke;
-    color: grey;
-    padding: .3em .5em .4em .5em;
+    color: black;
     display: inline-block;
-    margin: 0 5px 5px 0;
+    margin: 0 10px 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-sizing: border-box;
 }
 
 .hours {
@@ -142,7 +189,7 @@ button {
 
 .day-title {
     position: sticky;
-    top: 60px;
+    top: 59px;
     font-size: 22px;
     line-height: 1em;
     font-weight: bold;
