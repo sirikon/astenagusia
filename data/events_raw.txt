@@ -113,7 +113,7 @@
 20|13:00|Algara|Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa
 20|13:00|Kaskagorri|Eguerdi girotua (Soinu Beltzak)|🎵
 20|13:00|Moskotarrak|Gigante de Aste Nagusia en la Plaza del Ensanche
-20|13:00|Ripa|Torneo Waterpolo semifinales y final (categoría masculina) con el Club Deportivo
+20|13:00|Ripa|Torneo Waterpolo semifinales y final (categoría masculina) con el Club Deportivo|🏆
 20|13:00|Uribarri|Talleres infantiles
 20|13:30|Askapeña|Mujeres Migradas
 20|13:30|Euskalgune|Marianito musikatua: ARRAKALA|🎵
@@ -202,7 +202,7 @@
 21|13:00|Algara|Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa
 21|13:00|Kulturgune|Espuma
 21|13:00|Pa...Ya!|Taller de bombas de baño
-21|13:00|Ripa|Torneo Waterpolo semifinales y final (categoría femenina) con el Club Deportivo
+21|13:00|Ripa|Torneo Waterpolo semifinales y final (categoría femenina) con el Club Deportivo|🏆
 21|13:00|Uribarri|Taller de danzas (Salsa y bachata)
 21|13:30|Euskalgune|KORROKOIEK Marianito musikatua
 21|13:30|Komantxe|Exhibición de Magia
@@ -297,7 +297,7 @@
 22|13:00|Algara|Iparralde Eguna: Ziburuko Kaskarotenea ikastolaren aldeko bazkaria + bazkalostea ANJE DUHALDErekin
 22|13:00|Algara|Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa
 22|13:00|Altxaporrue|Etxeandia eta Boga arteko garagardo desafioa
-22|13:00|Ripa|Torneo Waterpolo semifinales y final (categoría interkonparsas) con el Club Deportivo
+22|13:00|Ripa|Torneo Waterpolo semifinales y final (categoría interkonparsas) con el Club Deportivo|🏆
 22|13:00|Uribarri|Rana
 22|13:00|Triangune|Taller para niñ@s: Ongi etorri errefuxiatuak
 22|13:30|Euskalgune|THE SHERIFF BAND Marianito musikatua
@@ -312,7 +312,7 @@
 22|17:00|Ripa|Hinchables y actividades de agua
 22|17:30|Arenal|KONPARTSAKIDETU!: IRRIEN LAGUNAK: Ane Eta Piratekin Parrandan
 22|18:00|Askapeña|Escalada bilbaina (Palmada)
-22|18:00|Hontzak|Concierto de Clásica
+22|18:00|Hontzak|Concierto de Clásica|🎵
 22|18:00|Kaialde|GAZTE LEKU TXARANGA
 22|18:00|Pinpilinpauxa|Trans-poting: Travesti-poteo
 22|18:00|Piztiak|Rally-poteo
@@ -592,7 +592,7 @@
 26|09:00|Arenal|Concurso gastronómico de rabo guisado. Inscripción|🏆
 26|10:00|Arriaga Plaza|Diana de txistularis y txupín
 26|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
-26|10:00|Pinpilinpauxa|Torneo de juegos de mesa
+26|10:00|Pinpilinpauxa|Torneo de juegos de mesa|🏆
 26|11:00|Arenal|Concurso gastronómico: Guiso de rabo|🏆
 26|12:00|Irrintzi|Txistularis - Pasacalles libre
 26|12:00|Kaialde|Taller de chapas
