@@ -22,10 +22,8 @@ window.addEventListener("hashchange", function () {
 function render() {
     if (state.currentFilter !== null) {
         dynamicStyleElement.textContent = '' +
-            '[data-location] { display: none; } ' +
-            '[data-locations] { display: none; } ' +
-            '[data-location="' + state.currentFilter.slug + '"] { display: block; }' +
-            '[data-locations*="__' + state.currentFilter.slug + '__"] { display: block; }';
+            '[data-location]:not([data-location="' + state.currentFilter.slug + '"]) { display: none; } ' +
+            '[data-locations]:not([data-locations*="__' + state.currentFilter.slug + '__"]) { display: none; } ';
         filterButtonElement.querySelector('span').textContent = 'Borrar filtro (' + state.currentFilter.name + ')';
     } else {
         dynamicStyleElement.textContent = '';
