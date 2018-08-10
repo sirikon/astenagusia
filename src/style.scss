@@ -1,5 +1,6 @@
 $page-max-width: 1000px;
 $mobile-breakpoint: 600px;
+$font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
 
 @font-face {
     font-family: 'Open Sans';
@@ -13,7 +14,7 @@ $mobile-breakpoint: 600px;
 }
 
 body {
-    font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: $font-family;
     margin: 0;
     padding: 0;
 
@@ -23,7 +24,7 @@ body {
 }
 
 button {
-    font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: $font-family;
 }
 
 .container {
@@ -77,6 +78,11 @@ button {
         cursor: pointer;
         justify-content: center;
         align-items: center;
+
+        &.is-active {
+            background-color: #ff5252;
+            font-weight: bold;
+        }
 
         svg {
             $size: 16px;
