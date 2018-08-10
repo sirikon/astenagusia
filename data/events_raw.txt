@@ -1,7 +1,7 @@
 18|17:00|Zazpi Kaleak|Kalejira Del Txupín
-18|19:00|Arriaga Plaza|Recepción A MARIJAIA, PREGÓN Y TXUPÍN DE COMIENZO DE FIESTAS
-18|19:50|Arriaga Plaza|Agurra a Marijaia
-18|20:00|Arriagako Atz.|Apertura de txosnas con Marijaia
+18|19:00|Arriaga Plaza|Recepción A MARIJAIA, PREGÓN Y TXUPÍN DE COMIENZO DE FIESTAS|🙆
+18|19:50|Arriaga Plaza|Agurra a Marijaia|🙆
+18|20:00|Arriagako Atz.|Apertura de txosnas con Marijaia|🙆
 18|20:00|Bilborock|NEGRACALAVERA, Bilbao (ROCK&ROLL)|🎵
 18|20:30|Arriaga Plaza|Toro de fuego
 18|20:30|La Carbonería|Jonathan Merino|🎵
@@ -20,11 +20,11 @@
 19|10:00|Somera Kalea|VII Open Magic The Gathering. Inscripción|🏆
 19|10:00|Arenal|Mercado de productores del agro bizkaino: Gure lurreko merkatuak
 19|10:30|Triangune|Muestra de juego de mesa Blood Bowl
-19|11:00|Konsuletxearen Pl.|KONPARTSAKIDETU!: Taller de goitibeheras
+19|11:00|Konsuletxearen Pl.|KONPARTSAKIDETU!: Taller de goitibeheras|🛠️
 19|11:00|Zabalbide Kalea|Bajada de Goitiberas V. Open Aste Nagusia
 19|11:00|Arriagako Atz.|Hinchables.
 19|11:00|Arenal|Reparto de pintxos con las Peñas del Athletic: pollo, hamburguesas y parrillada de verdura
-19|11:00|Triangune|Taller de Txalaparta infantil + Mercado Txalaparta infantil
+19|11:00|Triangune|Taller de Txalaparta infantil + Mercado Txalaparta infantil|🛠️
 19|11:30|Askapeña|Juegos infantiles
 19|11:30|Zaratas|III Concurso mundial de Selfies de Aste Nagusia|🏆
 19|12:00|AixeBerri|Turno solidario
@@ -36,10 +36,10 @@
 19|12:00|Zaratas|Terraza
 19|12:00|Zaratas|Photocall
 19|12:30|Pa...Ya!|Juegos infantiles
-19|12:30|Zaratas|Talleres Infantiles
+19|12:30|Zaratas|Talleres Infantiles|🛠️
 19|13:00|Mamiki|EMPERDEDORAS: LAS DESMEDIDAS
 19|13:00|Txinbotarrak|Talo, chapa y potato
-19|13:00|Uribarri|Talleres infantiles
+19|13:00|Uribarri|Talleres infantiles|🛠️
 19|13:00|NAVE 9|La Frontera (19€)|🎵
 19|13:30|Zabalbide Kalea|KONPARTSAKIDETU!: Bajada txiki de Goitibeheras
 19|15:00|Txori Barrote|Txori-Kaska bazkaria
@@ -49,9 +49,9 @@
 19|17:30|Mamiki|Café poeta
 19|17:30|Txinbotarrak|LA TOKOKERA|🎵
 19|17:30|Zaratas|TENDERETE Marionetas
-19|18:00|Kaialde|Taller de chapas
-19|18:30|Komantxe|Taller y baile social de LINDY HOP (swing) con LITTLE HARLEM (Komantxe + Piztiak)
-19|18:30|Piztiak|Taller y baile social de LINDY HOP (swing) con LITTLE HARLEM (Komantxe + Piztiak)
+19|18:00|Kaialde|Taller de chapas|🛠️
+19|18:30|Komantxe|Taller y baile social de LINDY HOP (swing) con LITTLE HARLEM (Komantxe + Piztiak)|🛠️-💃
+19|18:30|Piztiak|Taller y baile social de LINDY HOP (swing) con LITTLE HARLEM (Komantxe + Piztiak)|🛠️-💃
 19|18:30|Zaratas|Verbena infantil|🎵
 19|19:00|AixeBerri|Cata de cervezas
 19|19:00|Triangune|Dantza plaza
@@ -86,39 +86,39 @@
 19|00:30|Kulturgune|RAGE TO ANTONIO MACHINE (Rage Against the Machine Tributoa)|🎵
 19|00:30|Pinpilinpauxa|KIKA LORACE & ALLEN KING|🎵
 19|02:00|Algara|IGU ALLNIGHTER & TXEFO K-BILLY|🎵
-20|09:00|Arenal|Certamen gastronómico: Patatas en salsa verde. Inscripción|🏆
+20|09:00|Arenal|Certamen gastronómico: Patatas en salsa verde. Inscripción|🏆-🍲
 20|10:00|Arriaga Plaza|Diana de txistularis y txupín
 20|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
 20|10:00|Tintigorri|Campeonato de Ajedrez. Simultaneas|🏆
 20|10:30|Triangune|Sesión de zumba para resacos@s
 20|11:00|Altxaporrue|Euskal ekoizleen azoka ekologikoa
-20|11:00|Arenal|Certamen gastronómico: Patatas en salsa verde
+20|11:00|Arenal|Certamen gastronómico: Patatas en salsa verde|🏆-🍲
 20|11:00|Arenal|KONPARTSAKIDETU!: Aprendiendo a cocinar (Euskal Txiki Master): Ensaladas (bonito, verduras, queso idiazabal, vinagretas...)
 20|11:00|Askapeña|Competición Rana|🏆
 20|11:00|Ripa|Hinchables y actividades de agua
 20|11:30|Askapeña|Juegos infantiles
 20|11:30|Kaskagorri|SORGINA TXIRULINA
 20|12:00|Euskalgune|Euskal Txikigune
-20|12:00|Hontzak|Taller de Reciclaje
+20|12:00|Hontzak|Taller de Reciclaje|🛠️
 20|12:00|Irrintzi|Txistularis - Pasacalles Bilbao la Vieja
 20|12:00|Kaialde|MERAKI MAGO
 20|12:00|Komantxe|Rocódromo
 20|12:00|Kulturgune|Igerilekua
 20|12:00|Zaratas|Terraza
 20|12:00|Zaratas|Photocal
-20|12:30|Pa...Ya!|Taller de Serigrafía
+20|12:30|Pa...Ya!|Taller de Serigrafía|🛠️
 20|12:30|Zaratas|LOS SERABALA: Malabares
-20|12:30|Zaratas|Talleres infantiles
+20|12:30|Zaratas|Talleres infantiles|🛠️
 20|13:00|Algara|Euskara ikasleon eguna (bazkaria)
 20|13:00|Algara|Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa
 20|13:00|Kaskagorri|Eguerdi girotua (Soinu Beltzak)|🎵
 20|13:00|Moskotarrak|Gigante de Aste Nagusia en la Plaza del Ensanche
 20|13:00|Ripa|Torneo Waterpolo semifinales y final (categoría masculina) con el Club Deportivo|🏆
-20|13:00|Uribarri|Talleres infantiles
+20|13:00|Uribarri|Talleres infantiles|🛠️
 20|13:30|Askapeña|Mujeres Migradas
 20|13:30|Euskalgune|Marianito musikatua: ARRAKALA|🎵
 20|13:30|Komantxe|JONI TXINTXES|🎵
-20|14:30|Arenal|Certamen gastronómico: Entrega de premios
+20|14:30|Arenal|Certamen gastronómico: Entrega de premios|🏆-🍲
 20|15:00|Altxaporrue|EH nekazarien bazkaria
 20|15:00|Euskalgune|Euskalguneko bazkaria bazkaria / comida
 20|16:00|AixeBerri|Aixetxiki: Tiovivo ecologico
@@ -133,12 +133,12 @@
 20|17:30|Algara|Zaparrada haur-konpartsa: Disko-dantza! MADDI ETA JOANArekin -Txokolatea + bizkotxoak|🎵
 20|17:30|Euskalgune|ZARATAK 18 elektrotxaranga|🎵
 20|17:30|Pa...Ya!|Elektrotxaranga|🎵
-20|18:00|AixeBerri|Aixetxiki: Talleres infantiles
+20|18:00|AixeBerri|Aixetxiki: Talleres infantiles|🛠️
 20|18:00|Askapeña|Zumba
 20|18:00|Kulturgune|2 NILOS|🎵
 20|18:00|Zaratas|LITTLE HARLEM. Bilboko Swing Eskola
 20|18:30|Kaskagorri|ZAPARRADA BATUKADA Poteo musikatua|🎵
-20|18:30|Triangune|Taller de Afro-danza
+20|18:30|Triangune|Taller de Afro-danza|🛠️-💃
 20|19:00|Askapeña|Danzas del mundo
 20|19:00|Uribarri|Rana
 20|19:30|Askapeña|Performance: Aceptación de la mujer en una cultura diferente
@@ -174,11 +174,11 @@
 20|01:30|Komantxe|TR MISTERY & KASPER|🎵
 20|02:00|Algara|WLDC DJ Sesioa|🎵
 20|02:30|Komantxe|PEON KURTZ|🎵
-21|09:00|Arenal|Certamen Gastronómico: Tortilla de patata. Inscripción|🏆
+21|09:00|Arenal|Certamen Gastronómico: Tortilla de patata. Inscripción|🏆-🍲
 21|10:00|Arriaga Plaza|Diana de txistularis y txupín
 21|10:00|Tintigorri|Campeonato de Ajedrez a ciegas y antiajedrez|🏆
-21|11:00|Arenal|Certamen gastronómico: Tortilla de patatas
-21|11:00|Arenal|Taller de Sal (Salinas de Leniz)
+21|11:00|Arenal|Certamen gastronómico: Tortilla de patatas|🏆-🍲
+21|11:00|Arenal|Taller de Sal (Salinas de Leniz)|🛠️
 21|11:00|Askapeña|Competición Rana (Parejas)|🏆
 21|11:00|Ripa|Hinchables y actividades de agua
 21|11:30|Askapeña|Juegos infantiles
@@ -191,26 +191,26 @@
 21|12:00|Komantxe|Rocódromo
 21|12:00|Mamiki|Cata de cerveza (Mamiki + Txomin Barullo)
 21|12:00|Txomin Barullo|Cata de cerveza (Mamiki + Txomin Barullo)
-21|12:00|Piztiak|Taller de chapas
+21|12:00|Piztiak|Taller de chapas|🛠️
 21|12:00|Zaratas|Terraza
 21|12:00|Zaratas|Photocall
 21|12:30|Kaixo|Pinta caras
 21|12:30|Pa...Ya!|Juegos infantiles
 21|12:30|Uribarri|Txitupoteo con Deustuko tanborinteluekin
-21|12:30|Zaratas|Talleres infantiles
+21|12:30|Zaratas|Talleres infantiles|🛠️
 21|13:00|Algara|Bertso eguna: Potojorran + bertso-eskolak kantuan
 21|13:00|Algara|Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa
 21|13:00|Kulturgune|Espuma
-21|13:00|Pa...Ya!|Taller de bombas de baño
+21|13:00|Pa...Ya!|Taller de bombas de baño|🛠️
 21|13:00|Ripa|Torneo Waterpolo semifinales y final (categoría femenina) con el Club Deportivo|🏆
-21|13:00|Uribarri|Taller de danzas (Salsa y bachata)
+21|13:00|Uribarri|Taller de danzas (Salsa y bachata)|🛠️-💃
 21|13:30|Euskalgune|KORROKOIEK Marianito musikatua
 21|13:30|Komantxe|Exhibición de Magia
-21|14:30|Arenal|Certamen gastronómico: Entrega de premios|🏆
+21|14:30|Arenal|Certamen gastronómico: Entrega de premios|🏆-🍲
 21|15:00|Abante!|Campeonato de Mus|🏆
 21|16:30|Euskalgune|Aurpegi margoketa
 21|17:00|Komantxe|Feria de artesanía
-21|17:00|Komantxe|Taller de serigrafía
+21|17:00|Komantxe|Taller de serigrafía|🛠️
 21|17:00|Ripa|Hinchables y actividades de agua jolasak / juegos
 21|17:00|Triangune|Txitxarrillo|🎵
 21|17:30|Arenal|KONPARTSAKIDETU!: Serigrafía de Pañuelos
@@ -234,7 +234,7 @@
 21|20:30|Moskotarrak|Turno de los miembros de la Fundacion Sindrome de Down en favor de la integracion y la igualdad en Aste Nagusia
 21|20:30|Tintigorri|LONG JOHN & AITOR DIEGO|🎵
 21|20:30|La Carbonería|Javier Urquijo (Los Secretos)|🎵
-21|20:45|Gas Plaza|Cine de calle
+21|20:45|Gas Plaza|Cine de calle|🎦
 21|20:45|Uribarri|THE DOLPHINERS|🎵
 21|21:00|Piztiak|THE PUSHERMEN|🎵
 21|21:00|Bilborock|XATIRO, Bilbao (RAP)|🎵
@@ -245,7 +245,7 @@
 21|23:00|Kulturgune|ROBA ESTESA|🎵
 21|23:00|Uribarri|FREE THE WHEEL|🎵
 21|23:00|Moskotarrak|DJ invitado: UNAI BDJ|🎵
-21|23:15|Gas Plaza|Cine de calle: Amets Nagusia
+21|23:15|Gas Plaza|Cine de calle: Amets Nagusia|🎦
 21|23:30|Algara|ATOM RHUMBA + TOC|🎵
 21|23:30|Irrintzi|DJ PAUL SWYLË|🎵
 21|23:30|Kaialde|BATEK DAKI|🎵
@@ -265,43 +265,43 @@
 21|01:00|Mamiki|DJ-MAPATXE|🎵
 21|02:00|Algara|EASYER|🎵
 21|02:30|Komantxe|JOSEBA B. LENOIR|🎵
-22|09:00|Arenal|BKAFF: Certamen gastronómico: Txipirones en su tinta. Inscripción|🏆
+22|09:00|Arenal|BKAFF: Certamen gastronómico: Txipirones en su tinta. Inscripción|🏆-🍲
 22|10:00|AixeBerri|Basket 3x3
 22|10:00|Arriaga Plaza|Diana de txistularis y txupín
 22|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
 22|10:00|Tintigorri|Campeonato de Ajedrez. Campeonato de partidas rápidas|🏆
 22|10:30|Irrintzi|Subida al hospital Basurto acompañando al circo
-22|11:00|Arenal|BKAFF: Certamen gastronómico: Txipirones en su tinta
+22|11:00|Arenal|BKAFF: Certamen gastronómico: Txipirones en su tinta|🏆-🍲
 22|11:00|Arriagako Atz.|Hinchables
 22|11:00|Arenal|Aprendiendo a cocinar (Euskal Txiki Master): Ensaladas de fruta (sandia, melón, aguacate…)
 22|11:00|Askapeña|Competición Tiragoma|🏆
-22|11:00|Basurto|Visita a los niños y las niñas del hospital de Basurto con Marijaia y el circo
+22|11:00|Basurto|Visita a los niños y las niñas del hospital de Basurto con Marijaia y el circo|🙆
 22|11:00|Ripa|Hinchables y actividades de agua
 22|11:30|Askapeña|Juegos infantiles
 22|11:30|Triangune|Feria agrícola
-22|12:00|Arriagako Atz.|Talleres de disfraces
+22|12:00|Arriagako Atz.|Talleres de disfraces|🛠️
 22|12:00|Arriagako Atz.|Degustación de Piparras de Ibarra (fritas, en conserva y naturales)
-22|12:00|Eguzkizaleak|Taller de jardinería
+22|12:00|Eguzkizaleak|Taller de jardinería|🛠️
 22|12:00|Euskalgune|Euskal txikigune
 22|12:00|Kaialde|Pintacaras
 22|12:00|Komantxe|Rocódromo
 22|12:00|Komantxe|Irola Irratia (tertulia)
 22|12:00|Mamiki|Txikigune (Mamiki + Txomin Barullo)
 22|12:00|Txomin Barullo|Txikigune (Mamiki + Txomin Barullo)
-22|12:00|Piztiak|Taller de Orejas de animales
+22|12:00|Piztiak|Taller de Orejas de animales|🛠️
 22|12:00|Zaratas|Terraza
 22|12:00|Zaratas|Photocall
 22|12:30|Eguzkizaleak|Lurra eguna
-22|12:30|Pa...Ya!|Taller de máscaras
-22|12:30|Zaratas|Talleres infantiles
+22|12:30|Pa...Ya!|Taller de máscaras|🛠️
+22|12:30|Zaratas|Talleres infantiles|🛠️
 22|13:00|Algara|Iparralde Eguna: Ziburuko Kaskarotenea ikastolaren aldeko bazkaria + bazkalostea ANJE DUHALDErekin
 22|13:00|Algara|Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa
 22|13:00|Altxaporrue|Etxeandia eta Boga arteko garagardo desafioa
 22|13:00|Ripa|Torneo Waterpolo semifinales y final (categoría interkonparsas) con el Club Deportivo|🏆
 22|13:00|Uribarri|Rana
-22|13:00|Triangune|Taller para niñ@s: Ongi etorri errefuxiatuak
+22|13:00|Triangune|Taller para niñ@s: Ongi etorri errefuxiatuak|🛠️
 22|13:30|Euskalgune|THE SHERIFF BAND Marianito musikatua
-22|14:30|Arenal|BKAFF: Certamen gastronómico: Entrega de premios
+22|14:30|Arenal|BKAFF: Certamen gastronómico: Entrega de premios|🏆-🍲
 22|15:00|Eguzkizaleak|Lurra eguneko bazkaria
 22|15:00|Komantxe|Okupazio eguneko bazkaria
 22|15:00|Santiago Plaza|Bertso bazkaria Uxue Alberdi eta Unai Iturriagarekin
@@ -368,21 +368,21 @@
 23|10:00|Arriaga Plaza|Diana de txistularis y txupín
 23|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
 23|10:00|Moskotarrak|Campeonato de Ajedrez: Campeonato de la Amistad (por equipos)|🏆
-23|10:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina. Inscripción|🏆
-23|10:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)
-23|11:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina|🏆
-23|11:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)
+23|10:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina. Inscripción|🏆-🍲
+23|10:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)|🛠️-🍲
+23|11:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina|🏆-🍲
+23|11:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)|🛠️-🍲
 23|11:00|Arenal|Degustación de bakalao para celebrar el 40 Aniversario de Aste Nagusia
 23|11:00|Ripa|Actividades de agua
 23|11:30|Arenal|Txupin homenaje a las txupineras
-23|12:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)
+23|12:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)|🛠️-🍲
 23|12:00|Algara|Zaparrada haur-konpartsa. ZIRTAKA antzerki-taldea: Ongi etorri, lagun
-23|12:00|Hontzak|Taller de pan
+23|12:00|Hontzak|Taller de pan|🛠️-🍲
 23|12:00|Irrintzi|Txistularis - Mercado de la Rivera y Gastronómico
 23|12:00|Kaskagorri|Igerilekua
 23|12:00|Komantxe|Juegos de Rugby para mujeres
 23|12:00|Komantxe|Rocódromo
-23|12:00|Pa...Ya!|Taller de tatuaje
+23|12:00|Pa...Ya!|Taller de tatuaje|🛠️
 23|12:00|Piztiak|Cabezas crece-pelo
 23|12:00|Sestao|IX Subida Popular de Piraguas por el Ibaizabal (Desde Sestao hasta el Ayuntamiento)
 23|12:00|Zaratas|Terraza
@@ -393,19 +393,19 @@
 23|12:30|Kaixo|Emojipompones
 23|12:30|Mamiki|Mamiki Batukada Feminista
 23|12:30|Pa...Ya!|Bat, bi, hiru...festa!
-23|12:30|Triangune|Taller de txapas
-23|12:30|Zaratas|Talleres infantiles
+23|12:30|Triangune|Taller de txapas|🛠️
+23|12:30|Zaratas|Talleres infantiles|🛠️
 23|13:00|Algara|Bilbo Hiria 96.0 Fm irratiaren zuzeneko saioa
 23|13:00|Euskalgune|Marianito Musikatua: JOSU BERGARA ETA AKORDE TXIKIAK
 23|13:00|Hontzak|Cata de cervezas Galand
 23|13:00|Kulturgune|Espuma
-23|13:00|Uribarri|Talleres infantiles
+23|13:00|Uribarri|Talleres infantiles|🛠️
 23|13:15|Ripa|Euskaraldirako agerraldia
 23|13:30|Arriagako Atz.|Fiesta de la espuma
 23|14:00|Uribitarte|IX Subida Popular de Piraguas por el Ibaizabal (llegada)
 23|14:00|Mamiki|Comida de comparseras
 23|14:30|Kaskagorri|Senideekin bazkaria
-23|14:30|Arenal|BKAFF: Certamen gastronomico: Entrega de premios|🏆
+23|14:30|Arenal|BKAFF: Certamen gastronomico: Entrega de premios|🏆-🍲
 23|15:00|Euskalgune|Biziprest eguneko herri-bazkaria bazkaria
 23|16:00|Altxaporrue|Kukaña
 23|16:00|Kaskagorri|Ekitaldia
@@ -422,9 +422,9 @@
 23|18:30|Arriaga Plaza|Homenaje a la Ikurriña
 23|19:00|Kulturgune|Swing ikastaroa eta dantzaldia TWIN ROOM taldearekin|🎵
 23|19:00|Moskotarrak|Concurso Manda Huevos|🏆
-23|19:00|Uribarri|Taller de talos
+23|19:00|Uribarri|Taller de talos️|🛠️-🍲
 23|19:00|Zaratas|ALDATS ELEKTROTXARANGA|🎵
-23|19:30|Arenal|KONPARTSAKIDETU!: Taller de pirotecnia con Lekittoko Deabruak
+23|19:30|Arenal|KONPARTSAKIDETU!: Taller de pirotecnia con Lekittoko Deabruak|🛠️
 23|19:30|Triangune|ANE + M&M|🎵
 23|20:00|Askapeña|EMPTY BARRELS|🎵
 23|20:00|Kaskagorri|Erromeria gidatua
@@ -460,17 +460,17 @@
 23|00:30|Pinpilinpauxa|Olé Olé 2.0|🎵
 23|01:00|Mamiki|MAMIKI DJak|🎵
 23|02:00|Algara|EDDIE MAE + FRANCES BE + LES ALBORREGACH|🎵
-24|09:00|Arenal|BKAFF: Certamen gastronómico: Bakalao al pil pil. Inscripción|🏆
+24|09:00|Arenal|BKAFF: Certamen gastronómico: Bakalao al pil pil. Inscripción|🏆-🍲
 24|09:00|Arenal|Menú Konpartseril! Inscripción
 24|10:00|Arriaga Plaza|Diana de txistularis y txupín
 24|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
-24|11:00|Arenal|BKAFF: Certamen gastronómico: Bakalao Al pil pil|🏆
+24|11:00|Arenal|BKAFF: Certamen gastronómico: Bakalao Al pil pil|🏆-🍲
 24|11:00|Arenal|Aprendiendo a cocinar: Kokotxas al pil-pil
 24|11:00|Arriagako Atz.|Hinchables
 24|11:00|Askapeña|Atún asado
 24|11:00|Ripa|Actividades de agua
 24|11:30|Askapeña|Juegos infantiles
-24|12:00|Hontzak|Taller de caricaturas
+24|12:00|Hontzak|Taller de caricaturas|🛠️
 24|12:00|Arenal|Showkaldaritza: Como cocinar bakalao, con Zigor Iturrieta y Juantxu Larrucea
 24|12:00|Irrintzi|Txistularis - pasacalles Ensanche y Abando
 24|12:00|Kaialde|Gymkana Fotográfica
@@ -486,10 +486,10 @@
 24|12:30|Algara|Zaparrada haur-konpartsaren bazkaria
 24|12:30|Plaza Nueva|Ajedrez viviente
 24|13:00|Algara|Bilbo Hiria 96.0 Fm irratiaren zuzeneko saioa
-24|13:00|Uribarri|Talleres infantiles
+24|13:00|Uribarri|Talleres infantiles|🛠️
 24|13:30|Askapeña|Ongi etorri errefuxiatuak exposición
 24|13:30|Komantxe|AIAMA|🎵
-24|14:30|Arenal|BKAFF: Certamen gastronómico: Entrega de premios|🏆
+24|14:30|Arenal|BKAFF: Certamen gastronómico: Entrega de premios|🏆-🍲
 24|14:30|Arenal|Menú Konpartseril! Comi
 24|15:00|Txori Barrote|Elkartasun bazkaria
 24|16:30|Triangune|Subida del Nervión en barco
@@ -541,28 +541,28 @@
 24|00:30|Pinpilinpauxa|LAS FELLINI|🎵
 24|01:00|Komantxe|MENEO|🎵
 24|02:30|Komantxe|REIMY|🎵
-25|09:00|Arenal|BKAFF: Certamen gastronómico: Marmitako. (Inscripción)|🏆
+25|09:00|Arenal|BKAFF: Certamen gastronómico: Marmitako. (Inscripción)|🏆-🍲
 25|10:00|Arriaga Plaza|Diana de txistularis y txupín
 25|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
 25|10:00|Zabalguneko Merk.|XIX Campeonato internacional de Ajedrez|🏆
-25|11:00|Arenal|BKAFF: Certamen gastronómico: Marmitako|🏆
+25|11:00|Arenal|BKAFF: Certamen gastronómico: Marmitako|🏆-🍲
 25|11:00|Arriagako Atz.|Hinchables
 25|12:00|Arenal|BKAFF: Reparto de Bonito
-25|12:00|Arenal|KONPARTSAKIDETU!: Taller de kalejira
+25|12:00|Arenal|KONPARTSAKIDETU!: Taller de kalejira|🛠️-💃
 25|12:00|Euskalgune|Igerilekua
 25|12:00|Euskalgune|Euskal txikigune
 25|12:00|Moskotarrak|Cata de vinos: VI. edición “Nariz de Marijaia”
 25|12:00|Kaialde|Lanzamiento de güito
 25|12:00|Zaratas|Terraza
 25|12:00|Zaratas|Photocall
-25|12:30|Hontzak|Taller de Baile Rock’n’Roll
+25|12:30|Hontzak|Taller de Baile Rock’n’Roll|🛠️-💃
 25|13:00|Komantxe|Bailes irlandeses
 25|13:00|Triangune|IMANOL ITUINO: Magia a tutiplén
 25|13:00|Uribarri|Body Combat
 25|13:15|Hontzak|Marianito-Rock con banda en directo
 25|13:30|Askapeña|Euskadi-Kuba exposición
 25|13:30|Euskalgune|DJ DRONKI Marianito musikatua|🎵
-25|14:30|Arenal|BKAFF: Certamen gastronómico: Entrega de premios|🏆
+25|14:30|Arenal|BKAFF: Certamen gastronómico: Entrega de premios|🏆-🍲
 25|15:00|Arenal|Comida interkonparsas
 25|17:00|Komantxe|Kolektiboen herri denda
 25|17:30|Arriaga Plaza|Herri Kirolak entre Konparsas
@@ -595,15 +595,15 @@
 26|10:00|Pinpilinpauxa|Torneo de juegos de mesa|🏆
 26|11:00|Arenal|Concurso gastronómico: Guiso de rabo|🏆
 26|12:00|Irrintzi|Txistularis - Pasacalles libre
-26|12:00|Kaialde|Taller de chapas
+26|12:00|Kaialde|Taller de chapas|🛠️
 26|12:00|Kaskagorri|Igerilekua
 26|12:00|Zaratas|Terraza
 26|12:00|Zaratas|Photocall
-26|13:00|Uribarri|Talleres infantiles
+26|13:00|Uribarri|Talleres infantiles|🛠️
 26|13:00|NAVE 9|The Neatbeats + DJs (Gratis)|🎵
 26|13:30|Askapeña|AHAZTUAK
 26|14:00|Irrintzi|Txistularis y grupo de Danzas. Brindis final
-26|14:30|Arenal|Certamen gastronómico: Entrega de premios|🏆
+26|14:30|Arenal|Certamen gastronómico: Entrega de premios|🏆-🍲
 26|14:30|Askapeña|AHAZTUAK comida
 26|17:00|Komantxe|Kolektiboen herri denda
 26|17:00|Kulturgune|1 2 3... Festa!
@@ -615,7 +615,7 @@
 26|18:00|Zaratas|Disko Jaia / Disco Fiesta|🎵
 26|20:15|Kulturgune|MARIJAIAREN AZKEN TRIBUTOA (RIP)|🎵
 26|20:30|Arenal|Toro de fuego
-26|23:00|Arenal|Final de fiesta y despedida a Marijaia
+26|23:00|Arenal|Final de fiesta y despedida a Marijaia|🙆-😭
 
 20|00:00|Abante!|Dr. Serrutxo|🎵
 21|00:00|Abante!|Soria & Melena (Lee Killer Selection)|🎵
