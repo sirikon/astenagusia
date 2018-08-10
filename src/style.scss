@@ -1,6 +1,17 @@
 $page-max-width: 1000px;
 $mobile-breakpoint: 600px;
 
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/OpenSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    src: url('fonts/OpenSans-Bold.ttf');
+}
+
 body {
     font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
@@ -116,7 +127,7 @@ button {
     display: flex;
     justify-content: center;
     align-items: stretch;
-    margin: 0;
+    margin: 0 0 10px 0;
 
     @media (max-width: $page-max-width) {
         margin: 0 10px 10px 10px;
