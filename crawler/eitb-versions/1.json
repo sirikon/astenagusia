@@ -1,0 +1,2701 @@
+{
+  "SÁBADO 18 DE AGOSTO": {
+    "day": 18,
+    "events": {
+      "17:00": [
+        {
+          "location": "Zazpi Kaleak",
+          "name": "Kalejira Del Txupín"
+        }
+      ],
+      "19:00": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Recepción A MARIJAIA, PREGÓN Y TXUPÍN DE COMIENZO DE FIESTAS"
+        }
+      ],
+      "19:50": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Agurra a Marijaia"
+        }
+      ],
+      "20:00": [
+        {
+          "location": "Arriagako Atz",
+          "name": "Apertura de txosnas con Marijaia"
+        }
+      ],
+      "20:30": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Toro de fuego"
+        }
+      ],
+      "22:30": [
+        {
+          "location": "Etxebarria parkea",
+          "name": "Fuegos artificiales. XXVIII Concurso internacional Villa de Bilbao: FIRST CLASS PYRO-EVENTS (Alemania)"
+        }
+      ],
+      "23:00": [
+        {
+          "location": "Algara",
+          "name": "DJ ELEPUNTO"
+        }
+      ],
+      "23:30": [
+        {
+          "location": "Irrintz",
+          "name": "DJ PAUL SWYLË"
+        },
+        {
+          "location": "Komantxe",
+          "name": "AIARALDEKO SOINU SISTEMA & LAGUNAK"
+        }
+      ],
+      "00:30": [
+        {
+          "location": "Pinpilinpauxa",
+          "name": "PUTILATEX + LA PUNKA PAKA"
+        }
+      ]
+    }
+  },
+  "DOMINGO 19 DE AGOSTO": {
+    "day": 19,
+    "events": {
+      "10:00": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Diana de txistularis y txupín"
+        },
+        {
+          "location": "Euskal Museoa",
+          "name": "Exposición 40 aniversario Aste Nagusia"
+        },
+        {
+          "location": "Somera kalea",
+          "name": "VII Open Magic The Gathering. Inscripción"
+        },
+        {
+          "location": "Arenal",
+          "name": "Mercado de productores del agro bizkaino: Gure lurreko merkatuak"
+        }
+      ],
+      "10:30": [
+        {
+          "location": "Triangune",
+          "name": "Muestra de juego de mesa Blood Bowl"
+        }
+      ],
+      "11:00": [
+        {
+          "location": "Konsuletxearen pl.",
+          "name": "KONPARTSAKIDETU!: Taller de goitibeheras"
+        },
+        {
+          "location": "Zabalbide kalea",
+          "name": "Bajada de Goitiberas V. Open Aste Nagusia"
+        },
+        {
+          "location": "Arriagako atz.",
+          "name": "Hinchables."
+        },
+        {
+          "location": "Arenal",
+          "name": "Reparto de pintxos con las Peñas del Athletic: pollo, hamburguesas y parrillada de verdura"
+        },
+        {
+          "location": "Triangune",
+          "name": "Taller de Txalaparta infantil + Mercado Txalaparta infantil"
+        }
+      ],
+      "11:30": [
+        {
+          "location": "Askapeña",
+          "name": "Juegos infantiles"
+        },
+        {
+          "location": "Zaratas",
+          "name": "III Concurso mundial de Selfies de Aste Nagusia"
+        }
+      ],
+      "12:00": [
+        {
+          "location": "Aixe Berri",
+          "name": "Turno solidario"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "Igerilekua"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "Euskal txikigune"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "Txistularis - Pasacalles por Plaza Nueva y Arenal"
+        },
+        {
+          "location": "Kaialde",
+          "name": "Cuenta cuentos"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "Igerilekua"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Terraza"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Photocall"
+        }
+      ],
+      "12:30": [
+        {
+          "location": "Pa...Ya!",
+          "name": "Juegos infantiles"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Talleres Infantiles"
+        }
+      ],
+      "13:00": [
+        {
+          "location": "Mamiki",
+          "name": "EMPERDEDORAS: LAS DESMEDIDAS"
+        },
+        {
+          "location": "Txinbotarrak",
+          "name": "Talo, chapa y potato"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Talleres infantiles"
+        }
+      ],
+      "13:30": [
+        {
+          "location": "Zabalbide Kalea",
+          "name": "KONPARTSAKIDETU!: Bajada txiki de Goitibeheras"
+        }
+      ],
+      "15:00": [
+        {
+          "location": "Txori Barrote",
+          "name": "Txori-Kaska bazkaria"
+        }
+      ],
+      "16:30": [
+        {
+          "location": "Txori Barrote",
+          "name": "Monologoa ANE LINDArekin"
+        }
+      ],
+      "17:00": [
+        {
+          "location": "Komantxe",
+          "name": "Kolektiboen herri denda"
+        }
+      ],
+      "17:15": [
+        {
+          "location": "Arriagako Ager.",
+          "name": "Txalaparta-saio nagusia: JOXEAN ARTZEren Omenaldi xumea"
+        }
+      ],
+      "17:30": [
+        {
+          "location": "Mamiki",
+          "name": "Café poeta"
+        },
+        {
+          "location": "Txinbotarrak",
+          "name": "LA TOKOKERA"
+        },
+        {
+          "location": "Zaratas",
+          "name": "TENDERETE Marionetas"
+        }
+      ],
+      "18:00": [
+        {
+          "location": "Kaialde",
+          "name": "Taller de chapas"
+        }
+      ],
+      "18:30": [
+        {
+          "location": "Komantxe + Piztiak",
+          "name": "Taller y baile social de LINDY HOP (swing) con LITTLE HARLEM"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Verbena infantil"
+        }
+      ],
+      "19:00": [
+        {
+          "location": "Aixeberri",
+          "name": "Cata de cervezas"
+        },
+        {
+          "location": "Triangune",
+          "name": "Dantza plaza"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Piruletas de chocolate"
+        }
+      ],
+      "19:30": [
+        {
+          "location": "Hontzak",
+          "name": "CADIPSONIANS"
+        }
+      ],
+      "20:00": [
+        {
+          "location": "Aixeberri",
+          "name": "LOS COJONES"
+        },
+        {
+          "location": "Askapeña",
+          "name": "GATOM"
+        },
+        {
+          "location": "Kaialde",
+          "name": "Concurso Come-Flanes"
+        },
+        {
+          "location": "Txinbotarrak",
+          "name": "FABE DE FUKA (elektrotxaranga)"
+        }
+      ],
+      "20:30": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Toro de fuego"
+        },
+        {
+          "location": "Tintigorri",
+          "name": "DETOMEITOS"
+        },
+        {
+          "location": "Pa...Ya!",
+          "name": "TOCAN2 LA POLLA"
+        }
+      ],
+      "21:00": [
+        {
+          "location": "Euskalgune",
+          "name": "Laburmetrai lehiaketa"
+        }
+      ],
+      "22:30": [
+        {
+          "location": "Etxebarria parkea",
+          "name": "XXVIII Concurso internacional Villa de Bilbao. PIROTECNIA VALENCIANA (Valencia)"
+        }
+      ],
+      "23:00": [
+        {
+          "location": "Askapeña",
+          "name": "F.R.A.C.(Fundación Raperos Atípicos de Cádiz)"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "MOONSHINE WAGON + TREMENDA JAURÍA"
+        }
+      ],
+      "23:30": [
+        {
+          "location": "Algara",
+          "name": "THE CHERRY BOPPERS - THE ALLNIGHTERS"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "DJ PAUL SWYLË"
+        },
+        {
+          "location": "Kaialde",
+          "name": "“Con otra mirada” Fiesta temática"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "HIJOS DE TU IGLESIA + ZAZKEL"
+        },
+        {
+          "location": "Komantxe",
+          "name": "DJ LA WOMAN"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "TOXICITY (System of a Down tributoa)"
+        },
+        {
+          "location": "Tintigorri",
+          "name": "ROCK CHOPPER BLUES"
+        }
+      ],
+      "23:45": [
+        {
+          "location": "Aixeberri",
+          "name": "ROKAVIEJA (SKA-ROCK)"
+        },
+        {
+          "location": "Zaratas",
+          "name": "DJ LAZZ: Fiesta de los 70"
+        }
+      ],
+      "00:30": [
+        {
+          "location": "Kulturgune",
+          "name": "RAGE TO ANTONIO MACHINE (Rage Against the Machine Tributoa)"
+        },
+        {
+          "location": "Pinpilinpauxa",
+          "name": "KIKA LORACE & ALLEN KING"
+        }
+      ],
+      "02:00": [
+        {
+          "location": "Algara",
+          "name": "IGU ALLNIGHTER & TXEFO K-BILLY"
+        }
+      ]
+    }
+  },
+  "LUNES 20 DE AGOSTO": {
+    "day": 20,
+    "events": {
+      "09:00": [
+        {
+          "location": "Arenal",
+          "name": "Certamen gastronómico: Patatas en salsa verde. Inscripción"
+        }
+      ],
+      "10:00": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Diana de txistularis y txupín"
+        },
+        {
+          "location": "Euskal Museoa",
+          "name": "Exposición 40 aniversario Aste Nagusia"
+        },
+        {
+          "location": "Tintigorri",
+          "name": "Campeonato de Ajedrez. Simultaneas"
+        }
+      ],
+      "10:30": [
+        {
+          "location": "Triangune",
+          "name": "Sesión de zumba para resacos@s"
+        }
+      ],
+      "11:00": [
+        {
+          "location": "Altxaporrue",
+          "name": "Euskal ekoizleen azoka ekologikoa"
+        },
+        {
+          "location": "Arenal",
+          "name": "Certamen gastronómico: Patatas en salsa verde"
+        },
+        {
+          "location": "Arenal",
+          "name": "KONPARTSAKIDETU!: Aprendiendo a cocinar (Euskal Txiki Master): Ensaladas (bonito, verduras, queso idiazabal, vinagretas...)"
+        },
+        {
+          "location": "Askapeña",
+          "name": "Competición rana"
+        },
+        {
+          "location": "Ripa",
+          "name": "Hinchables y actividades de agua"
+        }
+      ],
+      "11:30": [
+        {
+          "location": "Askapeña",
+          "name": "Juegos infantiles"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "SORGINA TXIRULINA"
+        }
+      ],
+      "12:00": [
+        {
+          "location": "Euskalgune",
+          "name": "Euskal Txikigune"
+        },
+        {
+          "location": "Hontzak",
+          "name": "Taller de Reciclaje"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "Txistularis - Pasacalles Bilbao la Vieja"
+        },
+        {
+          "location": "Kaialde",
+          "name": "MERAKI MAGO"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Rocódromo"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "Igerilekua"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Terraza"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Photocal"
+        }
+      ],
+      "12:30": [
+        {
+          "location": "Pa...Ya!",
+          "name": "Taller de Serigrafía"
+        },
+        {
+          "location": "Zaratas",
+          "name": "LOS SERABALA: Malabares"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Talleres infantiles"
+        }
+      ],
+      "13:00": [
+        {
+          "location": "Algara",
+          "name": "Euskara ikasleon eguna (bazkaria)"
+        },
+        {
+          "location": "Algara",
+          "name": "Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "Eguerdi girotua (Soinu Beltzak)"
+        },
+        {
+          "location": "Moskotarrak",
+          "name": "Gigante de Aste Nagusia en la Plaza del Ensanche"
+        },
+        {
+          "location": "Ripa",
+          "name": "Torneo Waterpolo semifinales y final (categoría masculina) con el Club Deportivo"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Talleres infantiles"
+        }
+      ],
+      "13:30": [
+        {
+          "location": "Askapeña",
+          "name": "Mujeres Migradas"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "Marianito musikatua: ARRAKALA"
+        },
+        {
+          "location": "Komantxe",
+          "name": "JONI TXINTXES"
+        }
+      ],
+      "14:30": [
+        {
+          "location": "Arenal",
+          "name": "Certamen gastronómico: Entrega de premios"
+        }
+      ],
+      "15:00": [
+        {
+          "location": "Altxaporrue",
+          "name": "EH nekazarien bazkaria"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "Euskalguneko bazkaria bazkaria / comida"
+        }
+      ],
+      "16:00": [
+        {
+          "location": "Aixeberri",
+          "name": "Aixetxiki: Tiovivo ecologico"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "Bertso Saioa"
+        }
+      ],
+      "16:30": [
+        {
+          "location": "Euskalgune",
+          "name": "Txiki Disko"
+        },
+        {
+          "location": "Txomin Barullo",
+          "name": "OIER ASLA Concierto participativo"
+        }
+      ],
+      "17:00": [
+        {
+          "location": "Aixeberri",
+          "name": "Aixetxiki: ROSA MARTINEZ Titeres"
+        },
+        {
+          "location": "Kaialde",
+          "name": "Aerobithon"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Kolektiboen herri denda"
+        },
+        {
+          "location": "Piztiak",
+          "name": "Karaoke Ibiltaria"
+        },
+        {
+          "location": "Ripa",
+          "name": "Hinchables y actividades de agua"
+        }
+      ],
+      "17:30": [
+        {
+          "location": "Algara",
+          "name": "Zaparrada haur-konpartsa: Disko-dantza! MADDI ETA JOANArekin -Txokolatea + bizkotxoak"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "ZARATAK 18 elektrotxaranga"
+        },
+        {
+          "location": "Pa...Ya!",
+          "name": "Elektrotxaranga"
+        }
+      ],
+      "18:00": [
+        {
+          "location": "Aixeberri",
+          "name": "Aixetxiki: Talleres infantiles"
+        },
+        {
+          "location": "Askapeña",
+          "name": "Zumba"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "2 NILOS"
+        },
+        {
+          "location": "Zaratas",
+          "name": "LITTLE HARLEM. Bilboko Swing Eskola"
+        }
+      ],
+      "18:30": [
+        {
+          "location": "Kaskagorri",
+          "name": "ZAPARRADA BATUKADA Poteo musikatua"
+        },
+        {
+          "location": "Triangune",
+          "name": "Taller de Afro-danza"
+        }
+      ],
+      "19:00": [
+        {
+          "location": "Askapeña",
+          "name": "Danzas del mundo"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Rana"
+        }
+      ],
+      "19:30": [
+        {
+          "location": "Askapeña",
+          "name": "Performance: Aceptación de la mujer en una cultura diferente"
+        },
+        {
+          "location": "Txomin Barullo",
+          "name": "Cabaret Txomin"
+        },
+        {
+          "location": "Zazpi Kaleak:",
+          "name": "Plaza Barritik Bertso-trikiti-kalejira, ONINTZA ENBAITIA eta XABI PAYArekin"
+        }
+      ],
+      "20:00": [
+        {
+          "location": "Askapeña",
+          "name": "DCAPRICHO"
+        }
+      ],
+      "20:30": [
+        {
+          "location": "Arriaga Plaza",
+          "name": "Toro de fuego"
+        },
+        {
+          "location": "Txomin Barullo",
+          "name": "BOCABEATS humor y beatbox"
+        }
+      ],
+      "21:00": [
+        {
+          "location": "Kaskagorri",
+          "name": "ANITA PARKER & LA FURIA"
+        }
+      ],
+      "22:30": [
+        {
+          "location": "Etxebarria Parkea",
+          "name": "Fuegos artificiales. XXVIII Concurso internacional Villa de Bilbao: PIROTECNICA POLEGGI (Italia)"
+        }
+      ],
+      "23:00": [
+        {
+          "location": "Askapeña",
+          "name": "DJ A.K."
+        },
+        {
+          "location": "Euskalgune",
+          "name": "HUTS + MUD CANDIES"
+        },
+        {
+          "location": "Kaixo",
+          "name": "ETSAIAK"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "BAD SOUND SYSTEM"
+        }
+      ],
+      "23:30": [
+        {
+          "location": "Algara",
+          "name": "BON SCOTT REVIVAL SHOW + MOONSHAKERS"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "DJ PAUL SWYLË"
+        },
+        {
+          "location": "Kaialde",
+          "name": "SUTAN + LAGUNAK. Concierto especial 40 aniversario"
+        },
+        {
+          "location": "Komantxe",
+          "name": "ARRANO PERTXA ETA LENGU ILUNA"
+        },
+        {
+          "location": "Tintigorri",
+          "name": "JOSE ANTONIO PAINO"
+        }
+      ],
+      "23:45": [
+        {
+          "location": "Aixeberri",
+          "name": "EL CAPITÁN ELEFANTE (Indie-Pop-Rock)"
+        },
+        {
+          "location": "Zaratas",
+          "name": "DJ LAZZ: Fiesta de los 80"
+        }
+      ],
+      "00:00": [
+        {
+          "location": "Abante!",
+          "name": "DJ emanaldia"
+        }
+      ],
+      "00:30": [
+        {
+          "location": "Komantxe",
+          "name": "NIZURI TAZUNERI"
+        },
+        {
+          "location": "Pinpilinpauxa",
+          "name": "GLITCH GYALS - KAHLO RIAS"
+        }
+      ],
+      "01:00": [
+        {
+          "location": "Kaixo",
+          "name": "URRATS ERROMERIA"
+        }
+      ],
+      "01:30": [
+        {
+          "location": "Komantxe",
+          "name": "TR MISTERY & KASPER"
+        }
+      ],
+      "02:00": [
+        {
+          "location": "Algara",
+          "name": "WLDC DJ Sesioa"
+        }
+      ],
+      "02:30": [
+        {
+          "location": "Komantxe",
+          "name": "PEON KURTZ"
+        }
+      ]
+    }
+  },
+  "MARTES 21 DE AGOSTO": {
+    "day": 21,
+    "events": {
+      "09:00": [
+        {
+          "location": "Arenal",
+          "name": "Certamen Gastronómico: Tortilla de patata. Inscripción"
+        }
+      ],
+      "10:00": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Diana de txistularis y txupín"
+        },
+        {
+          "location": "Tintigorri",
+          "name": "Campeonato de Ajedrez a ciegas y antiajedrez"
+        }
+      ],
+      "11:00": [
+        {
+          "location": "Arenal",
+          "name": "Certamen gastronómico: Tortilla de patatas"
+        },
+        {
+          "location": "Arenal",
+          "name": "Taller de Sal (Salinas de Leniz)"
+        },
+        {
+          "location": "Askapeña",
+          "name": "Competición Rana (Parejas)"
+        },
+        {
+          "location": "Ripa",
+          "name": "Hinchables y actividades de agua"
+        }
+      ],
+      "11:30": [
+        {
+          "location": "Askapeña",
+          "name": "Juegos infantiles"
+        },
+        {
+          "location": "Moskotarrak",
+          "name": "Visita Residencia Conde de Aresti Zabala"
+        }
+      ],
+      "12:00": [
+        {
+          "location": "Algara",
+          "name": "Zaparrada haur-konpartsa: Ogi-tailerra"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "Euskal Txikigune"
+        },
+        {
+          "location": "Hontzak",
+          "name": "Tod@s a pintar!"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "Txistularis - Pasacalles por las Siete Calles"
+        },
+        {
+          "location": "Kaialde",
+          "name": "Hinchables"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Rocódromo"
+        },
+        {
+          "location": "Mamiki + Txomin B.",
+          "name": "Cata de cerveza"
+        },
+        {
+          "location": "Piztiak",
+          "name": "Taller de chapas"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Terraza"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Photocall"
+        }
+      ],
+      "12:30": [
+        {
+          "location": "Kaixo",
+          "name": "Pinta caras"
+        },
+        {
+          "location": "Pa…Ya!",
+          "name": "Juegos infantiles"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Txitupoteo con Deustuko tanborinteluekin"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Talleres infantiles"
+        }
+      ],
+      "13:00": [
+        {
+          "location": "Algara",
+          "name": "Bertso eguna: Potojorran + bertso-eskolak kantuan"
+        },
+        {
+          "location": "Algara",
+          "name": "Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "Espuma"
+        },
+        {
+          "location": "Pa...Ya!",
+          "name": "Taller de bombas de baño"
+        },
+        {
+          "location": "Ripa",
+          "name": "Torneo Waterpolo semifinales y final (categoría femenina) con el Club Deportivo"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Taller de danzas (Salsa y bachata)"
+        }
+      ],
+      "13:30": [
+        {
+          "location": "Euskalgune",
+          "name": "KORROKOIEK Marianito musikatua"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Exhibición de Magia"
+        }
+      ],
+      "14:30": [
+        {
+          "location": "Arenal",
+          "name": "Certamen gastronómico: Entrega de premios"
+        }
+      ],
+      "15:00": [
+        {
+          "location": "Abante",
+          "name": "Campeonato de Mus"
+        }
+      ],
+      "16:30": [
+        {
+          "location": "Euskalgune",
+          "name": "Aurpegi margoketa"
+        }
+      ],
+      "17:00": [
+        {
+          "location": "Komantxe",
+          "name": "Feria de artesanía"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Taller de serigrafía"
+        },
+        {
+          "location": "Ripa",
+          "name": "Hinchables y actividades de agua jolasak / juegos"
+        },
+        {
+          "location": "Triangune",
+          "name": "Txitxarrillo"
+        }
+      ],
+      "17:30": [
+        {
+          "location": "Arenal",
+          "name": "KONPARTSAKIDETU!: Serigrafía de Pañuelos"
+        }
+      ],
+      "17:50": [
+        {
+          "location": "Zaratas",
+          "name": "Zapi eta txapela taillerra"
+        }
+      ],
+      "18:00": [
+        {
+          "location": "Mamiki",
+          "name": "Bertso saio feminista JONE URIA, OIHANE PERES,IRATXE IBARRA. GAI-JARTZAILE: IZAR MENDIGUREN"
+        },
+        {
+          "location": "Tintigorri",
+          "name": "Zumba Master Class. ALAZNE FLOWER"
+        },
+        {
+          "location": "Zaratas",
+          "name": "SIGI SAGA: Dantzaplaza"
+        }
+      ],
+      "18:45": [
+        {
+          "location": "Hontzak",
+          "name": "LA KRISIS"
+        }
+      ],
+      "19:00": [
+        {
+          "location": "Kulturgune",
+          "name": "Zumba tailerra"
+        }
+      ],
+      "19:30": [
+        {
+          "location": "Moskotarrak",
+          "name": "Carrera infantil de Motos Molto"
+        },
+        {
+          "location": "Piztiak",
+          "name": "POMERAY"
+        },
+        {
+          "location": "Txori Barrote",
+          "name": "Senideei omenaldia"
+        },
+        {
+          "location": "Mamiki",
+          "name": "MAMIKI ZUZENEAN. Mamiki cede su escenario a nuevas bandas y artistas. LA FANY, BLESSURE, AIHOTZ, AMAZONA KON ARKO, LAS IRREKOÑOCIBLES, LA MODERN"
+        }
+      ],
+      "19:45": [
+        {
+          "location": "Txori Barrote",
+          "name": "Isolamindua performance SARErekin"
+        }
+      ],
+      "20:00": [
+        {
+          "location": "Aixeberri",
+          "name": "MAMAGIGIS"
+        },
+        {
+          "location": "Hontzak",
+          "name": "OGT"
+        },
+        {
+          "location": "Kaialde",
+          "name": "Zumba Master"
+        }
+      ],
+      "20:30": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Toro de fuego"
+        },
+        {
+          "location": "Moskotarrak",
+          "name": "Turno de los miembros de la Fundacion Sindrome de Down en favor de la integracion y la igualdad en Aste Nagusia"
+        },
+        {
+          "location": "Tintigorri",
+          "name": "LONG JOHN & AITOR DIEGO"
+        }
+      ],
+      "20:45": [
+        {
+          "location": "Gas plaza",
+          "name": "Cine de calle"
+        },
+        {
+          "location": "Uribarri",
+          "name": "THE DOLPHINERS"
+        }
+      ],
+      "21:00": [
+        {
+          "location": "Piztiak",
+          "name": "THE PUSHERMEN"
+        }
+      ],
+      "22:30": [
+        {
+          "location": "Etxebarria Parkea",
+          "name": "XXVIII Concurso internacional Villa de Bilbao: PIROTECNIA JOSMAN (Ourense)"
+        }
+      ],
+      "23:00": [
+        {
+          "location": "Askapeña",
+          "name": "HAVANA 537"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "BULTZ + XAVI SARRIÀ"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "ROBA ESTESA"
+        },
+        {
+          "location": "Uribarri",
+          "name": "FREE THE WHEEL"
+        },
+        {
+          "location": "Moskotarrak",
+          "name": "DJ invitado: UNAI BDJ"
+        }
+      ],
+      "23:15": [
+        {
+          "location": "Gas Plaza",
+          "name": "Cine de calle: Amets Nagusia"
+        }
+      ],
+      "23:30": [
+        {
+          "location": "Algara",
+          "name": "ATOM RHUMBA + TOC"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "DJ PAUL SWYLË"
+        },
+        {
+          "location": "Kaialde",
+          "name": "BATEK DAKI"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "BASTÓN DE TU VIEJA + SKABIDEAN"
+        },
+        {
+          "location": "Komantxe",
+          "name": "UGER"
+        },
+        {
+          "location": "Tintigorri",
+          "name": "RECAMBIOS ZORROZA"
+        }
+      ],
+      "23:45": [
+        {
+          "location": "Aixeberri",
+          "name": "CHERRY & THE LADIES"
+        },
+        {
+          "location": "Mamiki",
+          "name": "PROSÓDIA. Rap Metal Melódiko Feminista"
+        }
+      ],
+      "00:00": [
+        {
+          "location": "Abante",
+          "name": "DJ emanaldia"
+        }
+      ],
+      "00:30": [
+        {
+          "location": "Kulturgune",
+          "name": "LA OTRA"
+        },
+        {
+          "location": "Pinpilinpauxa",
+          "name": "KYRA SHIMAI"
+        }
+      ],
+      "01:00": [
+        {
+          "location": "Askapeña",
+          "name": "DJ MAMBÚ"
+        },
+        {
+          "location": "Komantxe",
+          "name": "PERLATA"
+        },
+        {
+          "location": "Mamiki",
+          "name": "DJ-MAPATXE"
+        }
+      ],
+      "02:00": [
+        {
+          "location": "Algara",
+          "name": "EASYER"
+        }
+      ],
+      "02:30": [
+        {
+          "location": "Komantxe",
+          "name": "JOSEBA B. LENOIR"
+        }
+      ]
+    }
+  },
+  "MIÉRCOLES 22 DE AGOSTO": {
+    "day": 22,
+    "events": {
+      "09:00": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Txipirones en su tinta. Inscripción"
+        }
+      ],
+      "10:00": [
+        {
+          "location": "Aixeberri",
+          "name": "Basket 3x3"
+        },
+        {
+          "location": "Arriaga plaza",
+          "name": "Diana de txistularis y txupín"
+        },
+        {
+          "location": "Euskal Museoa",
+          "name": "Exposición 40 aniversario Aste Nagusia"
+        },
+        {
+          "location": "Tintigorri",
+          "name": "Campeonato de Ajedrez. Campeonato de partidas rápidas"
+        }
+      ],
+      "10:30": [
+        {
+          "location": "Irrintzi",
+          "name": "Subida al hospital Basurto acompañando al circo"
+        }
+      ],
+      "11:00": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Txipirones en su tinta"
+        },
+        {
+          "location": "Arriagako Atz.",
+          "name": "Hinchables"
+        },
+        {
+          "location": "Arenal",
+          "name": "Aprendiendo a cocinar (Euskal Txiki Master): Ensaladas de fruta (sandia, melón, aguacate…)"
+        },
+        {
+          "location": "Askapeña",
+          "name": "Competición Tiragoma"
+        },
+        {
+          "location": "Basurto",
+          "name": "Visita a los niños y las niñas del hospital de Basurto con Marijaia y el circo"
+        },
+        {
+          "location": "Ripa",
+          "name": "Hinchables y actividades de agua"
+        }
+      ],
+      "11:30": [
+        {
+          "location": "Askapeña",
+          "name": "Juegos infantiles"
+        },
+        {
+          "location": "Triangune",
+          "name": "Feria agrícola"
+        }
+      ],
+      "12:00": [
+        {
+          "location": "Arriagako Atz.",
+          "name": "Talleres de disfraces"
+        },
+        {
+          "location": "Arriagako Atz.",
+          "name": "Degustación de Piparras de Ibarra (fritas, en conserva y naturales)"
+        },
+        {
+          "location": "Eguzkizaleak",
+          "name": "Taller de jardinería"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "Euskal txikigune"
+        },
+        {
+          "location": "Kaialde",
+          "name": "Pintacaras"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Rocódromo"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Irola Irratia (tertulia)"
+        },
+        {
+          "location": "Mamiki + Txomin B.",
+          "name": "Txikigune"
+        },
+        {
+          "location": "Piztiak",
+          "name": "Taller de Orejas de animales"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Terraza"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Photocall"
+        }
+      ],
+      "12:30": [
+        {
+          "location": "Eguzkizaleak",
+          "name": "Lurra eguna"
+        },
+        {
+          "location": "Pa...Ya!",
+          "name": "Taller de máscaras"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Talleres infantiles"
+        }
+      ],
+      "13:00": [
+        {
+          "location": "Algara",
+          "name": "Iparralde Eguna: Ziburuko Kaskarotenea ikastolaren aldeko bazkaria + bazkalostea ANJE DUHALDErekin"
+        },
+        {
+          "location": "Algara",
+          "name": "Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa"
+        },
+        {
+          "location": "Altxaporrue",
+          "name": "Etxeandia eta Boga arteko garagardo desafioa"
+        },
+        {
+          "location": "Ripa",
+          "name": "Torneo Waterpolo semifinales y final (categoría interkonparsas) con el Club Deportivo"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Rana"
+        },
+        {
+          "location": "Triangune",
+          "name": "Taller para niñ@s: Ongi etorri errefuxiatuak"
+        }
+      ],
+      "13:30": [
+        {
+          "location": "Euskalgune",
+          "name": "THE SHERIFF BAND Marianito musikatua"
+        }
+      ],
+      "14:30": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Entrega de premios"
+        }
+      ],
+      "15:00": [
+        {
+          "location": "Eguzkizaleak",
+          "name": "Lurra eguneko bazkaria"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Okupazio eguneko bazkaria"
+        },
+        {
+          "location": "Santiago plaza",
+          "name": "Bertso bazkaria Uxue Alberdi eta Unai Iturriagarekin"
+        }
+      ],
+      "16:30": [
+        {
+          "location": "Arriagako Atz.",
+          "name": "Ginkana intercomparsas"
+        }
+      ],
+      "17:00": [
+        {
+          "location": "Komantxe",
+          "name": "Kolektiboen herri denda"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Kalejira"
+        },
+        {
+          "location": "Ripa",
+          "name": "Hinchables y actividades de agua"
+        }
+      ],
+      "17:30": [
+        {
+          "location": "Arenal",
+          "name": "KONPARTSAKIDETU!: IRRIEN LAGUNAK: Ane Eta Piratekin Parrandan"
+        }
+      ],
+      "18:00": [
+        {
+          "location": "Askapeña",
+          "name": "Escalada bilbaina (Palmada)"
+        },
+        {
+          "location": "Hontzak",
+          "name": "Concierto de Clásica"
+        },
+        {
+          "location": "Kaialde",
+          "name": "GAZTE LEKU TXARANGA"
+        },
+        {
+          "location": "Pinpilinpauxa",
+          "name": "Trans-poting: Travesti-poteo"
+        },
+        {
+          "location": "Piztiak",
+          "name": "Rally-poteo"
+        },
+        {
+          "location": "Zaratas",
+          "name": "RAKS AL HAIA Escuela de danza: Danza del vientre"
+        }
+      ],
+      "18:30": [
+        {
+          "location": "Altxaporrue",
+          "name": "TXAPITO GUZMAN ETA IBARRAKO LANGOSTINOAK"
+        }
+      ],
+      "19:00": [
+        {
+          "location": "Arenal",
+          "name": "Kalejira y entrega de la Mosca y Campana"
+        },
+        {
+          "location": "Kaixo",
+          "name": "Zumba"
+        },
+        {
+          "location": "Txomin Barullo",
+          "name": "Homenaje"
+        }
+      ],
+      "19:15": [
+        {
+          "location": "Hontzak",
+          "name": "SIGI-SAGA: Dantza plaza"
+        }
+      ],
+      "19:30": [
+        {
+          "location": "Piztiak",
+          "name": "BEER & SKATE FEST 4 (HxC): CONTROL DE PLAGAS & FRIENDS"
+        }
+      ],
+      "20:00": [
+        {
+          "location": "Aixeberri",
+          "name": "KOVERTIZO"
+        },
+        {
+          "location": "Kaialde",
+          "name": "FIVE DIRECTION"
+        },
+        {
+          "location": "Zaratas",
+          "name": "SOLO POR ESTA NOCHE"
+        },
+        {
+          "location": "Pinpilinpauxa",
+          "name": "Turno solidario: Asociación Haszten"
+        },
+        {
+          "location": "Triangune",
+          "name": "Música experimental: FRANZ REICHELT"
+        }
+      ],
+      "20:15": [
+        {
+          "location": "Kulturgune",
+          "name": "LOS DEMENCIALES CHICOS ACELERADOS (Eskorbuto)"
+        }
+      ],
+      "20:30": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Toro de fuego"
+        },
+        {
+          "location": "Moskotarrak",
+          "name": "MOSKOGOLA"
+        }
+      ],
+      "20:45": [
+        {
+          "location": "Gas Plaza",
+          "name": "Cine de calle"
+        }
+      ],
+      "21:00": [
+        {
+          "location": "Euskalgune",
+          "name": "Euskal Karaokea"
+        },
+        {
+          "location": "Uribarri",
+          "name": "JEAN PAOLO Y LA SIEMPREVIVA"
+        }
+      ],
+      "21:30": [
+        {
+          "location": "Txomin Barullo",
+          "name": "LARRUTAN DEL CHÉ"
+        }
+      ],
+      "22:30": [
+        {
+          "location": "Etxebarria Parkea",
+          "name": "XXVIII Concurso internacional Villa de Bilbao: ENIGMA FIREWORKS (Bulgaria)"
+        }
+      ],
+      "23:00": [
+        {
+          "location": "Askapeña",
+          "name": "DJ BULL"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "REVOLTA PERMANENT + DJ ELEPUNTO"
+        },
+        {
+          "location": "Kaixo",
+          "name": "YAU"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "ZIRKINIK BEZ KONTZERTUAK"
+        },
+        {
+          "location": "Txomin Barullo",
+          "name": "OBSESION FATA"
+        },
+        {
+          "location": "Uribarri",
+          "name": "BERANDUEGI ERROMERIA"
+        }
+      ],
+      "23:15": [
+        {
+          "location": "Gas Plaza",
+          "name": "Cine de calle: Amets Nagusia"
+        }
+      ],
+      "23:30": [
+        {
+          "location": "Algara",
+          "name": "VULK + KASKEZUR"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "DJ PAUL SWYLË"
+        },
+        {
+          "location": "Komantxe",
+          "name": "KENNA I & GLAMITY SOUND"
+        },
+        {
+          "location": "Tintigorri",
+          "name": "RUNAWAY (Bon Jovi)"
+        }
+      ],
+      "23:45": [
+        {
+          "location": "Aixeberri",
+          "name": "THE KLEEJOSS BAND"
+        }
+      ],
+      "00:00": [
+        {
+          "location": "Abante!",
+          "name": "DJ emanaldia"
+        }
+      ],
+      "00:30": [
+        {
+          "location": "Pinpilinpauxa",
+          "name": "ANGELITA LA PERVERSA"
+        }
+      ],
+      "01:00": [
+        {
+          "location": "Kaixo",
+          "name": "FEOS PERO MAJOS"
+        },
+        {
+          "location": "Komantxe",
+          "name": "SUAIA ETA AMA REBEL"
+        },
+        {
+          "location": "Hontzak",
+          "name": "Reparto de sopa de ajo"
+        },
+        {
+          "location": "Txomin Barullo",
+          "name": "PENADAS POR LA LEY"
+        }
+      ],
+      "02:00": [
+        {
+          "location": "Algara",
+          "name": "EL_TXEF_A"
+        }
+      ],
+      "02:30": [
+        {
+          "location": "Komantxe",
+          "name": "LION SITTÉ"
+        }
+      ],
+      "04:00": [
+        {
+          "location": "Komantxe",
+          "name": "PARCHE CUMBIANTXE DJ kontzertuak /conciertos"
+        }
+      ]
+    }
+  },
+  "JUEVES 23 DE AGOSTO": {
+    "day": 23,
+    "events": {
+      "10:00": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Diana de txistularis y txupín"
+        },
+        {
+          "location": "Euskal Museoa",
+          "name": "Exposición 40 aniversario Aste Nagusia"
+        },
+        {
+          "location": "Moskotarrak",
+          "name": "Campeonato de Ajedrez: Campeonato de la Amistad (por equipos)"
+        },
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Bakalao a la Bizkaina. Inscripción"
+        },
+        {
+          "location": "Arenal",
+          "name": "Taller de Antxoas en salazón (Antxoas Royo Bermeo)"
+        }
+      ],
+      "11:00": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Bakalao a la Bizkaina"
+        },
+        {
+          "location": "Arenal",
+          "name": "Taller de Antxoas en salazón (Antxoas Royo Bermeo)"
+        },
+        {
+          "location": "Arenal",
+          "name": "Degustación de bakalao para celebrar el 40 Aniversario de Aste Nagusia"
+        },
+        {
+          "location": "Ripa",
+          "name": "Actividades de agua"
+        }
+      ],
+      "11:30": [
+        {
+          "location": "Arenal",
+          "name": "Txupin homenaje a las txupineras"
+        }
+      ],
+      "12:00": [
+        {
+          "location": "Arenal",
+          "name": "Taller de Antxoas en salazón (Antxoas Royo Bermeo)"
+        },
+        {
+          "location": "Algara",
+          "name": "Zaparrada haur-konpartsa. ZIRTAKA antzerki-taldea: Ongi etorri, lagun"
+        },
+        {
+          "location": "Hontzak",
+          "name": "Taller de pan"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "Txistularis - Mercado de la Rivera y Gastronómico"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "Igerilekua"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Juegos de Rugby para mujeres"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Rocódromo"
+        },
+        {
+          "location": "Pa...Ya!",
+          "name": "Taller de tatuaje"
+        },
+        {
+          "location": "Piztiak",
+          "name": "Cabezas crece-pelo"
+        },
+        {
+          "location": "De Sestao al Ayuntamiento",
+          "name": "IX Subida Popular de Piraguas por el Ibaizabal"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Terraza"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Photocall"
+        }
+      ],
+      "12:30": [
+        {
+          "location": "Abante!",
+          "name": "Biziprest eguneko txapa-tailerra"
+        },
+        {
+          "location": "Algara",
+          "name": "Biziprest eguneko txapa-tailerra"
+        },
+        {
+          "location": "Hontzak",
+          "name": "Biziprest eguneko txapa-tailerra"
+        },
+        {
+          "location": "Kaixo",
+          "name": "Emojipompones"
+        },
+        {
+          "location": "Mamiki",
+          "name": "Mamiki Batukada Feminista"
+        },
+        {
+          "location": "Pa... Ya!",
+          "name": "Bat, bi, hiru...festa!"
+        },
+        {
+          "location": "Triangune",
+          "name": "Taller de txapas"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Talleres infantiles"
+        }
+      ],
+      "13:00": [
+        {
+          "location": "Algara",
+          "name": "Bilbo Hiria 96.0 Fm irratiaren zuzeneko saioa"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "Marianito Musikatua: JOSU BERGARA ETA AKORDE TXIKIAK"
+        },
+        {
+          "location": "Hontzak",
+          "name": "Cata de cervezas Galand"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "Espuma"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Talleres infantiles"
+        }
+      ],
+      "13:15": [
+        {
+          "location": "Ripa",
+          "name": "Euskaraldirako agerraldia"
+        }
+      ],
+      "13:30": [
+        {
+          "location": "Arriagako Atz.",
+          "name": "Fiesta de la espuma"
+        }
+      ],
+      "14:00": [
+        {
+          "location": "Uribitarte",
+          "name": "IX Subida Popular de Piraguas por el Ibaizabal (llegada)"
+        },
+        {
+          "location": "Mamiki",
+          "name": "Comida de comparseras"
+        }
+      ],
+      "14:30": [
+        {
+          "location": "Kaskagorri",
+          "name": "Senideekin bazkaria"
+        },
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronomico: Entrega de premios"
+        }
+      ],
+      "15:00": [
+        {
+          "location": "Euskalgune",
+          "name": "Biziprest eguneko herri-bazkaria bazkaria"
+        }
+      ],
+      "16:00": [
+        {
+          "location": "Altxaporrue",
+          "name": "Kukaña"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "Ekitaldia"
+        }
+      ],
+      "16:30": [
+        {
+          "location": "Euskalgune",
+          "name": "Biziprest eguneko magia-ikuskizuna"
+        }
+      ],
+      "17:00": [
+        {
+          "location": "Arriagako Atz.",
+          "name": "Bertso Saioa"
+        },
+        {
+          "location": "Hau Pittu Hau",
+          "name": "Euskara Saria"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Kolektiboen herri denda azoka"
+        },
+        {
+          "location": "Ripa",
+          "name": "Actividades de agua"
+        }
+      ],
+      "17:30": [
+        {
+          "location": "Hontzak",
+          "name": "Sudurkeriak: Bingo Txoooou!"
+        },
+        {
+          "location": "Kaialde",
+          "name": "Juegos tradicionales"
+        },
+        {
+          "location": "Komantxe",
+          "name": "ARKAITZ ESTIBALLES, ALAIA MARTÍN, OIHANA BARTRA ETA GAI JARTZAILEA GARAZI NABARRO"
+        }
+      ],
+      "18:00": [
+        {
+          "location": "Mamiki",
+          "name": "UZTAI (Triki-musika)"
+        },
+        {
+          "location": "Piztiak",
+          "name": "Lindy Hour"
+        }
+      ],
+      "18:30": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Homenaje a la Ikurriña"
+        }
+      ],
+      "19:00": [
+        {
+          "location": "Kulturgune",
+          "name": "Swing ikastaroa eta dantzaldia TWIN ROOM taldearekin"
+        },
+        {
+          "location": "Moskotarrak",
+          "name": "Concurso Manda Huevos"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Taller de talos"
+        },
+        {
+          "location": "Zaratas",
+          "name": "ALDATS ELEKTROTXARANGA"
+        }
+      ],
+      "19:30": [
+        {
+          "location": "Arenal",
+          "name": "KONPARTSAKIDETU!: Taller de pirotecnia con Lekittoko Deabruak"
+        },
+        {
+          "location": "Triangune",
+          "name": "ANE + M&M"
+        }
+      ],
+      "20:00": [
+        {
+          "location": "Askapeña",
+          "name": "EMPTY BARRELS"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "Erromeria gidatua"
+        },
+        {
+          "location": "Zazpi Kaleak",
+          "name": "Bilbo Kantari"
+        }
+      ],
+      "20:30": [
+        {
+          "location": "Arriaga Plaza",
+          "name": "Toro de fuego"
+        },
+        {
+          "location": "Piztiak",
+          "name": "ISILDU ZAITEZ"
+        }
+      ],
+      "21:00": [
+        {
+          "location": "Kaialde",
+          "name": "ADARROTS"
+        },
+        {
+          "location": "Moskotarrak",
+          "name": "22º Concurso de feos"
+        },
+        {
+          "location": "Triangune",
+          "name": "GUDA DANTZA"
+        }
+      ],
+      "21:30": [
+        {
+          "location": "Kaskagorri",
+          "name": "Poteo nostalgikoa"
+        }
+      ],
+      "22:30": [
+        {
+          "location": "Etxebarria Parkea",
+          "name": "XXVIII Concurso internacional Villa de Bilbao: PIROTECNIA DEL MEDITERRÁNEO (VALENCIA)"
+        }
+      ],
+      "23:00": [
+        {
+          "location": "Askapeña",
+          "name": "RADIO REVOLUCIÓN"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "GARILAK 26"
+        }
+      ],
+      "23:15": [
+        {
+          "location": "Arenal",
+          "name": "EUSKAL HERRIA-KATULUNIA: KORREFOK kalejira"
+        }
+      ],
+      "23:30": [
+        {
+          "location": "Algara",
+          "name": "WILLIS DRUMMOND + INOREN ERO NI"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "DJ PAUL SWYLË"
+        },
+        {
+          "location": "Komantxe",
+          "name": "FRIKUN"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "DJ BULLekin jai amaitezina"
+        },
+        {
+          "location": "Pa... Ya!",
+          "name": "TTUN TTUN BRIGADE"
+        }
+      ],
+      "23:45": [
+        {
+          "location": "Aixeberri",
+          "name": "OXABI (erromeria)"
+        }
+      ],
+      "00:00": [
+        {
+          "location": "Abante!",
+          "name": "DJ Session"
+        },
+        {
+          "location": "Mamiki",
+          "name": "Kankaneo Teatro: PENKOLETAS SISTERS (humor y electro-feminismo)"
+        },
+        {
+          "location": "Triangune",
+          "name": "Playback"
+        }
+      ],
+      "01:00": [
+        {
+          "location": "Mamiki",
+          "name": "MAMIKI DJak"
+        }
+      ],
+      "02:00": [
+        {
+          "location": "Algara",
+          "name": "EDDIE MAE + FRANCES BE + LES ALBORREGACH"
+        }
+      ]
+    }
+  },
+  "VIERNES 24 DE AGOSTO": {
+    "day": 24,
+    "events": {
+      "09:00": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Bakalao al pil pil. Inscripción"
+        },
+        {
+          "location": "Arenal",
+          "name": "Menú Konpartseril! Inscripción"
+        }
+      ],
+      "10:00": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Diana de txistularis y txupín"
+        },
+        {
+          "location": "Euskal Museoa",
+          "name": "Exposición 40 aniversario Aste Nagusia"
+        }
+      ],
+      "11:00": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Bakalao Al pil pil"
+        },
+        {
+          "location": "Arenal",
+          "name": "Aprendiendo a cocinar: Kokotxas al pil-pil"
+        },
+        {
+          "location": "Arriagako Atz.",
+          "name": "Hinchables"
+        },
+        {
+          "location": "Askapeña",
+          "name": "Atún asado"
+        },
+        {
+          "location": "Ripa",
+          "name": "Actividades de agua"
+        }
+      ],
+      "11:30": [
+        {
+          "location": "Askapeña",
+          "name": "Juegos infantiles"
+        }
+      ],
+      "12:00": [
+        {
+          "location": "Hontzak",
+          "name": "Taller de caricaturas"
+        },
+        {
+          "location": "Arenal",
+          "name": "Showkaldaritza: Como cocinar bakalao, con Zigor Iturrieta y Juantxu Larrucea"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "Txistularis - pasacalles Ensanche y Abando"
+        },
+        {
+          "location": "Kaialde",
+          "name": "Gymkana Fotográfica"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "Igerilekua"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Rocódromo"
+        },
+        {
+          "location": "Mamiki - Txomin B.",
+          "name": "Txikigune"
+        },
+        {
+          "location": "Pinpilinpauxa",
+          "name": "Trikitilaris"
+        },
+        {
+          "location": "Piztiak",
+          "name": "Mosaico con legumbres"
+        },
+        {
+          "location": "Triangune",
+          "name": "Instrumentos reciclados"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Terraza"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Photocall"
+        }
+      ],
+      "12:30": [
+        {
+          "location": "Algara",
+          "name": "Zaparrada haur-konpartsaren bazkaria"
+        },
+        {
+          "location": "Plaza Barria",
+          "name": "Ajedrez viviente"
+        }
+      ],
+      "13:00": [
+        {
+          "location": "Algara",
+          "name": "Bilbo Hiria 96.0 Fm irratiaren zuzeneko saioa"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Talleres infantiles"
+        }
+      ],
+      "13:30": [
+        {
+          "location": "Askapeña",
+          "name": "Ongi etorri errefuxiatuak exposición"
+        },
+        {
+          "location": "Komantxe",
+          "name": "AIAMA"
+        }
+      ],
+      "14:30": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Entrega de premios"
+        },
+        {
+          "location": "Arenal",
+          "name": "Menú Konpartseril! Comi"
+        }
+      ],
+      "15:00": [
+        {
+          "location": "Txori Barrote",
+          "name": "Elkartasun bazkaria"
+        }
+      ],
+      "16:30": [
+        {
+          "location": "Triangune",
+          "name": "Subida del Nervión en barco"
+        }
+      ],
+      "17:00": [
+        {
+          "location": "Arenal",
+          "name": "XXII Hiri Krosa: Salida txupetes y txikiak femenina"
+        },
+        {
+          "location": "Kaialde",
+          "name": "DJ PAKO Disco fiesta familiar"
+        },
+        {
+          "location": "Arenal",
+          "name": "XXII Hiri Krosa: Convocatoria"
+        },
+        {
+          "location": "Askapeña",
+          "name": "Mercado internacionalista"
+        },
+        {
+          "location": "Komantxe",
+          "name": "Kolektiboen herri denda"
+        },
+        {
+          "location": "Ripa",
+          "name": "Juegos de agua interkonparsas"
+        }
+      ],
+      "17:10": [
+        {
+          "location": "Arenal",
+          "name": "XXII Hiri Krosa: Salida txupetes y txikiak masculina"
+        }
+      ],
+      "17:20": [
+        {
+          "location": "Arenal",
+          "name": "XXII Hiri Krosa: Salida pre-benjamin, benjamin y alevín femenina"
+        }
+      ],
+      "17:30": [
+        {
+          "location": "Arenal",
+          "name": "KONPARTSAKIDETU!: Construye tu txosna"
+        }
+      ],
+      "17:35": [
+        {
+          "location": "Arenal",
+          "name": "XXII Hiri Krosa: Salida pre-benjamín, benjamín y alevín masculina"
+        }
+      ],
+      "17:50": [
+        {
+          "location": "Arenal",
+          "name": "XXII Hiri Krosa: Salida infantil, cadete y juvenil"
+        }
+      ],
+      "18:00": [
+        {
+          "location": "Arenal",
+          "name": "AQUAFONIA"
+        }
+      ],
+      "18:05": [
+        {
+          "location": "Arenal",
+          "name": "XXII Hiri Krosa: Salida atletas en silla de ruedas"
+        }
+      ],
+      "18:25": [
+        {
+          "location": "Arenal",
+          "name": "XXII Hiri Krosa: Salida senior, junior, promesas y veteranos/as"
+        }
+      ],
+      "18:30": [
+        {
+          "location": "Mamiki",
+          "name": "LA MODERN"
+        }
+      ],
+      "18:45": [
+        {
+          "location": "Hontzak",
+          "name": "ETC ROCK"
+        }
+      ],
+      "19:00": [
+        {
+          "location": "Aixeberri",
+          "name": "Karaoke"
+        }
+      ],
+      "19:30": [
+        {
+          "location": "Arenal",
+          "name": "XXII. Hiri Krosa: Entrega de premios"
+        },
+        {
+          "location": "Pa... Ya!",
+          "name": "OIER ASLA"
+        },
+        {
+          "location": "Piztiak",
+          "name": "LINDY HOUR"
+        }
+      ],
+      "20:00": [
+        {
+          "location": "Hontzak",
+          "name": "DONKEY PUNCHERS"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "Poteoa"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "HAVANA 537"
+        },
+        {
+          "location": "Txomin Barullo",
+          "name": "Triki kalejira Marijaiarekin"
+        }
+      ],
+      "20:30": [
+        {
+          "location": "Arriaga Plaza",
+          "name": "Toro de fuego"
+        },
+        {
+          "location": "Kaialde",
+          "name": "HOWDY"
+        }
+      ],
+      "20:45": [
+        {
+          "location": "Askapeña",
+          "name": "GURUTZES MANOUCHES"
+        }
+      ],
+      "21:00": [
+        {
+          "location": "Piztiak",
+          "name": "MICKY & THE BUZZ"
+        }
+      ],
+      "21:30": [
+        {
+          "location": "Kaskagorri",
+          "name": "Playback"
+        }
+      ],
+      "22:30": [
+        {
+          "location": "Etxebarria Parkea",
+          "name": "XXVIII Concurso internacional Villa de Bilbao: PIROTECNIA ALPUJARREÑA (GRANADA)"
+        }
+      ],
+      "23:00": [
+        {
+          "location": "Askapeña",
+          "name": "EZETAERRE"
+        }
+      ],
+      "23:30": [
+        {
+          "location": "Algara",
+          "name": "DJ BULL"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "THE RUIZER DJ"
+        },
+        {
+          "location": "Komantxe",
+          "name": "SAN SON DYEAH!"
+        }
+      ],
+      "23:45": [
+        {
+          "location": "Aixeberri",
+          "name": "DJ FESTA 70S"
+        },
+        {
+          "location": "Zaratas",
+          "name": "DJ JEREMIAH JOHNSON"
+        }
+      ],
+      "00:30": [
+        {
+          "location": "Pinpilinpauxa",
+          "name": "LAS FELLINI"
+        }
+      ],
+      "01:00": [
+        {
+          "location": "Komantxe",
+          "name": "MENEO"
+        }
+      ],
+      "02:30": [
+        {
+          "location": "Komantxe",
+          "name": "REIMY"
+        }
+      ]
+    }
+  },
+  "SÁBADO 25 DE AGOSTO": {
+    "day": 25,
+    "events": {
+      "09:00": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Marmitako. (Inscripción)"
+        }
+      ],
+      "10:00": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Diana de txistularis y txupín"
+        },
+        {
+          "location": "Euskal Museoa",
+          "name": "Exposición 40 aniversario Aste Nagusia"
+        },
+        {
+          "location": "Zabalguneko Merk.",
+          "name": "XIX Campeonato internacional de Ajedrez"
+        }
+      ],
+      "11:00": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Marmitako"
+        },
+        {
+          "location": "Arriagako Atz.",
+          "name": "Hinchables"
+        }
+      ],
+      "12:00": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Reparto de Bonito"
+        },
+        {
+          "location": "Arenal",
+          "name": "KONPARTSAKIDETU!: Taller de kalejira"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "Igerilekua"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "Euskal txikigune"
+        },
+        {
+          "location": "Moskotarrak",
+          "name": "Cata de vinos: VI. edición “Nariz de Marijaia”"
+        },
+        {
+          "location": "Kaialde",
+          "name": "Lanzamiento de güito"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Terraza"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Photocall"
+        }
+      ],
+      "12:30": [
+        {
+          "location": "Hontzak",
+          "name": "Taller de Baile Rock’n’Roll"
+        }
+      ],
+      "13:00": [
+        {
+          "location": "Komantxe",
+          "name": "Bailes irlandeses"
+        },
+        {
+          "location": "Triangune",
+          "name": "IMANOL ITUINO: Magia a tutiplén"
+        },
+        {
+          "location": "Uribarri",
+          "name": "Body Combat"
+        }
+      ],
+      "13:15": [
+        {
+          "location": "Hontzak",
+          "name": "Marianito-Rock con banda en directo"
+        }
+      ],
+      "13:30": [
+        {
+          "location": "Askapeña",
+          "name": "Euskadi-Kuba exposición"
+        },
+        {
+          "location": "Euskalgune",
+          "name": "DJ DRONKI Marianito musikatua"
+        }
+      ],
+      "14:30": [
+        {
+          "location": "Arenal",
+          "name": "BKAFF: Certamen gastronómico: Entrega de premios"
+        }
+      ],
+      "15:00": [
+        {
+          "location": "Arenal",
+          "name": "Comida interkonparsas"
+        }
+      ],
+      "17:00": [
+        {
+          "location": "Komantxe",
+          "name": "Kolektiboen herri denda"
+        }
+      ],
+      "17:30": [
+        {
+          "location": "Arriaga Plaza",
+          "name": "Herri Kirolak entre Konparsas"
+        }
+      ],
+      "18:00": [
+        {
+          "location": "Irrintzi",
+          "name": "Txistularis: Pasacalles Arenal, Plaza Nueva y Siete calles"
+        }
+      ],
+      "20:00": [
+        {
+          "location": "Arriaga Plaza",
+          "name": "Reparto Banderas Azul y Marrón y premio “PALMADA”"
+        },
+        {
+          "location": "Askapeña",
+          "name": "ORLIS PINEDA"
+        },
+        {
+          "location": "Zazpi Kaleak",
+          "name": "Bilbo Kantari"
+        }
+      ],
+      "20:30": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Toro de fuego"
+        },
+        {
+          "location": "Pa... Ya!",
+          "name": "TXALAINAK"
+        }
+      ],
+      "21:00": [
+        {
+          "location": "Kulturgune",
+          "name": "XUTIK Txaranga"
+        }
+      ],
+      "22:30": [
+        {
+          "location": "Etxebarria Parkea",
+          "name": "Fuegos artificiales exhibición: ASTONDOA PIROTEKNIA. (BIZKAIA)"
+        }
+      ],
+      "23:30": [
+        {
+          "location": "Algara",
+          "name": "DJ MAKALA & JIMMY BIDAURRETA"
+        },
+        {
+          "location": "Irrintzi",
+          "name": "DJ PAUL SWYLË"
+        }
+      ],
+      "23:45": [
+        {
+          "location": "Zaratas",
+          "name": "DJ CISCAR"
+        }
+      ],
+      "00:30": [
+        {
+          "location": "Komantxe",
+          "name": "DR. BRAVO & THE FUNKYCONSOLE"
+        },
+        {
+          "location": "Pinpilinpauxa",
+          "name": "LOCO MIA"
+        }
+      ]
+    }
+  },
+  "DOMINGO 26 DE AGOSTO": {
+    "day": 26,
+    "events": {
+      "09:00": [
+        {
+          "location": "Arenal",
+          "name": "Concurso gastronómico de rabo guisado. Inscripción"
+        }
+      ],
+      "10:00": [
+        {
+          "location": "Arriaga plaza",
+          "name": "Diana de txistularis y txupín"
+        },
+        {
+          "location": "Euskal Museoa",
+          "name": "Exposición 40 aniversario Aste Nagusia"
+        },
+        {
+          "location": "Pinpilinpauxa",
+          "name": "Torneo de juegos de mesa"
+        }
+      ],
+      "11:00": [
+        {
+          "location": "Arenal",
+          "name": "Concurso gastronómico: Guiso de rabo"
+        }
+      ],
+      "12:00": [
+        {
+          "location": "Irrintzi",
+          "name": "Txistularis - Pasacalles libre"
+        },
+        {
+          "location": "Kaialde",
+          "name": "Taller de chapas"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "Igerilekua"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Terraza"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Photocall"
+        }
+      ],
+      "13:00": [
+        {
+          "location": "Uribarri",
+          "name": "Talleres infantiles"
+        }
+      ],
+      "13:30": [
+        {
+          "location": "Askapeña",
+          "name": "AHAZTUAK"
+        }
+      ],
+      "14:00": [
+        {
+          "location": "Irrintzi",
+          "name": "Txistularis y grupo de Danzas. Brindis final"
+        }
+      ],
+      "14:30": [
+        {
+          "location": "Arenal",
+          "name": "Certamen gastronómico: Entrega de premios"
+        },
+        {
+          "location": "Askapeña",
+          "name": "AHAZTUAK comida"
+        }
+      ],
+      "17:00": [
+        {
+          "location": "Komantxe",
+          "name": "Kolektiboen herri denda"
+        },
+        {
+          "location": "Kulturgune",
+          "name": "1 2 3... Festa!"
+        },
+        {
+          "location": "Mamiki + Txomin B.",
+          "name": "HARTE-LO ETA JAM SESSION"
+        }
+      ],
+      "17:30": [
+        {
+          "location": "Pa...Ya!",
+          "name": "Pa...Ya! vs Kaskagorri guerra sucia"
+        }
+      ],
+      "18:00": [
+        {
+          "location": "Askapeña",
+          "name": "ROJO CANCIONERO"
+        },
+        {
+          "location": "Kaskagorri",
+          "name": "AKERBELTZ erromeria"
+        },
+        {
+          "location": "Zaratas",
+          "name": "Disko Jaia / Disco Fiesta"
+        }
+      ],
+      "20:15": [
+        {
+          "location": "Kulturgune",
+          "name": "MARIJAIAREN AZKEN TRIBUTOA (RIP)"
+        }
+      ],
+      "20:30": [
+        {
+          "location": "Arenal",
+          "name": "Toro de fuego"
+        }
+      ],
+      "23:00": [
+        {
+          "location": "Arenal",
+          "name": "Final de fiesta y despedida a Marijaia"
+        }
+      ]
+    }
+  }
+}
