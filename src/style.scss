@@ -108,6 +108,7 @@ button {
 .hour {
     padding: .3em 0;
     margin-top: 1em;
+    position: relative;
     position: sticky;
     top: 99px;
     display: flex;
@@ -194,6 +195,10 @@ button {
     align-items: center;
     border-radius: 50%;
     box-sizing: border-box;
+
+    span {
+        margin: 0 0 .1em .05em;
+    }
 }
 
 .hours {
@@ -217,6 +222,7 @@ button {
 }
 
 .day-title {
+    position: relative;
     position: sticky;
     top: 59px;
     font-size: 22px;
