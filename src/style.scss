@@ -108,7 +108,7 @@ button {
 .hour {
     padding: .3em 0;
     margin-top: 1em;
-    position: relative;
+    position: -webkit-sticky;
     position: sticky;
     top: 99px;
     display: flex;
@@ -222,7 +222,7 @@ button {
 }
 
 .day-title {
-    position: relative;
+    position: -webkit-sticky;
     position: sticky;
     top: 59px;
     font-size: 22px;
