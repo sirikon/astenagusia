@@ -258,7 +258,17 @@ button {
 
 .footer {
     text-align: center;
-    padding-bottom: 20px;
+    padding: 1px 20px;
+    background-color: #fbfbfb;
+    margin-top: 80px;
+
+    &-content {
+        max-width: 600px;
+        display: block;
+        margin: auto;
+        text-align: left;
+    }
+
     a {
         text-decoration: none;
         font-weight: bold;
