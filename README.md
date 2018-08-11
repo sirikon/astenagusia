@@ -1,6 +1,6 @@
-# Aste Nagusi
+# Aste Nagusia
 
-Agenda de eventos y conciertos de Bilboko Konpartzak, conciertos del ayuntamiento y de salas.
+Esta web reúne eventos y conciertos del Ayuntamiento de Bilbao, Bilboko Konpartsak, salas de concierto y demás iniciativas en torno a Aste Nagusia Bilbao.
 
 ## Desarrollo
 
