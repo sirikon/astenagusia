@@ -262,11 +262,9 @@ button {
     background-color: #fbfbfb;
     margin-top: 80px;
 
-    &-content {
-        max-width: 600px;
-        display: block;
-        margin: auto;
-        text-align: left;
+    &-madewithlove {
+        margin: 1.5em 0;
+        font-size: 1.2em;
     }
 
     a {
