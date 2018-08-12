@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+https://astenagusi.sirikon.me/* https://astenagusia.eus/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://astenagusia-sirikon.netlify.com/* https://astenagusia.eus/:splat 301!
