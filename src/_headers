@@ -1,3 +1,11 @@
 /
     Link: <main.js>; rel=preload; as=script
     Link: <style.css>; rel=preload; as=style
+
+/en.html
+    Link: <main.js>; rel=preload; as=script
+    Link: <style.css>; rel=preload; as=style
+
+/es.html
+    Link: <main.js>; rel=preload; as=script
+    Link: <style.css>; rel=preload; as=style
