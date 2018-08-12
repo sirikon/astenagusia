@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const slugify = require('slugify');
 
-const WEEKDAYS = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
+const WEEKDAYS = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
 
 class Event {
     constructor(day, hour, location, name, badges) {
@@ -84,9 +84,9 @@ function getEvents() {
 
 const events = getEvents();
 
-function getDayText(dayNumber) {
+function getDayId(dayNumber) {
     var weekDay = (new Date(2018, 7, dayNumber, 12, 0, 0, 0)).getDay();
-    return `${WEEKDAYS[weekDay]} ${dayNumber}`;
+    return `${WEEKDAYS[weekDay]}`;
 }
 
 function slugifyLocation(locationName) {
@@ -113,7 +113,7 @@ module.exports = {
                     if (!dayIndex[event.day]) {
                         dayIndex[event.day] = {
                             number: event.day,
-                            text: getDayText(event.day),
+                            day_id: getDayId(event.day),
                             locations: [],
                             hours: []
                         };

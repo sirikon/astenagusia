@@ -1,0 +1,24 @@
+{
+    "FILTER_BY_LOCATION": "Filter by location",
+    "REMOVE_FILTER": "Remove filter",
+    "SELECT_A_LOCATION": "Select a location:",
+    "NO_FILTER": "No filter",
+    "GO_UP": "Go up",
+
+    "MONDAY": "Monday {}",
+    "TUESDAY": "Tuesday {}",
+    "WEDNESDAY": "Wednesday {}",
+    "THURSDAY": "Thursday {}",
+    "FRIDAY": "Friday {}",
+    "SATURDAY": "Saturday {}",
+    "SUNDAY": "Sunday {}",
+
+    "FOOTER_DESCRIPTION": "This website has events and concerts from Bilbao's Council, Bilboko Konpartsak, concert halls and many initiatives around Aste Nagusia Bilbao.",
+    "FOOTER_HOSTING": "Website hosted in <a href=\"https://www.netlify.com/\" target=\"_blank\">Netlify</a>.",
+    "FOOTER_TRACKING": "This website doesn't track any user actions in the client side.",
+    "FOOTER_JAVASCRIPT": "You can <b>disable JavaScript</b> if you want, navigation will work, but filters will not.",
+    "FOOTER_DATA_ORIGINS": "Data origins:",
+    "FOOTER_CREDITS": "<b>Not official</b> website developed by <a target=\"_blank\" href=\"https://twitter.com/Sirikon\">@Sirikon</a>.",
+    "FOOTER_SOURCE_CODE": "You can <a target=\"_blank\" href=\"https://github.com/sirikon/astenagusia\">see the source code on Github</a>.",
+    "FOOTER_MADE_IN_BILBAO": "Made with ❤️ in <b>Bilbao</b>"
+}

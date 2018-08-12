@@ -85,6 +85,17 @@ button {
         &.is-active {
             background-color: #ff5252;
             font-weight: bold;
+
+            .title-filter-on {
+                display: inline;
+            }
+            .title-filter-off {
+                display: none;
+            }
+        }
+
+        &-on {
+            display: none;
         }
 
         svg {

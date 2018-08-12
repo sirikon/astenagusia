@@ -25,11 +25,9 @@ function render() {
             '[data-location]:not([data-location="' + state.currentFilter.slug + '"]) { display: none; } ' +
             '[data-locations]:not([data-locations*="__' + state.currentFilter.slug + '__"]) { display: none; } ';
         filterButtonElement.classList.add('is-active');
-        filterButtonElement.querySelector('span').textContent = 'Borrar filtro';
     } else {
         dynamicStyleElement.textContent = '';
         filterButtonElement.classList.remove('is-active');
-        filterButtonElement.querySelector('span').textContent = 'Filtrar por lugar';
     }
 
     locationMenuElement.classList.toggle('location-popup--visible', state.filterMenuOpen);
