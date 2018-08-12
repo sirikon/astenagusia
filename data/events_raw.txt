@@ -333,7 +333,7 @@
 22|20:30|Arriaga Plaza|Toro de fuego
 22|20:30|Moskotarrak|MOSKOGOLA
 22|20:30|La Carbonería|Javier Urquijo (Los Secretos)|🎵
-22|20:45|Gas Plaza|Cine de calle
+22|20:45|Gas Plaza|Cine de calle|🎦
 22|21:00|Euskalgune|Euskal Karaokea
 22|21:00|Uribarri|JEAN PAOLO Y LA SIEMPREVIVA|🎵
 22|21:00|Bilborock|FREE THE WHEEL, Bilbao (HARD ROCK’N BLUES)|🎵
@@ -346,7 +346,7 @@
 22|23:00|Kulturgune|ZIRKINIK BEZ KONTZERTUAK|🎵
 22|23:00|Uribarri|BERANDUEGI ERROMERIA|🎵
 22|23:00|Txomin Barullo|Obsesión Fatal|🎵
-22|23:15|Gas Plaza|Cine de calle: Amets Nagusia
+22|23:15|Gas Plaza|Cine de calle: Amets Nagusia|🎦
 22|23:30|Algara|VULK + KASKEZUR|🎵
 22|23:30|Irrintzi|DJ PAUL SWYLË|🎵
 22|23:30|Komantxe|KENNA I & GLAMITY SOUND|🎵

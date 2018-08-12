@@ -12,6 +12,7 @@
         <link rel="shortcut icon" href="/favicon.ico?v=bOMO6QWwnr">
         <meta name="msapplication-TileColor" content="#8f1919">
         <meta name="theme-color" content="#8f1919">
+        <meta name="google" content="notranslate">
         <style id="dynamic-style"></style>
     </head>
     <body>
@@ -31,7 +32,17 @@
                 </div>
             </div>
 
-            <div id="up" class="days">
+            <div id="up" class="title-spacer"></div>
+
+            <div class="i18n">
+                <a href="/" class="i18n-option <%= activeLanguage === 'eu' ? 'is-active' : '' %>">Euskara</a>
+                <span class="i18n-sep">-</span>
+                <a href="/es.html" class="i18n-option <%= activeLanguage === 'es' ? 'is-active' : '' %>">Español</a>
+                <span class="i18n-sep">-</span>
+                <a href="/en.html" class="i18n-option <%= activeLanguage === 'en' ? 'is-active' : '' %>">English</span>
+            </div>
+
+            <div class="days">
                 <% data.index.home.days.forEach((day) => { %>
                     <a data-locations="__<%= day.locations.join('__') %>__" class="day" href="#day_<%= day.number %>">
                         <span><%= day.number %></span>

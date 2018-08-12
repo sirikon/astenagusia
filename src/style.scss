@@ -1,17 +1,6 @@
 $page-max-width: 1000px;
 $mobile-breakpoint: 600px;
-$font-family: 'Open Sans', Tahoma, Geneva, Verdana, sans-serif;
-
-@font-face {
-    font-family: 'Open Sans';
-    src: url('fonts/OpenSans-Regular.ttf');
-}
-
-@font-face {
-    font-family: 'Open Sans';
-    font-weight: 700;
-    src: url('fonts/OpenSans-Bold.ttf');
-}
+$font-family: 'Droid Sans', sans-serif;
 
 body {
     font-family: $font-family;
@@ -54,7 +43,7 @@ button {
     }
 
     h1 {
-        padding-bottom: .15em;
+        // padding-bottom: .15em;
 
         @media (max-width: $mobile-breakpoint) {
             padding-left: 10px;
@@ -64,6 +53,10 @@ button {
         @media (max-width: $mobile-breakpoint - 200px) {
             font-size: 1.3em;
         }
+    }
+
+    &-spacer {
+        height: 60px;
     }
 
     &-filter {
@@ -184,7 +177,7 @@ button {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    padding: 65px 5px 10px 0;
+    padding: 17px 5px 10px 0;
     margin-bottom: -15px;
     background-color: #8F1919;
 }
@@ -206,9 +199,9 @@ button {
     border-radius: 50%;
     box-sizing: border-box;
 
-    span {
-        margin: 0 0 .1em .05em;
-    }
+    // span {
+    //     margin: 0 0 .1em .05em;
+    // }
 }
 
 .hours {
@@ -331,5 +324,28 @@ button {
         margin-bottom: 10px;
         cursor: pointer;
         background-color: whitesmoke;
+    }
+}
+
+.i18n {
+    background-color: #8F1919;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    &-sep {
+        margin: 0 5px;
+        color: white;
+    }
+
+    &-option {
+        opacity: .6;
+        color: white;
+        text-decoration: none;
+        &.is-active {
+            opacity: 1;
+            font-weight: bold;
+        }
     }
 }
