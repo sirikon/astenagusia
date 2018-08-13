@@ -165,6 +165,26 @@ var programacion = programacionRaw.map(event => {
         result.badges.push('🥁');
     }
 
+    if (event.tipo === 'KIROLAK - DEPORTES') {
+        if (event.nombre_es.toLowerCase().indexOf('ajedrez') >= 0) {
+            result.badges.push('♟️');
+        } else if (event.nombre_es.toLowerCase().indexOf('waterpolo') >= 0) {
+            result.badges.push('🤽');
+        } else if (event.nombre_es.toLowerCase().indexOf('basket') >= 0) {
+            result.badges.push('🏀');
+        } else {
+            result.badges.push('🏃‍');
+        }
+    }
+
+    if (event.nombre_es.toLowerCase().indexOf('bilbo hiria') >= 0) {
+        result.badges.push('📻');
+    }
+
+    if (event.nombre_es.toLowerCase().indexOf('photocall') >= 0) {
+        result.badges.push('📷');
+    }
+
     if (event.tipo === 'JOLASAK - JUEGOS') {
         if (
             event.nombre_es.toLowerCase().indexOf('rol') >= 0 ||
