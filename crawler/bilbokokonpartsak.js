@@ -44,6 +44,8 @@ function normalizeText (text) {
     return result.join('');
 }
 
+const MARIJAIAN_EVENTS = ['545', '326', '433', '434', '302', '415'];
+
 var programacion = programacionRaw.map(event => {
     var result = {
         name: '',
@@ -127,7 +129,7 @@ var programacion = programacionRaw.map(event => {
         result.day--;
     }
 
-    if (event.tipo === 'KONTZERTUAK - CONCIERTOS') {
+    if (event.tipo === 'KONTZERTUAK - CONCIERTOS' || event.tipo === 'MUSIKA - M\u00faSICA') {
         result.badges.push('🎵');
     }
 
@@ -143,8 +145,44 @@ var programacion = programacionRaw.map(event => {
         result.badges.push('🛠️');
     }
 
+    if (event.tipo === 'GASTRONOMIA - GASTRONOM\u00edA') {
+        result.badges.push('🍲');
+    }
+
+    if (event.tipo === 'PIROTEKNIA - PIROTECNIA') {
+        result.badges.push('🎇');
+    }
+
+    if (event.tipo === 'SU ARTIFIZIALAK - FUEGOS ARTIFICIALES') {
+        result.badges.push('🎆')
+    }
+
+    if (event.tipo === 'ERAKUSKETA - EXPOSICI\u00f3N') {
+        result.badges.push('🖼️');
+    }
+
+    if (event.tipo === 'KALEJIRA') {
+        result.badges.push('🥁');
+    }
+
+    if (event.tipo === 'JOLASAK - JUEGOS') {
+        if (
+            event.nombre_es.toLowerCase().indexOf('rol') >= 0 ||
+            event.nombre_es.toLowerCase().indexOf('mesa') > 0 ||
+            event.id === '560'
+        ) {
+            result.badges.push('🎲');
+        } else {
+            result.badges.push('🤾‍');
+        }
+    }
+
     if (event.id === '495') {
         result.name = 'Taller de Reciclaje'
+    }
+
+    if (MARIJAIAN_EVENTS.indexOf(event.id) >= 0) {
+        result.badges.push('😭');
     }
 
     return result;
