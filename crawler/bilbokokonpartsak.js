@@ -145,7 +145,7 @@ var programacion = programacionRaw.map(event => {
         result.badges.push('🛠️');
     }
 
-    if (event.tipo === 'GASTRONOMIA - GASTRONOM\u00edA') {
+    if (event.tipo.indexOf('GASTRONOMIA') >= 0) {
         result.badges.push('🍲');
     }
 
@@ -157,7 +157,7 @@ var programacion = programacionRaw.map(event => {
         result.badges.push('🎆')
     }
 
-    if (event.tipo === 'ERAKUSKETA - EXPOSICI\u00f3N') {
+    if (event.tipo.indexOf('ERAKUSKETA') >= 0) {
         result.badges.push('🖼️');
     }
 
@@ -173,7 +173,7 @@ var programacion = programacionRaw.map(event => {
         } else if (event.nombre_es.toLowerCase().indexOf('basket') >= 0) {
             result.badges.push('🏀');
         } else {
-            result.badges.push('🏃‍');
+            result.badges.push('🤾‍');
         }
     }
 
@@ -193,7 +193,7 @@ var programacion = programacionRaw.map(event => {
         ) {
             result.badges.push('🎲');
         } else {
-            result.badges.push('🤾‍');
+            result.badges.push('⛳');
         }
     }
 
