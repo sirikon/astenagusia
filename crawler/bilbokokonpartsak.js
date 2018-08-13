@@ -182,6 +182,10 @@ var programacion = programacionRaw.map(event => {
     }
 
     if (MARIJAIAN_EVENTS.indexOf(event.id) >= 0) {
+        result.badges.push('🙆');
+    }
+
+    if (event.id === '545') {
         result.badges.push('😭');
     }
 

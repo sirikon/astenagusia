@@ -1,7 +1,7 @@
 18|17:00|Zazpi Kaleak|KALEJIRA DEL TXUPÍN|🥁
-18|19:00|Arriaga Plaza|RECEPCIÓN A MARIJAIA, PREGÓN Y TXUPÍN DE COMIENZO DE FIESTAS|😭
-18|19:45|Arriaga Plaza|AGURRA A MARIJAIA|😭
-18|20:00|Arriagako Atz.|APERTURA DE TXOSNAS CON MARIJAIA|🥁-😭
+18|19:00|Arriaga Plaza|RECEPCIÓN A MARIJAIA, PREGÓN Y TXUPÍN DE COMIENZO DE FIESTAS|🙆
+18|19:45|Arriaga Plaza|AGURRA A MARIJAIA|🙆
+18|20:00|Arriagako Atz.|APERTURA DE TXOSNAS CON MARIJAIA|🥁-🙆
 18|20:00|Bilborock|NEGRACALAVERA, Bilbao (ROCK&ROLL)|🎵
 18|20:30|Arriaga Plaza|TORO DE FUEGO|🎇
 18|20:30|La Carbonería|Jonathan Merino|🎵
@@ -279,7 +279,7 @@
 22|11:00|Arenal|BKAFF: Certamen gastronómico: Txipirones en su tinta|🍲
 22|11:00|Arriagako Atz.|Hinchables|🤾‍
 22|11:00|Askapeña|COMPETICIóN TIRAGOMA|🏆
-22|11:00|Basurto|Visita a los niños y las niñas del hospital de Basurto con Marijaia y el Circo|😭
+22|11:00|Basurto|Visita a los niños y las niñas del hospital de Basurto con Marijaia y el Circo|🙆
 22|11:00|Ripa|Hinchables/Actividades de agua|🤾‍
 22|11:30|Askapeña|JUEGOS INFANTILES|🤾‍
 22|11:30|Triangune|Feria agricola
@@ -525,7 +525,7 @@
 24|20:00|Kaskagorri|Poteoa
 24|20:00|Kulturgune|Havana 537|🎵
 24|20:00|NAVE 9|The Dustaphonics + DJs (Gratis)|🎵
-24|20:00|Txomin Barullo|Triki calejira con Marijaia|🥁-😭
+24|20:00|Txomin Barullo|Triki calejira con Marijaia|🥁-🙆
 24|20:30|Arriaga Plaza|TORO DE FUEGO|🎇
 24|20:30|Kaialde|HOWDY|🎵
 24|20:30|La Carbonería|Aida|🎵
@@ -623,4 +623,4 @@
 26|18:00|Zaratas|DISCO FIESTA|🎵
 26|20:15|Kulturgune|Marijaiaren azken tributoa RIP|🎵
 26|20:30|Arenal|TORO DE FUEGO|🎇
-26|23:00|Arenal|FINAL DE FIESTA Y DESPEDIDA A MARIJAIA|😭
+26|23:00|Arenal|FINAL DE FIESTA Y DESPEDIDA A MARIJAIA|🙆-😭
