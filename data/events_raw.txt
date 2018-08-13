@@ -294,7 +294,6 @@
 22|12:00|Komantxe|Rocódromo
 22|12:00|Mamiki|Txikigune (Mamiki + Txomin Barullo)
 22|12:00|Piztiak|Taller de Orejas de animales|🛠️
-22|12:00|Txomin Barullo|Txikigune (Mamiki + Txomin Barullo)
 22|12:00|Zaratas|Photocall
 22|12:00|Zaratas|Terraza
 22|12:30|Eguzkizaleak|Lurra eguna
@@ -481,7 +480,7 @@
 24|11:00|Askapeña|Atún asado
 24|11:00|Ripa|Actividades de agua
 24|11:30|Askapeña|Juegos infantiles
-24|12:00|Arenal|Showkaldaritza: Como cocinar bakalao, con Zigor Iturrieta y Juantxu Larrucea
+24|12:30|Arenal|Showkaldaritza: Como cocinar bakalao, con Zigor Iturrieta y Juantxu Larrucea
 24|12:00|Hontzak|Taller de caricaturas|🛠️
 24|12:00|Irrintzi|Txistularis - pasacalles Ensanche y Abando
 24|12:00|Kaialde|Gymkana Fotográfica
@@ -491,7 +490,6 @@
 24|12:00|Pinpilinpauxa|Trikitilaris
 24|12:00|Piztiak|Mosaico con legumbres
 24|12:00|Triangune|Instrumentos reciclados
-24|12:00|Txomin Barullo|Txikigune (Mamiki - Txomin Barullo)
 24|12:00|Zaratas|Photocall
 24|12:00|Zaratas|Terraza
 24|12:30|Algara|Zaparrada haur-konpartsaren bazkaria

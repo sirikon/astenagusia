@@ -111,6 +111,10 @@ var programacion = programacionRaw.map(event => {
         result.location = 'Arriagako Ager.'
     }
 
+    if (result.location === 'Mamiki-Txomin') {
+        result.location = 'Mamiki';
+    }
+
     if (parseInt(result.hour.split(':')[0]) < 6) {
         result.day--;
     }

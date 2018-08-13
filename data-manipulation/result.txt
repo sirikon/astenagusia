@@ -1,10 +1,7 @@
 19|10:00|Arenal|Mercado de productores del agro bizkaino: Gure lurreko merkatuak
 19|20:30|Pa...Ya!|TOCAN2 LA POLLA|🎵
-21|12:00|Mamiki|Cata de cerveza (Mamiki + Txomin Barullo)
 21|12:00|Txomin Barullo|Cata de cerveza (Mamiki + Txomin Barullo)
 21|23:00|Moskotarrak|DJ invitado: UNAI BDJ|🎵
-22|12:00|Mamiki|Txikigune (Mamiki + Txomin Barullo)
-22|12:00|Txomin Barullo|Txikigune (Mamiki + Txomin Barullo)
 22|12:30|Pa...Ya!|Taller de máscaras|🛠️
 22|16:00|Algara|Anje Duhalde|🎵
 22|01:00|Hontzak|Reparto de sopa de ajo
@@ -16,11 +13,7 @@
 23|12:00|Sestao|IX Subida Popular de Piraguas por el Ibaizabal (Desde Sestao hasta el Ayuntamiento)
 23|14:00|Mamiki|Comida de comparseras
 23|17:00|Hau Pittu Hau|Euskara Saria
-24|12:00|Arenal|Showkaldaritza: Como cocinar bakalao, con Zigor Iturrieta y Juantxu Larrucea
-24|12:00|Mamiki|Txikigune (Mamiki - Txomin Barullo)
-24|12:00|Txomin Barullo|Txikigune (Mamiki - Txomin Barullo)
 24|18:00|Arenal|AQUAFONIA
 24|18:30|Mamiki|LA MODERN
 24|23:30|Algara|DJ BULL|🎵
-24|00:30|Pinpilinpauxa|LAS FELLINI|🎵
 25|23:30|Algara|DJ MAKALA & JIMMY BIDAURRETA|🎵

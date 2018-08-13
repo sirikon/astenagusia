@@ -168,7 +168,7 @@
 21|12:00|Irrintzi|[Txistularis - Pasacalles por las Siete Calles][Txistulariak - Kalejira Zazpikaletik]
 21|12:00|Kaialde|[HINCHABLES][PUZGARRIAK]
 21|12:00|Komantxe|[Rocódromo][Rokodromoa]
-21|12:00|Mamiki-Txomin|[Cata Feminista][Kata feminista]
+21|12:00|Mamiki|[Cata Feminista][Kata feminista]
 21|12:00|Piztiak|[Taller de chapas][Txapa tailerra]|🛠️
 21|12:00|Zaratas|[TERRAZA][TERRAZA]
 21|12:00|Zaratas|[PHOTOCALL][PHOTOCALL]
@@ -256,7 +256,7 @@
 22|12:00|Kaixo|[taller infantil 2][umeentzako tailerra 2]|🛠️
 22|12:00|Komantxe|[Rocódromo][Rokodromoa]
 22|12:00|Komantxe|[Irola Irratia][Irola Irratia]
-22|12:00|Mamiki-Txomin|[Txikigune][Txikigune]
+22|12:00|Mamiki|[Txikigune][Txikigune]
 22|12:00|Piztiak|[Taller Orejas de animales][Animali belarriak tailerra]|🛠️
 22|12:00|Zaratas|[TERRAZA][TERRAZA]
 22|12:00|Zaratas|[PHOTOCALL][PHOTOCALL]
@@ -425,7 +425,7 @@
 24|12:00|Kaialde|[GYMKANA FOTOGRáFICA][ARGAZKI GYMKANA]
 24|12:00|Kaskagorri|Igerilekua
 24|12:00|Komantxe|[Rocódromo][Rokodromoa]
-24|12:00|Mamiki-Txomin|[Txikigune][Txikigune]|🛠️
+24|12:00|Mamiki|[Txikigune][Txikigune]|🛠️
 24|12:00|Pinpilinpauxa|[TRIKITILARIS][TRIKITILARIAK]
 24|12:00|Piztiak|[Mosaico con legumbres][Lekale-mosaikoa]|🛠️
 24|12:00|Triangune|[Taller de instrumentos reciclados][Instrumentu erreziklatuen tailerra]|🛠️
