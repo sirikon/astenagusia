@@ -40,9 +40,9 @@
 19|12:30|Zaratas|Talleres Infantiles|🛠️
 19|13:00|Mamiki|EMPERDEDORAS: LAS DESMEDIDAS
 19|13:00|NAVE 9|La Frontera (19€)|🎵
-19|13:00|Txinbotarrak|Taller de talo: Talo Tailerra|🛠️
 19|13:00|Txinbotarrak|Taller de chapas: Txapa tailerra|🛠️
 19|13:00|Txinbotarrak|Taller de potato: Potato tailerra|🛠️
+19|13:00|Txinbotarrak|Taller de talo: Talo Tailerra|🛠️
 19|13:00|Uribarri|Talleres infantiles|🛠️
 19|13:30|Zabalbide Kalea|KONPARTSAKIDETU!: Bajada txiki de Goitibeheras
 19|15:00|Txori Barrote|Txori-Kaska bazkaria
@@ -225,7 +225,6 @@
 21|18:00|Zaratas|SIGI SAGA: Dantzaplaza|🎵
 21|18:45|Hontzak|LA KRISIS|🎵
 21|19:00|Kulturgune|Zumba tailerra
-21|20:00|Mamiki|MAMIKI ZUZENEAN. Mamiki cede su escenario a nuevas bandas y artistas. LA FANY, BLESSURE, AIHOTZ, AMAZONA KON ARKO, LAS IRREKOÑOCIBLES, LA MODERN|🎵
 21|19:30|Moskotarrak|Carrera infantil de Motos Molto
 21|19:30|Piztiak|POMERAY|🎵
 21|19:30|Txori Barrote|Senideei omenaldia
@@ -234,6 +233,7 @@
 21|20:00|Bilborock|YO GERARD, Bilbao (INDIE POP-ROCK)|🎵
 21|20:00|Hontzak|OGT|🎵
 21|20:00|Kaialde|Zumba Master
+21|20:00|Mamiki|MAMIKI ZUZENEAN. Mamiki cede su escenario a nuevas bandas y artistas. LA FANY, BLESSURE, AIHOTZ, AMAZONA KON ARKO, LAS IRREKOÑOCIBLES, LA MODERN|🎵
 21|20:00|NAVE 9|Shöck + Soma 101 (Gratis)|🎵
 21|20:30|Arriaga Plaza|Toro de fuego
 21|20:30|La Carbonería|Javier Urquijo (Los Secretos)|🎵
@@ -249,7 +249,6 @@
 21|23:00|Askapeña|HAVANA 537|🎵
 21|23:00|Euskalgune|BULTZ + XAVI SARRIÀ|🎵
 21|23:00|Kulturgune|ROBA ESTESA|🎵
-21|23:00|Moskotarrak|DJ invitado: UNAI BDJ|🎵
 21|23:00|Uribarri|FREE THE WHEEL|🎵
 21|23:15|Gas Plaza|Cine de calle: Amets Nagusia|🎦
 21|23:30|Abandoibarra|Hombres G|🎵
@@ -268,7 +267,7 @@
 21|00:30|Pinpilinpauxa|KYRA SHIMAI|🎵
 21|01:00|Askapeña|DJ MAMBÚ|🎵
 21|01:00|Komantxe|PERLATA|🎵
-22|01:00|Mamiki|DJ-MAPATXE|🎵
+21|01:00|Mamiki|DJ-MAPATXE|🎵
 21|02:00|Algara|EASYER|🎵
 21|02:30|Komantxe|JOSEBA B. LENOIR|🎵
 22|09:00|Arenal|BKAFF: Certamen gastronómico: Txipirones en su tinta. Inscripción|🏆-🍲
@@ -310,7 +309,6 @@
 22|15:00|Eguzkizaleak|Lurra eguneko bazkaria
 22|15:00|Komantxe|Okupazio eguneko bazkaria
 22|15:00|Santiago Plaza|Bertso bazkaria Uxue Alberdi eta Unai Iturriagarekin
-22|16:00|Algara|Anje Duhalde|🎵
 22|16:30|Arriagako Atz.|Ginkana intercomparsas
 22|17:00|Komantxe|Kalejira
 22|17:00|Komantxe|Kolektiboen herri denda
@@ -351,6 +349,7 @@
 22|23:00|Euskalgune|REVOLTA PERMANENT + DJ ELEPUNTO|🎵
 22|23:00|Kaixo|YAU|🎵
 22|23:00|Kulturgune|ZIRKINIK BEZ KONTZERTUAK|🎵
+22|23:00|Moskotarrak|DJ invitado: UNAI BDJ|🎵
 22|23:00|Txomin Barullo|Obsesión Fatal|🎵
 22|23:00|Uribarri|BERANDUEGI ERROMERIA|🎵
 22|23:15|Gas Plaza|Cine de calle: Amets Nagusia|🎦
@@ -371,7 +370,6 @@
 22|01:00|Txomin Barullo|PENADAS POR LA LEY|🎵
 22|02:00|Algara|EL_TXEF_A|🎵
 22|02:30|Komantxe|LION SITTÉ|🎵
-22|04:00|Komantxe|PARCHE CUMBIANTXE DJ kontzertuak /conciertos|🎵
 23|10:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina. Inscripción|🏆-🍲
 23|10:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)|🛠️-🍲
 23|10:00|Arriaga Plaza|Diana de txistularis y txupín
@@ -470,6 +468,7 @@
 23|00:30|Pinpilinpauxa|Olé Olé 2.0|🎵
 23|01:00|Mamiki|MAMIKI DJak|🎵
 23|02:00|Algara|EDDIE MAE + FRANCES BE + LES ALBORREGACH|🎵
+23|04:00|Komantxe|PARCHE CUMBIANTXE DJ kontzertuak /conciertos|🎵
 24|09:00|Arenal|BKAFF: Certamen gastronómico: Bakalao al pil pil. Inscripción|🏆-🍲
 24|09:00|Arenal|Menú Konpartseril! Inscripción
 24|10:00|Arriaga Plaza|Diana de txistularis y txupín
@@ -480,7 +479,6 @@
 24|11:00|Askapeña|Atún asado
 24|11:00|Ripa|Actividades de agua
 24|11:30|Askapeña|Juegos infantiles
-24|12:30|Arenal|Showkaldaritza: Como cocinar bakalao, con Zigor Iturrieta y Juantxu Larrucea
 24|12:00|Hontzak|Taller de caricaturas|🛠️
 24|12:00|Irrintzi|Txistularis - pasacalles Ensanche y Abando
 24|12:00|Kaialde|Gymkana Fotográfica
@@ -493,6 +491,7 @@
 24|12:00|Zaratas|Photocall
 24|12:00|Zaratas|Terraza
 24|12:30|Algara|Zaparrada haur-konpartsaren bazkaria
+24|12:30|Arenal|Showkaldaritza: Como cocinar bakalao, con Zigor Iturrieta y Juantxu Larrucea
 24|12:30|Plaza Nueva|Ajedrez viviente
 24|13:00|Algara|Bilbo Hiria 96.0 Fm irratiaren zuzeneko saioa
 24|13:00|Uribarri|Talleres infantiles|🛠️
@@ -537,10 +536,10 @@
 24|21:30|Kaskagorri|Playback
 24|21:30|SHAKE!|General Lee + Coppel / Double Trouble + K-Billy|🎵
 24|22:30|Etxebarria Parkea|XXVIII Concurso internacional Villa de Bilbao: PIROTECNIA ALPUJARREÑA (GRANADA)|🎆
+24|23:00|Algara|DJ BULL|🎵
 24|23:00|Askapeña|EZETAERRE|🎵
 24|23:00|Kafe Antzokia|XXL + Lukiek (Gratis)|🎵
 24|23:30|Abandoibarra|Santiago Auseron + Sexy Sadie|🎵
-24|23:30|Algara|DJ BULL|🎵
 24|23:30|Irrintzi|THE RUIZER DJ|🎵
 24|23:30|Komantxe|SAN SON DYEAH!|🎵
 24|23:30|Plaza Nueva|Orquesta Radio Topolino|🎵
@@ -548,8 +547,8 @@
 24|23:45|Zaratas|DJ JEREMIAH JOHNSON|🎵
 24|00:00|Ambigú|Cecilia Payne (Gratis)|🎵
 24|00:00|Parque Europa|Adi Bilbao + Megastar + Dj Valdi|🎵
-24|01:30|Pinpilinpauxa|LAS FELLINI|🎵
 24|01:00|Komantxe|MENEO|🎵
+24|01:30|Pinpilinpauxa|LAS FELLINI|🎵
 24|02:30|Komantxe|REIMY|🎵
 25|09:00|Arenal|BKAFF: Certamen gastronómico: Marmitako. (Inscripción)|🏆-🍲
 25|10:00|Arriaga Plaza|Diana de txistularis y txupín
@@ -590,9 +589,9 @@
 25|21:00|Kulturgune|XUTIK Txaranga
 25|21:30|SHAKE!|F.R.A.N.C.O. + The Owl Project / Malcolm + Satte (Soulero) + Adrián (DJs)|🎵
 25|22:30|Etxebarria Parkea|Fuegos artificiales exhibición: ASTONDOA PIROTEKNIA. (BIZKAIA)
+25|23:00|Algara|DJ MAKALA & JIMMY BIDAURRETA|🎵
 25|23:00|Kafe Antzokia|Vhaldemar + Coffeinne (10 €)|🎵
 25|23:30|Abandoibarra|David DeMaría|🎵
-25|23:30|Algara|DJ MAKALA & JIMMY BIDAURRETA|🎵
 25|23:30|Irrintzi|DJ PAUL SWYLË|🎵
 25|23:30|Plaza Nueva|EUSKAL KANTARIEN JIRA-BIRA (Gontzal Mendibil, Gorka Knorr, Urko y TxominArtola)|🎵
 25|23:45|Zaratas|DJ CISCAR|🎵

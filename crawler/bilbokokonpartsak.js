@@ -115,6 +115,10 @@ var programacion = programacionRaw.map(event => {
         result.location = 'Mamiki';
     }
 
+    if (result.location === 'Hph') {
+        result.location = 'Hau Pittu Hau';
+    }
+
     if (parseInt(result.hour.split(':')[0]) < 6) {
         result.day--;
     }

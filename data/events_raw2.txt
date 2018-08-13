@@ -368,7 +368,7 @@
 23|16:00|Kaskagorri|Ekitaldia
 23|16:30|Euskalgune|[Biziprest eguneko ikuskizuna][Biziprest eguneko ikuskizuna]
 23|17:00|Arriagako Atz.|[Bertso saioa][Bertso saioa]
-23|17:00|Hph|Euskara saria
+23|17:00|Hau Pittu Hau|Euskara saria
 23|17:00|Komantxe|[Kolektiboen Herri Denda][Kolektiboen Herri Denda]
 23|17:00|Ripa|[Actividades de agua][Ur ekintzak]
 23|17:30|Hontzak|[Sudurkeriak: Bingo Txoooou!][Sudurkeriak: Bingo Txoooou!]
@@ -615,3 +615,13 @@
 25|00:00|Ambigú|Buenas Tardes, Comandante + Keems (Gratis)|🎵
 25|00:00|Parque Europa|Sebastián Yatra|🎵
 26|13:00|NAVE 9|The Neatbeats + DJs (Gratis)|🎵
+19|10:00|Arenal|Mercado de productores del agro bizkaino: Gure lurreko merkatuak
+19|20:30|Pa...Ya!|TOCAN2 LA POLLA|🎵
+21|12:00|Txomin Barullo|Cata de cerveza (Mamiki + Txomin Barullo)
+23|10:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina. Inscripción|🏆-🍲
+23|10:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)|🛠️-🍲
+23|12:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)|🛠️-🍲
+23|12:00|Sestao|IX Subida Popular de Piraguas por el Ibaizabal (Desde Sestao hasta el Ayuntamiento)
+24|18:00|Arenal|AQUAFONIA
+22|12:30|Pa...Ya!|Taller de máscaras|🛠️
+22|01:00|Hontzak|Reparto de sopa de ajo
