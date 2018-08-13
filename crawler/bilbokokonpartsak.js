@@ -61,7 +61,59 @@ var programacion = programacionRaw.map(event => {
 
     result.location = normalizeText(event.lugar);
     result.hour = event.hora.split(':').slice(0, 2).join(':');
-    result.day = event.fecha.split('-')[2];
+    result.day = parseInt(event.fecha.split('-')[2]);
+
+    if (result.location === 'AixeBerri') {
+        result.location = 'Aixe Berri';
+    }
+
+    if (result.location === 'Areatza') {
+        result.location = 'Arenal';
+    }
+
+    if (result.location === 'Euskal Museoa - Museo Vasco') {
+        result.location = 'Euskal Museoa';
+    }
+
+    if (result.location === 'Pa Ya') {
+        result.location = 'Pa...Ya!';
+    }
+
+    if (result.location === 'Arriagako Atzekaldea') {
+        result.location = 'Arriagako Atz.';
+    }
+
+    if (result.location === 'Gas Plaza - Plaza Del Gas') {
+        result.location = 'Gas Plaza';
+    }
+
+    if (result.location === 'Santiago Plaza - Plaza Santiago') {
+        result.location = 'Santiago Plaza';
+    }
+
+    if (result.location === 'Etxebarria Parkea - Parque Etxebarria') {
+        result.location = 'Etxebarria Parkea';
+    }
+
+    if (result.location === 'Zabalguneko Merkatua') {
+        result.location = 'Zabalguneko Merk.';
+    }
+
+    if (result.location === 'Abante') {
+        result.location = 'Abante!'
+    }
+
+    if (result.location === 'Konsuletxearen Plaza - Plazuela Del Consulado') {
+        result.location = 'Konsuletxearen Pl.'
+    }
+
+    if (result.location === 'Arriagako Agertokia - Escenario Arriaga') {
+        result.location = 'Arriagako Ager.'
+    }
+
+    if (parseInt(result.hour.split(':')[0]) < 6) {
+        result.day--;
+    }
 
     if (event.tipo === 'KONTZERTUAK - CONCIERTOS') {
         result.badges.push('🎵');

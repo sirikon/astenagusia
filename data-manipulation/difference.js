@@ -113,13 +113,16 @@ Object.keys(index).forEach((key) => {
     if (index2[key] === undefined) {
         // console.log('MISSING IN EVENTS_RAW2');
         // printEvents(key, index[key]);
+        index[key].forEach((event) => {
+            console.log(`${event.day}|${event.hour}|${event.location}|${event.name}${(event.badges ? `|${(event.badges.join('-'))}` : '')}`)
+        });
         return;
     }
 
-    if (index2[key].length !== index[key].length) {
-        console.log('Something wrong between events 1');
-        printEvents(key, index[key]);
-        console.log('And events 2');
-        printEvents(key, index2[key]);
-    }
+    // if (index2[key].length !== index[key].length) {
+    //     console.log('Something wrong between events 1');
+    //     printEvents(key, index[key]);
+    //     console.log('And events 2');
+    //     printEvents(key, index2[key]);
+    // }
 });

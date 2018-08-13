@@ -1,6 +1,6 @@
 18|17:00|Zazpi Kaleak|Kalejira Del Txupín
 18|19:00|Arriaga Plaza|Recepción A MARIJAIA, PREGÓN Y TXUPÍN DE COMIENZO DE FIESTAS|🙆
-18|19:50|Arriaga Plaza|Agurra a Marijaia|🙆
+18|19:45|Arriaga Plaza|Agurra a Marijaia|🙆
 18|20:00|Arriagako Atz.|Apertura de txosnas con Marijaia|🙆
 18|20:00|Bilborock|NEGRACALAVERA, Bilbao (ROCK&ROLL)|🎵
 18|20:30|Arriaga Plaza|Toro de fuego
@@ -28,7 +28,7 @@
 19|11:00|Zabalbide Kalea|Bajada de Goitiberas V. Open Aste Nagusia
 19|11:30|Askapeña|Juegos infantiles
 19|11:30|Zaratas|III Concurso mundial de Selfies de Aste Nagusia|🏆
-19|12:00|AixeBerri|Turno solidario
+19|12:00|Aixe Berri|Turno solidario
 19|12:00|Euskalgune|Euskal txikigune
 19|12:00|Euskalgune|Igerilekua
 19|12:00|Irrintzi|Txistularis - Pasacalles por Plaza Nueva y Arenal
@@ -40,9 +40,9 @@
 19|12:30|Zaratas|Talleres Infantiles|🛠️
 19|13:00|Mamiki|EMPERDEDORAS: LAS DESMEDIDAS
 19|13:00|NAVE 9|La Frontera (19€)|🎵
-19|13:00|Txinbotarrak|[Taller de talo][Talo Tailerra]|🛠️
-19|13:00|Txinbotarrak|[Taller de chapas][Txapa tailerra]|🛠️
-19|13:00|Txinbotarrak|[Taller de potato][Potato tailerra]|🛠️
+19|13:00|Txinbotarrak|Taller de talo: Talo Tailerra|🛠️
+19|13:00|Txinbotarrak|Taller de chapas: Txapa tailerra|🛠️
+19|13:00|Txinbotarrak|Taller de potato: Potato tailerra|🛠️
 19|13:00|Uribarri|Talleres infantiles|🛠️
 19|13:30|Zabalbide Kalea|KONPARTSAKIDETU!: Bajada txiki de Goitibeheras
 19|15:00|Txori Barrote|Txori-Kaska bazkaria
@@ -56,11 +56,11 @@
 19|18:30|Komantxe|Taller y baile social de LINDY HOP (swing) con LITTLE HARLEM (Komantxe + Piztiak)|🛠️-💃
 19|18:30|Piztiak|Taller y baile social de LINDY HOP (swing) con LITTLE HARLEM (Komantxe + Piztiak)|🛠️-💃
 19|18:30|Zaratas|Verbena infantil|🎵
-19|19:00|AixeBerri|Cata de cervezas
+19|19:00|Aixe Berri|Cata de cervezas
 19|19:00|Triangune|Dantza plaza
 19|19:00|Uribarri|Piruletas de chocolate
 19|19:30|Hontzak|CADIPSONIANS|🎵
-19|20:00|AixeBerri|LOS COJONES|🎵
+19|20:00|Aixe Berri|LOS COJONES|🎵
 19|20:00|Askapeña|GATOM|🎵
 19|20:00|Bilborock|MOIKAVE, Bilbao (BLUES ROCK)|🎵
 19|20:00|Kaialde|Concurso Come-Flanes|🏆
@@ -85,7 +85,7 @@
 19|23:30|Kulturgune|TOXICITY (System of a Down tributoa)|🎵
 19|23:30|Plaza Nueva|The Electric Swing Circus|🎵
 19|23:30|Tintigorri|ROCK CHOPPER BLUES|🎵
-19|23:45|AixeBerri|ROKAVIEJA (SKA-ROCK)|🎵
+19|23:45|Aixe Berri|ROKAVIEJA (SKA-ROCK)|🎵
 19|23:45|Zaratas|DJ LAZZ: Fiesta de los 70|🎵
 19|00:30|Kulturgune|RAGE TO ANTONIO MACHINE (Rage Against the Machine Tributoa)|🎵
 19|00:30|Pinpilinpauxa|KIKA LORACE & ALLEN KING|🎵
@@ -125,11 +125,11 @@
 20|14:30|Arenal|Certamen gastronómico: Entrega de premios|🏆-🍲
 20|15:00|Altxaporrue|EH nekazarien bazkaria
 20|15:00|Euskalgune|Euskalguneko bazkaria bazkaria / comida
-20|16:00|AixeBerri|Aixetxiki: Tiovivo ecologico
+20|16:00|Aixe Berri|Aixetxiki: Tiovivo ecologico
 20|16:00|Kaskagorri|Bertso Saioa
 20|16:30|Euskalgune|Txiki Disko|🎵
 20|16:30|Txomin Barullo|OIER ASLA Concierto participativo|🎵
-20|17:00|AixeBerri|Aixetxiki: ROSA MARTINEZ Titeres
+20|17:00|Aixe Berri|Aixetxiki: ROSA MARTINEZ Titeres
 20|17:00|Kaialde|Aerobithon
 20|17:00|Komantxe|Kolektiboen herri denda
 20|17:00|Piztiak|Karaoke Ibiltaria
@@ -137,7 +137,7 @@
 20|17:30|Algara|Zaparrada haur-konpartsa: Disko-dantza! MADDI ETA JOANArekin -Txokolatea + bizkotxoak|🎵
 20|17:30|Euskalgune|ZARATAK 18 elektrotxaranga|🎵
 20|17:30|Pa...Ya!|Elektrotxaranga|🎵
-20|18:00|AixeBerri|Aixetxiki: Talleres infantiles|🛠️
+20|18:00|Aixe Berri|Aixetxiki: Talleres infantiles|🛠️
 20|18:00|Askapeña|Zumba
 20|18:00|Kulturgune|2 NILOS|🎵
 20|18:00|Zaratas|LITTLE HARLEM. Bilboko Swing Eskola
@@ -169,7 +169,7 @@
 20|23:30|Komantxe|ARRANO PERTXA ETA LENGU ILUNA|🎵
 20|23:30|Plaza Nueva|Fanfaraï Big Band|🎵
 20|23:30|Tintigorri|Jose Antonio Paino|🎵
-20|23:45|AixeBerri|EL CAPITÁN ELEFANTE (Indie-Pop-Rock)|🎵
+20|23:45|Aixe Berri|EL CAPITÁN ELEFANTE (Indie-Pop-Rock)|🎵
 20|23:45|Zaratas|DJ LAZZ: Fiesta de los 80|🎵
 20|00:00|Abante!|DJ emanaldia|🎵
 20|00:00|Abante!|Dr. Serrutxo|🎵
@@ -225,12 +225,12 @@
 21|18:00|Zaratas|SIGI SAGA: Dantzaplaza|🎵
 21|18:45|Hontzak|LA KRISIS|🎵
 21|19:00|Kulturgune|Zumba tailerra
-21|19:30|Mamiki|MAMIKI ZUZENEAN. Mamiki cede su escenario a nuevas bandas y artistas. LA FANY, BLESSURE, AIHOTZ, AMAZONA KON ARKO, LAS IRREKOÑOCIBLES, LA MODERN|🎵
+21|20:00|Mamiki|MAMIKI ZUZENEAN. Mamiki cede su escenario a nuevas bandas y artistas. LA FANY, BLESSURE, AIHOTZ, AMAZONA KON ARKO, LAS IRREKOÑOCIBLES, LA MODERN|🎵
 21|19:30|Moskotarrak|Carrera infantil de Motos Molto
 21|19:30|Piztiak|POMERAY|🎵
 21|19:30|Txori Barrote|Senideei omenaldia
 21|19:45|Txori Barrote|Isolamindua performance SARErekin
-21|20:00|AixeBerri|MAMAGIGIS|🎵
+21|20:00|Aixe Berri|MAMAGIGIS|🎵
 21|20:00|Bilborock|YO GERARD, Bilbao (INDIE POP-ROCK)|🎵
 21|20:00|Hontzak|OGT|🎵
 21|20:00|Kaialde|Zumba Master
@@ -260,7 +260,7 @@
 21|23:30|Komantxe|UGER|🎵
 21|23:30|Plaza Nueva|Gwendal|🎵
 21|23:30|Tintigorri|RECAMBIOS ZORROZA|🎵
-21|23:45|AixeBerri|CHERRY & THE LADIES|🎵
+21|23:45|Aixe Berri|CHERRY & THE LADIES|🎵
 21|23:45|Mamiki|ProsÓdia. Rap Metal Melódiko Feminista|🎵
 21|00:00|Abante!|DJ emanaldia|🎵
 21|00:00|Abante!|Soria & Melena (Lee Killer Selection)|🎵
@@ -268,11 +268,11 @@
 21|00:30|Pinpilinpauxa|KYRA SHIMAI|🎵
 21|01:00|Askapeña|DJ MAMBÚ|🎵
 21|01:00|Komantxe|PERLATA|🎵
-21|01:00|Mamiki|DJ-MAPATXE|🎵
+22|01:00|Mamiki|DJ-MAPATXE|🎵
 21|02:00|Algara|EASYER|🎵
 21|02:30|Komantxe|JOSEBA B. LENOIR|🎵
 22|09:00|Arenal|BKAFF: Certamen gastronómico: Txipirones en su tinta. Inscripción|🏆-🍲
-22|10:00|AixeBerri|Basket 3x3
+22|10:00|Aixe Berri|Basket 3x3
 22|10:00|Arriaga Plaza|Diana de txistularis y txupín
 22|10:00|Euskal Museoa|Exposición 40 aniversario Aste Nagusia
 22|10:00|Tintigorri|Campeonato de Ajedrez. Campeonato de partidas rápidas|🏆
@@ -329,7 +329,7 @@
 22|19:00|Txomin Barullo|Homenaje
 22|19:15|Hontzak|SIGI-SAGA: Dantza plaza|🎵
 22|19:30|Piztiak|BEER & SKATE FEST 4 (HxC): CONTROL DE PLAGAS & FRIENDS|🎵
-22|20:00|AixeBerri|KOVERTIZO|🎵
+22|20:00|Aixe Berri|KOVERTIZO|🎵
 22|20:00|Bilborock|NEVADAH, Durangaldea (HARD ROCK’N BLUES)|🎵
 22|20:00|Kaialde|FIVE DIRECTION|🎵
 22|20:00|NAVE 9|Ruby The Hatchet (Gratis)|🎵
@@ -361,7 +361,7 @@
 22|23:30|Komantxe|KENNA I & GLAMITY SOUND|🎵
 22|23:30|Plaza Nueva|Johnny Osbourne|🎵
 22|23:30|Tintigorri|RUNAWAY (Bon Jovi)|🎵
-22|23:45|AixeBerri|THE KLEEJOSS BAND|🎵
+22|23:45|Aixe Berri|THE KLEEJOSS BAND|🎵
 22|00:00|Abante!|DJ emanaldia|🎵
 22|00:00|Abante!|Leche De Gorrión Zurdo|🎵
 22|00:00|Parque Europa|Skakeitan + Vendetta|🎵
@@ -461,7 +461,7 @@
 23|23:30|Kulturgune|DJ BULLekin jai amaitezina|🎵
 23|23:30|Pa...Ya!|TTUN TTUN BRIGADE|🎵
 23|23:30|Plaza Nueva|La Kaíta, Guadiana, El Perrete, Javier Conde, el bailaor El Peregrino, Juanjo Navas y Sonakai.|🎵
-23|23:45|AixeBerri|OXABI (erromeria)|🎵
+23|23:45|Aixe Berri|OXABI (erromeria)|🎵
 23|00:00|Abante!|DJ Bengalitas|🎵
 23|00:00|Abante!|DJ Session|🎵
 23|00:00|Ambigú|Oskar Benas Instro Combo (Gratis)|🎵
@@ -520,7 +520,7 @@
 24|18:25|Arenal|XXII Hiri Krosa: Salida senior, junior, promesas y veteranos/as
 24|18:30|Mamiki|LA MODERN
 24|18:45|Hontzak|ETC ROCK
-24|19:00|AixeBerri|Karaoke
+24|19:00|Aixe Berri|Karaoke
 24|19:30|Arenal|XXII. Hiri Krosa: Entrega de premios
 24|19:30|Pa...Ya!|OIER ASLA|🎵
 24|19:30|Piztiak|LINDY HOUR|🎵
@@ -546,11 +546,11 @@
 24|23:30|Irrintzi|THE RUIZER DJ|🎵
 24|23:30|Komantxe|SAN SON DYEAH!|🎵
 24|23:30|Plaza Nueva|Orquesta Radio Topolino|🎵
-24|23:45|AixeBerri|DJ FESTA 70S|🎵
+24|23:45|Aixe Berri|DJ FESTA 70S|🎵
 24|23:45|Zaratas|DJ JEREMIAH JOHNSON|🎵
 24|00:00|Ambigú|Cecilia Payne (Gratis)|🎵
 24|00:00|Parque Europa|Adi Bilbao + Megastar + Dj Valdi|🎵
-24|00:30|Pinpilinpauxa|LAS FELLINI|🎵
+24|01:30|Pinpilinpauxa|LAS FELLINI|🎵
 24|01:00|Komantxe|MENEO|🎵
 24|02:30|Komantxe|REIMY|🎵
 25|09:00|Arenal|BKAFF: Certamen gastronómico: Marmitako. (Inscripción)|🏆-🍲
@@ -621,7 +621,6 @@
 26|17:00|Komantxe|Kolektiboen herri denda
 26|17:00|Kulturgune|1 2 3... Festa!
 26|17:00|Mamiki|HARTE-LO ETA JAM SESSION (Mamiki + Txomin Barullo)|🎵
-26|17:00|Txomin Barullo|HARTE-LO ETA JAM SESSION (Mamiki + Txomin Barullo)|🎵
 26|17:30|Pa...Ya!|Pa...Ya! vs Kaskagorri guerra sucia
 26|18:00|Askapeña|ROJO CANCIONERO|🎵
 26|18:00|Kaskagorri|AKERBELTZ erromeria|🎵
