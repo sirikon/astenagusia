@@ -389,8 +389,7 @@
 23|12:00|Komantxe|Rocódromo
 23|12:00|Pa...Ya!|Taller de tatuaje|🛠️
 23|12:00|Piztiak|Cabezas crece-pelo|🛠️
-23|12:00|Sestao|IX Subida Popular de Piraguas por el Ibaizabal (Desde Sestao hasta el Ayuntamiento)
-23|12:00|Sestaotik Udaletxera - De Sestao Al Ayuntamiento|IX SUBIDA POPULAR DE PIRAGUAS POR EL IBAIZABAL
+23|12:00|Sestaotik Udaletxera|IX SUBIDA POPULAR DE PIRAGUAS POR EL IBAIZABAL
 23|12:00|Zaratas|PHOTOCALL
 23|12:00|Zaratas|TERRAZA
 23|12:30|Abante!|Biziprest eguneko txapa-tailerra|🛠️

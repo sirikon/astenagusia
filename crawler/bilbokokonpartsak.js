@@ -119,6 +119,10 @@ var programacion = programacionRaw.map(event => {
         result.location = 'Hau Pittu Hau';
     }
 
+    if (result.location === 'Sestaotik Udaletxera - De Sestao Al Ayuntamiento') {
+        result.location = 'Sestaotik Udaletxera'
+    }
+
     if (parseInt(result.hour.split(':')[0]) < 6) {
         result.day--;
     }
