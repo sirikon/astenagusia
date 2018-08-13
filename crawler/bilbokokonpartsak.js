@@ -53,11 +53,11 @@ var programacion = programacionRaw.map(event => {
         badges: []
     };
 
-    if (event.nombre_es !== '' && event.nombre_eu !== '') {
-        result.name = `[${event.nombre_es}][${event.nombre_eu}]`;
-    } else {
+    // if (event.nombre_es !== '' && event.nombre_eu !== '') {
+    //     result.name = `[${event.nombre_es}][${event.nombre_eu}]`;
+    // } else {
         result.name = event.nombre_es || event.nombre_eu;
-    }
+    // }
 
     result.location = normalizeText(event.lugar);
     result.hour = event.hora.split(':').slice(0, 2).join(':');
@@ -137,6 +137,10 @@ var programacion = programacionRaw.map(event => {
 
     if (event.tipo === 'TAILERRAK - TALLERES') {
         result.badges.push('🛠️');
+    }
+
+    if (event.id === '495') {
+        result.name = 'Taller de Reciclaje'
     }
 
     return result;

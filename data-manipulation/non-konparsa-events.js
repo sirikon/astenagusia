@@ -15,7 +15,7 @@ class Event {
 }
 
 function getEventsRaw() {
-    return fs.readFileSync('../data/events_raw.txt', { encoding: 'utf8' });
+    return fs.readFileSync('../data/events_raw_old.txt', { encoding: 'utf8' });
 }
 
 function parseEvents(text) {
