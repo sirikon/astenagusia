@@ -1,0 +1,617 @@
+18|17:00|Zazpi Kaleak|[KALEJIRA DEL TXUPÍN][TXUPINAREN KALEJIRA]
+18|19:00|Arriaga Plaza|[RECEPCIÓN A MARIJAIA, PREGÓN Y TXUPÍN DE COMIENZO DE FIESTAS][HARRERA MARIJAIARI, PREGOIA ETA JAIEN HASIERAKO TXUPINA]
+18|19:45|Arriaga Plaza|[AGURRA A MARIJAIA][ARRIAGA PLAZA AGURRA MARIJAIARI]
+18|20:00|Arriagako Atz.|[APERTURA DE TXOSNAS CON MARIJAIA][TXOSNAK IREKITZEA MARIJAIAREKIN]
+18|20:30|Arriaga Plaza|[TORO DE FUEGO][ZEZENSUZKOA]
+18|22:30|Etxebarria Parkea|[FUEGOS ARTIFICIALES. XXVIII CONCURSO INTERNACIONAL VILLA DE BILBAO: FIRST CLASS PYRO-EVENTS (ALEMANIA)][BILBAO HIRIA SU ARTIFIZIALEN NAZIOARTEKO XXVIII. LEHIAKETA NAGUSIA]
+18|23:00|Algara|[DJ Elepunto][DJ Elepunto]
+18|23:30|Irrintzi|[Dj Paul Swylë][Dj Paul Swylë]
+18|23:30|Komantxe|[Aiaraldeko Sound System & friends][Aiaraldeko Sound System & friends]|🎵
+19|00:30|Pinpilinpauxa|[Putilatex - La Punka Paka][Putilatex - La Punka Paka]|🎵
+19|10:00|Arriaga Plaza|[DIANA DE TXISTULARIS Y TXUPÍN][TXISTULARIEN DIANA ETA TXUPINA]
+19|10:00|Euskal Museoa|[EXPOSICIÓN 40 ANIVERSARIO ASTE NAGUSIA][ASTE NAGUSIA 40. URTEURRENA ERAKUSKETA]
+19|10:00|Somera Kalea|[VII OPEN MAGIC. INSCRIPCIÓN JUEGOS INFANTIL][VII OPEN MAGIC. IZENA EMATEA]
+19|10:30|Triangune|[Muestra de juego de rol Blood Bowl][Blood Bowl mahai jokuaren erakustaldia]
+19|11:00|Areatza|[REPARTO DE PINTXOS CON LAS PEÑAS DE ATHLETIC][PINTXO-BANAKETA ATHLETICEN PEÑEKIN]
+19|11:00|Arriagako Atz.|[Hinchables][Puzgarriak]
+19|11:00|Konsuletxearen Pl.|[TALLER DE GOITIBEHERAS][Konpartsakidetu!: GOITIBEHERA TAILERRA]|🛠️
+19|11:00|Triangune|[TALLER DE TXALAPARTA PARA NIÑ@S + MERCADO TXALAPARTA CON LOS NIÑ@S][UMEENTZAKO TXALAPARTA TAILERRA + AZOKA TXALAPARTA TXIKIEKIN]|🛠️
+19|11:00|Zabalbide Kalea|[BAJADA DE GOITIBERAS V. OPEN ASTE NAGUSIA][GOITIBEHERA JAITSIERA. V. OPEN ASTE NAGUSIA]
+19|11:30|Askapeña|[JUEGOS INFANTILES][UMEENTZAKO JOLASAK]
+19|11:30|Zaratas|[III CONCURSO MUNDIAL DE SELFIES DE ASTE NAGUSIA][ASTE NAGUSIKO III. SELFIE LEHIAKETA MUNDIALA]|🏆
+19|12:00|AixeBerri|[TURNO SOLIDARIO][ELKARTASUNEZKO TXANDA]
+19|12:00|Euskalgune|Igerilekua
+19|12:00|Euskalgune|Euskal Txikigune
+19|12:00|Irrintzi|[Txistularis - Pasacalles por Plaza Nueva y Arenal][Txistulariak - Kalejira Plaza Berria eta Arenaletik]
+19|12:00|Kaialde|[CUENTA CUENTOS][KONTU KONTARI]
+19|12:00|Kaskagorri|Igerilekua
+19|12:00|Zaratas|[TERRAZA][TERRAZA]
+19|12:00|Zaratas|[PHOTOCALL][PHOTOCALL]
+19|12:30|Pa...Ya!|[Juegos infantiles][Umeentzako jolasak]
+19|12:30|Zaratas|[TALLERES INFANTILES][UMEENTZAKO TAILLERRAK]|🛠️
+19|13:00|Algara|[Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa][Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa]
+19|13:00|Mamiki|[EMPERDEDORAS con la obra LAS DESMEDIDAS][EMPERDEDORAS Iruñeatik]
+19|13:00|Txinbotarrak|[Taller de talo][Talo Tailerra]|🛠️
+19|13:00|Txinbotarrak|[Taller de chapas][Txapa tailerra]|🛠️
+19|13:00|Txinbotarrak|[Taller de potato][Potato tailerra]|🛠️
+19|13:00|Uribarri|[Talleres infantiles][Umeentzako tailerrak]|🛠️
+19|13:30|Zabalbide Kalea|[BAJADA TXIKI DE GOITIBEHERAS][KONPARTSAKIDETU!: GOITIBEHERA TXIKI JAITSIERA]
+19|15:00|Txori Barrote|Txori-kaska bazkaria
+19|16:30|Txori Barrote|Monologoa Ane Lindanerekin
+19|17:00|Komantxe|[Kolektiboen Herri Denda][Kolektiboen Herri Denda]
+19|17:15|Arriagako Ager.|[TXALAPARTA-SAIO NAGUSIA: JOXEAN ARTZEREN OMENALDI XUMEA][TXALAPARTA-SAIO NAGUSIA: JOXEAN ARTZEREN OMENALDI XUMEA]
+19|17:30|Mamiki|[Café Poeta][Kafe Poeta]
+19|17:30|Txinbotarrak|[La Tokokera][La Tokokera]|🎵
+19|17:30|Zaratas|[TENDERETE:Marionetas][TENDERETE. Txontxongiloak]
+19|18:00|Kaialde|[TALLER DE CHAPAS][TXAPA TAILERRA]|🛠️
+19|18:30|Komantxe|[Taller y baile social de Lindy Hop (swing) con Little Harlem.][Lindy Hop (swing) tailerra eta dantzaldia. Little Harlem-en eskutik.]|💃
+19|18:30|Piztiak|[Taller y baile social de Lindy Hop (swing) con Little Harlem][Lindy Hop (swing) tailerra eta dantzaldia Little Harlem-en eskutik]|💃
+19|18:30|Zaratas|[VERBENA INFANTIL][HAURREN BERBENA]
+19|19:00|AixeBerri|[CATA DE CERVEZAS][GARAGARDOAK DASTAKETA]
+19|19:00|Triangune|[Dantza plaza][Dantza plaza]|💃
+19|19:00|Uribarri|[Piruletas de chocolate][Txokolatezko piruletak]|🛠️
+19|19:30|Hontzak|[Cadipsonians][Cadipsonians]|🎵
+19|20:00|AixeBerri|[LOS COJONES (METAL)][LOS COJONES (METAL)]|🎵
+19|20:00|Askapeña|[GATOM][GATOM]|🎵
+19|20:00|Kaialde|[CONCURSO COMEFLANES][FLANJALE TXAPELKETA]|🏆
+19|20:00|Txinbotarrak|[Fabe de Fuka (electrotxaranga)][Fabe de Fuka (elektrotxaranga)]
+19|20:30|Arriaga Plaza|[TORO DE FUEGO][ZEZENSUZKOA]
+19|20:30|Tintigorri|[Concierto : DETOMEITOS][Kontzertua : DETOMEITOS]
+19|21:00|Euskalgune|Laburmetrai lehiaketa|🏆
+19|22:30|Etxebarria Parkea|[FUEGOS ARTIFICIALES. XXVIII CONCURSO INTERNACIONAL VILLA DE BILBAOFUEGOS ARTIFICIALES. XXVIII CONCURSO INTERNACIONAL VILLA DE BILBAO: PIROTECNIA VALENCIANA (VALENCIA)][BILBAO HIRIA SU ARTIFIZIALEN NAZIOARTEKO XXVIII. LEHIAKETA NAGUSIA]
+19|23:00|Askapeña|[F.R.A.C.(FUNDACIóN RAPEROS ATíPICOS DE CADIZ)][F.R.A.C.]|🎵
+19|23:00|Euskalgune|Moonshine Wagons + Tremenda Jauría|🎵
+19|23:30|Algara|[The Cherry Boppers - The Allnighters][The Cherry Boppers - The Allnighters]|🎵
+19|23:30|Irrintzi|[Dj Paul Swylë][Dj Paul Swylë]
+19|23:30|Kaialde|[“CON OTRA MIRADA” FIESTA TEMáTICA][“BESTE BEGIRADA BATEKIN” FESTA TEMATIKOA]
+19|23:30|Kaskagorri|Hijos de tu iglesia eta Zazkel|🎵
+19|23:30|Komantxe|[DJ LA Woman][DJ LA Woman]|🎵
+19|23:30|Kulturgune|Toxicity (System of a Down) tributoa|🎵
+19|23:30|Tintigorri|[Concierto : Rock Chooper Blues][Kontzertua: Rock Chopper Blues]
+19|23:45|AixeBerri|[ROKAVIEJA (SKA-ROCK)][ROKAVIEJA (SKA-ROCK)]|🎵
+19|23:45|Zaratas|[DJ LAZZ: Fiesta de los 70][DJ LAZZ: 70en Jaia]
+20|00:30|Kulturgune|Rage to Antonio Machine(Rage Agains the Machine) Tributoa.|🎵
+20|00:30|Pinpilinpauxa|[Kika Lorace & Allen King][Kika Lorace & Allen King]|🎵
+20|02:00|Algara|[IGU ALLNIGHTER & TXEFO K-BILLY][IGU ALLNIGHTER & TXEFO K-BILLY]
+20|09:00|Areatza|[CERTAMEN GASTRONOMICO: PATATAS EN SALSA VERDE. INSCRIPCIÓN.][SUKALDARITZA-LEHIAKETA:PATATAK SALTSA BERDEAN. IZEN EMATEA]|🏆
+20|10:00|Arriaga Plaza|[DIANA DE TXISTULARIS Y TXUPÍN][TXISTULARIEN DIANA ETA TXUPINA]
+20|10:00|Euskal Museoa|[ZAZPI KALEAK EXPOSICIÓN 40 ANIVERSARIO ASTE NAGUSIA][ASTE NAGUSIA 40. URTEURRENA ERAKUSKETA]
+20|10:00|Tintigorri|[CAMPEONATO DE AJEDREZ. SIMULTANEAS][XAKE-TXAPELKETA. ALDI BEREKOAK]
+20|10:30|Triangune|[Sesión de zumba para resacos@s][Zumba saioa erresakadunentzat]|💃
+20|11:00|Altxaporrue|Euskal Ekoizleen Azoka ekologikoa
+20|11:00|Areatza|[CERTAMEN GASTRONÓMICO: PATATAS EN SALSA VERDE][SUKALDARITZA LEHIAKETA: PATATAK SALTSA BERDEAN]
+20|11:00|Areatza|[APRENDIENDO A COCINAR: COCINA PARA NIÑ@S. ENSALADAS][KONPARTSAKIDETU!: SUKALDARITZA IKASTEN: UMEENTZAKO SAKALDARITZA. ENTSALADAK]|🛠️
+20|11:00|Askapeña|[COMPETICIóN RANA(INDIVIDUAL)][IGELA TXAPELKETA(BANAKA)]|🏆
+20|11:00|Ripa|[HINCHABLES/ACTIVIDADES DE AGUA][PUZGARRIAK/UR EKINTZAK]
+20|11:30|Askapeña|[JUEGOS INFANTILES][UMEENTZAKO JOLASAK]
+20|11:30|Kaskagorri|Sorgina Txirulina
+20|12:00|Euskalgune|Euskal Txikigune
+20|12:00|Hontzak|[Taller][Tailerra]|🛠️
+20|12:00|Irrintzi|[Txistularis - Pasacalles Bilbao la Vieja][Txistulariak - Kalejira Bilbao la Vieja]
+20|12:00|Kaialde|[ESPECTáCULO DE MAGIA CON EL MAGO MERAKI][MAGIA IKUSKIZUNA MERAKI MAGOAREKIN]
+20|12:00|Komantxe|[Rocódromo][Rokodromoa]
+20|12:00|Kulturgune|Igerilekua
+20|12:00|Zaratas|[TERRAZA][TERRAZA]
+20|12:00|Zaratas|[PHOTOCALL][PHOTOCALL]
+20|12:30|Pa...Ya!|[Taller de serigrafía][Serigrafia tailerra]|🛠️
+20|12:30|Zaratas|[LOS SERABALA: Malabares][LOS SERABALA: Malabareak]
+20|12:30|Zaratas|[TALLERES INFANTILES][UMEENTZAKO TAILERRAK]|🛠️
+20|13:00|Algara|[Euskara Ikasleon Eguna][Euskara Ikasleon Eguna]
+20|13:00|Algara|[Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa][Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa]
+20|13:00|Kaskagorri|Eguerdi girotua (Soinu Beltzak)|🎵
+20|13:00|Moskotarrak|[ENTREGA DEL GIGANTE DE ASTE NAGUSIA EN LA PLAZA DEL ENSANCHE][ASTE NAGUSIKO ERRALDOIAREN EMATEA ZABALGUNE PLAZAN]
+20|13:00|Ripa|[TORNEO WATERPOLO SEMIFINALES Y FINAL (CATEGORÍA MASCULINA) CON EL CLUB DEPORTIVO][WATERPOLO TXAPELKETA FINALAURREKOAK ETA FINALA (GIZONEZKOEN KATEGORIA) CLUB DEPORTIVOAREKIN]
+20|13:00|Uribarri|[Talleres infantiles][Umeentzako tailerrak]|🛠️
+20|13:30|Askapeña|[MUJERES MIGRADAS][EMAKUME MIGRANTEAK]
+20|13:30|Euskalgune|Marianito musikatua: Arrakala|🎵
+20|13:30|Komantxe|[Joni Txintxes][Joni Txintxes]|🎵
+20|14:30|Areatza|[CERTAMEN GASTRONÓMICO: ENTREGA DE PREMIOS][SUKALDARITZA LEHIAKETA: SARI BANAKETA]|🏆
+20|15:00|Altxaporrue|EH nekazarien bazkaria
+20|15:00|Euskalgune|Euskalguneko bazkaria
+20|16:00|AixeBerri|[AIXETXIKI: TIOVIVO ECOLOGICO][AIXETXIKI: TIOBIBO EKOLOGIKOA]
+20|16:00|Kaskagorri|Bertso saioa
+20|16:30|Euskalgune|Txiki disko
+20|16:30|Txomin Barullo|[Oier Asla. Concierto participativo][Oier Asla. Kontsertu parteartzailea.]|🎵
+20|17:00|AixeBerri|[AIXETXIKI: TEATRO DE TITERES ROSA MARTINEZ][AIXETXIKI: ROSA MARTINEZ TXONTXONGILOAK]
+20|17:00|Kaialde|[AEROBITON][AEROBITON]
+20|17:00|Komantxe|[Kolektiboen Herri Denda][Kolektiboen Herri Denda]
+20|17:00|Piztiak|[Karaoke-poteo con KARAOKE IBILTARIA][Karaoke-poteoa KARAOKE IBILTARIA-ren eskutik]
+20|17:00|Ripa|[HINCHABLES/ ACTIVIDADES DE AGUA][UR EKINTZAK/ PUZGARRIAK]
+20|17:30|Algara|[Zaparrada haur-konpartsa: Disko-dantza! Maddi eta Joanarekin - Txokolatea + bizkotxoak][Zaparrada haur-konpartsa: Disko-dantza! Maddi eta Joanarekin - Txokolatea + bizkotxoak]
+20|17:30|Euskalgune|Zaratak 18 elektrotxaranga
+20|17:30|Pa...Ya!|[Elektrotxaranga][Elektrotxaranga]
+20|18:00|AixeBerri|[AIXETXIKI: TALLERES INFANTILES][AIXETXIKI: UMEENTZAKO TAILLERRAK]|🛠️
+20|18:00|Askapeña|[TALLER ZUMBA][ZUMBA TAILERRA]|🛠️
+20|18:00|Kulturgune|2 nilos|🎵
+20|18:00|Zaratas|[LITTLE HARLEM- BILBOKO SWING ESKOLA][LITTLE HARLEM- BILBOKO SWING ESKOLA]|💃
+20|18:30|Kaskagorri|Poteo musikatua (Zaparrada batukada)
+20|18:30|Triangune|[Taller de Afro-Danza][Afro-dantza tailerra]|💃
+20|19:00|Askapeña|[DANZAS DEL MUNDO][MUNDUKO DANTZAK]|💃
+20|19:00|Uribarri|[Rana][Igela]
+20|19:30|Askapeña|[Performance- Emakuearen onarpena kultura desberdin batetan.][Performance- Aceptación de la mujer en una cultura diferente]
+20|19:30|Txomin Barullo|[Cabaret Txomin][Txomin Kabareta]
+20|19:30|Zazpi Kaleak|[Bertso triki kalejira][Bertso triki kalejira]
+20|20:00|Askapeña|[DCAPRICHO][DCAPRICHO]|🎵
+20|20:30|Arriaga Plaza|[TORO DE FUEGO][ZEZENSUZKOA]
+20|20:30|Txomin Barullo|[Bocabeats humor y beatbox][Bocabeats umorea]
+20|21:00|Kaskagorri|La Furia eta Anita Parker|🎵
+20|22:30|Etxebarria Parkea|[FUEGOS ARTIFICIALES. XXVIII CONCURSO INTERNACIONAL VILLA DE BILBAO: PIROTECNICA POLEGGI (ITALIA)][BILBAO HIRIA SU ARTIFIZIALEN NAZIOARTEKO XXVIII. LEHIAKETA NAGUSIA]
+20|23:00|Askapeña|[DJ A.K.][DJ A.K.]|🎵
+20|23:00|Euskalgune|Huts + Mud candies|🎵
+20|23:00|Kaixo|ETSAIAK|🎵
+20|23:00|Kulturgune|Bad Sound System|🎵
+20|23:30|Algara|[Bon Scott Revival Show - MoonShakers][Bon Scott Revival Show - MoonShakers]|🎵
+20|23:30|Irrintzi|[Dj Paul Swylë][Dj Paul Swylë]
+20|23:30|Kaialde|[SUTAN+AMIGOS. CONCIERTO ESPECIAL 40 ANIVERSARIO][SUTAN+LAGUNAK. 40.URTEURRENEKO KONTZERTU BEREZIA]|🎵
+20|23:30|Komantxe|[Arrano Pertxa eta Lengu Iluna][Arrano Pertxa eta Lengu Iluna]|🎵
+20|23:30|Tintigorri|[Concierto: Jose Antonio Paino][Kontzertua: Jose Antonio Paino]
+20|23:45|AixeBerri|[EL CAPITAN ELEFANTE (INDIE-POP-ROCK)][EL CAPITAN ELEFANTE (INDIE-POP-ROCK)]|🎵
+20|23:45|Zaratas|[DJ LAZZ: Fiesta de los 80][DJ LAZZ: 80en Jaia]
+21|00:00|Abante!|[DJ session][DJ emanaldia]
+21|00:30|Komantxe|[Nizuri Tazuneri][Nizuri Tazuneri]|🎵
+21|00:30|Pinpilinpauxa|[Glitch Gyals - Kahlo Rias][Glitch Gyals - Kahlo Rias]|🎵
+21|01:00|Kaixo|URRATS ERROMERIA|🎵
+21|01:30|Komantxe|[Tr Mistery & Kasper][Tr Mistery & Kasper]|🎵
+21|02:00|Algara|[DJ SESIOA][DJ SESIOA]
+21|02:30|Komantxe|[Peon Kurtz][Peon Kurtz]|🎵
+21|09:00|Areatza|[CERTAMEN GASTRONÓMICO: TORTILLA DE PATATA. INSCRIPCIÓN][SUKALDARITZA-LEHIAKETA: PATATA-TORTILLA. IZENA EMATEA]|🏆
+21|10:00|Arriaga Plaza|[DIANA DE TXISTULARIS Y TXUPÍN][TXISTULARIEN DIANA ETA TXUPINA]
+21|10:00|Tintigorri|[CAMPEONATO DE AJEDREZ A CIEGAS Y ANTIAJEDREZ][XAKE TXAPELKETA. ITSU-ITSUKOAK ETA ANTI-XAKEA]
+21|11:00|Areatza|[CERTAMEN GASTRONÓMICO: TORTILLA DE PATATAS][SUKALDARITZA LEHIAKETA: PATATA-TORTILLA]
+21|11:00|Askapeña|[COMPETICIóN RANA(PAREJAS)][IGELA TXAPELKETA(BIKOTE)]|🏆
+21|11:00|Ripa|[HINCHABLES / ACTIVIDADES DE AGUA][PUZGARRIAK / UR EKINTZAK]
+21|11:30|Askapeña|[JUEGOS INFANTILES][UMEENTZAKO JOLASAK]
+21|11:30|Moskotarrak|[VISITA RESIDENCIA CONDE DE ARESTI ZABALA][CONDE DE ARESTI ZABALAKO EGOITZARA BISITA]
+21|12:00|Algara|[Zaparrada haur-konpartsa: Ogi-tailerra][Zaparrada haur-konpartsa: Ogi-tailerra]|🛠️
+21|12:00|Euskalgune|Euskal Txikigune
+21|12:00|Hontzak|[Taller de Pintura][Margolaritza Tailerra]|🛠️
+21|12:00|Irrintzi|[Txistularis - Pasacalles por las Siete Calles][Txistulariak - Kalejira Zazpikaletik]
+21|12:00|Kaialde|[HINCHABLES][PUZGARRIAK]
+21|12:00|Komantxe|[Rocódromo][Rokodromoa]
+21|12:00|Mamiki-Txomin|[Cata Feminista][Kata feminista]
+21|12:00|Piztiak|[Taller de chapas][Txapa tailerra]|🛠️
+21|12:00|Zaratas|[TERRAZA][TERRAZA]
+21|12:00|Zaratas|[PHOTOCALL][PHOTOCALL]
+21|12:30|Kaixo|[pinta caras][aurpegi margozketa]|🛠️
+21|12:30|Pa...Ya!|[Juegos infantiles][Umeentzako jolasak]
+21|12:30|Uribarri|[Txistupoteoa Deustuko Tanborinteluekin][Txitupoteo con Deustuko Tanborinteluek]
+21|12:30|Zaratas|[TALLERES INFANTILES][UMEENTZAKO TAILLERRAK]|🛠️
+21|13:00|Algara|[Bertso Eguna: Potojorran + bertso-eskolak kantuan][Bertso Eguna: Potojorran + bertso-eskolak kantuan]
+21|13:00|Algara|[Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa][Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa]
+21|13:00|Kulturgune|Bitsa
+21|13:00|Pa...Ya!|[Taller de bombas de baño][Bainu bonba tailerra]|🛠️
+21|13:00|Ripa|[TORNEO WATERPOLO SEMIFINALES Y FINAL (CATEGORÍA FEMENINA) CON EL CLUB DEPORTIVO][WATERPOLO TXAPELKETA FINALAURREKOAK ETA FINALA (EMAKUMEZKO KATEGORIA) CLUB DEPORTIVOAREKIN]
+21|13:00|Uribarri|[Taller de danzas (Salsa y bachata)][Dantza tailerrak (Salsa eta bachata)]|💃
+21|13:30|Euskalgune|Marianito musikatua: Korrokoiek|🎵
+21|13:30|Komantxe|[Exhibición de magia][Magia erakusketa]
+21|14:30|Areatza|[CERTAMEN GASTRONÓMICO: ENTREGA DE PREMIOS][SUKALDARITZA LEHIAKETA: SARI BANAKETA]|🏆
+21|15:00|Abante!|[Campeonato de mus][Mus txapelketa]|🏆
+21|16:30|Euskalgune|Aupegi margoketa|🛠️
+21|17:00|Komantxe|[Feria de artesanía][Artisautza azoka]
+21|17:00|Komantxe|[Taller de serigrafía][Serigrafia tailerra]|🛠️
+21|17:00|Ripa|[HINCHABLES/ACTIVIDADES DE AGUA][PUZGARRIAK/UR EKINTZAK]
+21|17:00|Triangune|[Txitxarrillo][Txitxarrillo]|💃
+21|17:30|Areatza|[SERIAGRAFIA DE PAÑUELOS][KONPARTSAKIDETU!: ZAPI SERIGRAFIA]|🛠️
+21|17:50|Zaratas|[ZAPI TA TXAPELA TAILLERRA][ZAPI TA TXAPELA TAILLERRA]|💃
+21|18:00|Mamiki|Bertso Saio Feminista Jone Uria, Oihane Peres,Iratxe Ibarra Gai-jartzaile Izar Mendiguren
+21|18:00|Piztiak|[Lindy Hour][Lindy Hour]|💃
+21|18:00|Tintigorri|[Zumba Master Class. Alazne Flower][Zumba Master Class. Alazne Flower]
+21|18:00|Zaratas|[SIGI SAGA: Dantzaplaza][SIGI SAGA: Dantzaplaza]|💃
+21|18:45|Hontzak|[La Krisis][La Krisis]|🎵
+21|19:00|Kulturgune|Zumba tailerra|🛠️
+21|19:30|Moskotarrak|[CARRERA INFANTIL DE MOTOS MOLTO][HAUR MOLTO MOTORREN LASTERKETA]
+21|19:30|Piztiak|[POMERAY (rock)][POMERAY (rock)]|🎵
+21|19:30|Txori Barrote|Senideei omenaldia
+21|19:45|Txori Barrote|Isolamindua performance SARErekin
+21|20:00|AixeBerri|[MAMAGIGIS (COUNTRY-FOLK)][MAMAGIGIS (COUNTRY-FOLK)]|🎵
+21|20:00|Hontzak|[OGT][OGT]|🎵
+21|20:00|Kaialde|[ZUMBA MASTERCLASS][ZUMBA MASTERCLASS]
+21|20:00|Mamiki|[MAMIKI ZUZENEAN. Mamiki cede su escenario a nuevas bandas y artistas. -LA FANY -BLESSURE -AIHOTZ -AMAZONA KON ARKO -LAS IRREKOÑOCIBLES...][MAMIKI ZUZENEAN. Mamikik bere antzezlekua eskaintzen du emakumeen musika talde berriei.]|🎵
+21|20:30|Arriaga Plaza|[TORO DE FUEGO][ZEZENSUZKOA]
+21|20:30|Moskotarrak|[TURNO DE LOS MIEMBROS DE LA FUNDACION SINDROME DE DOWN EN FAVOR DE LA INTEGRACION Y LA IGUALDAD EN ASTE NAGUSIA][DOWN SINDROME FUNDAZIOAREN KIDEEN TXANDA ASTE NAGUIAN INTEGRAZIOA ETA PAREKOTASUNAREN ALDE]
+21|20:30|Tintigorri|[Concierto: Long John & Aitor Diego][Kontzertua : Long John & Aitor Diego]
+21|20:45|Gas Plaza - Plaza Del Gas|[CINE DE CALLE][KALEKO ZINEMA]
+21|20:45|Uribarri|[THE DOLPHINERS][THE DOLPHINERS]|🎵
+21|21:00|Piztiak|[THE PUSHERMEN (rock)][THE PUSHERMEN (rock)]|🎵
+21|22:30|Etxebarria Parkea|[FUEGOS ARTIFICIALES. XXVIII CONCURSO INTERNACIONAL VILLA DE BILBAO: PIROTECNIA JOSMAN (OURENSE)][BILBAO HIRIA SU ARTIFIZIALEN NAZIOARTEKO XXVIII. LEHIAKETA NAGUSIA]
+21|23:00|Askapeña|[HABANA 537][HAVANA 537]|🎵
+21|23:00|Euskalgune|Bultz + Xavi Sarrià|🎵
+21|23:00|Kulturgune|Roba Estesa|🎵
+21|23:00|Uribarri|[FREE THE WHEEL][FREE THE WHEEL]|🎵
+21|23:15|Gas Plaza - Plaza Del Gas|[CINE DE CALLE: AMETS NAGUSIA][KALEKO ZINEMA: AMETS NAGUSIA]
+21|23:30|Algara|[Atom Rhumba- TOC][Atom Rhumba- TOC]|🎵
+21|23:30|Irrintzi|[Dj Paul Swylë][Dj Paul Swylë]
+21|23:30|Kaialde|[BATEK DAKI][BATEK DAKI]|🎵
+21|23:30|Kaskagorri|Bastón de tu vieja eta Skabidean|🎵
+21|23:30|Komantxe|[Uger][Uger]|🎵
+21|23:30|Tintigorri|[Concierto : RECAMBIOS ZORROZA][Kontzertua : RECAMBIOS ZORROZA]
+21|23:45|AixeBerri|[CHERRY & THE LADIES (ROCKABILLY)][CHERRY & THE LADIES (ROCKABILLY)]|🎵
+21|23:45|Mamiki|[ProsÓdia. Rap-metal melódico feminista.][ProsÓdia. Rap-Metal melodikoa eta feminista.]|🎵
+22|00:00|Abante!|[DJ session][DJ emanaldia]
+22|00:30|Kulturgune|La otra|🎵
+22|00:30|Pinpilinpauxa|[Kyra Shimai][Kyra Shimai]|🎵
+22|01:00|Askapeña|[DJ MAMBú][DJ MAMBú]|🎵
+22|01:00|Komantxe|[Perlata][Perlata]|🎵
+22|01:00|Mamiki|DJ-MAPATXE Iruñea|🎵
+22|02:00|Algara|[EASYER][EASYER]
+22|02:30|Komantxe|[Joseba B.Lenoir][Joseba B.Lenoir]|🎵
+22|09:00|Areatza|[BKAFF: Certamen gastronómico: Txipirones en su tinta. Inscripción][BKAFF: Sukaldaritza lehiaketa: Txipiroiak tintan. Izen ematea]|🏆
+22|10:00|AixeBerri|[Basket 3x3][Basket 3x3]
+22|10:00|Arriaga Plaza|[Diana de txistularis y txupín][Txistularien diana eta txupina]
+22|10:00|Euskal Museoa|[EXPOSICIÓN 40 ANIVERSARIO ASTE NAGUSIA][ASTE NAGUSIA 40. URTEURRENA ERAKUSKETA]
+22|10:00|Tintigorri|[CAMPEONATO DE AJEDREZ. CAMPEONATO DE PARTIDAS RÁPIDAS][XAKE TXAPELKETA. PARTIDA AZKARREN TXAPELKETA]
+22|10:30|Irrintzi|[txistularis - Subida al hospital Basurto acompañando al circo][Txistulariak - Igoera Basurto Ospitalera zirkuarekin]
+22|11:00|Areatza|[BKAFF: Certamen gastronómico: Txipirones en su tinta][BKAFF: Sukaldaritza lehiaketa: Txipiroiak tintan]
+22|11:00|Areatza|[Aprendiendo a cocinar: Cocina para niñ@s. Ensalada de fruta][Sukaldatzen ikasten: Umeentzako sukaldaritza. Frutazko entsalada]|🛠️
+22|11:00|Arriagako Atz.|[Hinchables][Puzgarriak]
+22|11:00|Askapeña|[COMPETICIóN TIRAGOMA][TIRAGOMA TXAPELKETA]|🏆
+22|11:00|Basurto|[Visita a los niños y las niñas del hospital de Basurto con Marijaia y el Circo][Ospitaleko haurrei bisita Marijaia eta Zirkuarekin]
+22|11:00|Ripa|[Hinchables/Actividades de agua][Puzgarriak/Ur ekintzak]
+22|11:30|Askapeña|[JUEGOS INFANTILES][UMEENTZAKO JOLASAK]
+22|11:30|Triangune|[Feria agricola][Nekazal azoka]
+22|12:00|Arriagako Atz.|[Talleres de disfraces][Mozorro tailerrak]|🛠️
+22|12:00|Eguzkizaleak|Lorezaintza tailerra|🛠️
+22|12:00|Euskalgune|Euskal Txikigune
+22|12:00|Kaialde|[PINTACARAS][AURPEGI MARGOKETA]|🛠️
+22|12:00|Kaixo|[taller infantil 2][umeentzako tailerra 2]|🛠️
+22|12:00|Komantxe|[Rocódromo][Rokodromoa]
+22|12:00|Komantxe|[Irola Irratia][Irola Irratia]
+22|12:00|Mamiki-Txomin|[Txikigune][Txikigune]
+22|12:00|Piztiak|[Taller Orejas de animales][Animali belarriak tailerra]|🛠️
+22|12:00|Zaratas|[TERRAZA][TERRAZA]
+22|12:00|Zaratas|[PHOTOCALL][PHOTOCALL]
+22|12:30|Eguzkizaleak|Lurra eguna
+22|12:30|Zaratas|[TALLERES INFANTILES][UMEENTZAKO TAILLERRAK]|🛠️
+22|13:00|Algara|[Iparralde Eguna: Ziburuko Kaskarotenea ikastolaren aldeko bazkaria + bazkalostea Anje Duhalderekin][Iparralde Eguna: Ziburuko Kaskarotenea ikastolaren aldeko bazkaria + bazkalostea Anje Duhalderekin]
+22|13:00|Algara|[Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa][Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa]
+22|13:00|Altxaporrue|Etxeandia eta Boga arteko garagardo desaphioa|🏆
+22|13:00|Ripa|[TORNEO WATERPOLO SEMIFINALES Y FINAL (CATEGORÍA INTERKONPARSAS) CON EL CLUB DEPORTIVO][WATERPOLO TXAPELKETA FINALAURREKOAK ETA FINALA (KONPARTSEN ARTEKO KATEGORIA) CLUB DEPORTIVOAREKIN]
+22|13:00|Triangune|[Taller para niñ@s - Ongi etorri errefuxiatuak][Umeentzako tailerra - Ongi etorri errefuxiatuak]|🛠️
+22|13:00|Uribarri|[Rana][Igela]
+22|13:30|Euskalgune|Marianito musikatua: The sheriff band|🎵
+22|14:30|Areatza|[BKAFF: Certamen gastronómico: Entrega de premios][BKAFF: Sukaldaritza lehiaketa: Sari banaketa]|🏆
+22|15:00|Eguzkizaleak|Lurra eguneko bazkaria
+22|15:00|Komantxe|[Okupazio Eguneko Bazkaria][Okupazio Eguneko Bazkaria]
+22|15:00|Santiago Plaza - Plaza Santiago|[Bertso bazkaria Uxue Alberdi eta Unai Iturriagarekin][Bertso bazkaria Uxue Alberdi eta Unai Iturriagarekin]
+22|16:30|Arriagako Atz.|[Ginkana intercomparsas][Konpartsen arteko ginkana]
+22|17:00|Komantxe|[Kolektiboen Herri Denda][Kolektiboen Herri Denda]
+22|17:00|Komantxe|[Kalejira][Kalejira]
+22|17:00|Ripa|[Hinchables/Actividades de agua][Puzgarriak/Ur ekintzak]
+22|17:30|Areatza|[IRRIEN LAGUNAK: ANE ETA PIRATEKIN PARRANDAN][KONPARTSAKIDETU!: IRRIEN LAGUNAK: ANE ETA PIRATEKIN PARRANDAN]
+22|18:00|Askapeña|[ESCALADA BILBAINA(PALMADA)][BILBOTAR ESKALADA(PALMADA)]|🏆
+22|18:00|Hontzak|[Concierto de Clásica][Klasika Kontzertua]|🎵
+22|18:00|Kaialde|[TXARANGA GAZTE LEKU][GAZTE LEKU TXARANGA]
+22|18:00|Pinpilinpauxa|[TRANS-POTING: TRAVESTI-POTEO][TRANS-POTING: TRAVESTI-POTEO]
+22|18:00|Piztiak|[Rally-poteo][Rally-poteoa]
+22|18:00|Zaratas|[RAKS AL HAIA Escuela de Danza: Danza del Vientre][RAKS AL HAIA Dantza Eskola: Sabel Dantza]|💃
+22|18:30|Altxaporrue|Txapito Guzman eta Ibarrako langostinoak|🎵
+22|19:00|Areatza|[Kalejira y entrega de la Mosca y Campana][Eulia eta Kanpaiaren banaketa eta kalejira]
+22|19:00|Kaixo|ZUMBA|💃
+22|19:00|Txomin Barullo|[Homenaje][Omenaldi]
+22|19:15|Hontzak|[DantzaPlaza][DantzaPlaza]|💃
+22|19:30|Piztiak|[BEER & SKATE 4 (HxC) Control de plagas & friends][BEER & SKATE FEST 4 (HxC) Control de plagas & friends]|🎵
+22|20:00|AixeBerri|[KOVERTIZO (VERSIONES POP-ROCK)][KOVERTIZO (POP-ROCK BERTSIO)]|🎵
+22|20:00|Kaialde|[FIVE DIRECTION][FIVE DIRECTION]|🎵
+22|20:00|Pinpilinpauxa|[Turno solidario: Asociación Haszten][Solidaritatezko txanda: Haszten Elkartea]
+22|20:00|Triangune|[Concierto de música experimental de la mano de Franz Reichelt][Musika esperimentala Franz Reichelt-en eskutik]|🎵
+22|20:00|Zaratas|[SOLO POR ESTA NOCHE][SOLO POR ESTA NOCHE]|🎵
+22|20:15|Kulturgune|Los demenciales chicos acelerados. (Eskorbuto) tributoa|🎵
+22|20:30|Arriaga Plaza|[Toro de fuego][Zezensuzkoa]
+22|20:30|Moskotarrak|[MOSKOGOLA][MOSKOGOLA]|🏆
+22|20:45|Gas Plaza - Plaza Del Gas|[Cine de Calle][Kaleko Zinema]
+22|21:00|Euskalgune|Euskal karaokea
+22|21:00|Kaixo|kontzertu f?|🎵
+22|21:00|Uribarri|[JEAN PAOLO Y LA SIEMPREVIVA][JEAN PAOLO Y LA SIEMPREVIVA]|🎵
+22|21:30|Txomin Barullo|[Larrutan del Che][Larrutan del Che]|🎵
+22|22:30|Etxebarria Parkea|[FUEGOS ARTIFICIALES. XXVIII CONCURSO INTERNACIONAL VILLA DE BILBAO: ENIGMA FIREWORKS (BULGARIA)][BILBAO HIRIA SU ARTIFIZIALEN NAZIOARTEKO XXVIII. LEHIAKETA NAGUSIA]
+22|23:00|Askapeña|[DJ BULL][DJ BULL]|🎵
+22|23:00|Euskalgune|Revolta Permanent + DJ Elepunto|🎵
+22|23:00|Kaixo|YAU|🎵
+22|23:00|Kulturgune|Zirkinik bez|🎵
+22|23:00|Moskotarrak|[DJ INVITADO, UNAI BDJ][DJ GONBIDATUA, UNAI BDJ]
+22|23:00|Txomin Barullo|[Obsesion Fatal][Obsesion Fatal]|🎵
+22|23:00|Uribarri|[BERANDUEGI ERROMERIA][BERANDUEGI ERROMERIA]|🎵
+22|23:15|Gas Plaza - Plaza Del Gas|[Cine de Calle: Amets Nagusia][Kaleko Zinema: Amets Nagusia]
+22|23:30|Algara|[Vulk - Kaskezur][Vulk - Kaskezur]|🎵
+22|23:30|Irrintzi|[Dj Paul Swylë][Dj Paul Swylë]
+22|23:30|Komantxe|[Kenna I & Glamity Sound][Kenna I & Glamity Sound]|🎵
+22|23:30|Tintigorri|[Concierto Runaway (Tributo a Bon Jovi)][Kontzertua. Runaway (Bon Jovi Omenaldia)]
+22|23:45|AixeBerri|[THE KLEEJOSS BAND (ROCK)][THE KLEEJOSS BAND (ROCK)]|🎵
+23|00:00|Abante!|[DJ session][DJ emanaldia]
+23|00:00|Areatza|[homenaje a las txupineras y txupin][txupinerei omenaldia eta txupina]
+23|00:30|Pinpilinpauxa|[Angelita la Perversa][Angelita la Perversa]|🎵
+23|01:00|Kaixo|FEOS PERO MAJOS|🎵
+23|01:00|Komantxe|[Suaia eta Ama Rebel][Suaia eta Ama Rebel]|🎵
+23|01:00|Txomin Barullo|[Penadas Por La Ley][Penadas Por La Ley]|🎵
+23|02:00|Algara|[El_Txef_A][El_Txef_A]
+23|02:30|Komantxe|[Lion Sitté][Lion Sitté]|🎵
+23|09:00|Areatza|[BKAFF: CERTAMEN GASTRONÓMICO: BAKALAO A LA BIZKAINA. INSCRIPCIÓN][BKAFF: SUKALDARITZA LEHIAKETA: BAKAILAOA BIZKAIA ERARA. IZENA EMATEA]|🏆
+23|10:00|Arriaga Plaza|[Diana de txistularis y Txupin][Txistularien diana eta txupina]
+23|10:00|Euskal Museoa|[EXPOSICIÓN 40 ANIVERSARIO ASTE NAGUSIA][ASTE NAGUSIA 40. URTEURRENA ERAKUSKETA]
+23|10:00|Moskotarrak|[CAMPEONATO DE AJEDREZ: CAMPEONATO DE LA AMISTAD (POR EQUIPOS)][XAKE TXAPELKETA: ADISKIDETASUNAREN TXAPELKETA (TALDEKA)]
+23|11:00|Areatza|[BKAFF: certamen gastronómico: bakalao a la bizkaina][BKAFF: sukaldaritza lehiaketa: Bakailaoa bizkaia erara]
+23|11:00|Ripa|[Actividades de agua][Ur ekintzak]
+23|11:30|Areatza|[TXUPIN HOMENAJE A LAS TXUPINERAS][TXUPINEREI OMENALDI TXUPINA]
+23|12:00|Algara|[Zaparrada haur-konpartsa. Zirtaka Antzerki-taldea: ongi etorri, lagun][Zaparrada haur-konpartsa. Zirtaka Antzerki-taldea: ongi etorri, lagun]
+23|12:00|Hontzak|[Taller de Pan][Ogi Tailerra]|🛠️
+23|12:00|Irrintzi|[Txistularis - Mercado de la Rivera y gastronomico][Txistulariak - Riberaren merkatua eta gastronomikoa]
+23|12:00|Kaialde|[TALLER DE DANZAS VASCAS][EUSKAL DANTZA TAILERRA]
+23|12:00|Kaskagorri|Igerilekua
+23|12:00|Komantxe|[Juegos de Rugby para mujeres][Emakumeentzako Errugbi jolasak]
+23|12:00|Komantxe|[Rocódromo][Rokodromoa]
+23|12:00|Pa...Ya!|[Taller de tatuaje][Tattoo tailerra]|🛠️
+23|12:00|Piztiak|[Cabezas crece-pelo][Belar-iledun burutxoak]|🛠️
+23|12:00|Sestaotik Udaletxera - De Sestao Al Ayuntamiento|[IX SUBIDA POPULAR DE PIRAGUAS POR EL IBAIZABAL][IBAIZABALTIK IX HERRI PIRAGUEN IGOERA]
+23|12:00|Zaratas|[TERRAZA][TERRAZA]
+23|12:00|Zaratas|[PHOTOCALL][PHOTOCALL]
+23|12:30|Abante!|[Biziprest eguneko txapa-tailerra][Biziprest eguneko txapa-tailerra]|🛠️
+23|12:30|Algara|[Biziprest eguneko txapa-tailerra][Biziprest eguneko txapa-tailerra]|🛠️
+23|12:30|Hontzak|[Biziprest eguneko txapa-tailerra][Biziprest eguneko txapa-tailerra]|🛠️
+23|12:30|Kaixo|umeentzako tailerra 3|🎵
+23|12:30|Mamiki|[Mamiki Batukada Feminista][Mamiki Batukada Feminista]
+23|12:30|Pa...Ya!|[Bat, bi, hiru...Festa!][Bat, bi, hiru...Festa!]|💃
+23|12:30|Triangune|[Taller de txapas][Txapak egiteko tailerra]|🛠️
+23|12:30|Zaratas|[TALLERES INFANTILES][UMEENTZAKO TAILLERRAK]|🛠️
+23|13:00|Algara|[Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa][Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa]
+23|13:00|Euskalgune|Marianito musikatua: Josu Bergara|🎵
+23|13:00|Hontzak|[Cata de Cervezas][Garagardo Dastaketa]
+23|13:00|Kulturgune|Bitsa
+23|13:00|Uribarri|[Talleres infantiles][Umeentzako tailerrak]|🛠️
+23|13:15|Ripa|[Euskaraldirako agerraldia][Euskaraldirako agerraldia]
+23|13:30|Arriagako Atz.|[Fiesta de la espuma][Bitsa jaia]
+23|14:00|Uribitarte|[IX SUBIDA POPULAR DE PIRAGUAS POR EL IBAIZABAL (LLEGADA) DEPORTE][IBAIZABALTIK IX HERRI PIRAGUEN IGOERA (HELDUERA)]
+23|14:30|Areatza|[BKAFF: certamen gastronomico: entrega de premios][BKAFF: sukaldaritza lehiaketa: sari banaketa]|🏆
+23|14:30|Askapeña|[COMIDA TXUPINERAS][TXUPINERAK BAZKARIA]
+23|14:30|Kaskagorri|Senideekin bazkaria
+23|15:00|Euskalgune|[Biziprest eguneko herri-bazkaria][Biziprest eguneko herri-bazkaria]
+23|16:00|Altxaporrue|[Kukaña][Nasapuntakoa]
+23|16:00|Kaskagorri|Ekitaldia
+23|16:30|Euskalgune|[Biziprest eguneko ikuskizuna][Biziprest eguneko ikuskizuna]
+23|17:00|Arriagako Atz.|[Bertso saioa][Bertso saioa]
+23|17:00|Hph|Euskara saria
+23|17:00|Komantxe|[Kolektiboen Herri Denda][Kolektiboen Herri Denda]
+23|17:00|Ripa|[Actividades de agua][Ur ekintzak]
+23|17:30|Hontzak|[Sudurkeriak: Bingo Txoooou!][Sudurkeriak: Bingo Txoooou!]
+23|17:30|Kaialde|[JUEGOS TRADICIONALES][BETIKO JOLASAK]
+23|17:30|Komantxe|[Arkaitz Estiballes, Alaia Martín, Oihana Bartra eta gai jartzailea Garazi Nabarro][Arkaitz Estiballes, Alaia Martín, Oihana Bartra eta gai jartzailea Garazi Nabarro]
+23|18:00|Mamiki|[Triki-musika con el grupo Uztai][Uztai taldearekin Triki-musika]|🎵
+23|18:00|Piztiak|[Lindy Hour][Lindy Hour]|💃
+23|18:30|Arriaga Plaza|[Homenaje a la ikurriña][Ikurriñaren omenaldia]
+23|19:00|Kulturgune|Swing ikastaroa eta dantzaldia Twin Room taldearekin|🎵
+23|19:00|Moskotarrak|[CONCURSO MANDA HUEVOS][BINGO GORRINGO LEHIAKETA]|🏆
+23|19:00|Uribarri|[Taller de talos][Talo tailerra]|🛠️
+23|19:00|Zaratas|[ALDATS ELEKTROTXARANGA][ALDATS ELEKTROTXARANGA]
+23|19:30|Areatza|[TALLER DE PIROTECNIA CON LEKITTOKO DEABRUAK][KONPARTSAKIDETU!: LEKITTOKO DEABRUEKIN PIROTEKNIA TAILERRA]|🛠️
+23|19:30|Triangune|[Ane eta M&M][Ane eta M&M]|🎵
+23|20:00|Askapeña|[EMPTY BARRELS][EMPTY BARRELS]|🎵
+23|20:00|Kaskagorri|Erromeria gidatua|💃
+23|20:00|Zazpi Kaleak|[Bilbo kantari][Bilbo kantari]
+23|20:30|Arriaga Plaza|[Toro de fuego][zezensuzkoa]
+23|20:30|Piztiak|[ISILDU ZAITEZ (punk-rock)][ISILDU ZAITEZ (punk-rock)]|🎵
+23|21:00|Kaialde|[ADARROTS][ADARROTS]|🎵
+23|21:00|Moskotarrak|[22º CONCURSO DE FEOS][ITSUSIEN 22. LEHIAKETA]|🏆
+23|21:00|Triangune|[Guda dantza][Guda dantza]|🎵
+23|21:30|Kaskagorri|Poteo nostalgikoa
+23|22:30|Etxebarria Parkea|[FUEGOS ARTIFICIALES. XXVIII CONCURSO INTERNACIONAL VILLA DE BILBAO: PIROTECNIA DEL MEDITERRÁNEO (VALENCIA)][BILBAO HIRIA SU ARTIFIZIALEN NAZIOARTEKO XXVIII. LEHIAKETA NAGUSIA]
+23|23:00|Askapeña|[RADIO REVOLUCIóN][RADIO REVOLUCIóN]|🎵
+23|23:00|Euskalgune|Garilak 26|🎵
+23|23:15|Areatza|[EUSKAL HERRIA-KATALUNIA: CORREFOC][EUSKAL HERRIA-KATULUNIA: KORREFOK]
+23|23:30|Algara|[Willis Drummond - Inoren Ero Ni][Willis Drummond - Inoren Ero Ni]|🎵
+23|23:30|Irrintzi|[Dj Paul Swylë][Dj Paul Swylë]
+23|23:30|Komantxe|[Frikun][Frikun]|🎵
+23|23:30|Kulturgune|DJ Bullekin jai amaitezina
+23|23:30|Pa...Ya!|[TTUN TTUN BRIGADE][TTUN TTUN BRIGADE]|🎵
+23|23:45|AixeBerri|[OXABI (ERROMERIA)][OXABI (ERROMERIA)]|🎵
+24|00:00|Abante!|[DJ session][DJ emanaldia]
+24|00:00|Mamiki|[KANKANEO TEATRO Penkoletas Sisters (humor y electrofeminismo)][KANKANEO TEATRO - PENKOLETAS SISTERS (umorea eta elektrofeminismoa)]|🎵
+24|00:00|Triangune|[Concurso de Playback][Playback lehiaketa]|🏆
+24|00:30|Pinpilinpauxa|[Olé Olé 2.0][Olé Olé 2.0]|🎵
+24|01:00|Komantxe|[Sonora Kilombo][Sonora Kilombo]|🎵
+24|01:00|Mamiki|DJ LUPITA Berlin|🎵
+24|02:00|Algara|[KRII gaua: Eddie Mae - Frances Be - Les Alsborregach][KRII gaua: Eddie Mae - Frances Be - Les Alsborregach]
+24|02:30|Komantxe|[AFU][AFU]|🎵
+24|04:00|Komantxe|[DJ Partxe Kumbiantxe][DJ Partxe Kumbiantxe]|🎵
+24|09:00|Areatza|[BKAFF: CERTAMEN GASTRONÓMICO: BAKALAO AL PIL PIL. INSCRIPCIÓN][AREATZA BKAFF: SUKALDARITZA LEHIAKETA: BAKAILAOA PIL PIL ERARA. IZENA EMATEA.]|🏆
+24|10:00|Arriaga Plaza|[DIANA DE TXISTULARIS Y TXUPÍN][TXISTULARIEN DIANA ETA TXUPINA]
+24|10:00|Euskal Museoa|[EXPOSICIÓN 40 ANIVERSARIO ASTE NAGUSIA][ASTE NAGUSIA 40. URTEURRENA ERAKUSKETA]
+24|11:00|Areatza|[BKAFF: CERTAMEN GASTRONÓMICO: BAKALAO AL PIL PIL][BKAFF: SUKALDARITZA LEHIAKETA: BAKAILAOA PIL PIL ERARA]
+24|11:00|Areatza|[APRENDIENDO A COCINAR: COCINA PARA NIÑ@S. KOKOTXAS AL PIL-PIL][SUKALDATZEN IKASTEN: UMEENTZAKO SUKALDARITZA. KOKOTXAK PIL-PILEAN]|🛠️
+24|11:00|Arriagako Atz.|[Hinchables][Puzgarriak]
+24|11:00|Askapeña|[ATúN ASADO][ATUN ERREA]
+24|11:00|Ripa|[ACTIVIDADES DE AGUA][UR EKINTZAK]
+24|11:30|Askapeña|[JUEGOS INFANTILES][UMEENTZAKO JOLASAK]
+24|12:00|Hontzak|[Taller de Caricaturas][Karikatura Tailerra]|🛠️
+24|12:00|Irrintzi|[Txistularis - Pasacalles Ensanche y Abando][Txistulariak - Kalejira Ensanche eta Abandotik]
+24|12:00|Kaialde|[GYMKANA FOTOGRáFICA][ARGAZKI GYMKANA]
+24|12:00|Kaskagorri|Igerilekua
+24|12:00|Komantxe|[Rocódromo][Rokodromoa]
+24|12:00|Mamiki-Txomin|[Txikigune][Txikigune]|🛠️
+24|12:00|Pinpilinpauxa|[TRIKITILARIS][TRIKITILARIAK]
+24|12:00|Piztiak|[Mosaico con legumbres][Lekale-mosaikoa]|🛠️
+24|12:00|Triangune|[Taller de instrumentos reciclados][Instrumentu erreziklatuen tailerra]|🛠️
+24|12:00|Zaratas|[TERRAZA][TERRAZA]
+24|12:00|Zaratas|[PHOTOCALL][PHOTOCALL]
+24|12:30|Algara|[Zaparrada haur-konpartsaren bazkaria][Zaparrada haur-konpartsaren bazkaria]
+24|12:30|Areatza|[BAKALAO SHOWKALDARITZA][BAKAILOA SHOWKALDARITZA]
+24|12:30|Plaza Barria - Plaza Nueva|[AJEDREZ VIVIENTE][PLAZA BERRIA XAKE BIZIDUNA]
+24|13:00|Algara|[Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa][Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa]
+24|13:00|Uribarri|[Talleres infantiles][Umeentzako tailerrak]|🛠️
+24|13:30|Askapeña|[EXPOSICIóN ONGI ETORRI ERREFUXIATUAK][ONGI ETORRI ERREFUXIATUAK ERAKUSKETA]
+24|13:30|Komantxe|[AIAMA][AIAMA]|🎵
+24|14:30|Areatza|[BKAFF: CERTAMEN GASTRONÓMICO: ENTREGA DE PREMIOS][BKAFF: SUKALDARITZA LEHIAKETA: SARI BANAKETA]|🏆
+24|15:00|Txori Barrote|Elkartasun bazkaria
+24|16:30|Triangune|[Subida del Nervión en barco][Nerbioi ibaiaren igoera txalupaz]
+24|17:00|Areatza|[XXII HIRI KROSA: SALIDA TXUPETES Y TXIKIAK FEMENINA][XXII HIRI KROSA: EMAKUME MAILA TXUPETE ETA TXIKIEN IRTEERA]
+24|17:00|Areatza|[XXII HIRI KROSA: CONVOCATORIA][XXII HIRI KROSA: DEIALDIA]
+24|17:00|Askapeña|[MERCADO INTERNACIONALISTA][AZOKA INTERNAZIONALISTA]
+24|17:00|Kaialde|[DJ PAKO DISCO FIESTA FAMILIAR][DJ PAKO DISKO FESTA FAMILIARRA]|💃
+24|17:00|Komantxe|[Kolektiboen Herri Denda][Kolektiboen Herri Denda]
+24|17:00|Ripa|[JUEGOS DE AGUA INTERKONPARSAS][KONPARTSEN ARTEKO UR JOLASAK]
+24|17:10|Areatza|[XXII HIRI KROSA: SALIDA TXUPETES Y TXIKIAK MASCULINA][XXII HIRI KROSA: GIZON MAILA TXUPETE ETA TXIKIEN IRTEERA]
+24|17:20|Areatza|[XXII HIRI KROSA - SALIDA PRE-BENJAMIN, BENJAMIN Y ALEVIN FEMENINA][XXII HIRI KROSA: EMAKUME MAILA PRE-BENJAMIN, BENJAMIN ETA ALEBIN IRTEERA]
+24|17:30|Areatza|[CONSTRUYE TU TXOSNA][KONPARTSAKIDETU!: ERAIKI ZURE TXOSNA]|🛠️
+24|17:35|Areatza|[XXII HIRI KROSA: SALIDA PRE-BENJAMIN, BENJAMIN Y ALEVIN MASCULINA][XXII HIRI KROSA: GIZON MAILA PRE BENJAMIN, BENJAMIN ETA ALEBIN IRTEERA]
+24|17:50|Areatza|[XXII HIRI KROSA: SALIDA INFANTIL, CADETE Y JUVENIL][XXII HIRI KROSA: HAUR, KADETE ETA GAZTEEN IRTEERA]
+24|18:05|Areatza|[XXII HIRI KROSA: SALIDA ATLETAS EN SILLA DE RUEDAS][XXII HIRI KROSA: GURPIL AULKI MAILAREN IRTEERA]
+24|18:25|Areatza|[XXII HIRI KROSA: SALIDA SENIOR, JUNIOR, PROMESAS Y VETERANOS/AS][XXII HIRI KROSA: SENIOR, JUNIOR, PROMESA ETA BETERANOEN IRTEERA]
+24|18:45|Hontzak|[ETC Rock][ETC Rock]|🎵
+24|19:00|AixeBerri|[KARAOKE][KARAOKE]
+24|19:30|Areatza|[XII HIRI KROSA: ENTREGA DE PREMIOS][XXII HIRI KROSA: SARI BANAKETA]
+24|19:30|Pa...Ya!|[OIER ASLA][OIER ASLA]|🎵
+24|19:30|Piztiak|[Lindy Hour][Lindy Hour]|💃
+24|20:00|Hontzak|[Donkey Punchers][Donkey Punchers]|🎵
+24|20:00|Kaskagorri|Poteoa
+24|20:00|Kulturgune|Havana 537|🎵
+24|20:00|Txomin Barullo|[Triki calejira con Marijaia][Triki Kalejira Marijaiarekin]
+24|20:30|Arriaga Plaza|[TORO DE FUEGO][ZEZENSUZKOA]
+24|20:30|Kaialde|[HOWDY][HOWDY]|🎵
+24|20:45|Askapeña|[GURUTZES MANOUCHES][GURUTZES MANOUCHES]|🎵
+24|21:00|Piztiak|[MICKY & THE BUZZ (Rockabilly)][MICKY & THE BUZZ (Rockabilly)]|🎵
+24|21:30|Kaskagorri|Playback lehiaketa|🏆
+24|22:30|Etxebarria Parkea|[FUEGOS ARTIFICIALES. XXVIII CONCURSO INTERNACIONAL VILLA DE BILBAO: PIROTECNIA ALPUJARREÑA (GRANADA)][BILBAO HIRIA SU ARTIFIZIALEN NAZIOARTEKO XXVIII. LEHIAKETA NAGUSIA:]
+24|23:00|Algara|[DJ Bull][DJ Bull]
+24|23:00|Askapeña|[EZETAERRE][EZETAERRE(HIP-HOP COMBATIVO)]|🎵
+24|23:30|Irrintzi|[The Ruizer][The Ruizer]
+24|23:30|Komantxe|[San Son Dyeah!][San Son Dyeah!]|🎵
+24|23:45|AixeBerri|[DJ FIESTA 70S][DJ FESTA 70S]
+24|23:45|Zaratas|[DJ JEREMIAH JOHNSON][DJ JEREMIAH JOHNSON]
+25|01:00|Komantxe|[Meneo][Meneo]|🎵
+25|01:30|Pinpilinpauxa|[LAS FELLINI][LAS FELLINI]|🎵
+25|02:30|Komantxe|[Reimy][Reimy]|🎵
+25|09:00|Areatza|[BKAFF: CERTAMEN GASTRONÓMICO: MARMITAKO. INSCRIPCIÓN][BKAFF: SUKALDARITZA LEHIAKETA:MARMITAKOA. IZEN EMATEA]|🏆
+25|10:00|Arriaga Plaza|[TXISTULARIEN DIANA ETA TXUPINA][TXISTULARIEN DIANA ETA TXUPINA]
+25|10:00|Euskal Museoa|[EXPOSICIÓN 40 ANIVERSARIO ASTE NAGUSIA][ASTE NAGUSIA 40. URTEURRENA ERAKUSKETA]
+25|10:00|Zabalguneko Merkatua|[XVIII. CAMPEONATO INTERNACIONAL DE AJEDREZ][XVIII. NAZIOARTEKO XAKE TXAPELKETA]
+25|11:00|Areatza|[BKAFF: CERTAMEN GASTRONÓMICO: MARMITAKO][BKAFF: SUKALDARITZA LEHIAKETA: MARMITAKO]
+25|11:00|Arriagako Atz.|[Hinchables][Puzgarriak]
+25|12:00|Areatza|[BKAFF: REPARTO DE BONITO][BKAFF: HEGALUZE BANAKETA]
+25|12:00|Areatza|[TALLER DE KALEJIRA][KONPARTSAKIDETU!: KALEJIRA TAILERRA]|🛠️
+25|12:00|Euskalgune|Igerilekua
+25|12:00|Euskalgune|Euskal Txikigune
+25|12:00|Kaialde|[LANZAMIENTO DE GüITO][OLIBA HEZUR JAURTIKETA]|🏆
+25|12:00|Moskotarrak|[CATA DE VINOS: VI. EDICIÓN DE NARIZ DE MARIJAIA][ARDO DASTAKETA: MARIJAIAREN SUDURRA – VI EDIZIOA]
+25|12:00|Zaratas|[TERRZA][TERRAZA]
+25|12:00|Zaratas|[PHOTOCALL][PHOTOCALL]
+25|12:30|Hontzak|[Taller de Baile Rock'n'Roll][Rock'n'Roll Dantza Tailerra]|🛠️
+25|13:00|Komantxe|[Bailes Irlandeses][Dantza Irlandarrak]|🛠️
+25|13:00|Triangune|[Magia a tutiplén con Imanol Ituiño][Magia a tutiplén Imanol Ituiñorekin]
+25|13:00|Uribarri|[Body Combat][Body Combat]
+25|13:15|Hontzak|[MarianitoRock con banda en directo][MarianitoRock bandarekin zuzenean]
+25|13:30|Askapeña|[EUSKADI-KUBA EXPOSICIóN][EUSKADI-KUBA ERAKUSKETA]
+25|13:30|Euskalgune|Marianito musikatua: DJ Dronki|🎵
+25|14:30|Areatza|[BKAFF: CERTAMEN GASTRONÓMICO: ENTREGA DE PREMIOS][BKAFF: SUKALDARITZA LEHIAKETA: SARI BANAKETA]
+25|15:00|Areatza|[COMIDA INTERKONPARSAS][KONPARTSEN BAZKARIA]
+25|17:00|Komantxe|[Kolektiboen Herri Denda][Kolektiboen Herri Denda]
+25|17:30|Arriaga Plaza|[HERRI KIROLAK ENTRE KONPARSAS][KONPARTSEN ARTEKO HERRI KIROLAK]
+25|18:00|Irrintzi|[Txitularis - Pasacalles Arenal, Plaza Nueva y Siete calles][Txistulariak - Kalejira Arenala, Plaza Berria eta Zazpikaleetatik]
+25|20:00|Arriaga Plaza|[REPARTO BANDERAS AZUL Y MARRÓN Y PREMIO “PALMADA”][BANDERA URDINA ETA MARROIAREN BANAKETA ETA “PALMADA” SARIA]
+25|20:00|Askapeña|[ORLIS PINEDA][ORLIS PINEDA]|🎵
+25|20:00|Zazpi Kaleak|[BILBO KANTARI][BILBO KANTARI]
+25|20:30|Arriaga Plaza|[TORO DE FUEGO][ZEZENSUKOA]
+25|20:30|Pa...Ya!|[TXALAINAK][TXALAINAK]|🎵
+25|21:00|Kulturgune|Xutik Txaranga
+25|22:30|Etxebarria Parkea|[FUEGOS ARTIFICIALES EXHIBICIÓN: ASTONDOA PIROTEKNIA. (BIZKAIA)][BILBAO HIRIA SU ARTIFIZIALEN ERAKUSKETA]
+25|23:00|Algara|[Makala & lagunak (Global Funk)][Makala & lagunak (Global Funk)]
+25|23:30|Irrintzi|[Dj Paul Swylë][Dj Paul Swylë]
+25|23:45|Zaratas|[DJ CISCAR][DJ CISCAR]
+26|00:30|Komantxe|[DR. Bravo & The Funkyconsole][DR. Bravo & The Funkyconsole]|🎵
+26|00:30|Pinpilinpauxa|[Loco Mia][Loco Mia]|🎵
+26|09:00|Areatza|[CONCURSO GASTRONÓMICO DE RABO GUISADO. INSCRIPCIÓN][SUKALDARITZA LEHIAKETA: BUZTAN-GISATUA. IZEN EMATEA]|🏆
+26|10:00|Arriaga Plaza|[DIANA DE TXISTULARIS Y TXUPÍN][TXISTULARIEN DIANA ETA TXUPINA]
+26|10:00|Euskal Museoa|[EXPOSICIÓN 40 ANIVERSARIO ASTE NAGUSIA][ASTE NAGUSIA 40. URTEURRENA ERAKUSKETA]
+26|10:00|Pinpilinpauxa|[Torneo de juegos de mesa][Mahai-jokoen txapelketa]
+26|11:00|Areatza|[CONCURSO GASTRONÓMICO DE RABO GUISADO][SUKALDARITZA LEHIAKETA: BUZTAN-GISATUA]
+26|12:00|Irrintzi|[Txistularis - Pasacalles libre][Txistulariak - Kalejira askea]
+26|12:00|Kaialde|[TALLER DE CHAPAS][TXAPA TAILERRA]|🛠️
+26|12:00|Kaskagorri|Igerilekua
+26|12:00|Zaratas|[TERRAZA][TERRAZA]
+26|12:00|Zaratas|[PHOTOCALL][PHOTOCALL]
+26|13:00|Uribarri|[Talleres infantiles][Umeentzako tailerrak]|🛠️
+26|13:30|Askapeña|[ACTO AHAZTUAK][AHAZTUAK EKITALDIA]
+26|14:00|Irrintzi|[Txistularis y grupo de danzas. Brindis final.][Txistulariak eta euskal dantzen taldea. Azken topa.]|💃
+26|14:30|Areatza|[CERTAMEN GASTRONÓMICO: ENTREGA DE PREMIOS][SUKALDARITZA LEHIAKETA: SARI BANAKETA]|🏆
+26|14:30|Askapeña|[COMIDA AHAZTUAK][AHAZTUAK BAZKARIA]
+26|17:00|Komantxe|[Kolektiboen Herri Denda][Kolektiboen Herri Denda]
+26|17:00|Kulturgune|1 2 3... festa!
+26|17:00|Mamiki|[Harte-Lo y Jam Session][Harte-Lo eta Jam Session]|🎵
+26|17:30|Pa...Ya!|[Pa...Ya! vs Kaskagorri Guerra sucia][Pa...Ya! vs Kaskagorri Guda zikina]
+26|18:00|Askapeña|[ROJO CANCIONERO][ROJO CANCIONERO]|🎵
+26|18:00|Kaskagorri|Akerbeltz erromeria
+26|18:00|Zaratas|[DISCO FIESTA][DISKO JAIA]
+26|20:15|Kulturgune|Marijaiaren azken tributoa RIP|🎵
+26|20:30|Areatza|[TORO DE FUEGO][ZEZENSUZKOA]
+26|23:00|Areatza|[FINAL DE FIESTA Y DESPEDIDA A MARIJAIA][JAIAREN AMAIERA ETA MARIJAIARI AGURRA]
+18|20:00|Bilborock|NEGRACALAVERA, Bilbao (ROCK&ROLL)|🎵
+18|20:30|La Carbonería|Jonathan Merino|🎵
+18|21:00|Bilborock|WICKED WIZZARD, Uribe-Kosta (STONER ROCK)|🎵
+18|21:30|SHAKE!|Unholy Covers + Radio Guerrilla / Alex III + Casual Groupies (DJs)|🎵
+18|23:00|Kafe Antzokia|Distorsion + Elortegi Anayak (10 €)|🎵
+18|23:30|Abandoibarra|Gatibu|🎵
+18|23:30|Plaza Nueva|Larry & His Flask + Dead Bronco|🎵
+18|00:00|Ambigú|Mazmorra (Gratis)|🎵
+19|13:00|NAVE 9|La Frontera (19€)|🎵
+19|20:00|Bilborock|MOIKAVE, Bilbao (BLUES ROCK)|🎵
+19|20:30|La Carbonería|William|🎵
+19|20:30|Zuloa|The Bribones Blues Band|🎵
+19|21:00|Bilborock|DUDU OUCHEN, Bilbao (SOUL FUNK)|🎵
+19|21:30|SHAKE!|The Ribbons + Diablo Cuney|🎵
+19|23:30|Abandoibarra|Banda Municipal de Bilbao con Doctor Deseo|🎵
+19|23:30|Plaza Nueva|The Electric Swing Circus|🎵
+20|20:00|Bilborock|MAREN, Gernika-Lumo (POP)|🎵
+20|20:30|Zuloa|The Bilbobillies|🎵
+20|21:00|Bilborock|DEBAJO DEL PARAGUAS, Bilbao (POP-ROCK)|🎵
+20|21:00|NAVE 9|Los Wavy Gravies + DJs (5€)|🎵
+20|21:30|SHAKE!|Silver Surfing Machine + The Moths|🎵
+20|23:30|Abandoibarra|Rozalén|🎵
+20|23:30|Plaza Nueva|Fanfaraï Big Band|🎵
+21|20:00|Bilborock|YO GERARD, Bilbao (INDIE POP-ROCK)|🎵
+21|20:00|NAVE 9|Shöck + Soma 101 (Gratis)|🎵
+21|20:30|La Carbonería|Javier Urquijo (Los Secretos)|🎵
+21|20:30|Zuloa|The Cheaters|🎵
+21|21:00|Bilborock|XATIRO, Bilbao (RAP)|🎵
+21|21:30|SHAKE!|Sua + The Beatpunkers|🎵
+21|23:30|Abandoibarra|Hombres G|🎵
+21|23:30|Plaza Nueva|Gwendal|🎵
+22|20:00|Bilborock|NEVADAH, Durangaldea (HARD ROCK’N BLUES)|🎵
+22|20:00|NAVE 9|Ruby The Hatchet (Gratis)|🎵
+22|20:30|La Carbonería|Javier Urquijo (Los Secretos)|🎵
+22|20:30|Zuloa|Gonzalo Portugal|🎵
+22|21:00|Bilborock|FREE THE WHEEL, Bilbao (HARD ROCK’N BLUES)|🎵
+22|21:30|SHAKE!|Atila Txiguagua Beldurgarria + La Última Bala|🎵
+22|23:30|Abandoibarra|BOS + Ute Lemper|🎵
+22|23:30|Plaza Nueva|Johnny Osbourne|🎵
+22|00:00|Parque Europa|Skakeitan + Vendetta|🎵
+23|20:00|Bilborock|MUSHKUM, Bilbao (ROCK FRONTERIZO)|🎵
+23|20:00|NAVE 9|The Professionals + Negracalavera (17€)|🎵
+23|20:30|La Carbonería|Urban|🎵
+23|20:30|Zuloa|The Daltonics|🎵
+23|21:00|Bilborock|AIZKORAK ZORROZTU & THE MIA WALLACE BAND, Bilbao (ROCK FUNKSION)|🎵
+23|21:30|SHAKE!|Ornamento y Delito + Los Paralíticos del Ritmo / Cavaliere + Adrián + Mr. Chase + James Hustler (Djs)|🎵
+23|23:00|Kafe Antzokia|Rat-Zinger + Svetlanas (10 €)|🎵
+23|23:30|Abandoibarra|La Pegatina|🎵
+23|23:30|Plaza Nueva|La Kaíta, Guadiana, El Perrete, Javier Conde, el bailaor El Peregrino, Juanjo Navas y Sonakai.|🎵
+23|00:00|Ambigú|Oskar Benas Instro Combo (Gratis)|🎵
+23|00:00|Parque Europa|Fiesta Máxima FM|🎵
+24|12:30|Plaza Nueva|Ajedrez viviente
+24|20:00|Bilborock|VALKYRIA, Bilbao (HEAVY METAL)|🎵
+24|20:00|NAVE 9|The Dustaphonics + DJs (Gratis)|🎵
+24|20:30|La Carbonería|Aida|🎵
+24|21:00|Bilborock|HEX, Bilbao (DEATH METAL)|🎵
+24|21:30|SHAKE!|General Lee + Coppel / Double Trouble + K-Billy|🎵
+24|23:00|Kafe Antzokia|XXL + Lukiek (Gratis)|🎵
+24|23:30|Abandoibarra|Santiago Auseron + Sexy Sadie|🎵
+24|23:30|Plaza Nueva|Orquesta Radio Topolino|🎵
+24|00:00|Ambigú|Cecilia Payne (Gratis)|🎵
+24|00:00|Parque Europa|Adi Bilbao + Megastar + Dj Valdi|🎵
+25|18:00|Abandoibarra|Go!azen|🎵
+25|20:00|Bilborock|BLACK OCEAN WITNESS, Bilbao (DEATHCORE)|🎵
+25|20:00|NAVE 9|Toni Metralla Y Los Antibalas + Grupo Sorpresa (Gratis)|🎵
+25|20:30|La Carbonería|Los Bribones Blues Band|🎵
+25|21:00|Bilborock|GUDAZALEAK, Bilbao (HARDCORE)|🎵
+25|21:30|SHAKE!|F.R.A.N.C.O. + The Owl Project / Malcolm + Satte (Soulero) + Adrián (DJs)|🎵
+25|23:00|Kafe Antzokia|Vhaldemar + Coffeinne (10 €)|🎵
+25|23:30|Abandoibarra|David DeMaría|🎵
+25|23:30|Plaza Nueva|EUSKAL KANTARIEN JIRA-BIRA (Gontzal Mendibil, Gorka Knorr, Urko y TxominArtola)|🎵
+25|00:00|Ambigú|Buenas Tardes, Comandante + Keems (Gratis)|🎵
+25|00:00|Parque Europa|Sebastián Yatra|🎵
+26|13:00|NAVE 9|The Neatbeats + DJs (Gratis)|🎵

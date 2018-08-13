@@ -1,0 +1,44 @@
+Something wrong between events 1
+================= 21__00:00__Abante! ================
+DJ emanaldia
+Soria & Melena (Lee Killer Selection)
+==========================
+
+And events 2
+================= 21__00:00__Abante! ================
+[DJ session][DJ emanaldia]
+==========================
+
+Something wrong between events 1
+================= 22__12:00__Arriagako Atz. ================
+Degustación de Piparras de Ibarra (fritas, en conserva y naturales)
+Talleres de disfraces
+==========================
+
+And events 2
+================= 22__12:00__Arriagako Atz. ================
+[Talleres de disfraces][Mozorro tailerrak]
+==========================
+
+Something wrong between events 1
+================= 22__00:00__Abante! ================
+DJ emanaldia
+Leche De Gorrión Zurdo
+==========================
+
+And events 2
+================= 22__00:00__Abante! ================
+[DJ session][DJ emanaldia]
+==========================
+
+Something wrong between events 1
+================= 23__00:00__Abante! ================
+DJ Bengalitas
+DJ Session
+==========================
+
+And events 2
+================= 23__00:00__Abante! ================
+[DJ session][DJ emanaldia]
+==========================
+
