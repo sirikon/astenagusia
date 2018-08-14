@@ -1,0 +1,84 @@
+19|10:00|Arenal|Mercado de productores del agro bizkaino: Gure lurreko merkatuak
+19|20:30|Pa...Ya!|TOCAN2 LA POLLA|🎵
+21|12:00|Txomin Barullo|Cata de cerveza (Mamiki + Txomin Barullo)
+23|10:00|Arenal|BKAFF: Certamen gastronómico: Bakalao a la Bizkaina. Inscripción|🏆-🍲
+23|10:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)|🛠️-🍲
+23|12:00|Arenal|Taller de Antxoas en salazón (Antxoas Royo Bermeo)|🛠️-🍲
+24|18:00|Arenal|AQUAFONIA
+22|12:30|Pa...Ya!|Taller de máscaras|🛠️
+22|01:00|Hontzak|Reparto de sopa de ajo
+
+18|20:00|Bilborock|NEGRACALAVERA, Bilbao (ROCK&ROLL)|🎵
+18|20:30|La Carbonería|Jonathan Merino|🎵
+18|21:00|Bilborock|WICKED WIZZARD, Uribe-Kosta (STONER ROCK)|🎵
+18|21:30|SHAKE!|Unholy Covers + Radio Guerrilla / Alex III + Casual Groupies (DJs)|🎵
+18|23:00|Kafe Antzokia|Distorsion + Elortegi Anayak (10 €)|🎵
+18|23:30|Abandoibarra|Gatibu|🎵
+18|23:30|Plaza Nueva|Larry & His Flask + Dead Bronco|🎵
+18|00:00|Ambigú|Mazmorra (Gratis)|🎵
+19|13:00|NAVE 9|La Frontera (19€)|🎵
+19|20:00|Bilborock|MOIKAVE, Bilbao (BLUES ROCK)|🎵
+19|20:30|La Carbonería|William|🎵
+19|20:30|Zuloa|The Bribones Blues Band|🎵
+19|21:00|Bilborock|DUDU OUCHEN, Bilbao (SOUL FUNK)|🎵
+19|21:30|SHAKE!|The Ribbons + Diablo Cuney|🎵
+19|23:30|Abandoibarra|Banda Municipal de Bilbao con Doctor Deseo|🎵
+19|23:30|Plaza Nueva|The Electric Swing Circus|🎵
+20|20:00|Bilborock|MAREN, Gernika-Lumo (POP)|🎵
+20|20:30|Zuloa|The Bilbobillies|🎵
+20|21:00|Bilborock|DEBAJO DEL PARAGUAS, Bilbao (POP-ROCK)|🎵
+20|21:00|NAVE 9|Los Wavy Gravies + DJs (5€)|🎵
+20|21:30|SHAKE!|Silver Surfing Machine + The Moths|🎵
+20|23:30|Abandoibarra|Rozalén|🎵
+20|23:30|Plaza Nueva|Fanfaraï Big Band|🎵
+21|20:00|Bilborock|YO GERARD, Bilbao (INDIE POP-ROCK)|🎵
+21|20:00|NAVE 9|Shöck + Soma 101 (Gratis)|🎵
+21|20:30|La Carbonería|Javier Urquijo (Los Secretos)|🎵
+21|20:30|Zuloa|The Cheaters|🎵
+21|21:00|Bilborock|XATIRO, Bilbao (RAP)|🎵
+21|21:30|SHAKE!|Sua + The Beatpunkers|🎵
+21|23:30|Abandoibarra|Hombres G|🎵
+21|23:30|Plaza Nueva|Gwendal|🎵
+22|20:00|Bilborock|NEVADAH, Durangaldea (HARD ROCK’N BLUES)|🎵
+22|20:00|NAVE 9|Ruby The Hatchet (Gratis)|🎵
+22|20:30|La Carbonería|Javier Urquijo (Los Secretos)|🎵
+22|20:30|Zuloa|Gonzalo Portugal|🎵
+22|21:00|Bilborock|FREE THE WHEEL, Bilbao (HARD ROCK’N BLUES)|🎵
+22|21:30|SHAKE!|Atila Txiguagua Beldurgarria + La Última Bala|🎵
+22|23:30|Abandoibarra|BOS + Ute Lemper|🎵
+22|23:30|Plaza Nueva|Johnny Osbourne|🎵
+22|00:00|Parque Europa|Skakeitan + Vendetta|🎵
+23|20:00|Bilborock|MUSHKUM, Bilbao (ROCK FRONTERIZO)|🎵
+23|20:00|NAVE 9|The Professionals + Negracalavera (17€)|🎵
+23|20:30|La Carbonería|Urban|🎵
+23|20:30|Zuloa|The Daltonics|🎵
+23|21:00|Bilborock|AIZKORAK ZORROZTU & THE MIA WALLACE BAND, Bilbao (ROCK FUNKSION)|🎵
+23|21:30|SHAKE!|Ornamento y Delito + Los Paralíticos del Ritmo / Cavaliere + Adrián + Mr. Chase + James Hustler (Djs)|🎵
+23|23:00|Kafe Antzokia|Rat-Zinger + Svetlanas (10 €)|🎵
+23|23:30|Abandoibarra|La Pegatina|🎵
+23|23:30|Plaza Nueva|La Kaíta, Guadiana, El Perrete, Javier Conde, el bailaor El Peregrino, Juanjo Navas y Sonakai.|🎵
+23|00:00|Ambigú|Oskar Benas Instro Combo (Gratis)|🎵
+23|00:00|Parque Europa|Fiesta Máxima FM|🎵
+24|12:30|Plaza Nueva|Ajedrez viviente
+24|20:00|Bilborock|VALKYRIA, Bilbao (HEAVY METAL)|🎵
+24|20:00|NAVE 9|The Dustaphonics + DJs (Gratis)|🎵
+24|20:30|La Carbonería|Aida|🎵
+24|21:00|Bilborock|HEX, Bilbao (DEATH METAL)|🎵
+24|21:30|SHAKE!|General Lee + Coppel / Double Trouble + K-Billy|🎵
+24|23:00|Kafe Antzokia|XXL + Lukiek (Gratis)|🎵
+24|23:30|Abandoibarra|Santiago Auseron + Sexy Sadie|🎵
+24|23:30|Plaza Nueva|Orquesta Radio Topolino|🎵
+24|00:00|Ambigú|Cecilia Payne (Gratis)|🎵
+24|00:00|Parque Europa|Adi Bilbao + Megastar + Dj Valdi|🎵
+25|18:00|Abandoibarra|Go!azen|🎵
+25|20:00|Bilborock|BLACK OCEAN WITNESS, Bilbao (DEATHCORE)|🎵
+25|20:00|NAVE 9|Toni Metralla Y Los Antibalas + Grupo Sorpresa (Gratis)|🎵
+25|20:30|La Carbonería|Los Bribones Blues Band|🎵
+25|21:00|Bilborock|GUDAZALEAK, Bilbao (HARDCORE)|🎵
+25|21:30|SHAKE!|F.R.A.N.C.O. + The Owl Project / Malcolm + Satte (Soulero) + Adrián (DJs)|🎵
+25|23:00|Kafe Antzokia|Vhaldemar + Coffeinne (10 €)|🎵
+25|23:30|Abandoibarra|David DeMaría|🎵
+25|23:30|Plaza Nueva|EUSKAL KANTARIEN JIRA-BIRA (Gontzal Mendibil, Gorka Knorr, Urko y TxominArtola)|🎵
+25|00:00|Ambigú|Buenas Tardes, Comandante + Keems (Gratis)|🎵
+25|00:00|Parque Europa|Sebastián Yatra|🎵
+26|13:00|NAVE 9|The Neatbeats + DJs (Gratis)|🎵

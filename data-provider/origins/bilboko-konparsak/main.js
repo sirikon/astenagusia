@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const programacionRaw = JSON.parse(fs.readFileSync('./bilboko-konpartsak-app/programacion.json')).message;
+const programacionRaw = JSON.parse(fs.readFileSync('./programacion.json')).message;
 
 const UPPERCASES = 'ABCDEFGHIJKLMNÑOPQRSTUVWXYZ';
 const LOWERCASES = UPPERCASES.toLowerCase();
