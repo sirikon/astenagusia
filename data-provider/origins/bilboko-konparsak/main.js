@@ -1,5 +1,7 @@
 const fs = require('fs');
 
+const eventWriter = require('../../../lib/eventWriter');
+
 const programacionRaw = JSON.parse(fs.readFileSync('./programacion.json')).message;
 
 const UPPERCASES = 'ABCDEFGHIJKLMNÑOPQRSTUVWXYZ';
@@ -212,6 +214,4 @@ var programacion = programacionRaw.map(event => {
     return result;
 });
 
-programacion.forEach(event => {
-    console.log(`${event.day}|${event.hour}|${event.location}|${event.name}${(event.badges.length > 0 ? `|${(event.badges.join('-'))}` : '')}`)
-});
+eventWriter.writeStdout(programacion);
