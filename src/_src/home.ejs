@@ -43,14 +43,14 @@
             </div>
 
             <div class="days">
-                <% data.index.home.days.forEach((day) => { %>
+                <% data.index.home(activeLanguage).days.forEach((day) => { %>
                     <a data-locations="__<%= day.locations.join('__') %>__" class="day" href="#day_<%= day.number %>">
                         <span><%= day.number %></span>
                     </a>
                 <% }) %>
             </div>
 
-            <% data.index.home.days.forEach((day) => { %>
+            <% data.index.home(activeLanguage).days.forEach((day) => { %>
                 <dl style="margin-top: 15px;" data-locations="__<%= day.locations.join('__') %>__">
                     <dt id="day_<%= day.number %>" class="day-title">
                         <span><%= _t[day.day_id].replace('{}', day.number) %></span>
@@ -142,7 +142,7 @@
             </div>
             <div class="location-popup-list">
                 <button onclick="onFilterOptionClick(null)" class="location-popup-button" type="button">(<%= _t['NO_FILTER'] %>)</button>
-                <% data.index.home.locations.forEach((location) => { %>
+                <% data.index.home(activeLanguage).locations.forEach((location) => { %>
                     <button onclick="onFilterOptionClick('<%= location.name %>', '<%= location.slug %>')" class="location-popup-button" type="button"><%= location.name %></button>
                 <% }) %>
             </div>

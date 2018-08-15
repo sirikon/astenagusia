@@ -51,17 +51,15 @@ const MARIJAIAN_EVENTS = ['545', '326', '433', '434', '302', '415'];
 var programacion = programacionRaw.map(event => {
     var result = {
         name: '',
+        name_eu: '',
         location: '',
         day: 0,
         hour: '',
         badges: []
     };
 
-    // if (event.nombre_es !== '' && event.nombre_eu !== '') {
-    //     result.name = `[${event.nombre_es}][${event.nombre_eu}]`;
-    // } else {
-        result.name = event.nombre_es || event.nombre_eu;
-    // }
+    result.name = event.nombre_es || event.nombre_eu;
+    result.name_eu = event.nombre_eu || event.nombre_es;
 
     result.location = normalizeText(event.lugar);
     result.hour = event.hora.split(':').slice(0, 2).join(':');
