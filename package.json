@@ -6,7 +6,7 @@
   "scripts": {
     "build": "pitch build",
     "serve": "pitch serve --host 0.0.0.0",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,9 @@
   "dependencies": {
     "pitch-cli": "0.1.1",
     "slugify": "^1.3.1"
+  },
+  "devDependencies": {
+    "fuzzy-compare": "^1.0.0",
+    "mocha": "^5.2.0"
   }
 }

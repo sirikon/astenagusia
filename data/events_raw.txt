@@ -492,7 +492,7 @@
 24|12:00|Zaratas|TERRAZA
 24|12:30|Algara|Zaparrada haur-konpartsaren bazkaria
 24|12:30|Arenal|BAKALAO SHOWKALDARITZA
-24|12:30|Plaza Barria - Plaza Nueva|AJEDREZ VIVIENTE
+24|12:30|Plaza Nueva|AJEDREZ VIVIENTE
 24|12:30|Plaza Nueva|Ajedrez viviente
 24|13:00|Algara|Bilbo Hiria 96.0 FM irratiaren zuzeneko saioa|📻
 24|13:00|Uribarri|Talleres infantiles|🛠️

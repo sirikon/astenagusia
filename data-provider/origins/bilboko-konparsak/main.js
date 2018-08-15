@@ -91,6 +91,10 @@ var programacion = programacionRaw.map(event => {
         result.location = 'Gas Plaza';
     }
 
+    if (result.location === 'Plaza Barria - Plaza Nueva') {
+        result.location = 'Plaza Nueva';
+    }
+
     if (result.location === 'Santiago Plaza - Plaza Santiago') {
         result.location = 'Santiago Plaza';
     }
