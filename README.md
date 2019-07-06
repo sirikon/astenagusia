@@ -1,4 +1,4 @@
-<h1 align="center">Aste Nagusia</h1>
+<h1 align="center">🙆 Aste Nagusia 🙆</h1>
 <p align="center">
     <a href="https://astenagusia.eus">✨ astenagusia.eus ✨</a>
 </p>
