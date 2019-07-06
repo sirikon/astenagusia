@@ -1,19 +1,15 @@
-const fs = require('fs');
-const path = require('path');
 const slugify = require('slugify');
 
-const eventReader = require('../../common/lib/eventReader');
-const eventSorter = require('../../common/lib/eventSorter');
+const { getData } = require('../../data-processing/1-read'); 
 
 const WEEKDAYS = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
 
 function getEvents() {
-    return eventReader.readFile(path.join(__dirname, './events_raw.txt'))
-        .sort(eventSorter.sortFn);
+    return getData();
 }
 
 function getDayId(dayNumber) {
-    var weekDay = (new Date(2018, 7, dayNumber, 12, 0, 0, 0)).getDay();
+    var weekDay = (new Date(2019, 7, dayNumber, 12, 0, 0, 0)).getDay();
     return `${WEEKDAYS[weekDay]}`;
 }
 

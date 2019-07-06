@@ -1,0 +1,12 @@
+{
+  "defaultLanguage": "eu",
+
+  "dataOrigins": [
+    {
+      "name": "Bilboko Udala",
+      "links": [
+        "https://bilbao-astenagusia.eus"
+      ]
+    }
+  ]
+}

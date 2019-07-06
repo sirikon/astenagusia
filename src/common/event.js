@@ -4,7 +4,7 @@ class Event {
         this.hour = hour;
         this.location = location;
         this.name = name;
-        this.name_eu = name_eu;
+        this.name_eu = name_eu || name;
         this.badges = badges || [];
     }
 }

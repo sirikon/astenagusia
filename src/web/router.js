@@ -1,8 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const languages = ['eu', 'es', 'en'];
-const defaultLanguage = 'eu';
+function getLanguages() {
+    const languagesFolderPath = path.join(__dirname, '/data/translations');
+    return fs.readdirSync(languagesFolderPath)
+        .map(fileName => fileName.split('.')[0]);
+}
 
 function getFaviconsFiles() {
     const faviconsFolderPath = path.join(__dirname, '/src/favicons');
@@ -14,6 +17,9 @@ module.exports = {
         exclude: '_src'
     },
     custom: (data) => {
+        const languages = getLanguages();
+        const defaultLanguage = data.settings.defaultLanguage;
+
         const result = {};
 
         getFaviconsFiles().forEach((file) => {

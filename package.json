@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "fuzzy-compare": "^1.0.0",
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "crawler": "^1.1.4"
   }
 }
