@@ -18,7 +18,7 @@ Instalamos las dependencias con `npm install`.
 Para lanzar el servidor de desarrollo, en consola ejecutamos:
 
 ```bash
-npm run serve
+npm start
 ```
 
 Para crear una build de producción, usamos:
