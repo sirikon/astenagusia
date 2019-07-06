@@ -1,3 +1,8 @@
+<%
+    const _t = params._t;
+    const activeLanguage = params.activeLanguage;
+%>
+
 <html>
     <head>
         <title>Aste Nagusia</title>
@@ -37,9 +42,9 @@
             <div class="i18n">
                 <a href="/" class="i18n-option <%= activeLanguage === 'eu' ? 'is-active' : '' %>">Euskara</a>
                 <span class="i18n-sep">-</span>
-                <a href="/es.html" class="i18n-option <%= activeLanguage === 'es' ? 'is-active' : '' %>">Español</a>
+                <a href="/es" class="i18n-option <%= activeLanguage === 'es' ? 'is-active' : '' %>">Español</a>
                 <span class="i18n-sep">-</span>
-                <a href="/en.html" class="i18n-option <%= activeLanguage === 'en' ? 'is-active' : '' %>">English</span>
+                <a href="/en" class="i18n-option <%= activeLanguage === 'en' ? 'is-active' : '' %>">English</span>
             </div>
 
             <div class="days">

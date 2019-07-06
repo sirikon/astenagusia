@@ -1,6 +1,13 @@
-# Aste Nagusia
+<h1 align="center">Aste Nagusia</h1>
+<p align="center">
+    <a href="https://astenagusia.eus">✨ astenagusia.eus ✨</a>
+</p>
 
-Esta web reúne eventos y conciertos del Ayuntamiento de Bilbao, Bilboko Konpartsak, salas de concierto y demás iniciativas en torno a Aste Nagusia Bilbao.
+<p align="center">
+    Esta web reúne eventos y conciertos del Ayuntamiento de Bilbao, Bilboko Konpartsak, salas de concierto y demás iniciativas en torno a Aste Nagusia Bilbao.
+</p>
+
+---
 
 ## Desarrollo
 

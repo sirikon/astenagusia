@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const slugify = require('slugify');
 
-const eventReader = require('../lib/eventReader');
-const eventSorter = require('../lib/eventSorter');
+const eventReader = require('../../common/lib/eventReader');
+const eventSorter = require('../../common/lib/eventSorter');
 
 const WEEKDAYS = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
 
@@ -28,7 +28,7 @@ function slugifyLocation(locationName) {
 const events = getEvents();
 
 module.exports = {
-    get data() {
+    data() {
         return {
             home(renderLanguage) {
 
