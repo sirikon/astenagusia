@@ -13,9 +13,7 @@ function getFaviconsFiles() {
 }
 
 module.exports = {
-    auto: {
-        exclude: '_src'
-    },
+    auto: false,
     custom: (data) => {
         const languages = getLanguages();
         const defaultLanguage = data.settings.defaultLanguage;
