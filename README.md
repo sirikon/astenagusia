@@ -26,8 +26,3 @@ Para crear una build de producción, usamos:
 ```bash
 npm run build
 ```
-
-## Orígenes de datos
-
-- [BI FM](http://www.bifmradio.com/musica/aste-nagusia-conciertos-2018/)
-- [EiTB](https://www.eitb.eus/es/pueblos-ciudades/detalle/5768155/programa-bilboko-konpartsak-aste-nagusia-2018-programacion-comparsas/)
