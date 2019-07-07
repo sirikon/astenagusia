@@ -8,4 +8,4 @@ services:
     build:
       context: .
     ports:
-      - 0.0.0.0:${PORT}:80
+      - ${HOST}:${PORT}:80
