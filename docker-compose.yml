@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+
+  astenagusia:
+    restart: always
+    image: astenagusia
+    build:
+      context: .
+    ports:
+      - 0.0.0.0:8080:80
