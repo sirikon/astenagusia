@@ -5,10 +5,8 @@
   "scripts": {
     "start": "cd src/web && pitch serve --host 0.0.0.0",
     "build": "cd src/web && pitch build",
-
     "test": "npm run test:common",
     "test:common": "cd src/common && mocha",
-
     "lint": "eslint .",
     "lint:fix": "npm run lint -- --fix"
   },
@@ -17,13 +15,13 @@
     "url": "git+https://github.com/sirikon/astenagusia.git"
   },
   "author": "Carlos Fdez. Llamas <hello@sirikon.me>",
-  "license": "GPL",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/sirikon/astenagusia/issues"
   },
   "homepage": "https://github.com/sirikon/astenagusia#readme",
   "dependencies": {
-    "pitch-cli": "^0.8.1",
+    "pitch-cli": "~0.9.0",
     "slugify": "^1.3.1"
   },
   "devDependencies": {
