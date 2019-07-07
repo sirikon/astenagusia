@@ -7,7 +7,10 @@
     "build": "cd src/web && pitch build",
 
     "test": "npm run test:common",
-    "test:common": "cd src/common && mocha"
+    "test:common": "cd src/common && mocha",
+
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix"
   },
   "repository": {
     "type": "git",
@@ -24,8 +27,9 @@
     "slugify": "^1.3.1"
   },
   "devDependencies": {
+    "crawler": "^1.1.4",
+    "eslint": "^6.0.1",
     "fuzzy-compare": "^1.0.0",
-    "mocha": "^5.2.0",
-    "crawler": "^1.1.4"
+    "mocha": "^5.2.0"
   }
 }
