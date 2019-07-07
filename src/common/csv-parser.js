@@ -7,11 +7,34 @@ function parse(rawData) {
 
 	lines.forEach((line) => {
 		if (line.trim() === '') return;
-		const columns = line.split(',');
-		const lineData = [];
-		columns.forEach((column) => {
-			lineData.push(column.substr(1, column.length-2));
-		});
+
+		let lineData = [];
+		let currentColumn = '';
+		let readingColumn = false;
+
+		for (let i = 0; i < line.length; i++) {
+			const c = line[i];
+			// const prev = i > 0 ? line[i-1] : '';
+
+			if (c === '"' && readingColumn === false) {
+				readingColumn = true;
+				continue;
+			}
+
+			if (c === '"' && readingColumn === true) {
+				readingColumn = false;
+				lineData.push(currentColumn);
+				currentColumn = '';
+				continue;
+			}
+
+			if (readingColumn === false) {
+				continue;
+			}
+
+			currentColumn += c;
+		}
+
 		result.push(lineData);
 	});
 
