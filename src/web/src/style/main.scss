@@ -152,10 +152,10 @@ button {
     }
 
     &-badges {
-        padding-right: .3em;
+        padding-right: .6em;
         display: flex;
         flex-direction: column;
-        justify-content: flex-start;
+        justify-content: center;
         align-items: center;
     }
 
@@ -266,7 +266,7 @@ button {
 }
 
 .footer {
-    text-align: center;
+    text-align: left;
     padding: 1px 20px;
     background-color: #fbfbfb;
     margin-top: 80px;
@@ -274,6 +274,14 @@ button {
     &-madewithlove {
         margin: 1.5em 0;
         font-size: 1.2em;
+        text-align: center;
+    }
+
+    p {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 500px;
     }
 
     a {
