@@ -1,8 +1,0 @@
-0.0.0.0:80 {
-    log stdout
-    errors stdout
-
-    header / {
-        Cache-Control "public max-age=43200"
-    }
-}

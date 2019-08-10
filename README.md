@@ -11,18 +11,20 @@
 
 ## Desarrollo
 
-El proyecto utiliza el generador de sites estáticos [Pitch](https://www.npmjs.com/package/pitch-cli).
+Se recomienda utilizar **tsk** para lanzar los scripts del proyecto: https://github.com/sirikon/tsk.
 
-Instalamos las dependencias con `npm install`.
+Si no, son scripts bash normales que debes lanzar desde la raíz del proyecto.
+
+Instalamos las dependencias con `tsk install`.
 
 Para lanzar el servidor de desarrollo, en consola ejecutamos:
 
 ```bash
-npm start
+tsk serve
 ```
 
 Para crear una build de producción, usamos:
 
 ```bash
-npm run build
+tsk build
 ```
