@@ -1,5 +1,6 @@
 class Event {
-	constructor(day, hour, location, name, name_eu, badges) {
+	constructor(original, day, hour, location, name, name_eu, badges) {
+		this.original = original;
 		this.day = day;
 		this.hour = hour;
 		this.location = location;
