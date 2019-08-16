@@ -41,6 +41,8 @@ function getDataFromKonpartsakApp() {
 	const object = JSON.parse(data);
 	return object.message
 		.filter((e) => {
+			if (e.nombre_es.toLowerCase().indexOf('apertura de txosnas') >= 0) return false;
+			if (e.nombre_eu.toLowerCase().indexOf('harrera marijaiari') >= 0) return false;
 			if (e.nombre_es.toLowerCase().indexOf('ajedrez') >= 0) return false;
 			if (e.nombre_es.toLowerCase() === 'toro de fuego') return false;
 			if (e.nombre_es.toLowerCase().indexOf('open magic') >= 0) return false;
