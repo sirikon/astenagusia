@@ -27,11 +27,55 @@ function addBadge(badges, newBadge) {
 	badges.push(newBadge);
 }
 
+function beautifyText(text) {
+	return text.split(' ')
+		.map(t => t.toLowerCase())
+		.map(t => {
+			return `${t.slice(0, 1).toUpperCase()}${t.slice(1, t.length)}`;
+		})
+		.join(' ');
+}
+
+function getDataFromKonpartsakApp() {
+	const data = fs.readFileSync(path.join(__dirname, '0-konpartsak-events.json'));
+	const object = JSON.parse(data);
+	return object.message
+		.filter((e) => {
+			if (e.nombre_es.toLowerCase().indexOf('ajedrez') >= 0) return false;
+			if (e.nombre_es.toLowerCase() === 'toro de fuego') return false;
+			if (e.nombre_es.toLowerCase().indexOf('open magic') >= 0) return false;
+			if (e.nombre_es.toLowerCase().indexOf('taller de txalaparta') >= 0) return false;
+			if (e.tipo.toLowerCase().indexOf('fuegos artificiales') >= 0) return false;
+			if (e.nombre_eu.toLowerCase().indexOf('txistularien') >= 0) return false;
+			return true;
+		})
+		.map((e) => {
+			return new Event(
+				e,
+				e.fecha.split('-')[2],
+				e.hora.split(':').slice(0,2).join(':'),
+				beautifyText(e.lugar),
+				e.nombre_es || e.nombre_eu,
+				e.nombre_eu || e.nombre_es,
+				[]
+			);
+		})
+		.map((e) => {
+			if (
+				e.original.tipo === 'KONTZERTUAK - CONCIERTOS'
+				|| e.original.tipo.indexOf('MUSIKA') >= 0) {
+				addBadge(e.badges, '🎵');
+			}
+			return e;
+		});
+}
+
 function getDataFromUdalaApp() {
 	const data = fs.readFileSync(path.join(__dirname, '0-udala-app-events.json'));
 	const events = JSON.parse(data);
 	return events
 		.filter((e) => {
+			if (e.title_es && e.title_es.toLowerCase().indexOf('reparto de pinchos') >= 0) return false;
 			if (e.place_id === 'bilborock_aretoa') return false;
 			if (e.place_id === 'zezen_plaza') return false;
 			if (e.kategory_id === '8') return false;
@@ -99,7 +143,7 @@ function getDataFromUdalaApp() {
 
 function getData() {
 	return []
-		.concat(getDataFromRaw(), getDataFromUdalaApp())
+		.concat(getDataFromRaw(), getDataFromUdalaApp(), getDataFromKonpartsakApp())
 		.sort(eventSorter.sortFn);
 }
 
