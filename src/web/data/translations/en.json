@@ -14,7 +14,7 @@
     "SUNDAY": "Sunday {}",
 
     "FOOTER_DESCRIPTION": "This website has events and concerts from Bilbao's Council, Bilboko Konpartsak, concert halls and many initiatives around Aste Nagusia Bilbao.",
-    "FOOTER_HOSTING": "Website hosted in <a href=\"https://www.netlify.com/\" target=\"_blank\">Netlify</a>.",
+    "FOOTER_HOSTING": "Website hosted in <a href=\"https://www.scaleway.com/\" target=\"_blank\">Scaleway</a>.",
     "FOOTER_TRACKING": "This website doesn't track any user actions in the client side.",
     "FOOTER_JAVASCRIPT": "You can <b>disable JavaScript</b> if you want, navigation will work, but filters will not.",
     "FOOTER_DATA_ORIGINS": "Data origins:",

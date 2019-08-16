@@ -125,9 +125,9 @@
 
                 <p>
                     <%- _t['FOOTER_DATA_ORIGINS'] %>
-                    <a target="_blank" href="http://www.bifmradio.com/musica/aste-nagusia-conciertos-2018/">BI FM</a>,
-                    <a target="_blank" href="https://www.eitb.eus/es/pueblos-ciudades/detalle/5768155/programa-bilboko-konpartsak-aste-nagusia-2018-programacion-comparsas/">EiTB</a>,
-                    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.konpartsak.astenagusia">Bilboko Konpartsak App</a>.
+                    <% data.settings.dataOrigins.forEach((d, i) => { %>
+                        <a target="_blank" href="<%= d.link %>"><%= d.name %></a><span><%= (i === data.settings.dataOrigins.length-1) ? '.' : ',' %> </span>
+                    <% }) %>
                 </p>
 
                 <p>

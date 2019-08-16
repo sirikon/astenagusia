@@ -14,7 +14,7 @@
     "SUNDAY": "Domingo {}",
 
     "FOOTER_DESCRIPTION": "Esta web reúne eventos y conciertos del Ayuntamiento de Bilbao, Bilboko Konpartsak, salas de concierto y demás iniciativas en torno a Aste Nagusia Bilbao.",
-    "FOOTER_HOSTING": "Web hospedada en <a href=\"https://www.netlify.com/\" target=\"_blank\">Netlify</a>.",
+    "FOOTER_HOSTING": "Web hospedada en <a href=\"https://www.scaleway.com/\" target=\"_blank\">Scaleway</a>.",
     "FOOTER_TRACKING": "Esta web no realiza ningún tipo de seguimiento de las acciones del usuario en el lado del cliente.",
     "FOOTER_JAVASCRIPT": "Si quieres, puedes <b>desactivar JavaScript</b>, la navegación funcionará, pero los filtros no.",
     "FOOTER_DATA_ORIGINS": "Orígenes de datos:",
