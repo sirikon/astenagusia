@@ -32,8 +32,8 @@ function getDataFromUdalaApp() {
 	const events = JSON.parse(data);
 	return events
 		.filter((e) => {
-			if (e.place_es === 'Sala Bilborock') return false;
-			if (e.place_es === 'Plaza de toros') return false;
+			if (e.place_id === 'bilborock_aretoa') return false;
+			if (e.place_id === 'zezen_plaza') return false;
 			if (e.kategory_id === '8') return false;
 			return true;
 		})
@@ -50,13 +50,28 @@ function getDataFromUdalaApp() {
 			);
 		})
 		.map((e) => {
-			if (e.original.title_en === 'Concert by the Municipal Band.') {
+			if (e.original.title_en === 'Concert by the Municipal Band.' || e.original.id === '101') {
 				addBadge(e.badges, '🎵');
+			}
+			if (e.original.title_es.toLowerCase().indexOf('toro de fuego') >= 0) {
+				addBadge(e.badges, '🔥');
+				addBadge(e.badges, '🐂');
+			}
+			if (e.original.title_es.toLowerCase().indexOf('gastro') >= 0) {
+				addBadge(e.badges, '🍖');
+			}
+			if (e.original.title_es.toLowerCase().indexOf('mus') >= 0) {
+				addBadge(e.badges, '🃏');
+			}
+			if (e.original.title_es.toLowerCase().indexOf('ajedrez') >= 0) {
+				addBadge(e.badges, '♟️');
 			}
 			if (e.original.kategory_id === '0') {
 				addBadge(e.badges, '🎵');
 			}
-			if (e.original.kategory_id === '2') {
+			if (
+				e.original.kategory_id === '2'
+				|| (e.original.title_es.toLowerCase().indexOf('teatro') >= 0 && e.original.place_id !== 'arriaga_antzoki')) {
 				addBadge(e.badges, '🎭');
 			}
 			if (e.original.kategory_id === '3') {
@@ -69,7 +84,10 @@ function getDataFromUdalaApp() {
 			if (['10', '44', '75', '105', '137', '171', '203', '236', '247'].indexOf(e.original.id) >= 0) {
 				addBadge(e.badges, '🎆');
 			}
-			if (['3', '5', '118', '262'].indexOf(e.original.id) >= 0) {
+			if (['34', '65', '95', '128', '162', '194', '227', '258'].indexOf(e.original.id) >= 0 || e.original.dantzak === '1') {
+				addBadge(e.badges, '💃');
+			}
+			if (['1', '3', '5', '118', '262'].indexOf(e.original.id) >= 0) {
 				addBadge(e.badges, '🙆');
 			}
 			if (['262'].indexOf(e.original.id) >= 0) {
