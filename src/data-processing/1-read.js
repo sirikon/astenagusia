@@ -249,6 +249,13 @@ function getDataFromUdalaApp() {
 function getData() {
 	return []
 		.concat(getDataFromRaw(), getDataFromUdalaApp(), getDataFromKonpartsakApp(), getDataFromMondoSonoro())
+		.filter(e => {
+			if (!e.location) {
+				console.log(e);
+				return false;
+			}
+			return true;
+		})
 		.sort(eventSorter.sortFn);
 }
 
