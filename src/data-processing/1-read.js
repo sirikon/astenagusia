@@ -114,7 +114,8 @@ function getDataFromMondoSonoro() {
 		'Komantxe',
 		'Pinpilinpauxa',
 		'Parque Europa',
-		'Altxaporrue'
+		'Altxaporrue',
+		'Zaratas'
 	];
 	return result
 		.filter(r => {
