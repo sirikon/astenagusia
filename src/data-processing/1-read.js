@@ -115,7 +115,9 @@ function getDataFromMondoSonoro() {
 		'Pinpilinpauxa',
 		'Parque Europa',
 		'Altxaporrue',
-		'Zaratas'
+		'Zaratas',
+		'Shake!',
+		'Piztiak'
 	];
 	return result
 		.filter(r => {
