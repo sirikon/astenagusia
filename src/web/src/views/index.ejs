@@ -18,6 +18,23 @@
         <meta name="msapplication-TileColor" content="#8f1919">
         <meta name="theme-color" content="#8f1919">
         <meta name="google" content="notranslate">
+
+        <!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+        <script>
+            (function(f, a, t, h, o, m){
+                a[h]=a[h]||function(){
+                    (a[h].q=a[h].q||[]).push(arguments)
+                };
+                o=f.createElement('script'),
+                m=f.getElementsByTagName('script')[0];
+                o.async=1; o.src=t; o.id='fathom-script';
+                m.parentNode.insertBefore(o,m)
+            })(document, window, '//fathom.srk.bz/tracker.js', 'fathom');
+            fathom('set', 'siteId', 'JLSWD');
+            fathom('trackPageview');
+        </script>
+        <!-- / Fathom -->
+
         <style id="dynamic-style"></style>
     </head>
     <body>
