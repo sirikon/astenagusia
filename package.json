@@ -24,7 +24,7 @@
     "pitch-cli": "~0.9.0",
     "slugify": "^1.3.1",
     "jquery": "3.4.1",
-    "jsdom": "15.1.1"
+    "jsdom": "16.5.0"
   },
   "devDependencies": {
     "crawler": "^1.1.4",
