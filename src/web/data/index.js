@@ -1,6 +1,6 @@
 const slugify = require('slugify');
 
-const { getData } = require('../../data-processing/1-read'); 
+const { getData } = require('../../data-processing/1-read');
 
 const WEEKDAYS = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
 
@@ -92,7 +92,7 @@ module.exports = {
 					}
 					return 0;
 				});
-                
+
 				return result;
 			}
 		};
