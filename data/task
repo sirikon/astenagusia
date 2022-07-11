@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
+import json
+import requests
+from os.path import exists
 
+OPENREFINE_VERSION = '3.5.2'
 DENO_ENTRY = 'src/main.ts'
 DENO_EXEC_FLAGS = ['-A']
 DENO_CONFIG = ['--config', 'src/deno.json']
@@ -43,6 +47,44 @@ def cli():
     def lint():
         cmd('deno', 'lint', *DENO_CONFIG, 'src')
 
+    @command
+    def refine():
+        install_openrefine()
+        cmd('./tools/openrefine/refine', '-Drefine.data_dir')
+
+    @command
+    def backup_refinements(project_id):
+        response = json.loads(requests.get(
+            f'http://127.0.0.1:3333/command/core/get-operations?project={project_id}').text)
+        refinements = [e['operation'] for e in response['entries']]
+
+        with open('refinements.json', 'w') as o:
+            json.dump(refinements, o, indent=2)
+            o.write('\n')
+
+    @command
+    def install_openrefine(force=''):
+        if (force == 'force'):
+            cmd('bash', '-c', """
+                set -euo pipefail
+
+                rm -rf tools/openrefine
+            """)
+
+        if exists('./tools/openrefine'):
+            return
+
+        cmd('bash', '-c', f"""
+            set -euo pipefail
+
+            mkdir -p tools/openrefine
+            cd tools/openrefine
+            wget -O openrefine.tar.gz "https://github.com/OpenRefine/OpenRefine/releases/download/{OPENREFINE_VERSION}/openrefine-linux-{OPENREFINE_VERSION}.tar.gz"
+            tar -xzf openrefine.tar.gz
+            mv "openrefine-{OPENREFINE_VERSION}"/* .
+            rmdir "openrefine-{OPENREFINE_VERSION}"
+            rm openrefine.tar.gz
+        """)
 
 
 
