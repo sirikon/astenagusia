@@ -53,16 +53,6 @@ def cli():
         cmd('./tools/openrefine/refine', '-Drefine.data_dir')
 
     @command
-    def backup_refinements(project_id):
-        response = json.loads(requests.get(
-            f'http://127.0.0.1:3333/command/core/get-operations?project={project_id}').text)
-        refinements = [e['operation'] for e in response['entries']]
-
-        with open('refinements.json', 'w') as o:
-            json.dump(refinements, o, indent=2)
-            o.write('\n')
-
-    @command
     def install_openrefine(force=''):
         if (force == 'force'):
             cmd('bash', '-c', """
