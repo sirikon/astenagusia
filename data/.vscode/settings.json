@@ -1,0 +1,16 @@
+{
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "deno.enable": true,
+  "deno.config": "./src/deno.json",
+  "deno.importMap": "./src/import_map.json",
+  "[json]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  }
+}

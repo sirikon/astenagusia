@@ -1,0 +1,20 @@
+{
+  "https://deno.land/std@0.147.0/fmt/colors.ts": "6f9340b7fb8cc25a993a99e5efc56fe81bb5af284ff412129dd06df06f53c0b4",
+  "https://esm.sh/v86/zod@3.17.3/deno/zod.js": "967c65c813789377533c20f5d20dfaf4a6c231659ab94c886e41f1faab28912c",
+  "https://esm.sh/v86/zod@3.17.3/index.d.ts": "b51c954b9557b1dcb03b2bf34cd136e710cb9aa276e686cac0e291249590a52a",
+  "https://esm.sh/v86/zod@3.17.3/lib/ZodError.d.ts": "f5b65d56e9ba7ab90643015168f956a66b0e566e93a6e45946c2e15e137a5133",
+  "https://esm.sh/v86/zod@3.17.3/lib/external.d.ts": "5b932531837e141f3280d2440b94e65c7322327e04d6f1187dd1a8487f867d3e",
+  "https://esm.sh/v86/zod@3.17.3/lib/helpers/errorUtil.d.ts": "014b34d4c2ef27191fdf3feabb6557ec92127f813910725b6e79ed9a49e466b6",
+  "https://esm.sh/v86/zod@3.17.3/lib/helpers/parseUtil.d.ts": "d3dbfc2f2fbf2c1bdea72db72f9f5c95d2ca5b4d32c9e229764ebaba0920203c",
+  "https://esm.sh/v86/zod@3.17.3/lib/helpers/partialUtil.d.ts": "7da6f1e431746c5364ebe6703f5d3a844ab0495e2a8cedc0a29cced52d6284a1",
+  "https://esm.sh/v86/zod@3.17.3/lib/helpers/typeAliases.d.ts": "9afae14803f3b7343ed6d193173008715c1fa3421a353a818c805244ed737a84",
+  "https://esm.sh/v86/zod@3.17.3/lib/helpers/util.d.ts": "84b976d5e5527aa21a23afb3e6cce6a5bbbd34c2cd2a799d2f6f36a85fc8ceaf",
+  "https://esm.sh/v86/zod@3.17.3/lib/index.d.ts": "0f86f053aecd06054359e146b6cd800fee9bf82905f8afb47f1fe774fd37311e",
+  "https://esm.sh/v86/zod@3.17.3/lib/types.d.ts": "77fc96caab77dfadb6fc4455e1d261f14cbef8412f6e15ca5236c893cf380b3e",
+  "https://esm.sh/zod@3.17.3?pin=v86": "aba0309367c5834de0a4093c6a480ce93592c09355576db4384eeb09211d8c9f",
+  "https://raw.githubusercontent.com/sirikon/denox/master/lib/types/mod.ts": "eb8483faba9069b9d0f09641f65c7175015e47b294208a8f2de6f62f046b92ab",
+  "https://raw.githubusercontent.com/sirikon/denox/master/lib/ui/cli/command.ts": "cc84f0691ca8a2180fd78803d44cc8908eafb9497b3d0acd80433ca43ad6d1fd",
+  "https://raw.githubusercontent.com/sirikon/denox/master/lib/ui/cli/commandGroup.ts": "67d1b73a31f4378ece61f8080171d5aca9b57fcc2ee3bcb660236a45f847387d",
+  "https://raw.githubusercontent.com/sirikon/denox/master/lib/ui/cli/help.ts": "be4a2a798b7f2459e92b9a42ec228e381e077a1559cbf10edef36277611c0ddf",
+  "https://raw.githubusercontent.com/sirikon/denox/master/lib/ui/cli/mod.ts": "15be25fa4999e1c2373ccae1d9b9aebcbdc13c93b1023fd776117e271b64696c"
+}
