@@ -2,16 +2,8 @@
   "defaultLanguage": "eu",
   "dataOrigins": [
     {
-      "name": "Bilboko Konpartsak",
-      "link": "https://play.google.com/store/apps/details?id=com.konpartsak.astenagusia"
-    },
-    {
       "name": "Bilboko Udala",
       "link": "https://bilbao-astenagusia.eus"
-    },
-    {
-      "name": "DOD Magazine",
-      "link": "https://www.dodmagazine.es/programa-aste-nagusia-bilbao-2019/"
     }
   ]
 }
