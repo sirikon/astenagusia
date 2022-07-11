@@ -1,0 +1,62 @@
+[
+  {
+    "date": [2022, 8, 20],
+    "time": [23, 30],
+    "location": "Abandoibarra",
+    "badges": ["🎵"],
+    "info": {
+      "es": { "name": "Mikel Urdangarin + Bilboko Orkestra Sinfonikoa (BOS)" },
+      "eu": { "name": "Mikel Urdangarin + Bilboko Orkestra Sinfonikoa (BOS)" }
+    }
+  },
+  {
+    "date": [2022, 8, 22],
+    "time": [23, 30],
+    "location": "Abandoibarra",
+    "badges": ["🎵"],
+    "info": {
+      "es": { "name": "El Drogas" },
+      "eu": { "name": "El Drogas" }
+    }
+  },
+  {
+    "date": [2022, 8, 25],
+    "time": [23, 30],
+    "location": "Abandoibarra",
+    "badges": ["🎵"],
+    "info": {
+      "es": { "name": "Bulego" },
+      "eu": { "name": "Bulego" }
+    }
+  },
+  {
+    "date": [2022, 8, 26],
+    "time": [23, 30],
+    "location": "Abandoibarra",
+    "badges": ["🎵"],
+    "info": {
+      "es": { "name": "Dani Fernández" },
+      "eu": { "name": "Dani Fernández" }
+    }
+  },
+  {
+    "date": [2022, 8, 24],
+    "time": [0, 0],
+    "location": "Parque Europa",
+    "badges": ["🎵"],
+    "info": {
+      "es": { "name": "Ana Mena" },
+      "eu": { "name": "Ana Mena" }
+    }
+  },
+  {
+    "date": [2022, 8, 26],
+    "time": [0, 0],
+    "location": "Parque Europa",
+    "badges": ["🎵"],
+    "info": {
+      "es": { "name": "En Tol Sarmiento (ETS)" },
+      "eu": { "name": "En Tol Sarmiento (ETS)" }
+    }
+  }
+]

@@ -18,7 +18,7 @@ function getEvents() {
 }
 
 function getDayId(dayNumber) {
-  var weekDay = new Date(2019, 7, dayNumber, 12, 0, 0, 0).getDay();
+  var weekDay = new Date(2022, 7, dayNumber, 12, 0, 0, 0).getDay();
   return `${WEEKDAYS[weekDay]}`;
 }
 
