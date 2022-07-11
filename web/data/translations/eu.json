@@ -14,11 +14,11 @@
     "SUNDAY": "Igandea {}",
 
     "FOOTER_DESCRIPTION": "Web honek Bilboko Udalaren, Bilboko Konpartsak-en, kontzertu gelen, eta bestelako ekimenen Bilboko Aste Nagusiaren arloko ekitaldiak eta kontzertuak batzen ditu.",
-    "FOOTER_HOSTING": "Web hau <a href=\"https://www.scaleway.com/\" target=\"_blank\">Scaleway</a>-n ostatatuta dago.",
+    "FOOTER_HOSTING": "Web hau <a href=\"https://www.hetzner.com/\" target=\"_blank\">Hetzner</a>-n ostatatuta dago.",
     "FOOTER_TRACKING": "Web honek ez du bezeroaren aldean erabiltzailearen ekintzen inolako jarraipenik egiten.",
     "FOOTER_JAVASCRIPT": "Nahi baduzu, <b>JavaScript desaktibatu</b> dezakezu, nabigazioa ondo ibiliko da, baina iragazkiak ez.",
     "FOOTER_DATA_ORIGINS": "Datuen jatorria:",
     "FOOTER_CREDITS": "<a target=\"_blank\" href=\"https://sirikon.me/about/\">Sirikon</a>-ek garatutako web <b>ez ofiziala</b>.",
     "FOOTER_SOURCE_CODE": "<a target=\"_blank\" href=\"https://github.com/sirikon/astenagusia\">Iturri kodea Github-en</a> ikusi dezakezu.",
-    "FOOTER_MADE_IN_BILBAO": "Made with ❤️ in <b>Bilbao</b>"
+    "FOOTER_MADE": "Made with 💕 in <b>Málaga</b> for <b>Bilbao</b>"
 }

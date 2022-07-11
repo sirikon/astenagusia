@@ -14,11 +14,11 @@
     "SUNDAY": "Domingo {}",
 
     "FOOTER_DESCRIPTION": "Esta web reúne eventos y conciertos del Ayuntamiento de Bilbao, Bilboko Konpartsak, salas de concierto y demás iniciativas en torno a Aste Nagusia Bilbao.",
-    "FOOTER_HOSTING": "Web hospedada en <a href=\"https://www.scaleway.com/\" target=\"_blank\">Scaleway</a>.",
+    "FOOTER_HOSTING": "Web hospedada en <a href=\"https://www.hetzner.com/\" target=\"_blank\">Hetzner</a>.",
     "FOOTER_TRACKING": "Esta web no realiza ningún tipo de seguimiento de las acciones del usuario en el lado del cliente.",
     "FOOTER_JAVASCRIPT": "Si quieres, puedes <b>desactivar JavaScript</b>, la navegación funcionará, pero los filtros no.",
     "FOOTER_DATA_ORIGINS": "Orígenes de datos:",
     "FOOTER_CREDITS": "Web <b>no oficial</b> desarrollada por <a target=\"_blank\" href=\"https://sirikon.me/about/\">Sirikon</a>.",
     "FOOTER_SOURCE_CODE": "Puedes <a target=\"_blank\" href=\"https://github.com/sirikon/astenagusia\">ver el código fuente en Github</a>.",
-    "FOOTER_MADE_IN_BILBAO": "Made with ❤️ in <b>Bilbao</b>"
+    "FOOTER_MADE": "Made with 💕 in <b>Málaga</b> for <b>Bilbao</b>"
 }
