@@ -7,8 +7,8 @@
 
 # Parque Europa
 
-- 2022 08 24 - 00:00 - 🎵 - Ana Mena
-- 2022 08 26 - 00:00 - 🎵 - En Tol Sarmiento (ETS)
+- 2022 08 24 - 24:00 - 🎵 - Ana Mena
+- 2022 08 26 - 24:00 - 🎵 - En Tol Sarmiento (ETS)
 
 # Bilborock
 

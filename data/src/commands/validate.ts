@@ -1,11 +1,9 @@
 import z from "zod";
 import { CommandGroupBuilder } from "denox/ui/cli/commandGroup.ts";
 import { WebEventSchema } from "../models/web.ts";
-import { ManualEventSchema } from "../models/core.ts";
 
 const validations: [z.ZodSchema, string][] = [
   [z.array(WebEventSchema), "data.json"],
-  [z.array(ManualEventSchema), "origins/manual.json"],
 ];
 
 export const validateCommand = (cli: CommandGroupBuilder) => {

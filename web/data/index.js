@@ -17,8 +17,16 @@ function getEvents() {
   );
 }
 
-function getDayId(dayNumber) {
-  var weekDay = new Date(2022, 7, dayNumber, 12, 0, 0, 0).getDay();
+function getDayId(yearNumber, monthNumber, dayNumber) {
+  var weekDay = new Date(
+    yearNumber,
+    monthNumber - 1,
+    dayNumber,
+    12,
+    0,
+    0,
+    0
+  ).getDay();
   return `${WEEKDAYS[weekDay]}`;
 }
 
@@ -42,15 +50,20 @@ module.exports = {
         var locationIndex = {};
         var dayHourIndex = {};
         var result = {
+          year: null,
           locations: [],
           days: [],
         };
 
         events.forEach((event) => {
+          if (result.year == null || event.year > result.year) {
+            result.year = event.year;
+          }
+
           if (!dayIndex[event.day]) {
             dayIndex[event.day] = {
               number: event.day,
-              day_id: getDayId(event.day),
+              day_id: getDayId(event.year, event.month, parseInt(event.day)),
               locations: [],
               hours: [],
             };

@@ -14,6 +14,8 @@ const hourValidator = (rawHour: string) => {
 
 export const WebEventSchema = z.object({
   original: z.any().nullable(),
+  year: z.number(),
+  month: z.number(),
   day: z.string().regex(dayRegex).refine(dayValidator),
   hour: z.string().regex(hourRegex).refine(hourValidator),
   location: z.string().min(1),

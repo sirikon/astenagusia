@@ -1,8 +1,12 @@
-import z from "zod";
-import { CoreEvent, ManualEventSchema } from "../models/core.ts";
+import { CoreEvent } from "../models/core.ts";
 
-export function parseEventsMarkdown(data: string): CoreEvent[] {
-  const lines = data.split("\n");
+export const getManualEvents = async () => {
+  const content = await Deno.readTextFile("./origins/manual.md");
+  return parseEventsMarkdown(content);
+};
+
+export function parseEventsMarkdown(content: string): CoreEvent[] {
+  const lines = content.split("\n");
 
   let currentLocation: string | null = null;
   const result: CoreEvent[] = [];
@@ -49,8 +53,3 @@ export function parseEventsMarkdown(data: string): CoreEvent[] {
 
   return result;
 }
-
-export const getManualEvents = async () => {
-  const rawData = JSON.parse(await Deno.readTextFile("./origins/manual.json"));
-  return z.array(ManualEventSchema).parse(rawData);
-};
