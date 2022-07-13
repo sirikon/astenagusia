@@ -10,6 +10,19 @@
 - 2022 08 24 - 24:00 - 🎵 - Ana Mena
 - 2022 08 26 - 24:00 - 🎵 - En Tol Sarmiento (ETS)
 
+# Parque de Doña Casilda
+
+- 2022 08 21 - 12:00 - 🎵 - Bilbainadas: Los 5 Bilbaínos
+- 2022 08 22 - 12:00 - 🎵 - Bilbainadas: Mapa Mundi
+- 2022 08 23 - 12:00 - 🎵 - Bilbainadas: Gau Pasa
+- 2022 08 24 - 12:00 - 🎵 - Bilbainadas: Los Chimberos
+- 2022 08 25 - 12:00 - 🎵 - Bilbainadas: Los 5 Bilbaínos
+- 2022 08 26 - 12:00 - 🎵 - Bilbainadas: Los Chimberos
+- 2022 08 27 - 12:00 - 🎵 - Bilbainadas: Gau Pasa
+- 2022 08 28 - 12:00 - 🎵 - Bilbainadas: Mapa Mundi
+
+- 2022 08 26 - 12:00 - 🎵 - Entrega de premios del XXXII Concurso de Bilbainadas
+
 # Bilborock
 
 - 2022 08 20 - 20:00 - 🎵 - HURACAN ROSE (Bilbao) (PUNK´N´ROLL)
@@ -35,3 +48,14 @@
 
 - 2022 08 27 - 20:00 - 🎵 - SONG OF ANHUBIS (Bilbao-Mungia) (ROCK GOTHIC METAL)
 - 2022 08 27 - 21:00 - 🎵 - BLACKHEARTH (Durango) (HEAVY METAL)
+
+# Iglesia de la Encarnación
+
+- 2022 08 20 - 20:30 - 🎵 - Miriam Zubieta, Alejandro Lárraga y Leyre Lisarria
+- 2022 08 21 - 20:30 - 🎵 - Gasteizko Bakarlariak Taldea
+- 2022 08 22 - 20:30 - 🎵 - Passamezzo Antico
+- 2022 08 23 - 20:30 - 🎵 - Satisfacshow
+- 2022 08 24 - 20:30 - 🎵 - Arteus Orquesta
+- 2022 08 25 - 20:30 - 🎵 - Cadenza Quartet
+- 2022 08 26 - 20:30 - 🎵 - Emin Kurkchyan
+- 2022 08 27 - 20:30 - 🎵 - Rossini Abesbatza
