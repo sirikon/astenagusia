@@ -60,6 +60,19 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "“Gora bihotzak!” (Eidabe, Euskadi)",
+    "name_eu": "“Gora bihotzak!” (Eidabe, Euskadi)",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "19:30",
+    "badges": [
+      "🎭",
+      "🧒"
+    ],
+    "location": "Parque de Doña Casilda (Txikigune)"
+  },
+  {
     "name": "ADDAR (Bermeo) (HARD ROCK´N´ROLL)",
     "name_eu": "ADDAR (Bermeo) (HARD ROCK´N´ROLL)",
     "year": 2022,
@@ -96,6 +109,18 @@
     "location": "Bilborock"
   },
   {
+    "name": "Victor Manuel",
+    "name_eu": "Victor Manuel",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Abandoibarra"
+  },
+  {
     "name": "Bilbainadas: Mapa Mundi",
     "name_eu": "Bilbainadas: Mapa Mundi",
     "year": 2022,
@@ -106,6 +131,18 @@
       "🎵"
     ],
     "location": "Parque de Doña Casilda"
+  },
+  {
+    "name": "\"Panoli Kabareta\" (Ganso & Cía)",
+    "name_eu": "\"Panoli Kabareta\" (Ganso & Cía)",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "13:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
   },
   {
     "name": "ARDE MARTE (Barakaldo-Portugalete) (ELECTRO POP ROCK)",
@@ -142,6 +179,18 @@
       "🎵"
     ],
     "location": "Bilborock"
+  },
+  {
+    "name": "\"Psike\" (Markeline, Euskadi)",
+    "name_eu": "\"Psike\" (Markeline, Euskadi)",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "21:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
   },
   {
     "name": "El Drogas",
@@ -204,6 +253,18 @@
     "location": "Bilborock"
   },
   {
+    "name": "Viva Suecia",
+    "name_eu": "Viva Suecia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Abandoibarra"
+  },
+  {
     "name": "Bilbainadas: Los Chimberos",
     "name_eu": "Bilbainadas: Los Chimberos",
     "year": 2022,
@@ -214,6 +275,31 @@
       "🎵"
     ],
     "location": "Parque de Doña Casilda"
+  },
+  {
+    "name": "\"Nüshu\" (Cía. Capicúa, Catalunya-Aragón)",
+    "name_eu": "\"Nüshu\" (Cía. Capicúa, Catalunya-Aragón)",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "13:30",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
+  },
+  {
+    "name": "\"TNT\" (Akelar)",
+    "name_eu": "\"TNT\" (Akelar)",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "19:30",
+    "badges": [
+      "🎭",
+      "🧒"
+    ],
+    "location": "Parque de Doña Casilda (Txikigune)"
   },
   {
     "name": "THE LAST HIDDEN FOX (Bilbao) (COUNTRY FOLK ROCK)",
@@ -252,6 +338,30 @@
     "location": "Bilborock"
   },
   {
+    "name": "\"Nüshu\" (Cía. Capicúa, Catalunya-Aragón)",
+    "name_eu": "\"Nüshu\" (Cía. Capicúa, Catalunya-Aragón)",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "21:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
+  },
+  {
+    "name": "La Oreja de Van Gogh",
+    "name_eu": "La Oreja de Van Gogh",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Abandoibarra"
+  },
+  {
     "name": "Ana Mena",
     "name_eu": "Ana Mena",
     "year": 2022,
@@ -274,6 +384,31 @@
       "🎵"
     ],
     "location": "Parque de Doña Casilda"
+  },
+  {
+    "name": "\"Txalaparta hutsa\" (Hutsun + Urtzi)",
+    "name_eu": "\"Txalaparta hutsa\" (Hutsun + Urtzi)",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "13:30",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
+  },
+  {
+    "name": "\"Arin arin erbiaren abenturak\" (Panpotx)",
+    "name_eu": "\"Arin arin erbiaren abenturak\" (Panpotx)",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "19:30",
+    "badges": [
+      "🎭",
+      "🧒"
+    ],
+    "location": "Parque de Doña Casilda (Txikigune)"
   },
   {
     "name": "KINKI BOYS (Getxo-Madrid) (POST PUNK´N´ROLL)",
@@ -312,6 +447,18 @@
     "location": "Bilborock"
   },
   {
+    "name": "\"Urbasa\" (Hutsun + Urtzi)",
+    "name_eu": "\"Urbasa\" (Hutsun + Urtzi)",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "21:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
+  },
+  {
     "name": "Bulego",
     "name_eu": "Bulego",
     "year": 2022,
@@ -322,6 +469,18 @@
       "🎵"
     ],
     "location": "Abandoibarra"
+  },
+  {
+    "name": "Los 40 Principales",
+    "name_eu": "Los 40 Principales",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "00:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Parque Europa"
   },
   {
     "name": "Bilbainadas: Los Chimberos",
@@ -346,6 +505,31 @@
       "🎵"
     ],
     "location": "Parque de Doña Casilda"
+  },
+  {
+    "name": "\"Gazte\" (Hika Teatroa)",
+    "name_eu": "\"Gazte\" (Hika Teatroa)",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "13:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
+  },
+  {
+    "name": "\"Txalaparta hutsa\" (Hutsun + Ortzi)",
+    "name_eu": "\"Txalaparta hutsa\" (Hutsun + Ortzi)",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "19:30",
+    "badges": [
+      "🎭",
+      "🧒"
+    ],
+    "location": "Parque de Doña Casilda (Txikigune)"
   },
   {
     "name": "EMPIRE OF DISEASE (Bilbao) (THRASH GROOVE MELODIC DEATH METAL)",
@@ -384,6 +568,18 @@
     "location": "Bilborock"
   },
   {
+    "name": "\"Jump cut\" (Double Take Cinematic Circus, Bélgica)",
+    "name_eu": "\"Jump cut\" (Double Take Cinematic Circus, Bélgica)",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "21:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
+  },
+  {
     "name": "Dani Fernández",
     "name_eu": "Dani Fernández",
     "year": 2022,
@@ -418,6 +614,18 @@
       "🎵"
     ],
     "location": "Parque de Doña Casilda"
+  },
+  {
+    "name": "\"De tú a tú\" (MUR, Catalunya)",
+    "name_eu": "\"De tú a tú\" (MUR, Catalunya)",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "13:30",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
   },
   {
     "name": "SONG OF ANHUBIS (Bilbao-Mungia) (ROCK GOTHIC METAL)",
@@ -456,6 +664,42 @@
     "location": "Bilborock"
   },
   {
+    "name": "\"De tú a tú\" (MUR, Catalunya)",
+    "name_eu": "\"De tú a tú\" (MUR, Catalunya)",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "21:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
+  },
+  {
+    "name": "Pasión Vega",
+    "name_eu": "Pasión Vega",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Abandoibarra"
+  },
+  {
+    "name": "Megastar Cope",
+    "name_eu": "Megastar Cope",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "00:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Parque Europa"
+  },
+  {
     "name": "Bilbainadas: Mapa Mundi",
     "name_eu": "Bilbainadas: Mapa Mundi",
     "year": 2022,
@@ -466,5 +710,42 @@
       "🎵"
     ],
     "location": "Parque de Doña Casilda"
+  },
+  {
+    "name": "\"Hemendikara\" (Zirika Zirkus)",
+    "name_eu": "\"Hemendikara\" (Zirika Zirkus)",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "13:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
+  },
+  {
+    "name": "\"Plas & Co\" (Tippia)",
+    "name_eu": "\"Plas & Co\" (Tippia)",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "19:30",
+    "badges": [
+      "🎭",
+      "🧒"
+    ],
+    "location": "Parque de Doña Casilda (Txikigune)"
+  },
+  {
+    "name": "\"Esencial\" (Vaivén Circo, Andalucía)",
+    "name_eu": "\"Esencial\" (Vaivén Circo, Andalucía)",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "21:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
   }
 ]
