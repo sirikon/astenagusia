@@ -18,6 +18,6 @@
   "https://raw.githubusercontent.com/sirikon/denox/master/lib/types/mod.ts": "eb8483faba9069b9d0f09641f65c7175015e47b294208a8f2de6f62f046b92ab",
   "https://raw.githubusercontent.com/sirikon/denox/master/lib/ui/cli/command.ts": "cc84f0691ca8a2180fd78803d44cc8908eafb9497b3d0acd80433ca43ad6d1fd",
   "https://raw.githubusercontent.com/sirikon/denox/master/lib/ui/cli/commandGroup.ts": "67d1b73a31f4378ece61f8080171d5aca9b57fcc2ee3bcb660236a45f847387d",
-  "https://raw.githubusercontent.com/sirikon/denox/master/lib/ui/cli/help.ts": "be4a2a798b7f2459e92b9a42ec228e381e077a1559cbf10edef36277611c0ddf",
-  "https://raw.githubusercontent.com/sirikon/denox/master/lib/ui/cli/mod.ts": "15be25fa4999e1c2373ccae1d9b9aebcbdc13c93b1023fd776117e271b64696c"
+  "https://raw.githubusercontent.com/sirikon/denox/master/lib/ui/cli/help.ts": "95606145c0651c96f25b1986b4b68a28270e4bd5b66760e9631ce41cb561f41b",
+  "https://raw.githubusercontent.com/sirikon/denox/master/lib/ui/cli/mod.ts": "b753a21cfcc5e42eca868213028716e8c50effa58c5c8c35b5c5b1239d49c3cf"
 }
