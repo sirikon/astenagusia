@@ -1,5 +1,51 @@
 [
   {
+    "name": "Kalejira del Txupin",
+    "name_eu": "Txupinaren kalejira",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Zazpi Kaleak"
+  },
+  {
+    "name": "Recepcion a MARIJAIA",
+    "name_eu": "Harrera MARIJAIA",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "19:00",
+    "badges": [
+      "🙆",
+      "🎉"
+    ],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Agurra a Marijaia",
+    "name_eu": "Agurra Marijaiari",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "19:45",
+    "badges": [
+      "🙆",
+      "🎉"
+    ],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Apertura de txosnas",
+    "name_eu": "Txosnen irekiera",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "20:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
     "name": "HURACAN ROSE (Bilbao) (PUNK´N´ROLL)",
     "name_eu": "HURACAN ROSE (Bilbao) (PUNK´N´ROLL)",
     "year": 2022,
@@ -12,6 +58,16 @@
     "location": "Bilborock"
   },
   {
+    "name": "Toro de fuego",
+    "name_eu": "Suzko zezena",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
     "name": "Miriam Zubieta, Alejandro Lárraga y Leyre Lisarria",
     "name_eu": "Miriam Zubieta, Alejandro Lárraga y Leyre Lisarria",
     "year": 2022,
@@ -22,6 +78,19 @@
       "🎵"
     ],
     "location": "Iglesia de la Encarnación"
+  },
+  {
+    "name": "Noche Temática: Noche Disco",
+    "name_eu": "Gau Tematikoa: Disko Gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "21:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Txomin Barullo"
   },
   {
     "name": "Guateque: DJ Luis Carlos del Pozo",
@@ -49,6 +118,40 @@
     "location": "Bilborock"
   },
   {
+    "name": "Fuegos artificiales XXX Concurso internacional Villa de Bilbao: PIROTECNIA TURIS (Valencia)",
+    "name_eu": "Bilbao Hiria su artifizialen nazioarteko XXX. Lehiaketa nagusia: PIROTECNIA TURIS (Valentzia)",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "22:30",
+    "badges": [],
+    "location": "Parque Etxebarria"
+  },
+  {
+    "name": "DJs ANOTHER CAPSULE",
+    "name_eu": "DJs ANOTHER CAPSULE",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "Elepunto DJ",
+    "name_eu": "Elepunto DJ",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Algara"
+  },
+  {
     "name": "Mikel Urdangarin + Bilboko Orkestra Sinfonikoa (BOS)",
     "name_eu": "Mikel Urdangarin + Bilboko Orkestra Sinfonikoa (BOS)",
     "year": 2022,
@@ -74,6 +177,319 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "Noche de DJ",
+    "name_eu": "DJ gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "23:45",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "YARE COLLECTIVE + Brutality Sound System (4 Scoops)",
+    "name_eu": "YARE COLLECTIVE + Brutality Sound System (4 Scoops)",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "00:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "AGOGÓ",
+    "name_eu": "AGOGÓ",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pinpilinpauxa"
+  },
+  {
+    "name": "SEXYSAXGUY",
+    "name_eu": "SEXYSAXGUY",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "02:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Turno solidario: AESAN EHU",
+    "name_eu": "Elkartasun txanda: AESAN EHU",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "Mercado de nuestra tierra",
+    "name_eu": "Gure Lurreko Merkatua",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Diana de txistularis y txupin",
+    "name_eu": "Txistularien diana eta txupina",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "IX. Open Magic y Pokémon torneo de cartas",
+    "name_eu": "IX. Open Magic eta Pokémon karta joko lehiaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Somera Kalea"
+  },
+  {
+    "name": "Bajada de Goitiberas VII. Open Aste Nagusia",
+    "name_eu": "Goitibehera Jaitsiera VII. Open Aste Nagusia",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Zabalbide Kalea"
+  },
+  {
+    "name": "Muestra del juego de mesa Blood Bowl",
+    "name_eu": "Blood Bowl mahai-joko erakusketa",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "10:30",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "Hinchables",
+    "name_eu": "Puzgarriak",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
+    "name": "Gargantua",
+    "name_eu": "Gargantua",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Ripa"
+  },
+  {
+    "name": "Taller Gastronómico: Sal",
+    "name_eu": "Tailer gastronomikoa: Gatza",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Taller de Txalaparta infantil + Mercado de Txalaparta con l@s niñ@s",
+    "name_eu": "Umeentzako txalaparta tailerra + Azoka Txalaparta txikiekin",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "11:30",
+    "badges": [],
+    "location": "Triangune"
+  },
+  {
+    "name": "Parque infantil",
+    "name_eu": "Haur parkea",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "Parrillada de verduras Km. 0 y hamburguesas de pollo y ternera Eusko Label",
+    "name_eu": "KM.0-ko barazki eta Eusko Label Oilasko eta Txahal hanburgesen parrilada",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "TERRAZA+PHOTOCOL",
+    "name_eu": "TERRAZA+PHOTOCOL",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Hinchables",
+    "name_eu": "Puzgarriak",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Piscina",
+    "name_eu": "Igerilekua",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Taller de Txalaparta",
+    "name_eu": "Txalaparta tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Txinbotarrak"
+  },
+  {
+    "name": "Taller de chapas",
+    "name_eu": "Txapa tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Txinbotarrak"
+  },
+  {
+    "name": "Taller de máscaras y gorras",
+    "name_eu": "Maskara eta kapel tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Triangune"
+  },
+  {
+    "name": "DDT - HEMEN ETA ORAIN",
+    "name_eu": "DDT - HEMEN ETA ORAIN",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Hondartzan perretxikotan -  Txintxeta, Klipa eta Txorroskilo pailazoak",
+    "name_eu": "Hondartzan perretxikotan - Txintxeta, Klipa eta Txorroskilo pailazoak",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Pasacalles de los txistularis - Arenal y la Plaza Nueva",
+    "name_eu": "Txistularien kalejira -  Areatza eta Plaza Berria",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Gymkhana (8-14 años)",
+    "name_eu": "Gymkhana (8-14 urte)",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "BIOTXOKO",
+    "name_eu": "BIOTXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Euskal Txikigunea (+ piscina)",
+    "name_eu": "Euskal Txikigunea (+ igerilekua)",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Pintacaras",
+    "name_eu": "Aurpegi margoketa",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Euskalgune"
+  },
+  {
     "name": "Bilbainadas: Los 5 Bilbaínos",
     "name_eu": "Bilbainadas: Los 5 Bilbaínos",
     "year": 2022,
@@ -84,6 +500,250 @@
       "🎵"
     ],
     "location": "Parque de Doña Casilda"
+  },
+  {
+    "name": "PATXI KARRO",
+    "name_eu": "PATXI KARRO",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:15",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Piscina",
+    "name_eu": "Igerilekua",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "12:15",
+    "badges": [],
+    "location": "Txinbotarrak"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "MERCADO de colectivos",
+    "name_eu": "Kolektiboen HERRI AZOKA",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Txan Magoa",
+    "name_eu": "Txan Magoa",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Abante"
+  },
+  {
+    "name": "Txalainak",
+    "name_eu": "Txalainak",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "17:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Txori Barrote"
+  },
+  {
+    "name": "Txalaparta - Sesión principal: TXOTX",
+    "name_eu": "Txalaparta - Saio Nagusia: TXOTX",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "TENDERETE Marionetas",
+    "name_eu": "TENDERETE Txontxongiloak",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TALLER DE SWING con Little Harlem",
+    "name_eu": "SWING TAILERRA Little Harlem-en eskutik",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Partido Athletic - Valencia C. F. en la txosna",
+    "name_eu": "Partida Athletic - Valencia C. F. Txosnan",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "TALLER DE SWING con Little Harlem",
+    "name_eu": "SWING TAILERRA Little Harlem-en eskutik",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Taller de talo",
+    "name_eu": "Talo tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Mosko-Tardeo TXALAPAMAKO y BIOTX",
+    "name_eu": "Mosko-Tardeo TXALAPAMAKO eta BIOTX",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "Dantza Plaza: Danzas Vascas",
+    "name_eu": "Dantza Plaza: Euskal Dantzak",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Triangune"
+  },
+  {
+    "name": "VERBENA INFANTIL",
+    "name_eu": "HAURREN BERBENA",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "18:30",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Zaratas"
+  },
+  {
+    "name": "CRAZZY JAZZERS",
+    "name_eu": "CRAZZY JAZZERS",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "18:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "CRAZZY JAZZERS",
+    "name_eu": "CRAZZY JAZZERS",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "18:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
+    "name": "AIXEBEER: Cata de cerveza",
+    "name_eu": "AIXEBEER: Garagardo dastaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "DISCOTECA",
+    "name_eu": "DISKO DANTZA",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Sakatu elektrotxaranga",
+    "name_eu": "Sakatu elektrotxaranga",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "19:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Poteo con música",
+    "name_eu": "Poteo-musikatua",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Txinbotarrak"
+  },
+  {
+    "name": "Recital de música clásica",
+    "name_eu": "Musika klasiko emanaldia",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "19:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Hontzak"
+  },
+  {
+    "name": "AMNA TRIBAL",
+    "name_eu": "AMNA TRIBAL",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "19:30",
+    "badges": [],
+    "location": "Zaratas"
   },
   {
     "name": "“Gora bihotzak!” (Eidabe, Euskadi)",
@@ -99,6 +759,26 @@
     "location": "Parque de Doña Casilda (Txikigune)"
   },
   {
+    "name": "KEIMADA",
+    "name_eu": "KEIMADA",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "20:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Urbeltzen Dantza Ganbara",
+    "name_eu": "Urbeltzen Dantza Ganbara",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "20:00",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
     "name": "ADDAR (Bermeo) (HARD ROCK´N´ROLL)",
     "name_eu": "ADDAR (Bermeo) (HARD ROCK´N´ROLL)",
     "year": 2022,
@@ -109,6 +789,28 @@
       "🎵"
     ],
     "location": "Bilborock"
+  },
+  {
+    "name": "HAVANA 537",
+    "name_eu": "HAVANA 537",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "20:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pa...Ya!"
+  },
+  {
+    "name": "Toro de fuego",
+    "name_eu": "Suzko zezena",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
   },
   {
     "name": "Gasteizko Bakarlariak Taldea",
@@ -123,6 +825,18 @@
     "location": "Iglesia de la Encarnación"
   },
   {
+    "name": "ARTAZA COMBAT",
+    "name_eu": "ARTAZA COMBAT",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "21:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
     "name": "KRUDDÖ (Bermeo-Etxebarri) (STONER METAL)",
     "name_eu": "KRUDDÖ (Bermeo-Etxebarri) (STONER METAL)",
     "year": 2022,
@@ -133,6 +847,113 @@
       "🎵"
     ],
     "location": "Bilborock"
+  },
+  {
+    "name": "Fuegos artificiales XXX Concurso internacional Villa de Bilbao: ORZELLA FIREWORKS (Italia)",
+    "name_eu": "Bilbao Hiria su artifizialen nazioarteko XXX. Lehiaketa nagusia: ORZELLA FIREWORKS (Italia)",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "22:30",
+    "badges": [],
+    "location": "Parque Etxebarria"
+  },
+  {
+    "name": "Akatz + Skabidean",
+    "name_eu": "Akatz + Skabidean",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Algara"
+  },
+  {
+    "name": "KINKILA",
+    "name_eu": "KINKILA",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Concierto",
+    "name_eu": "Kontzertua",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Abante"
+  },
+  {
+    "name": "Covërhead",
+    "name_eu": "Covërhead",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Tintigorri"
+  },
+  {
+    "name": "THE LIZARDS + LOS BENGALA",
+    "name_eu": "THE LIZARDS + LOS BENGALA",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "Ibilbedi",
+    "name_eu": "Ibilbedi",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "LA PRESIDENTA DEL FLOW - DJ",
+    "name_eu": "LA PRESIDENTA DEL FLOW - DJ",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:30",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Conflict Noise + Rise to Fall",
+    "name_eu": "Conflict Noise + Rise to Fall",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kulturgune"
   },
   {
     "name": "Victor Manuel",
@@ -160,6 +981,289 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "Noche de DJ",
+    "name_eu": "DJ gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:45",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Dj Zakarra & Puñales",
+    "name_eu": "Dj Zakarra & Puñales",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "00:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Sesión de DJ",
+    "name_eu": "DJ saioa",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "00:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Abante"
+  },
+  {
+    "name": "WRS",
+    "name_eu": "WRS",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pinpilinpauxa"
+  },
+  {
+    "name": "DAKIDARRIA",
+    "name_eu": "DAKIDARRIA",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "01:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Keike",
+    "name_eu": "Keike",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "01:15",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Dj Celia Carrera",
+    "name_eu": "Dj Celia Carrera",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "01:30",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Dj Marlon Random",
+    "name_eu": "Dj Marlon Random",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "03:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Gastro-Txiki: inscripción, hasta comienzo de taller",
+    "name_eu": "Gastro-Txiki: izen-ematea, tailerra hasi arte",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "09:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Certamen Gastronómico: Patatas en Salsa Verde (100% Vegetal). Inscripción",
+    "name_eu": "Sukaldaritza - Lehiaketa: Patatak Saltsa Berdean (%100 Begetala). Izena-ematea",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Diana de txistularis y txupin",
+    "name_eu": "Txistularien diana eta txupina",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Campeonato de ajedrez: Partidas a la ciega",
+    "name_eu": "Xake txapelketa: Itsu-itsuko partidak",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "10:00",
+    "badges": [
+      "♟️"
+    ],
+    "location": "Tintigorri"
+  },
+  {
+    "name": "Taller Gastronómico: Algas",
+    "name_eu": "Tailer gastronomikoa: Algak",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Hinchables",
+    "name_eu": "Puzgarriak",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
+    "name": "Campeonato de rana: Individual",
+    "name_eu": "Igel Txapelketa: Banakakoa",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Gargantua",
+    "name_eu": "Gargantua",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Actividades infantiles",
+    "name_eu": "Haurren ekintzak",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Ripa"
+  },
+  {
+    "name": "Gastro-Txiki: Ensalada variada",
+    "name_eu": "Gastro-Txiki: Era askotako entsalada",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "11:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Parque intantil",
+    "name_eu": "Haur parkea",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "TERRAZA+PHOTOCOL",
+    "name_eu": "TERRAZA+PHOTOCOL",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "CUENTACUENTOS",
+    "name_eu": "KONTU KONTARI",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Taller para niñ@s",
+    "name_eu": "Umeentzako tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Abante"
+  },
+  {
+    "name": "Euskal Txikigunea (+ piscina)",
+    "name_eu": "Euskal Txikigunea (+ igerilekua)",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Rocódromo",
+    "name_eu": "Rokodromoa",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Juegos deportivos de la mano de Zorrotza F.C.",
+    "name_eu": "Kirol jolasak Zorrotza F.C-ren eskutik",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kulturgune"
+  },
+  {
     "name": "Bilbainadas: Mapa Mundi",
     "name_eu": "Bilbainadas: Mapa Mundi",
     "year": 2022,
@@ -170,6 +1274,106 @@
       "🎵"
     ],
     "location": "Parque de Doña Casilda"
+  },
+  {
+    "name": "PATXI KARRO",
+    "name_eu": "PATXI KARRO",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:15",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Gastro-Txiki: Ensalada variada",
+    "name_eu": "Gastro-Txiki: Era askotako entsalada",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Txikigune: taller de danza",
+    "name_eu": "Txikigunea: dantza-tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Mamiki y Txomin Barullo"
+  },
+  {
+    "name": "Taller de pulseras",
+    "name_eu": "Eskumuturrekoen tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Pa...Ya!"
+  },
+  {
+    "name": "Podcast",
+    "name_eu": "Podcast-a",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "Talleres infantiles",
+    "name_eu": "Umeentzako tailerrak",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "12:45",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Taller infantil",
+    "name_eu": "Umeentzako tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Entrega del gigante de Aste Nagusia en la plaza del Ensanche",
+    "name_eu": "Aste Nagusiko erraldoiaren ematea Zabalgune Plazan",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "Marianito animado con Ruizza",
+    "name_eu": "Marianito girotua Ruizza-rekin",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Bilbo Hiria Irratia",
+    "name_eu": "Bilbo Hiria Irratia",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Algara"
   },
   {
     "name": "\"Panoli Kabareta\" (Ganso & Cía)",
@@ -184,6 +1388,341 @@
     "location": "Plaza del Gas"
   },
   {
+    "name": "DESPOTORRE Ane Lindane & Raquel Torres",
+    "name_eu": "DESPOTORRE Ane Lindane & Raquel Torres",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "13:30",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Bienvenida con marianitos\r\npreparados",
+    "name_eu": "Harrera marianito prestatuekin",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "13:30",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Euskara ikasleon eguna + paella lehiaketa",
+    "name_eu": "Euskara ikasleon eguna + paella lehiaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "14:00",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Certamen Gastronómico: Entrega de Premios",
+    "name_eu": "Sukaldaritza - Lehiaketa: Sari banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "14:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Comida Popular",
+    "name_eu": "HERRI BAZKARIA",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Comida Barullo",
+    "name_eu": "Barullo Bazkaria",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "Comida de Euskalgune",
+    "name_eu": "Euskalguneko bazkaria",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Comida con EHNE Bizkaia eta Etxaldeko emakumeak",
+    "name_eu": "EHNE Bizkaia eta Etxaldeko emakumeekin bazkaria",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Altxaporrue"
+  },
+  {
+    "name": "Campeonato grupos de Waterpolo",
+    "name_eu": "Waterpolo taldeen lehiaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Ripa"
+  },
+  {
+    "name": "BINGO ANTIESPECISTA",
+    "name_eu": "BINGO ANTIESPEZISTA",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "16:00",
+    "badges": [],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Actividades infantiles",
+    "name_eu": "Haurren ekintzak",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "16:00",
+    "badges": [],
+    "location": "Ripa"
+  },
+  {
+    "name": "Jovenes creadores",
+    "name_eu": "Gazte sortzaileak",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "16:30",
+    "badges": [],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "AIXETXIKI: Tiovivo ecológico",
+    "name_eu": "AIXETXIKI: Tiobibo ekologiko",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "Txiki Txoko",
+    "name_eu": "Txiki Txoko",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Bingo-karaoke Musical",
+    "name_eu": "Bingo-karaoke Musikatua",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "MERCADO de colectivos",
+    "name_eu": "Kolektiboen HERRI AZOKA",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "AIXETXIKI: Circo Dabitxi",
+    "name_eu": "AIXETXIKI: Dabitxi zirku",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "BERTSO POTEO.Aitor Bizkarra, Aroa Arrizubieta, Gorka Pagonabarraga",
+    "name_eu": "BERTSO POTEO.Aitor Bizkarra, Aroa Arrizubieta, Gorka Pagonabarraga",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Punki-Olimpiadas",
+    "name_eu": "Punki-Olinpiadak",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "MOSKO-TARDEO",
+    "name_eu": "MOSKO-TARDEO",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "Basoko ipuin ttipiak",
+    "name_eu": "Basoko ipuin ttipiak",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Triangune"
+  },
+  {
+    "name": "Altxa-txinbo-friki-saltsaplaza-masterklas-no te arrepentiras o si",
+    "name_eu": "Altxa-txinbo-friki-saltsaplaza-masterklas-ez zara damutuko edo bai",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Kulturgune"
+  },
+  {
+    "name": "KARAOKE TROTATXOSNAS",
+    "name_eu": "KARAOKE IBILTARIA",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "18:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Piztiak"
+  },
+  {
+    "name": "AIXETXIKI: Juegos infantiles",
+    "name_eu": "AIXETXIKI: Haurren jolasak",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "18:30",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "Bafle poteo",
+    "name_eu": "Bafle poteoa",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "18:30",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "AEROBIC",
+    "name_eu": "AEROBITHON",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Kaialde"
+  },
+  {
+    "name": "SIGI-SAGA",
+    "name_eu": "SIGI-SAGA",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Mamiki y Txomin Barullo"
+  },
+  {
+    "name": "OstiKda Elektrotxaranga",
+    "name_eu": "OstiKda Elektrotxaranga",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "19:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Pa...Ya!"
+  },
+  {
+    "name": "Bertsotriki Kalejira: Onintza Enbeita y Jon Maia",
+    "name_eu": "Bertsotriki Kalejira: Onintza Enbeita eta Jon Maia",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "19:30",
+    "badges": [],
+    "location": "Plaza Nueva"
+  },
+  {
+    "name": "Lentejas",
+    "name_eu": "Lentejas",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "19:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Hontzak"
+  },
+  {
+    "name": "Amooma",
+    "name_eu": "Amooma",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "20:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "IKA & TARIK",
+    "name_eu": "IKA & TARIK",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "20:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
     "name": "ARDE MARTE (Barakaldo-Portugalete) (ELECTRO POP ROCK)",
     "name_eu": "ARDE MARTE (Barakaldo-Portugalete) (ELECTRO POP ROCK)",
     "year": 2022,
@@ -196,6 +1735,29 @@
     "location": "Bilborock"
   },
   {
+    "name": "SOINU BELTZA",
+    "name_eu": "SOINU BELTZA",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "20:30",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Toro de fuego",
+    "name_eu": "Suzko zezena",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
     "name": "Passamezzo Antico",
     "name_eu": "Passamezzo Antico",
     "year": 2022,
@@ -206,6 +1768,28 @@
       "🎵"
     ],
     "location": "Iglesia de la Encarnación"
+  },
+  {
+    "name": "Mi Buenaventura",
+    "name_eu": "Mi Buenaventura",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "20:45",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Cabaret Txomin Barullo",
+    "name_eu": "Txomin Barullo Kabareta",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "21:00",
+    "badges": [],
+    "location": "Txomin Barullo"
   },
   {
     "name": "JUM! (Bilbao-Nafarroa) (ELECTRO POP ROCK)",
@@ -230,6 +1814,173 @@
       "🎭"
     ],
     "location": "Plaza del Gas"
+  },
+  {
+    "name": "FIKZIO",
+    "name_eu": "FIKZIO",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "21:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Fuegos artificiales XXX Concurso internacional Villa de Bilbao: PIROTECNIA ZARAGOZANA (Zaragoza)",
+    "name_eu": "Bilbao Hiria su artifizialen nazioarteko XXX. Lehiaketa nagusia: PIROTECNIA ZARAGOZANA (Zaragoza)",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "22:30",
+    "badges": [],
+    "location": "Parque Etxebarria"
+  },
+  {
+    "name": "Altxa Porru erromeria",
+    "name_eu": "Altxa Porru erromeria",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Noche Temática: Euskal Remix Gaua",
+    "name_eu": "Gau tematikoa: Euskal Remix Gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "ROMERIA ERRUKI",
+    "name_eu": "ERRUKI ERROMERIA",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Marta & Herbass",
+    "name_eu": "Marta & Herbass",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "AWAKATE BAND",
+    "name_eu": "AWAKATE BAND",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Triangune"
+  },
+  {
+    "name": "Bon Scott Revival Show + Los Platero",
+    "name_eu": "Bon Scott Revival Show + Los Platero",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Algara"
+  },
+  {
+    "name": "DUPLA",
+    "name_eu": "DUPLA",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Concierto",
+    "name_eu": "Kontzertua",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaixo"
+  },
+  {
+    "name": "Mi hermana Corina",
+    "name_eu": "Mi hermana Corina",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Tintigorri"
+  },
+  {
+    "name": "HABI + LAMIAK",
+    "name_eu": "HABI + LAMIAK",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "RAIMUNDO EL CANASTERO",
+    "name_eu": "RAIMUNDO EL CANASTERO",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Las F.R.A.C. + Bad Sound System",
+    "name_eu": "Las F.R.A.C. + Bad Sound System",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kulturgune"
   },
   {
     "name": "El Drogas",
@@ -257,6 +2008,303 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "Noche de DJ",
+    "name_eu": "DJ gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:45",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Zoroen Kluba",
+    "name_eu": "Zoroen Kluba",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "oinutsik erromeria",
+    "name_eu": "Oinutsik erromeria",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Triangune"
+  },
+  {
+    "name": "LETICIA SABATER",
+    "name_eu": "LETICIA SABATER",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pinpilinpauxa"
+  },
+  {
+    "name": "Concierto",
+    "name_eu": "Kontzertua",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaixo"
+  },
+  {
+    "name": "STR",
+    "name_eu": "STR",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "01:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Odei Barroso",
+    "name_eu": "Odei Barroso",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "02:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Dj DrBravo & The Funky Console",
+    "name_eu": "Dj DrBravo & The Funky Console",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "03:15",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Certamen Gastronómico: Tortilla de patatas. Inscripción",
+    "name_eu": "Sukaldaritza - Lehiaketa: Patata tortilla. Izen-ematea",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Diana de txistularis y txupin",
+    "name_eu": "Txistularien diana eta txupina",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Campeonato de ajedrez: Ramdom Chess-Bobby Fischer",
+    "name_eu": "Xake txapelketa: Ramdom Chess-Bobby Fischer",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "10:00",
+    "badges": [
+      "♟️"
+    ],
+    "location": "Tintigorri"
+  },
+  {
+    "name": "Taller Gastronómico: Pan",
+    "name_eu": "Tailer gastronomikoa: Ogia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Txarraska Txiki",
+    "name_eu": "Txarraska Txiki",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Campeonato de rana: En parejas",
+    "name_eu": "Igel Txapelketa: Binakakoa",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Competicion de rana: Parejas",
+    "name_eu": "Igel Txapelketa: Bikoteka",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Parque infantil",
+    "name_eu": "Haur parkea",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "TERRAZA+PHOTOCOL",
+    "name_eu": "TERRAZA+PHOTOCOL",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TALLER DE TALO",
+    "name_eu": "TALO TAILERRA",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Rocódromo",
+    "name_eu": "Rokodromoa",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Taller de pan",
+    "name_eu": "Ogi tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Bertso poteoa",
+    "name_eu": "Bertso poteoa",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Espuma + piscina",
+    "name_eu": "Bitsa + igerilekua",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kulturgune"
+  },
+  {
+    "name": "Campeonato de Mus. Inscripción",
+    "name_eu": "Mus Txapelketa. Izen-ematea",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Abante"
+  },
+  {
+    "name": "Pasacalles de los txistularis - Casco viejo",
+    "name_eu": "Txistularien kalejira -  Alde zaharra",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Taller de cerámica",
+    "name_eu": "Zeramika tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "MURAL COLABORATIVO",
+    "name_eu": "MARRAZTU TXOSNA GUREKIN!",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Actividades infantiles",
+    "name_eu": "Haurren ekintzak",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Ripa"
+  },
+  {
     "name": "Bilbainadas: Gau Pasa",
     "name_eu": "Bilbainadas: Gau Pasa",
     "year": 2022,
@@ -269,6 +2317,310 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "PATXI KARRO",
+    "name_eu": "PATXI KARRO",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:15",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Txikigune: taller de manualidades",
+    "name_eu": "Txikigunea: eskulan-tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Mamiki y Txomin Barullo"
+  },
+  {
+    "name": "Juegos infantiles",
+    "name_eu": "Umeentzako jolasak",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Pa...Ya!"
+  },
+  {
+    "name": "Taller de tatuajes",
+    "name_eu": "Tatuaje tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Pa...Ya!"
+  },
+  {
+    "name": "Taller infantil",
+    "name_eu": "Umeentzako tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Kaixo"
+  },
+  {
+    "name": "TALLERES INFANTILES",
+    "name_eu": "UMENTZAKO TAILERRAK",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "12:45",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Bilbo Hiria Irratia",
+    "name_eu": "Bilbo Hiria Irratia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Certamen Gastronómico: Entrega de Premios",
+    "name_eu": "Sukaldaritza - Lehiaketa: Sari banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "14:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Comida Kulturgune - parrillada",
+    "name_eu": "Kulturguneko bazkaria - parrillada",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Kulturgune"
+  },
+  {
+    "name": "Campeonato de Mus. Comienzo",
+    "name_eu": "Mus-txapelketa. Hasiera",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Abante"
+  },
+  {
+    "name": "Campeonato grupos de Waterpolo",
+    "name_eu": "Waterpolo taldeen lehiaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "15:30",
+    "badges": [],
+    "location": "Ripa"
+  },
+  {
+    "name": "Bertsolari gazteen sariketa",
+    "name_eu": "Bertsolari gazteen sariketa",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "16:30",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Mari Metal Jaia",
+    "name_eu": "Mari Metal Jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "16:45",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "MERCADO de colectivos",
+    "name_eu": "Kolektiboen HERRI AZOKA",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "TALLER DE PAÑUELO Y TXAPELA",
+    "name_eu": "ZAPI ETA TXAPELA TAILERRA",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Bertso triki poteoa",
+    "name_eu": "Bertso triki poteoa",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Serigrafia de pañuelos",
+    "name_eu": "KONPARTSAKIDETU!: Zapi serigrafia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "Mari Metal Jaia",
+    "name_eu": "Mari Metal Jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "18:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "MOSKO-TARDEO",
+    "name_eu": "MOSKO-TARDEO",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "Joni Txintxes & Billy Ladilla",
+    "name_eu": "Joni Txintxes & Billy Ladilla",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "18:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kulturgune"
+  },
+  {
+    "name": "SIGI-SAGA Dantzaplaza",
+    "name_eu": "SIGI-SAGA Dantzaplaza",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "18:30",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "IX. CARRERA INFANTIL DE MOTOS MOLTO",
+    "name_eu": "9. HAUR MOLTO MOTORREN LASTERKETA",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "Menu2tres",
+    "name_eu": "Menu2tres",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "19:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Hontzak"
+  },
+  {
+    "name": "Mari Metal Jaia",
+    "name_eu": "Mari Metal Jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "19:15",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "KENIAMA",
+    "name_eu": "KENIAMA",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "20:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "Poteo Kulturgune",
+    "name_eu": "Kulturguneko poteoa",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "20:00",
+    "badges": [],
+    "location": "Kulturgune"
+  },
+  {
+    "name": "Homenaje a los familiares",
+    "name_eu": "Senideei omenaldia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "20:00",
+    "badges": [],
+    "location": "Txori Barrote"
+  },
+  {
+    "name": "NASIM & PAU",
+    "name_eu": "NASIM ETA PAU",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "20:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
     "name": "ENROCKECIDOS (Barakaldo) (ROCK URBANO)",
     "name_eu": "ENROCKECIDOS (Barakaldo) (ROCK URBANO)",
     "year": 2022,
@@ -279,6 +2631,50 @@
       "🎵"
     ],
     "location": "Bilborock"
+  },
+  {
+    "name": "Mari Metal Jaia",
+    "name_eu": "Mari Metal Jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "20:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "KILLER ZOMBIS",
+    "name_eu": "KILLER ZOMBIS",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "20:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Zaratas"
+  },
+  {
+    "name": "COMEFLANES",
+    "name_eu": "FLANJALE TXAPELKETA",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Toro de fuego",
+    "name_eu": "Suzko zezena",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
   },
   {
     "name": "Satisfacshow",
@@ -303,6 +2699,136 @@
       "🎵"
     ],
     "location": "Bilborock"
+  },
+  {
+    "name": "MONOTONOS",
+    "name_eu": "MONOTONOS",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "21:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Mari Metal Jaia",
+    "name_eu": "Mari Metal Jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "21:45",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Fuegos artificiales XXX Concurso internacional Villa de Bilbao: PIROTECNIA LÓPEZ (A Coruña)",
+    "name_eu": "Bilbao Hiria su artifizialen nazioarteko XXX. Lehiaketa nagusia: PIROTECNIA LÓPEZ (A Coruña)",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "22:30",
+    "badges": [],
+    "location": "Parque Etxebarria"
+  },
+  {
+    "name": "Mari Metal Jaia",
+    "name_eu": "Mari Metal Jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Willis Drummond + Arima",
+    "name_eu": "Willis Drummond + Arima",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Algara"
+  },
+  {
+    "name": "SKASTI",
+    "name_eu": "SKASTI",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Concierto",
+    "name_eu": "Kontzertua",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Abante"
+  },
+  {
+    "name": "Amann & Wayward Sons",
+    "name_eu": "Amann & Wayward Sons",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Tintigorri"
+  },
+  {
+    "name": "SENSE SAL",
+    "name_eu": "SENSE SAL",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "Mad Muasel",
+    "name_eu": "Mad Muasel",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Anita Parker + Lukiek",
+    "name_eu": "Anita Parker + Lukiek",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kulturgune"
   },
   {
     "name": "Viva Suecia",
@@ -330,6 +2856,429 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "Nize",
+    "name_eu": "Nize",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:45",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Noche de DJ",
+    "name_eu": "DJ gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:45",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Sesión de DJ",
+    "name_eu": "DJ saioa",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "00:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Abante"
+  },
+  {
+    "name": "Mari Metal Jaia",
+    "name_eu": "Mari Metal Jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "00:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Travesia popular de piraguas",
+    "name_eu": "Pirauen igoera herrikoia",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "00:00",
+    "badges": [],
+    "location": "Museo Vasco"
+  },
+  {
+    "name": "MELODY",
+    "name_eu": "MELODY",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pinpilinpauxa"
+  },
+  {
+    "name": "Feline",
+    "name_eu": "Feline",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "01:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "LA TOPADORA",
+    "name_eu": "LA TOPADORA",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "01:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Merina Gris",
+    "name_eu": "Merina Gris",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "01:15",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Mari Metal Jaia",
+    "name_eu": "Mari Metal Jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "01:45",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "AK Pintxadiskos",
+    "name_eu": "AK Pintxadiskos",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "02:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Easyer & Tronis",
+    "name_eu": "Easyer & Tronis",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "02:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Algara"
+  },
+  {
+    "name": "DJ BULL",
+    "name_eu": "DJ BULL",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "02:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pa...Ya!"
+  },
+  {
+    "name": "Gastro-Txiki: inscripción, hasta comienzo de taller",
+    "name_eu": "Gastro-Txiki: izen-ematea, tailerra hasi arte",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "09:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Certamen Gastronómico: Txipirones en su tinta. Inscripción",
+    "name_eu": "Sukaldaritza - Lehiaketa: Txipiroiak tintan. Izen-ematea",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Campeonato basket 3x3",
+    "name_eu": "3x3 basket txapelketa",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Ripa"
+  },
+  {
+    "name": "Pasacalles de los txistularis - Hospital de Basurto",
+    "name_eu": "Txistularien kalejira - Basurtoko ospitala",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Diana de txistularis y txupin",
+    "name_eu": "Txistularien diana eta txupina",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Campeonato de ajedrez: Partidas rapidas",
+    "name_eu": "Xake txapelketa: Partida azkarrak",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "10:00",
+    "badges": [
+      "♟️"
+    ],
+    "location": "Tintigorri"
+  },
+  {
+    "name": "Visita a los niñ@s del Hospital de basurto junto con Marijaia",
+    "name_eu": "Basurto Ospitaleko haurrei bisita Marijaiarekin",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "10:30",
+    "badges": [
+      "🙆",
+      "🎉"
+    ],
+    "location": "Basurto"
+  },
+  {
+    "name": "Taller Gastronómico: Miel",
+    "name_eu": "Tailer gastronomikoa: Eztia",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Campeonato de tirachinas",
+    "name_eu": "Tiragoma Txapelketa",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Campeonato de tirachinas",
+    "name_eu": "Tiragomas txapelketa",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "Gastro-Txiki: Gildas",
+    "name_eu": "Gastro-Txiki: Gildak",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "11:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Circo Sugoi",
+    "name_eu": "Sugoi Zirkoa",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "11:30",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Parque infantil",
+    "name_eu": "Haur parkea",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "TERRAZA+PHOTOCOL",
+    "name_eu": "TERRAZA+PHOTOCOL",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "ESPECTÁCULO INFANTIL",
+    "name_eu": "HAURRENTZAKO IKUSKIZUNA",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Piscina",
+    "name_eu": "Igerilekua",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Taller de barro",
+    "name_eu": "Buztin tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Euskal Txikigunea (+ piscina)",
+    "name_eu": "Euskal Txikigunea (+ igerilekua)",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Día de la tierra: taller de jardinería",
+    "name_eu": "Lurra eguna: Lorezaintza tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Eguzkizaleak"
+  },
+  {
+    "name": "Irola Irratia en directo",
+    "name_eu": "Irola Irratia Zuzenean",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Mercado agricola",
+    "name_eu": "Nekazak azoka",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Triangune"
+  },
+  {
+    "name": "Rocódromo",
+    "name_eu": "Rokodromoa",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Exposicion y taller con Ecuador etxea",
+    "name_eu": "Erakusketa eta tailerra Ekuador etxearen eskuti",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Triangune"
+  },
+  {
+    "name": "BAILE EN FAMILIA",
+    "name_eu": "FAMILIENTZAKO DANTZAK",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Taller de repostería",
+    "name_eu": "Gozogintza tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
     "name": "Bilbainadas: Los Chimberos",
     "name_eu": "Bilbainadas: Los Chimberos",
     "year": 2022,
@@ -342,6 +3291,96 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "PATXI KARRO",
+    "name_eu": "PATXI KARRO",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:15",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Gastro-Txiki: Gildas",
+    "name_eu": "Gastro-Txiki: Gildak",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Txikigune: taller de manualidades",
+    "name_eu": "Txikigunea: eskulan-tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Mamiki y Txomin Barullo"
+  },
+  {
+    "name": "Taller de slime",
+    "name_eu": "Slime tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Pa...Ya!"
+  },
+  {
+    "name": "TALLERES INFANTILES",
+    "name_eu": "UMENTZAKO TAILERRAK",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "12:45",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Taller infantil",
+    "name_eu": "Umeentzako tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Bilbo Hiria Irratia",
+    "name_eu": "Bilbo Hiria Irratia",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Altxaferiya",
+    "name_eu": "Altxaferiya",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Altxaporrue"
+  },
+  {
+    "name": "Fiesta de espuma",
+    "name_eu": "Apar jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
     "name": "\"Nüshu\" (Cía. Capicúa, Catalunya-Aragón)",
     "name_eu": "\"Nüshu\" (Cía. Capicúa, Catalunya-Aragón)",
     "year": 2022,
@@ -352,6 +3391,226 @@
       "🎭"
     ],
     "location": "Plaza del Gas"
+  },
+  {
+    "name": "Iparralde eguna + Algara kantari",
+    "name_eu": "Iparralde eguna + Algara kantari",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "14:00",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Certamen Gastronómico: Entrega de Premios",
+    "name_eu": "Sukaldaritza - Lehiaketa: Sari banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "14:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Bertso-bazkaria: Maialen Lujanbio y Unai Iturriaga",
+    "name_eu": "Bertso-bazkaria: Maialen Lujanbio eta Unai Iturriaga",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "14:30",
+    "badges": [],
+    "location": "Abante"
+  },
+  {
+    "name": "Día de la Okupación",
+    "name_eu": "Okupazio Eguna",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Altxabazkaria",
+    "name_eu": "Altxabazkaria",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Altxaporrue"
+  },
+  {
+    "name": "Campeonato Waterpolo popular",
+    "name_eu": "Waterpolo lehiaketa herrikoia",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Ripa"
+  },
+  {
+    "name": "Bingo acustico",
+    "name_eu": "Bingo musikatu akustikoa",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "16:30",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Altxaporrue"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Comida del Día de la Tierra",
+    "name_eu": "Lurra eguneko bazkaria",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Eguzkizaleak"
+  },
+  {
+    "name": "MERCADO de colectivos",
+    "name_eu": "Kolektiboen HERRI AZOKA",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "RAKS AL HAIA.Escuela de danza: Danza del vientre.",
+    "name_eu": "RAKS AL HAIA.Dantza eskola:Sabel dantza",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Pasacalles a favor de la ocupación y autogestión",
+    "name_eu": "Okupazio eta Autogestioaren Aldeko KALEJIRA MUSIKATUA",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "MOSKO-TARDEO SOLIDARIO",
+    "name_eu": "ELKARTASUN MOSKO-TARDEO",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "DISPLICENTES",
+    "name_eu": "DISPLICENTES",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "18:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaialde"
+  },
+  {
+    "name": "JAZZ IN HELL",
+    "name_eu": "JAZZ IN HELL",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "18:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Triangune"
+  },
+  {
+    "name": "Encierro con toros de agua",
+    "name_eu": "Ur-zezen entzierroa",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "Construye tu txosna",
+    "name_eu": "KONPARTSAKIDETU!: Eraiki zure txosna",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "Poteo con Kittu",
+    "name_eu": "Poteoa Kitturekin",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Altxaporrue"
+  },
+  {
+    "name": "Dantza-plaza con Sigi-Saga",
+    "name_eu": "Sigi-Sagarekin Dantza-plaza",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "BEER & SKATE: HxC FRIENDLY LOCAL BANDS",
+    "name_eu": "BEER & SKATE: HxC FRIENDLY LOCAL BANDS",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "19:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Kalejira y entrega de la Mosca y Campana",
+    "name_eu": "Eulia eta Kanpaiaren banaketa kalejira",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Arenal"
   },
   {
     "name": "\"TNT\" (Akelar)",
@@ -367,6 +3626,52 @@
     "location": "Parque de Doña Casilda (Txikigune)"
   },
   {
+    "name": "HORAS MUERTAS",
+    "name_eu": "HORAS MUERTAS",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "20:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Elkartasun txanda: Chernobil Elkartea",
+    "name_eu": "Turno solidario: Chernobil Elkartea",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "20:00",
+    "badges": [],
+    "location": "Pinpilinpauxa"
+  },
+  {
+    "name": "Benetan Zoro",
+    "name_eu": "Benetan Zoro",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "20:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaixo"
+  },
+  {
+    "name": "Mozkor Alaiak",
+    "name_eu": "Mozkor Alaiak",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "20:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Hontzak"
+  },
+  {
     "name": "THE LAST HIDDEN FOX (Bilbao) (COUNTRY FOLK ROCK)",
     "name_eu": "THE LAST HIDDEN FOX (Bilbao) (COUNTRY FOLK ROCK)",
     "year": 2022,
@@ -379,6 +3684,26 @@
     "location": "Bilborock"
   },
   {
+    "name": "TURNO DE LOS MIEMBROS DE LA FUNDACIÓN SÍNDROME DE DOWN EN FAVOR DE LA INTEGRACIÓN Y LA IGUALDAD EN ASTE NAGUSIA",
+    "name_eu": "DOWN SINDROME FUNDAZIOAREN KIDEEN TXANDA ASTE NAGUSIAN INTEGRAZIO ETA PAREKOTASUNAREN ALDE",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "Toro de fuego",
+    "name_eu": "Suzko zezena",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
     "name": "Arteus Orquesta",
     "name_eu": "Arteus Orquesta",
     "year": 2022,
@@ -389,6 +3714,43 @@
       "🎵"
     ],
     "location": "Iglesia de la Encarnación"
+  },
+  {
+    "name": "Mario Gigante",
+    "name_eu": "Mario Gigante",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "20:45",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Rap político: JON REED + SUPRAH",
+    "name_eu": "Rap politikoa: JON REED + SUPRAH",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "21:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "Euskal karaokea",
+    "name_eu": "Euskal karaokea",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "21:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Euskalgune"
   },
   {
     "name": "SONIC FREE STATION (Arrigorriaga-Nerbioi-Ibaizabal) (SOUL ROCK&BLUES)",
@@ -413,6 +3775,124 @@
       "🎭"
     ],
     "location": "Plaza del Gas"
+  },
+  {
+    "name": "Fuegos artificiales XXX Concurso internacional Villa de Bilbao:CIELS\r\nEN FÊTE (Francia)",
+    "name_eu": "Bilbao Hiria su artifizialen nazioarteko XXX. Lehiaketa nagusia: CIELS\r\nEN FÊTE (Frantzia)",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "22:30",
+    "badges": [],
+    "location": "Parque Etxebarria"
+  },
+  {
+    "name": "7kale",
+    "name_eu": "7kale",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "SONNORA DJEMBE",
+    "name_eu": "SONNORA DJEMBE",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Silitia",
+    "name_eu": "Silitia",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Mconak + Niña Coyote eta Chico Tornado",
+    "name_eu": "Mconak + Niña Coyote eta Chico Tornado",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Algara"
+  },
+  {
+    "name": "ERABATERA",
+    "name_eu": "ERABATERA",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Radio Guerrilla",
+    "name_eu": "Radio Guerrilla",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Tintigorri"
+  },
+  {
+    "name": "URTZ",
+    "name_eu": "URTZ",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "KYRAE",
+    "name_eu": "KYRAE",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "Zirkinik Bez erromeria",
+    "name_eu": "Zirkinik Bez erromeria",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kulturgune"
   },
   {
     "name": "La Oreja de Van Gogh",
@@ -440,6 +3920,19 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "Noche de DJ",
+    "name_eu": "DJ gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:45",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Irrintzi"
+  },
+  {
     "name": "Ana Mena",
     "name_eu": "Ana Mena",
     "year": 2022,
@@ -450,6 +3943,285 @@
       "🎵"
     ],
     "location": "Parque Europa"
+  },
+  {
+    "name": "Urrats Erromeria",
+    "name_eu": "Urrats Erromeria",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "00:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaixo"
+  },
+  {
+    "name": "Noche Temática: Noche Rock",
+    "name_eu": "Gau Tematikoa: Rock Gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "00:30",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "Acido Folklorico (acid folk indu",
+    "name_eu": "Acido Folklorico (acid folk industrial)",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "TUTTO CARRÀ",
+    "name_eu": "TUTTO CARRÀ",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pinpilinpauxa"
+  },
+  {
+    "name": "DJ ELEPUNTO",
+    "name_eu": "DJ ELEPUNTO",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "01:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "DJ Jonkass",
+    "name_eu": "DJ Jonkass",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "02:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Algara"
+  },
+  {
+    "name": "Akrata Ruin Demakrada",
+    "name_eu": "Akrata Ruin Demakrada",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "02:15",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Certamen Gastronómico: Bacalao a la Bizkaína. Inscripción",
+    "name_eu": "Sukaldaritza - Lehiaketa: Bakailao Bizkaitar Eran. Izen-ematea",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Diana de txistularis y txupin",
+    "name_eu": "Txistularien diana eta txupina",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Campeonato de ajedrez: Campeonato de la amistad",
+    "name_eu": "Xake txapelketa: Adiskidetasunaren txapelketa",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "10:00",
+    "badges": [
+      "♟️"
+    ],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "Serigrafia de pañuelos",
+    "name_eu": "KONPARTSAKIDETU!: Zapi serigrafia",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "10:30",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "Taller Gastronómico: Conservas",
+    "name_eu": "Tailer gastronomikoa: Kontserbak",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Parque infantil",
+    "name_eu": "Haur parkea",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "Recepción de las Txupineras",
+    "name_eu": "Txupinerei ongi etorria",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "TERRAZA+PHOTOCOL",
+    "name_eu": "TERRAZA+PHOTOCOL",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "JUNT@S",
+    "name_eu": "ELKARREKIN",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Rocódromo",
+    "name_eu": "Rokodromoa",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Papiroflexia antimilitarista",
+    "name_eu": "Papiroflexia antimilitarista",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Triangune"
+  },
+  {
+    "name": "MUGI ZAITEZ  Disko festa",
+    "name_eu": "MUGI ZAITEZ Disko festa",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Espuma + piscina",
+    "name_eu": "Bitsa + igerilekua",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kulturgune"
+  },
+  {
+    "name": "CATA DE CERVEZA",
+    "name_eu": "GARAGARDO DASTAKETA",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Furbolin humano infantil",
+    "name_eu": "Giza futbolina txikientzat",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
+    "name": "Pasacalles de los txistularis - Abando (Ledesma)",
+    "name_eu": "Txistularien kalejira -  Abando (Ledesma)",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "CRECE PELO VEGETAL",
+    "name_eu": "ILE BEGETALA SORTZEN",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Recepcion de las txupineras",
+    "name_eu": "Txupinerei ongi etorria",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Arenal"
   },
   {
     "name": "Bilbainadas: Los 5 Bilbaínos",
@@ -464,6 +4236,96 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "PATXI KARRO",
+    "name_eu": "PATXI KARRO",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:15",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Txikigune: taller de manualidades",
+    "name_eu": "Txikigunea: eskulan-tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Mamiki y Txomin Barullo"
+  },
+  {
+    "name": "Taller infantil",
+    "name_eu": "Umeentzako tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
+    "name": "Hontzaranga",
+    "name_eu": "Hontzaranga",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "Taller infantil",
+    "name_eu": "Umeentzako tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Ane Pirata",
+    "name_eu": "Ane Pirata",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "BERTSO BERMUT - Unai Mendiburu, Ane Labaka, Imanol Uria",
+    "name_eu": "BERTSO BERMUT - Unai Mendiburu, Ane Labaka, Imanol Uria",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Cata de vinos con Txakoli Gorondona",
+    "name_eu": "Ardo dastaketa Txakoli Gorrondonaren esku",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "Bilbo Hiria Irratia",
+    "name_eu": "Bilbo Hiria Irratia",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "13:30",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
     "name": "\"Txalaparta hutsa\" (Hutsun + Urtzi)",
     "name_eu": "\"Txalaparta hutsa\" (Hutsun + Urtzi)",
     "year": 2022,
@@ -474,6 +4336,232 @@
       "🎭"
     ],
     "location": "Plaza del Gas"
+  },
+  {
+    "name": "Certamen Gastronómico: Entrega de Premios",
+    "name_eu": "Sukaldaritza - Lehiaketa: Sari banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "14:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Euskaraz bizi eguneko bazkaria",
+    "name_eu": "Euskaraz bizi eguneko bazkaria",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "15:00",
+    "badges": [],
+    "location": "HPH"
+  },
+  {
+    "name": "Kukaña",
+    "name_eu": "Kukaña",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "16:00",
+    "badges": [],
+    "location": "Altxaporrue"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Euskara saria",
+    "name_eu": "Euskara saria",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "17:00",
+    "badges": [],
+    "location": "HPH"
+  },
+  {
+    "name": "MERCADO de colectivos",
+    "name_eu": "Kolektiboen HERRI AZOKA",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Futbolin humano interkonpartsak",
+    "name_eu": "Futbolin erraldoia interkonpartsak",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
+    "name": "SWING FESTA",
+    "name_eu": "SWING FESTA",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Piruletas de chocolate",
+    "name_eu": "Txokolatezko piruletak",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Uribarri"
+  },
+  {
+    "name": "MOSKO-TARDEO",
+    "name_eu": "MOSKO-TARDEO",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "CAMPEONATO DE RANA txiki",
+    "name_eu": "Munduko IGEL TXAPELKETA txiki",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Campeonato de RANA",
+    "name_eu": "Munduko Igel Txapelketa",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "KRUSAK",
+    "name_eu": "KRUSAK",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "18:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Triangune"
+  },
+  {
+    "name": "CATA DE CERVEZAS",
+    "name_eu": "GARAGARDO DASTAKETA",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "18:30",
+    "badges": [],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Homenaje a la ikurriña",
+    "name_eu": "Ikurriñari omenaldia",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "18:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "CONCURSO MANDA HUEVOS",
+    "name_eu": "BINGO GORRINGO LEHIAKETA",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "Danza social con la asociacion SwingSide Bilbao",
+    "name_eu": "Dantza soziala SwingSide Bilbao elkartearekin",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Kulturgune"
+  },
+  {
+    "name": "Bertso-saioa",
+    "name_eu": "Bertso-saioa",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "19:00",
+    "badges": [],
+    "location": "Abante"
+  },
+  {
+    "name": "Terror y Miseria",
+    "name_eu": "Terror y Miseria",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "19:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Hontzak"
+  },
+  {
+    "name": "NINO & BALIHAS DJ",
+    "name_eu": "NINO & BALIHAS DJ",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "19:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
+    "name": "THE DOLPHINERS",
+    "name_eu": "THE DOLPHINERS",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "19:30",
+    "badges": [],
+    "location": "Triangune"
+  },
+  {
+    "name": "Bilbo Kantari",
+    "name_eu": "Bilbo Kantari",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "19:30",
+    "badges": [],
+    "location": "Zazpi Kaleak"
   },
   {
     "name": "\"Arin arin erbiaren abenturak\" (Panpotx)",
@@ -489,6 +4577,18 @@
     "location": "Parque de Doña Casilda (Txikigune)"
   },
   {
+    "name": "NEVERMINDERS (Nirvana)",
+    "name_eu": "NEVERMINDERS (Nirvana)",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "20:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Aixe Berri"
+  },
+  {
     "name": "KINKI BOYS (Getxo-Madrid) (POST PUNK´N´ROLL)",
     "name_eu": "KINKI BOYS (Getxo-Madrid) (POST PUNK´N´ROLL)",
     "year": 2022,
@@ -501,6 +4601,29 @@
     "location": "Bilborock"
   },
   {
+    "name": "Poteo nostálgico con Sama Siku",
+    "name_eu": "Poteo nostalgikoa Sama Sikurekin",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "20:30",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Toro de fuego",
+    "name_eu": "Suzko zezena",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
     "name": "Cadenza Quartet",
     "name_eu": "Cadenza Quartet",
     "year": 2022,
@@ -511,6 +4634,16 @@
       "🎵"
     ],
     "location": "Iglesia de la Encarnación"
+  },
+  {
+    "name": "24º CONCURSO DE FEOS",
+    "name_eu": "ITSUSIEN 24. LEHIAKETA",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "21:00",
+    "badges": [],
+    "location": "Moskotarrak"
   },
   {
     "name": "Guateque: DJ Luis Carlos del Pozo",
@@ -550,6 +4683,136 @@
     "location": "Plaza del Gas"
   },
   {
+    "name": "ENTRETIEMPO",
+    "name_eu": "ENTRETIEMPO",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "21:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Fuegos artificiales XXX Concurso internacional Villa de Bilbao: PIROTECNIA ESTEBAN MARTIN (Granada)",
+    "name_eu": "Bilbao Hiria su artifizialen nazioarteko XXX. Lehiaketa nagusia: PIROTECNIA ESTEBAN MARTIN (Granada)",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "22:30",
+    "badges": [],
+    "location": "Parque Etxebarria"
+  },
+  {
+    "name": "LEHIAN ERROMERIA",
+    "name_eu": "LEHIAN ERROMERIA",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Zea Mays",
+    "name_eu": "Zea Mays",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Algara"
+  },
+  {
+    "name": "GARILAK 26",
+    "name_eu": "GARILAK 26",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Los demenciales chicos acelerados",
+    "name_eu": "Los demenciales chicos acelerados",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
+    "name": "Concierto",
+    "name_eu": "Kontzertua",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Abante"
+  },
+  {
+    "name": "GANSOS ROSAS (Guns N' Roses)",
+    "name_eu": "GANSOS ROSAS (Guns N' Roses)",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "S.A.D. Sistemak Arrikutsuak Dira",
+    "name_eu": "S.A.D. Sistemak Arrikutsuak Dira",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Sobre mi gata (post cumbia maquinera Barcelona)",
+    "name_eu": "Sobre mi gata (post cumbia maquinera Barcelona)",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "DJ Bull",
+    "name_eu": "DJ Bull",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kulturgune"
+  },
+  {
     "name": "Bulego",
     "name_eu": "Bulego",
     "year": 2022,
@@ -575,6 +4838,19 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "Noche de DJ",
+    "name_eu": "DJ gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:45",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Irrintzi"
+  },
+  {
     "name": "Los 40 Principales",
     "name_eu": "Los 40 Principales",
     "year": 2022,
@@ -585,6 +4861,320 @@
       "🎵"
     ],
     "location": "Parque Europa"
+  },
+  {
+    "name": "Sesión de DJ",
+    "name_eu": "DJ saioa",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "00:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Abante"
+  },
+  {
+    "name": "AINHOA",
+    "name_eu": "AINHOA",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pinpilinpauxa"
+  },
+  {
+    "name": "Concierto",
+    "name_eu": "Kontzertua",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
+    "name": "ARRANO PERTXA",
+    "name_eu": "ARRANO PERTXA",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "00:45",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Suaia & Dubakustik",
+    "name_eu": "Suaia & Dubakustik",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "01:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Reparto de Sopas de ajo",
+    "name_eu": "Baratxuri-zopa banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "01:00",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "ENDJ",
+    "name_eu": "ENDJ",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "01:30",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Algara"
+  },
+  {
+    "name": "Dj Tiki Boom",
+    "name_eu": "Dj Tiki Boom",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "02:15",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Dj",
+    "name_eu": "Dj",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "03:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
+    "name": "Gastro-Txiki: inscripción, hasta comienzo de taller",
+    "name_eu": "Gastro-Txiki: izen-ematea, tailerra hasi arte",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "09:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Certamen Gastronómico: Bacalao al pil-pil. Inscripción",
+    "name_eu": "Sukaldaritza - Lehiaketa: Bakailao pil-pilean. Izen-ematea",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Diana de txistularis y txupin",
+    "name_eu": "Txistularien diana eta txupina",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Campeonato de ajedrez: Simultaneas-Miriam Parkhust casas",
+    "name_eu": "Xake txapelketa: Aldi berekoak-Miriam Parkhust casas",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "10:00",
+    "badges": [
+      "♟️"
+    ],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "Taller Gastronómico: Slow Food",
+    "name_eu": "Tailer gastronomikoa: Slow Food",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Construye tu txosna",
+    "name_eu": "KONPARTSAKIDETU!: Eraiki zure txosna",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "Taller Gastronómico: Ardoa",
+    "name_eu": "Tailer gastronomikoa: Vino",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Gastro-Txiki: Brocheta de frutas",
+    "name_eu": "Gastro-Txiki: Frutazko brotxetak",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "11:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Parque infantil",
+    "name_eu": "Haur parkea",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "TERRAZA+PHOTOCOL",
+    "name_eu": "TERRAZA+PHOTOCOL",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TALLER DE CHAPAS",
+    "name_eu": "TXAPA TAILERRA",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaialde"
+  },
+  {
+    "name": "Piscina",
+    "name_eu": "Igerilekua",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Taller de cocina",
+    "name_eu": "Sukaldaritza tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Rocódromo",
+    "name_eu": "Rokodromoa",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Taller ecologista para niños",
+    "name_eu": "Txikientxako tailer ekologista",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Triangune"
+  },
+  {
+    "name": "Pasacalles de los txistularis - Plaza Rivera (Gastronómico)",
+    "name_eu": "Txistularien kalejira - Erriberako plaza (gastronomía)",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "CHROMA KEY",
+    "name_eu": "CHROMA KEY",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Piztiak"
+  },
+  {
+    "name": "1,2,3 FESTA!",
+    "name_eu": "1,2,3 FESTA!",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Pa...Ya!"
+  },
+  {
+    "name": "Actividades infantiles",
+    "name_eu": "Haurren ekintzak",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Ripa"
   },
   {
     "name": "Bilbainadas: Los Chimberos",
@@ -611,6 +5201,58 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "PATXI KARRO",
+    "name_eu": "PATXI KARRO",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:15",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Gastro-Txiki: Brocheta de frutas",
+    "name_eu": "Gastro-Txiki: Frutazko brotxetak",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Ziprexa",
+    "name_eu": "Ziprexa",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "13:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Bilbo Hiria Irratia",
+    "name_eu": "Bilbo Hiria Irratia",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Algara"
+  },
+  {
+    "name": "Fiesta de espuma",
+    "name_eu": "Apar jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
     "name": "\"Gazte\" (Hika Teatroa)",
     "name_eu": "\"Gazte\" (Hika Teatroa)",
     "year": 2022,
@@ -621,6 +5263,247 @@
       "🎭"
     ],
     "location": "Plaza del Gas"
+  },
+  {
+    "name": "MIRIAM LUJUA",
+    "name_eu": "MIRIAM LUJUA",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "13:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "Kikartor",
+    "name_eu": "Kikartor",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "13:45",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Certamen Gastronómico: Entrega de Premios",
+    "name_eu": "Sukaldaritza - Lehiaketa: Sari banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "14:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Elkartasun bazkaria",
+    "name_eu": "Elkartasun bazkaria",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Txori Barrote"
+  },
+  {
+    "name": "Juegos de agua Interkonpartsas",
+    "name_eu": "Konpartsen arteko Ur jokoak",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "16:30",
+    "badges": [],
+    "location": "Ripa"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Entrega de los III Premios Barullo",
+    "name_eu": "III. Barullo Sarien banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "MERCADO de colectivos",
+    "name_eu": "Kolektiboen HERRI AZOKA",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "XXIV Hiri Krosa: Convocatoria",
+    "name_eu": "XXIV. Hiri Krosa: Deialdia",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "XXIV Hiri Krosa: Femenina: salida de cgupetes y txikis",
+    "name_eu": "XXIV. Hiri Krosa: Emakume maila: txupete eta txikien irteera",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "XXIV Hiri Krosa: Masculina: salida de cgupetes y txikis",
+    "name_eu": "XXIV. Hiri Krosa: Gizon maila: txupete eta txikien irteera",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "17:10",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "XXIV Hiri Krosa: Femenina: salida de Pre-Benjamines, Benjamines y Alevines",
+    "name_eu": "XXIV. Hiri Krosa: Emakume maila: Pre-Benjamin, Benjamin eta Alebinen irteera",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "17:20",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "Masterclass bailes cubanos",
+    "name_eu": "Kubako dantza klasea",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "XXIV Hiri Krosa: Masculina: salida de Pre-Benjamines, Benjamines y Alevines",
+    "name_eu": "XXIV. Hiri Krosa: Gizon maila: Pre-Benjamin, Benjamin eta Alebinen irteera",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "17:35",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "XXIV Hiri Krosa: Salida de infantiles, Cadetes y Juveniles",
+    "name_eu": "XXIV. Hiri Krosa: Haur, Kadete eta Gasteen irteera",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "17:50",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "MOSKO-TARDEO",
+    "name_eu": "MOSKO-TARDEO",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Moskotarrak"
+  },
+  {
+    "name": "SABIN",
+    "name_eu": "SABIN",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "18:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "XXIV Hiri Krosa: Salida de atletas en Silla de Ruedas",
+    "name_eu": "XXIV. Hiri Krosa: Gurpil Aulki mailaren irteera",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "18:05",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "XXIV Hiri Krosa: Salida de senior, Junior, Promesas y Veteran@s",
+    "name_eu": "XXIV. Hiri Krosa: Senior, Junior, Promesa eta Beteranoen irteera",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "18:25",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "Bafle poteo",
+    "name_eu": "Bafle poteoa",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "19:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Poteo con Rakata'punk txaranga",
+    "name_eu": "Poteo Rakata'punk txarangarekin",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "19:30",
+    "badges": [],
+    "location": "Altxaporrue"
+  },
+  {
+    "name": "DEIEDRA",
+    "name_eu": "DEIEDRA",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "19:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pa...Ya!"
+  },
+  {
+    "name": "XXIV Hiri Krosa: Entrega de premios",
+    "name_eu": "XXIV. Hiri Krosa: Sari Banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "19:30",
+    "badges": [],
+    "location": "Arenal"
   },
   {
     "name": "\"Txalaparta hutsa\" (Hutsun + Ortzi)",
@@ -636,6 +5519,28 @@
     "location": "Parque de Doña Casilda (Txikigune)"
   },
   {
+    "name": "Txosna Ibiltaria",
+    "name_eu": "Txosna Ibiltaria",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "20:00",
+    "badges": [],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "LOKERS",
+    "name_eu": "LOKERS",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "20:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
     "name": "EMPIRE OF DISEASE (Bilbao) (THRASH GROOVE MELODIC DEATH METAL)",
     "name_eu": "EMPIRE OF DISEASE (Bilbao) (THRASH GROOVE MELODIC DEATH METAL)",
     "year": 2022,
@@ -648,6 +5553,16 @@
     "location": "Bilborock"
   },
   {
+    "name": "Toro de fuego",
+    "name_eu": "Suzko zezena",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
     "name": "Emin Kurkchyan",
     "name_eu": "Emin Kurkchyan",
     "year": 2022,
@@ -658,6 +5573,16 @@
       "🎵"
     ],
     "location": "Iglesia de la Encarnación"
+  },
+  {
+    "name": "Concurso de playback",
+    "name_eu": "Playback lehiaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "21:00",
+    "badges": [],
+    "location": "Kaskagorri"
   },
   {
     "name": "Guateque: DJ Luis Carlos del Pozo",
@@ -697,6 +5622,77 @@
     "location": "Plaza del Gas"
   },
   {
+    "name": "WE ARE APES, HELLO!",
+    "name_eu": "WE ARE APES, HELLO!",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "21:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Fuegos artificiales XXX Concurso internacional Villa de Bilbao: PIROTECNIA VALENCIANA (Valencia)",
+    "name_eu": "Bilbao Hiria su artifizialen nazioarteko XXX. Lehiaketa nagusia: PIROTECNIA VALENCIANA (Valentzia)",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "22:30",
+    "badges": [],
+    "location": "Parque Etxebarria"
+  },
+  {
+    "name": "DJs ANOTHER CAPSULE",
+    "name_eu": "DJs ANOTHER CAPSULE",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "Flow do Toxo",
+    "name_eu": "Flow do Toxo",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Pary&Tiza DJ",
+    "name_eu": "Pary&Tiza DJ",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "23:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Algara"
+  },
+  {
+    "name": "MAIXA TA MALAKIAS",
+    "name_eu": "MAIXA TA MALAKIAS",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "23:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pa...Ya!"
+  },
+  {
     "name": "Dani Fernández",
     "name_eu": "Dani Fernández",
     "year": 2022,
@@ -722,6 +5718,19 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "Noche de DJ",
+    "name_eu": "DJ gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "23:45",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Irrintzi"
+  },
+  {
     "name": "En Tol Sarmiento (ETS)",
     "name_eu": "En Tol Sarmiento (ETS)",
     "year": 2022,
@@ -732,6 +5741,192 @@
       "🎵"
     ],
     "location": "Parque Europa"
+  },
+  {
+    "name": "Las Fellini",
+    "name_eu": "Las Fellini",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pinpilinpauxa"
+  },
+  {
+    "name": "Follow the Party",
+    "name_eu": "Follow the Party",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Certamen Gastronómico: Marmitako. Inscripción",
+    "name_eu": "Sukaldaritza - Lehiaketa: Marmitako. Izen-ematea",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Diana de txistularis y txupin",
+    "name_eu": "Txistularien diana eta txupina",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "XXIV. Campeonato Internacional de Ajedrez",
+    "name_eu": "XXIV. Nazioarteko Xake Txapelketa",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "10:00",
+    "badges": [
+      "♟️"
+    ],
+    "location": "Zabalguneko Merkatua"
+  },
+  {
+    "name": "Taller Gastronómico: Sidra",
+    "name_eu": "Tailer gastronomikoa: Sagardoa",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Hinchables",
+    "name_eu": "Puzgarriak",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
+    "name": "Parque infantil",
+    "name_eu": "Haur parkea",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "Parrillada de Bonito del Norte",
+    "name_eu": "Hegaluze parrilada",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "TERRAZA+PHOTOCOL",
+    "name_eu": "TERRAZA+PHOTOCOL",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TXIKO TXOKO",
+    "name_eu": "TXIKO TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Piscina",
+    "name_eu": "Igerilekua",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Rocódromo",
+    "name_eu": "Rokodromoa",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Taller sorpresa para niños",
+    "name_eu": "Umeentzako tailer sorpresa",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Triangune"
+  },
+  {
+    "name": "1,2,3...FESTA",
+    "name_eu": "1,2,3...FESTA",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kulturgune"
+  },
+  {
+    "name": "Pasacalles de los txistularis - Bilbao La Vieja, San Francisco, Las Cortes.",
+    "name_eu": "Txistularien kalejira - Bilbo Zahara, San Francisco, Gorteak",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "COCINA VEGANA",
+    "name_eu": "SUKALDARITZA BEGANOA",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Taller de Kalejira",
+    "name_eu": "KONPARTSAKIDETU!: Kalejira tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Arenal"
   },
   {
     "name": "Bilbainadas: Gau Pasa",
@@ -746,6 +5941,51 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "PATXI KARRO",
+    "name_eu": "PATXI KARRO",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:15",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Taller infantil",
+    "name_eu": "Umeentzako tailerra",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "12:30",
+    "badges": [],
+    "location": "Kaixo"
+  },
+  {
+    "name": "Marianito Rock",
+    "name_eu": "Marianito Rock",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "13:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Hontzak"
+  },
+  {
+    "name": "The Longboards",
+    "name_eu": "The Longboards",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "13:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Hontzak"
+  },
+  {
     "name": "\"De tú a tú\" (MUR, Catalunya)",
     "name_eu": "\"De tú a tú\" (MUR, Catalunya)",
     "year": 2022,
@@ -756,6 +5996,89 @@
       "🎭"
     ],
     "location": "Plaza del Gas"
+  },
+  {
+    "name": "Certamen Gastronómico: Entrega de Premios",
+    "name_eu": "Sukaldaritza - Lehiaketa: Sari banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "14:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Comida Interkonpartsas",
+    "name_eu": "Konpartsen arteko Bazkaria",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "15:00",
+    "badges": [],
+    "location": "Arenal"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "MERCADO de colectivos",
+    "name_eu": "Kolektiboen HERRI AZOKA",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "DAFT PAN",
+    "name_eu": "DAFT PAN",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "17:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Piztiak"
+  },
+  {
+    "name": "Herri Kirolak entre Konpartsas",
+    "name_eu": "Konpartsen arteko Herri Kirolak",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Bilbo Kantari",
+    "name_eu": "Bilbo Kantari",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "19:30",
+    "badges": [],
+    "location": "Zazpi Kaleak"
+  },
+  {
+    "name": "Reparto Banderas Azul y Marron + Premio",
+    "name_eu": "Bandera Urdina eta marroiaren banaketa +",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "20:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
   },
   {
     "name": "SONG OF ANHUBIS (Bilbao-Mungia) (ROCK GOTHIC METAL)",
@@ -770,6 +6093,28 @@
     "location": "Bilborock"
   },
   {
+    "name": "MOZKOR ALAIAK",
+    "name_eu": "MOZKOR ALAIAK",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "20:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pa...Ya!"
+  },
+  {
+    "name": "Toro de fuego",
+    "name_eu": "Suzko zezena",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
     "name": "Rossini Abesbatza",
     "name_eu": "Rossini Abesbatza",
     "year": 2022,
@@ -780,6 +6125,16 @@
       "🎵"
     ],
     "location": "Iglesia de la Encarnación"
+  },
+  {
+    "name": "Poteo por el txosnagune",
+    "name_eu": "Poteoa txosnagunetik",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "21:00",
+    "badges": [],
+    "location": "Kaskagorri"
   },
   {
     "name": "Guateque: DJ Luis Carlos del Pozo",
@@ -819,6 +6174,29 @@
     "location": "Plaza del Gas"
   },
   {
+    "name": "Fuegos artificiales XXX Concurso internacional Villa de Bilbao: PIROTECNIA VALECEA (Álava)",
+    "name_eu": "Bilbao Hiria su artifizialen nazioarteko XXX. Lehiaketa nagusia: PIROTECNIA VALECEA (Araba)",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "22:30",
+    "badges": [],
+    "location": "Parque Etxebarria"
+  },
+  {
+    "name": "Elepunto DJ",
+    "name_eu": "Elepunto DJ",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "23:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Algara"
+  },
+  {
     "name": "Pasión Vega",
     "name_eu": "Pasión Vega",
     "year": 2022,
@@ -844,6 +6222,19 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "Noche de DJ",
+    "name_eu": "DJ gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "23:45",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Irrintzi"
+  },
+  {
     "name": "Megastar Cope",
     "name_eu": "Megastar Cope",
     "year": 2022,
@@ -854,6 +6245,128 @@
       "🎵"
     ],
     "location": "Parque Europa"
+  },
+  {
+    "name": "RAÚL",
+    "name_eu": "RAÚL",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pinpilinpauxa"
+  },
+  {
+    "name": "Mercado de Nuestra Tierra",
+    "name_eu": "Gure Lurreko Merkatua",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Certamen Gastronómico: Rabo guisado. Inscripción",
+    "name_eu": "Sukaldaritza - Lehiaketa: Buztan gisatua. Izen-ematea",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Diana de txistularis y txupin",
+    "name_eu": "Txistularien diana eta txupina",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "10:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Taller Gastronómico: Apícola",
+    "name_eu": "Tailer gastronomikoa: Erlezaintza",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "Hinchables",
+    "name_eu": "Puzgarriak",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "11:00",
+    "badges": [],
+    "location": "Teatro Arriaga - Parte Trasera"
+  },
+  {
+    "name": "Parque infantil",
+    "name_eu": "Haur parkea",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Aixe Berri"
+  },
+  {
+    "name": "TERRAZA+PHOTOCOL",
+    "name_eu": "TERRAZA+PHOTOCOL",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "TXIKI TXOKO",
+    "name_eu": "TXIKI TXOKO",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Piscina",
+    "name_eu": "Igerilekua",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Pasacalles de los txistularis - Abando, Arenal y Casco Viejo.",
+    "name_eu": "Txistularien kalejira - Abando, Areatza eta Alde Zahara.",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Irrintzi"
+  },
+  {
+    "name": "CUENTACUENTOS",
+    "name_eu": "IPUIN KONTALARIAK",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "12:00",
+    "badges": [],
+    "location": "Piztiak"
   },
   {
     "name": "Bilbainadas: Mapa Mundi",
@@ -868,6 +6381,38 @@
     "location": "Parque de Doña Casilda"
   },
   {
+    "name": "PATXI KARRO",
+    "name_eu": "PATXI KARRO",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "12:15",
+    "badges": [],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Altxafriki brass band poteo",
+    "name_eu": "Altxafriki brass band poteoa",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "13:00",
+    "badges": [],
+    "location": "Altxaporrue"
+  },
+  {
+    "name": "My Bastard Friend",
+    "name_eu": "My Bastard Friend",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "13:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Hontzak"
+  },
+  {
     "name": "\"Hemendikara\" (Zirika Zirkus)",
     "name_eu": "\"Hemendikara\" (Zirika Zirkus)",
     "year": 2022,
@@ -878,6 +6423,83 @@
       "🎭"
     ],
     "location": "Plaza del Gas"
+  },
+  {
+    "name": "MIKEY BOY",
+    "name_eu": "MIKEY BOY",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "13:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "Certamen Gastronómico: Entrega de Premios",
+    "name_eu": "Sukaldaritza - Lehiaketa: Sari banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "14:30",
+    "badges": [],
+    "location": "Arenal - Zona Gastronómica"
+  },
+  {
+    "name": "MERCADO de colectivos",
+    "name_eu": "Kolektiboen HERRI AZOKA",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "17:00",
+    "badges": [],
+    "location": "Kranba"
+  },
+  {
+    "name": "Guerra sucia",
+    "name_eu": "Guda zikina",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "17:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Disko Fiesta",
+    "name_eu": "DISKO JAIA",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "18:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Romería Mugalariak",
+    "name_eu": "Mugalariak Erromeria",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "18:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Lanzamiento de hielo",
+    "name_eu": "Izotz-jaurtiketa",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "18:30",
+    "badges": [],
+    "location": "Aixe Berri"
   },
   {
     "name": "\"Plas & Co\" (Tippia)",
@@ -893,6 +6515,28 @@
     "location": "Parque de Doña Casilda (Txikigune)"
   },
   {
+    "name": "Hijos de tu Iglesia",
+    "name_eu": "Hijos de tu Iglesia",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "20:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kulturgune"
+  },
+  {
+    "name": "Toro de fuego",
+    "name_eu": "Suzko zezena",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "20:30",
+    "badges": [],
+    "location": "Teatro Arriaga - Plaza"
+  },
+  {
     "name": "\"Esencial\" (Vaivén Circo, Andalucía)",
     "name_eu": "\"Esencial\" (Vaivén Circo, Andalucía)",
     "year": 2022,
@@ -903,5 +6547,18 @@
       "🎭"
     ],
     "location": "Plaza del Gas"
+  },
+  {
+    "name": "Final de Fiestas y despedida a Marijaia",
+    "name_eu": "Jaiaren Amaiera eta Marijaiari Agurra",
+    "year": 2022,
+    "month": 8,
+    "day": "28",
+    "hour": "22:15",
+    "badges": [
+      "🙆",
+      "🎉"
+    ],
+    "location": "Arenal"
   }
 ]

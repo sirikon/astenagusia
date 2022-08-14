@@ -4,8 +4,42 @@ import * as z from "zod";
 export const getKonpartsakEvents = async (): Promise<CoreEvent[]> => {
   await validateKonpartsakNames();
   const rawEvents = await getKonpartsakRawEvents();
-  console.log(rawEvents.length);
-  return [];
+
+  return rawEvents.map((e) => ({
+    info: {
+      es: { name: e.nombre_es },
+      eu: { name: e.nombre_eu },
+    },
+    badges: (() => {
+      if (e.nombre_es.toLowerCase().indexOf("marijaia") >= 0) return ["🙆", "🎉"];
+      if (e.nombre_es.toLowerCase().indexOf("ajedrez") >= 0) return ["♟️"];
+      if (e.tipo === "KONTZERTUAK - CONCIERTOS") return ["🎵"];
+      if (e.tipo === "MUSIKA - MúSICA") return ["🎵", "💿"];
+      return [];
+    })(),
+    location: (() => {
+      const renamedName = LUGAR_RENAME[e.lugar];
+      if (renamedName != null) {
+        return renamedName;
+      }
+      return e.lugar.split(" ").map((c) => {
+        const chunk = c.toLowerCase();
+        return chunk[0].toUpperCase() + chunk.substring(1);
+      }).join(" ");
+    })(),
+    ...parseRawEventDateTime(e),
+  }));
+};
+
+const parseRawEventDateTime = (
+  event: ActividadesFile["message"][0],
+): Pick<CoreEvent, "date" | "time"> => {
+  const [year, month, day] = event.fecha.split("-").map((n) => parseInt(n));
+  const [hour, minute] = event.hora.split(":").map((n) => parseInt(n));
+  return {
+    date: [year, month, day],
+    time: [hour, minute],
+  };
 };
 
 const getKonpartsakRawEvents = async () => {
@@ -15,7 +49,6 @@ const getKonpartsakRawEvents = async () => {
     ),
   );
   const actividadesFile = ActividadesFileModel.parse(actividadesData);
-
   return actividadesFile.message;
 };
 
@@ -43,6 +76,20 @@ const validateKonpartsakNames = async () => {
     }
   }
 };
+
+const LUGAR_RENAME: { [K in ActividadesFile["message"][0]["lugar"]]?: string } =
+  {
+    "PA YA": "Pa...Ya!",
+    "ARRIAGA PLAZA": "Teatro Arriaga - Plaza",
+    "ARRIAGAKO ATZEKALDEA": "Teatro Arriaga - Parte Trasera",
+    "AREATZA": "Arenal",
+    "AREATZA - GASTRO": "Arenal - Zona Gastronómica",
+    "ETXEBARRIA PARKEA - PARQUE ETXEBARRIA": "Parque Etxebarria",
+    "EUSKAL MUSEOA - MUSEO VASCO": "Museo Vasco",
+    "HPH": "HPH",
+    "MAMIKI-TXOMIN": "Mamiki y Txomin Barullo",
+    "PLAZA BARRIA - PLAZA NUEVA": "Plaza Nueva",
+  };
 
 const KONPARTSAK_NAMES = [
   "ALGARA",
@@ -95,12 +142,12 @@ const ActividadesFileModel = z.object({
       "KAIALDE",
       "EGUZKIZALEAK",
       "BASURTO",
-      "AREATZA - GASTRO",
       "ARRIAGA PLAZA",
       "ZAZPI KALEAK",
       "ETXEBARRIA PARKEA - PARQUE ETXEBARRIA",
       "EUSKAL MUSEOA - MUSEO VASCO",
       "AREATZA",
+      "AREATZA - GASTRO",
       "RIPA",
       "HPH",
       "ZABALBIDE KALEA",
@@ -142,3 +189,4 @@ const ActividadesFileModel = z.object({
     id_autor: z.string().regex(/[0-9]+/),
   })),
 });
+type ActividadesFile = z.infer<typeof ActividadesFileModel>;
