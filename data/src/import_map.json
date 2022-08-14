@@ -1,5 +1,6 @@
 {
   "imports": {
+    "$/": "./",
     "std/": "https://deno.land/std@0.147.0/",
     "zod": "https://esm.sh/zod@3.17.3?pin=v86",
     "denox/": "https://raw.githubusercontent.com/sirikon/denox/master/lib/"

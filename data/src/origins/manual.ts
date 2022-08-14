@@ -1,4 +1,4 @@
-import { CoreEvent } from "../models/core.ts";
+import { CoreEvent } from "$/models/core.ts";
 
 export const getManualEvents = async () => {
   const content = await Deno.readTextFile("./origins/manual.md");

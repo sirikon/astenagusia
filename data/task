@@ -56,6 +56,19 @@ def cli():
             *DENO_IMPORT_MAP,
             *DENO_LOCK,
             *DENO_SPECS)
+    
+    @command
+    def apks_extract():
+        cmd('bash', '-c', """
+            set -euo pipefail
+
+            cd apks
+            rm -rf out
+            mkdir -p out/konpartsak
+            cp konpartsak.apk out/konpartsak
+            cd out/konpartsak
+            unzip konpartsak.apk
+        """)
 
     @command
     def refine():
