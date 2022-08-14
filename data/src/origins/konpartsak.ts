@@ -2,6 +2,7 @@ import { CoreEvent } from "$/models/core.ts";
 import * as z from "zod";
 
 export const getKonpartsakEvents = async (): Promise<CoreEvent[]> => {
+  await validateKonpartsakNames();
   const rawEvents = await getKonpartsakRawEvents();
   console.log(rawEvents.length);
   return [];
@@ -13,14 +14,18 @@ const getKonpartsakRawEvents = async () => {
       "./apks/out/konpartsak/assets/www/datos/actividades.json",
     ),
   );
-  const actividadesFile = ActividadesFile.parse(actividadesData);
+  const actividadesFile = ActividadesFileModel.parse(actividadesData);
 
+  return actividadesFile.message;
+};
+
+const validateKonpartsakNames = async () => {
   const konpartsakData = JSON.parse(
     await Deno.readTextFile(
       "./apks/out/konpartsak/assets/www/datos/konpartsak.json",
     ),
   );
-  const konpartsakFile = KonpartsakFile.parse(konpartsakData);
+  const konpartsakFile = KonpartsakFileModel.parse(konpartsakData);
 
   const konpartsakExpectedIds = KONPARTSAK_NAMES
     .map((n) => n.toLowerCase());
@@ -37,8 +42,6 @@ const getKonpartsakRawEvents = async () => {
       throw new Error(`Konpartsak '${idToMatch}' not found on file`);
     }
   }
-
-  return actividadesFile.message;
 };
 
 const KONPARTSAK_NAMES = [
@@ -62,13 +65,13 @@ const KONPARTSAK_NAMES = [
   "PA YA",
 ] as const;
 
-const KonpartsakFile = z.array(z.object({
+const KonpartsakFileModel = z.array(z.object({
   id: z.string().regex(/[0-9]+/),
   nombre: z.string().regex(/[a-z\-]+/),
   color: z.string().regex(/\#[0-9a-f]{6}/),
 }));
 
-const ActividadesFile = z.object({
+const ActividadesFileModel = z.object({
   code: z.literal("ok"),
   message: z.array(z.object({
     id: z.string().regex(/[0-9]+/),
