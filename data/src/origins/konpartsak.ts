@@ -12,7 +12,7 @@ export const getKonpartsakEvents = async (): Promise<CoreEvent[]> => {
     },
     badges: (() => {
       if (e.nombre_es.toLowerCase().indexOf("marijaia") >= 0) return ["🙆", "🎉"];
-      if (e.nombre_es.toLowerCase().indexOf("ajedrez") >= 0) return ["♟️"];
+      if (e.nombre_es.toLowerCase().indexOf("ajedrez") >= 0) return ["♟️", "🤔"];
       if (e.tipo === "KONTZERTUAK - CONCIERTOS") return ["🎵"];
       if (e.tipo === "MUSIKA - MúSICA") return ["🎵", "💿"];
       return [];
