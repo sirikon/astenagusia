@@ -1,6 +1,8 @@
 import { CoreEvent } from "$/models/core.ts";
 import * as z from "zod";
 
+const DAY_HOUR_MAX_OVERLAP = 5;
+
 export const getKonpartsakEvents = async (): Promise<CoreEvent[]> => {
   await validateKonpartsakNames();
   const rawEvents = await getKonpartsakRawEvents();
@@ -36,9 +38,10 @@ const parseRawEventDateTime = (
 ): Pick<CoreEvent, "date" | "time"> => {
   const [year, month, day] = event.fecha.split("-").map((n) => parseInt(n));
   const [hour, minute] = event.hora.split(":").map((n) => parseInt(n));
+
   return {
     date: [year, month, day],
-    time: [hour, minute],
+    time: [(hour <= DAY_HOUR_MAX_OVERLAP ? 24 : 0) + hour, minute],
   };
 };
 
