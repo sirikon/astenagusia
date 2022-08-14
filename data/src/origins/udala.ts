@@ -2,16 +2,35 @@ import * as z from "zod";
 import { CoreEvent } from "$/models/core.ts";
 
 export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
+  await cacheUdalaInfo();
   const data = await getUdalaRawEvents();
   console.log(data.length);
   return [];
 };
 
+const cacheUdalaInfo = async () => {
+  try {
+    const rawEventsData = await fetch(
+      "http://35.180.49.88/api/index.php?op=GetEgitaraua",
+    ).then((r) => r.json());
+    await Deno.writeTextFile(
+      "./origins/udala_GetEgitaraua.json",
+      JSON.stringify(rawEventsData, null, 2),
+    );
+  } catch (err) {
+    console.log(
+      "!! Udala info retrieval failed. Cached information will be used instead.",
+    );
+    console.log(err);
+  }
+};
+
 const getUdalaRawEvents = async () => {
-  const rawEventsResponse = await fetch(
-    "http://35.180.49.88/api/index.php?op=GetEgitaraua",
+  const rawEventsData = JSON.parse(
+    await Deno.readTextFile(
+      "./origins/udala_GetEgitaraua.json",
+    ),
   );
-  const rawEventsData = await rawEventsResponse.json();
   return RawEventsModel.parse(rawEventsData);
 };
 
