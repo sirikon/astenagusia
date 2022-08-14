@@ -29,6 +29,19 @@
 
 - 2022 08 26 - 12:00 - 🎵 - Entrega de premios del XXXII Concurso de Bilbainadas
 
+- 2022 08 20 - 21:00 - 🎵,💿 - Guateque: DJ Luis Carlos del Pozo
+- 2022 08 20 - 23:30 - 🎵,💿 - Guateque: Tennessee
+- 2022 08 21 - 23:30 - 🎵,💿 - Guateque: Anakoz: Discoeuphoria
+- 2022 08 22 - 23:30 - 🎵,💿 - Guateque: "Asier Bilbao Show" Bilbao La Nuit
+- 2022 08 23 - 23:30 - 🎵,💿 - Guateque: Mariachi Imperial Elegancia Mexicana
+- 2022 08 24 - 23:30 - 🎵,💿 - Guateque: Tributo a María Dolores Pradera
+- 2022 08 25 - 21:00 - 🎵,💿 - Guateque: DJ Luis Carlos del Pozo
+- 2022 08 25 - 23:30 - 🎵,💿 - Guateque: Rock con Ñ
+- 2022 08 26 - 21:00 - 🎵,💿 - Guateque: DJ Luis Carlos del Pozo
+- 2022 08 26 - 23:30 - 🎵,💿 - Guateque: La Carrocería
+- 2022 08 27 - 21:00 - 🎵,💿 - Guateque: DJ Luis Carlos del Pozo
+- 2022 08 27 - 23:30 - 🎵,💿 - Guateque: Formula V
+
 # Bilborock
 
 - 2022 08 20 - 20:00 - 🎵 - HURACAN ROSE (Bilbao) (PUNK´N´ROLL)
