@@ -65,9 +65,13 @@ def cli():
             cd apks
             rm -rf out
             mkdir -p out/konpartsak
+            mkdir -p out/udala
             cp konpartsak.apk out/konpartsak
+            cp udala.apk out/udala
             cd out/konpartsak
             unzip konpartsak.apk
+            cd ../udala
+            unzip udala.apk
         """)
 
     @command

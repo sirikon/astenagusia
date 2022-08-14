@@ -1,8 +1,9 @@
 import { CommandGroupBuilder } from "denox/ui/cli/commandGroup.ts";
-import { CoreEvent } from "../models/core.ts";
-import { WebEvent } from "../models/web.ts";
-import { getKonpartsakEvents } from "../origins/konpartsak.ts";
-import { getManualEvents } from "../origins/manual.ts";
+import { CoreEvent } from "$/models/core.ts";
+import { WebEvent } from "$/models/web.ts";
+import { getKonpartsakEvents } from "$/origins/konpartsak.ts";
+import { getManualEvents } from "$/origins/manual.ts";
+import { getUdalaEvents } from "$/origins/udala.ts";
 
 export const generateCommand = (cli: CommandGroupBuilder) => {
   cli
@@ -10,6 +11,7 @@ export const generateCommand = (cli: CommandGroupBuilder) => {
     .description("generate data.json")
     .action(async () => {
       const events = [
+        ...await getUdalaEvents(),
         ...await getKonpartsakEvents(),
         ...await getManualEvents(),
       ];
