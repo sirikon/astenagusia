@@ -1,6 +1,8 @@
 import * as z from "zod";
 import { CoreEvent } from "$/models/core.ts";
 
+const BASE_API_URL = "http://35.180.49.88/api/index.php?op=";
+
 export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
   await cacheUdalaInfo();
   const data = await getUdalaRawEvents();
@@ -11,7 +13,7 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
 const cacheUdalaInfo = async () => {
   try {
     const rawEventsData = await fetch(
-      "http://35.180.49.88/api/index.php?op=GetEgitaraua",
+      `${BASE_API_URL}GetEgitaraua`,
     ).then((r) => r.json());
     await Deno.writeTextFile(
       "./origins/udala_GetEgitaraua.json",
