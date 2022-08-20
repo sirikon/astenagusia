@@ -1,14 +1,3 @@
-# Abandoibarra
-
-- 2022 08 20 - 23:30 - 🎵 - Mikel Urdangarin + Bilboko Orkestra Sinfonikoa (BOS)
-- 2022 08 21 - 23:30 - 🎵 - Victor Manuel
-- 2022 08 22 - 23:30 - 🎵 - El Drogas
-- 2022 08 23 - 23:30 - 🎵 - Viva Suecia
-- 2022 08 24 - 23:30 - 🎵 - La Oreja de Van Gogh
-- 2022 08 25 - 23:30 - 🎵 - Bulego
-- 2022 08 26 - 23:30 - 🎵 - Dani Fernández
-- 2022 08 27 - 23:30 - 🎵 - Pasión Vega
-
 # Parque Europa
 
 - 2022 08 24 - 24:00 - 🎵 - Ana Mena

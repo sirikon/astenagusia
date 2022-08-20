@@ -31,7 +31,10 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
             ),
         },
       },
-      badges: [],
+      badges: (() => {
+        if (e.pictogram_name === "concierto.jpg") return ["🎵"];
+        return [];
+      })(),
       location: e.place_es,
       ...parseRawEventDateTime(e),
     }));
@@ -43,7 +46,7 @@ const EVENT_RETITLE: { [K: string]: string } = {
 };
 
 const PLACE_NAMES: { [K in RawEvents[0]["place_id"]]?: string } = {
-  // abandoibarra: "Abandoibarra",
+  abandoibarra: "Abandoibarra",
 };
 
 const parseRawEventDateTime = (
