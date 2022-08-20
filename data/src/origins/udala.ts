@@ -15,9 +15,11 @@ const cacheUdalaInfo = async () => {
     const rawEventsData = await fetch(
       `${BASE_API_URL}GetEgitaraua`,
     ).then((r) => r.json());
+    const eventsData = RawEventsModel.parse(rawEventsData);
+    eventsData.sort((a, b) => a.id - b.id);
     await Deno.writeTextFile(
       "./origins/udala_GetEgitaraua.json",
-      JSON.stringify(rawEventsData, null, 2),
+      JSON.stringify(eventsData, null, 2),
     );
   } catch (err) {
     console.log(
@@ -85,7 +87,7 @@ const RawEventsModel = z.array(z.object({
     z.null(),
   ]),
   image: z.string().nullable(),
-  pictrogram_name: z.string().nullable().optional(),
+  pictogram_name: z.string().nullable(),
   description_eu: z.string().nullable(),
   description_es: z.string().nullable(),
   description_en: z.string().nullable(),
