@@ -2,12 +2,46 @@ import * as z from "zod";
 import { CoreEvent } from "$/models/core.ts";
 
 const BASE_API_URL = "http://35.180.49.88/api/index.php?op=";
+const DAY_HOUR_MAX_OVERLAP = 5;
 
 export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
   await cacheUdalaInfo();
-  const data = await getUdalaRawEvents();
-  console.log(data.length);
-  return [];
+  const udalaEvents = await getUdalaRawEvents();
+
+  return udalaEvents
+    .filter((e) => {
+      if (e.place_id === "zezen_plaza") return false; // Exclude bull fighting
+      if (PLACE_NAMES[e.place_id] == null) return false;
+      return true;
+    })
+    .map((e) => ({
+      info: {
+        es: {
+          name: e.title_es + (e.description_es ? `: ${e.description_es}` : ""),
+        },
+        eu: {
+          name: e.title_eu + (e.description_eu ? `. ${e.description_eu}` : ""),
+        },
+      },
+      badges: [],
+      location: e.place_es,
+      ...parseRawEventDateTime(e),
+    }));
+};
+
+const PLACE_NAMES: { [K in RawEvents[0]["place_id"]]?: string } = {};
+
+const parseRawEventDateTime = (
+  event: RawEvents[0],
+): Pick<CoreEvent, "date" | "time"> => {
+  const [fecha, hora] = event.date.split(" ");
+  const [year, month, day] = fecha.split("/").map((n) => parseInt(n));
+  const [hour, minute] = hora.split(":").map((n) => parseInt(n));
+
+  return {
+    date: [year, month, day],
+    time: [(hour <= DAY_HOUR_MAX_OVERLAP ? 24 : 0) + hour, minute],
+  };
 };
 
 const cacheUdalaInfo = async () => {
@@ -40,7 +74,7 @@ const getUdalaRawEvents = async () => {
 
 const RawEventsModel = z.array(z.object({
   id: z.number(),
-  date: z.string(),
+  date: z.string().regex(/^2022\/08\/[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}$/),
   all_day: z.literal(0).nullable(),
   period: z.union([
     z.literal(1),
@@ -92,7 +126,42 @@ const RawEventsModel = z.array(z.object({
   description_es: z.string().nullable(),
   description_en: z.string().nullable(),
   description_fr: z.string().nullable(),
-  place_id: z.string(),
+  place_id: z.enum([
+    "abandoibarra",
+    "europa_parkea",
+    "plaza_barria",
+    "pergola",
+    "arriaga_plaza",
+    "zezen_plaza",
+    "gas_plaza",
+    "santiago_plaza",
+    "zazpi_kaleak",
+    "ria_bilbao",
+    "casilda_parkea",
+    "plaza_biribila",
+    "gizakunde_eliza",
+    "areatzako_kioskoa",
+    "bilborock_aretoa",
+    "areatza",
+    "kontsulatuaren_plazatxoa",
+    "zabalbide_kalea",
+    "triangune",
+    "kalez_kale",
+    "euskal_museoa",
+    "zabalgune_eraikina",
+    "arriaga_antzoki",
+    "somera",
+    "karpagune",
+    "basurtu_ospitala",
+    "ripa",
+    "gran_via",
+    "kaialde",
+    "bilbao",
+    "txos_hontzak",
+    "txos_moskotarrak",
+    "txos_abante",
+    "txos_tintigorri",
+  ]),
   place_eu: z.string(),
   place_es: z.string(),
   place_en: z.string(),
@@ -101,3 +170,4 @@ const RawEventsModel = z.array(z.object({
   coord_lng: z.union([z.number(), z.string(), z.null()]),
   image_place: z.string().nullable(),
 }));
+type RawEvents = z.infer<typeof RawEventsModel>;
