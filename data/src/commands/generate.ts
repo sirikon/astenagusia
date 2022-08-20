@@ -22,6 +22,7 @@ export const generateCommand = (cli: CommandGroupBuilder) => {
         if (a.date[2] !== b.date[2]) return a.date[2] - b.date[2];
         if (a.time[0] !== b.time[0]) return a.time[0] - b.time[0];
         if (a.time[1] !== b.time[1]) return a.time[1] - b.time[1];
+        if (a.location !== b.location) return a.location > b.location ? 1 : -1;
         return 0;
       });
 

@@ -17,10 +17,18 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
     .map((e) => ({
       info: {
         es: {
-          name: e.title_es + (e.description_es ? `: ${e.description_es}` : ""),
+          name: EVENT_RETITLE[e.title_es] != null
+            ? EVENT_RETITLE[e.title_es]
+            : normalizeTitle(
+              e.title_es + (e.description_es ? `: ${e.description_es}` : ""),
+            ),
         },
         eu: {
-          name: e.title_eu + (e.description_eu ? `. ${e.description_eu}` : ""),
+          name: EVENT_RETITLE[e.title_eu] != null
+            ? EVENT_RETITLE[e.title_eu]
+            : normalizeTitle(
+              e.title_eu + (e.description_eu ? `. ${e.description_eu}` : ""),
+            ),
         },
       },
       badges: [],
@@ -29,7 +37,14 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
     }));
 };
 
-const PLACE_NAMES: { [K in RawEvents[0]["place_id"]]?: string } = {};
+const EVENT_RETITLE: { [K: string]: string } = {
+  "MIKEL URDANGARIN  + BOS ":
+    "Mikel Urdangarin + Bilboko Orkestra Sinfonikoa (BOS)",
+};
+
+const PLACE_NAMES: { [K in RawEvents[0]["place_id"]]?: string } = {
+  // abandoibarra: "Abandoibarra",
+};
 
 const parseRawEventDateTime = (
   event: RawEvents[0],
@@ -70,6 +85,23 @@ const getUdalaRawEvents = async () => {
     ),
   );
   return RawEventsModel.parse(rawEventsData);
+};
+
+const normalizeTitle = (text: string) => {
+  try {
+    return text.split(" ")
+      .map((word) => {
+        if (word === "") return word;
+        if (word.toLowerCase() === "de") return "de";
+        return word[0].toUpperCase() + word.substring(1).toLowerCase();
+      })
+      .join(" ")
+      .replace(/\ +/, " ");
+  } catch (err: unknown) {
+    throw new Error(`Normalization failed for '${text}'`, {
+      cause: err instanceof Error ? err : undefined,
+    });
+  }
 };
 
 const RawEventsModel = z.array(z.object({
