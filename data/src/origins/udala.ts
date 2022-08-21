@@ -49,6 +49,7 @@ const PLACE_WHITELIST: RawEvents[0]["place_id"][] = [
   "pergola",
   "bilborock_aretoa",
   "gizakunde_eliza",
+  "gran_via",
 ];
 
 const PICTOGRAM_WHITELIST: RawEvents[0]["pictogram_name"][] = [
