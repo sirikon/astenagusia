@@ -10,16 +10,8 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
 
   return udalaEvents
     .filter((e) => {
-      if (e.place_id === "zezen_plaza") return false; // Exclude bull fighting
-      if (e.place_id === "europa_parkea") return false; // Events from Europa Parkea are included manually
-      if (
-        e.place_id === "txos_abante" || e.place_id === "txos_hontzak" ||
-        e.place_id === "txos_moskotarrak" || e.place_id === "txos_tintigorri"
-      ) { // Exclude konpartsak events
-        return false;
-      }
-      if (PLACE_NAMES[e.place_id] == null) return false;
-      return true;
+      if (PLACE_WHITELIST.includes(e.place_id)) return true;
+      return false;
     })
     .map((e) => ({
       info: {
@@ -39,7 +31,9 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
         },
       },
       badges: (() => {
-        if (e.pictogram_name === "concierto.jpg") return ["🎵"];
+        if (e.pictogram_name === "concierto.jpg") return ["🎵", "🎤"];
+        if (e.pictogram_name === "musica_dj.jpg") return ["🎵", "💿"];
+        if (e.pictogram_name === "musica_lirico.jpg") return ["🎵", "🎻"];
         return [];
       })(),
       location: PLACE_NAMES[e.place_id]!,
@@ -47,46 +41,52 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
     }));
 };
 
+const PLACE_WHITELIST: RawEvents[0]["place_id"][] = [
+  "abandoibarra",
+  "bilborock_aretoa",
+  "gizakunde_eliza",
+];
+
 const EVENT_RETITLE: { [K: string]: string } = {
   "MIKEL URDANGARIN  + BOS ":
     "Mikel Urdangarin + Bilboko Orkestra Sinfonikoa (BOS)",
 };
 
-const PLACE_NAMES: { [K in RawEvents[0]["place_id"]]?: string } = {
+const PLACE_NAMES: { [K in RawEvents[0]["place_id"]]: string } = {
   abandoibarra: "Abandoibarra",
-  // areatza: "Arenal",
-  // areatzako_kioskoa: "Arenal - Kiosko",
-  // arriaga_antzoki: "Teatro Arriaga",
-  // arriaga_plaza: "Teatro Arriaga - Plaza",
-  // basurtu_ospitala: "Hospital de Basurto",
-  // bilborock_aretoa: "Bilborock",
-  // casilda_parkea: "Parque de Doña Casilda",
-  // pergola: "Parque de Doña Casilda - Pérgola",
-  // europa_parkea: "Parque Europa",
-  // euskal_museoa: "Museo Vasco",
-  // gas_plaza: "Plaza del Gas",
-  // gizakunde_eliza: "Iglesia de la Encarnación",
-  // gran_via: "Gran Vía",
-  // kaialde: "Muelle de Ripa",
-  // ripa: "Muelle de Ripa",
-  // kalez_kale: "Por las calles",
-  // kontsulatuaren_plazatxoa: "Plazuela del Consulado",
-  // plaza_barria: "Plaza Nueva",
-  // plaza_biribila: "Plaza Circular",
-  // ria_bilbao: "Ría de Bilbao",
-  // bilbao: "Bilbao",
-  // somera: "Calle Somera",
-  // santiago_plaza: "Plaza de la Catedral de Santiago",
-  // karpagune: "Karpagune (Entre el Teatro Arriaga y la ría)",
-  // triangune: "Triangune (Junto a la Fuente del Arenal)",
-  // zabalbide_kalea: "Calle Zabalbide",
-  // zabalgune_eraikina: "Edificio del Ensanche",
-  // zazpi_kaleak: "Zazpi Kaleak",
-  // zezen_plaza: "Plaza de Toros",
-  // txos_abante: "Abante",
-  // txos_hontzak: "Hontzak",
-  // txos_moskotarrak: "Moskotarrak",
-  // txos_tintigorri: "Tintigorri",
+  areatza: "Arenal",
+  areatzako_kioskoa: "Arenal - Kiosko",
+  arriaga_antzoki: "Teatro Arriaga",
+  arriaga_plaza: "Teatro Arriaga - Plaza",
+  basurtu_ospitala: "Hospital de Basurto",
+  bilborock_aretoa: "Bilborock",
+  casilda_parkea: "Parque de Doña Casilda",
+  pergola: "Parque de Doña Casilda - Pérgola",
+  europa_parkea: "Parque Europa",
+  euskal_museoa: "Museo Vasco",
+  gas_plaza: "Plaza del Gas",
+  gizakunde_eliza: "Iglesia de la Encarnación",
+  gran_via: "Gran Vía",
+  kaialde: "Muelle de Ripa",
+  ripa: "Muelle de Ripa",
+  kalez_kale: "Por las calles",
+  kontsulatuaren_plazatxoa: "Plazuela del Consulado",
+  plaza_barria: "Plaza Nueva",
+  plaza_biribila: "Plaza Circular",
+  ria_bilbao: "Ría de Bilbao",
+  bilbao: "Bilbao",
+  somera: "Calle Somera",
+  santiago_plaza: "Plaza de la Catedral de Santiago",
+  karpagune: "Karpagune (Entre el Teatro Arriaga y la ría)",
+  triangune: "Triangune (Junto a la Fuente del Arenal)",
+  zabalbide_kalea: "Calle Zabalbide",
+  zabalgune_eraikina: "Edificio del Ensanche",
+  zazpi_kaleak: "Zazpi Kaleak",
+  zezen_plaza: "Plaza de Toros",
+  txos_abante: "Abante",
+  txos_hontzak: "Hontzak",
+  txos_moskotarrak: "Moskotarrak",
+  txos_tintigorri: "Tintigorri",
 };
 
 const parseRawEventDateTime = (

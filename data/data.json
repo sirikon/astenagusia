@@ -36,14 +36,15 @@
     "location": "Teatro Arriaga - Plaza"
   },
   {
-    "name": "HURACAN ROSE (Bilbao) (PUNK´N´ROLL)",
-    "name_eu": "HURACAN ROSE (Bilbao) (PUNK´N´ROLL)",
+    "name": "Xxxv Muestra Pop-rock: Huracan Rose // Tiparrakers (high Punk’n’roll)",
+    "name_eu": "Pop-rock-aren Xxxv. Erakustaldia. Huracan Rose // Tiparrakers (high Punk’n’roll)",
     "year": 2022,
     "month": 8,
     "day": "20",
     "hour": "20:00",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Bilborock"
   },
@@ -58,14 +59,15 @@
     "location": "Teatro Arriaga - Parte Trasera"
   },
   {
-    "name": "Miriam Zubieta, Alejandro Lárraga y Leyre Lisarria",
-    "name_eu": "Miriam Zubieta, Alejandro Lárraga y Leyre Lisarria",
+    "name": "Miriam Zubieta, Alejandro Lárraga Y Leyre Lisarria. 1 Soprano, 1 Barítono, 1 Piano.    (euskadi Y México)",
+    "name_eu": "Miriam Zubieta, Alejandro Lárraga Eta Leyre Lisarria. Soprano, Baritono Eta Pianoa. (euskadi Eta Mexiko)",
     "year": 2022,
     "month": 8,
     "day": "20",
     "hour": "20:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Iglesia de la Encarnación"
   },
@@ -78,18 +80,6 @@
     "hour": "20:30",
     "badges": [],
     "location": "Teatro Arriaga - Plaza"
-  },
-  {
-    "name": "TIPARRAKERS (Bilbao-Barakaldo) (PUNK´N´ROLL)",
-    "name_eu": "TIPARRAKERS (Bilbao-Barakaldo) (PUNK´N´ROLL)",
-    "year": 2022,
-    "month": 8,
-    "day": "20",
-    "hour": "21:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Bilborock"
   },
   {
     "name": "Guateque: DJ Luis Carlos del Pozo",
@@ -159,7 +149,8 @@
     "day": "20",
     "hour": "23:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Abandoibarra"
   },
@@ -731,14 +722,15 @@
     "location": "Algara"
   },
   {
-    "name": "ADDAR (Bermeo) (HARD ROCK´N´ROLL)",
-    "name_eu": "ADDAR (Bermeo) (HARD ROCK´N´ROLL)",
+    "name": "Xxxv Muestra Pop-rock: Addar // Kruddö (hard Rock’n’roll // Stoner Metal)",
+    "name_eu": "Pop-rock-aren Xxxv. Erakustaldia. Addar // Kruddö (hard Rock’n’roll // Stoner Metal)",
     "year": 2022,
     "month": 8,
     "day": "21",
     "hour": "20:00",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Bilborock"
   },
@@ -753,14 +745,15 @@
     "location": "Zaratas"
   },
   {
-    "name": "Gasteizko Bakarlariak Taldea",
-    "name_eu": "Gasteizko Bakarlariak Taldea",
+    "name": "Gasteizko Bakarlariak Taldea. 5 Músicos, 2 Violines, 1 Viola, 1 Violonchelo Y 1 Clarinete. (euskadi Y Alemania)",
+    "name_eu": "Gasteizko Bakarlariak Taldea. 5 Musiko, 2 Biolin, Biola 1, Biolontxelo 1 Eta Klarinetea. (euskadi Eta Alemania)",
     "year": 2022,
     "month": 8,
     "day": "21",
     "hour": "20:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎻"
     ],
     "location": "Iglesia de la Encarnación"
   },
@@ -785,18 +778,6 @@
     "hour": "20:30",
     "badges": [],
     "location": "Teatro Arriaga - Plaza"
-  },
-  {
-    "name": "KRUDDÖ (Bermeo-Etxebarri) (STONER METAL)",
-    "name_eu": "KRUDDÖ (Bermeo-Etxebarri) (STONER METAL)",
-    "year": 2022,
-    "month": 8,
-    "day": "21",
-    "hour": "21:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Bilborock"
   },
   {
     "name": "ARTAZA COMBAT",
@@ -864,7 +845,8 @@
     "day": "21",
     "hour": "23:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Abandoibarra"
   },
@@ -1612,14 +1594,15 @@
     "location": "Plaza Nueva"
   },
   {
-    "name": "ARDE MARTE (Barakaldo-Portugalete) (ELECTRO POP ROCK)",
-    "name_eu": "ARDE MARTE (Barakaldo-Portugalete) (ELECTRO POP ROCK)",
+    "name": "Xxxv Muestra Pop-rock: Arde Marte // Jum! (electro Pop Rock)",
+    "name_eu": "Pop-rock-aren Xxxv. Erakustaldia. Arde Marte // Jum! (electro Pop Rock)",
     "year": 2022,
     "month": 8,
     "day": "22",
     "hour": "20:00",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Bilborock"
   },
@@ -1648,14 +1631,15 @@
     "location": "Piztiak"
   },
   {
-    "name": "Passamezzo Antico",
-    "name_eu": "Passamezzo Antico",
+    "name": "Passamezzo Antico. 4 Músicos, 2 Violines Barrocos, 1 Violonchelo Barroco Y  Clave. (euskadi) ",
+    "name_eu": "Passamezzo Antico. 4 Musiko, Biolin Barroko 2, Biolontxelo Barroko 1 Eta Klabea. (euskadi)\n\n",
     "year": 2022,
     "month": 8,
     "day": "22",
     "hour": "20:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎻"
     ],
     "location": "Iglesia de la Encarnación"
   },
@@ -1693,18 +1677,6 @@
       "🎵"
     ],
     "location": "Uribarri"
-  },
-  {
-    "name": "JUM! (Bilbao-Nafarroa) (ELECTRO POP ROCK)",
-    "name_eu": "JUM! (Bilbao-Nafarroa) (ELECTRO POP ROCK)",
-    "year": 2022,
-    "month": 8,
-    "day": "22",
-    "hour": "21:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Bilborock"
   },
   {
     "name": "Cabaret Txomin Barullo",
@@ -1855,7 +1827,8 @@
     "day": "22",
     "hour": "23:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Abandoibarra"
   },
@@ -2509,14 +2482,15 @@
     "location": "Aixe Berri"
   },
   {
-    "name": "ENROCKECIDOS (Barakaldo) (ROCK URBANO)",
-    "name_eu": "ENROCKECIDOS (Barakaldo) (ROCK URBANO)",
+    "name": "Xxxv Muestra Pop-rock: Enrockecidos // Negracalavera (high Rock And Roll)",
+    "name_eu": "Pop-rock-aren Xxxv. Erakustaldia. Enrockecidos // Negracalavera (high Rock And Roll)",
     "year": 2022,
     "month": 8,
     "day": "23",
     "hour": "20:00",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Bilborock"
   },
@@ -2553,14 +2527,15 @@
     "location": "Txori Barrote"
   },
   {
-    "name": "Satisfacshow",
-    "name_eu": "Satisfacshow",
+    "name": "Satisfacshow. 5 Músicos, 2 Trompetas, 1 Tuba, 1 Saxofón Y 1 Trombón. (cataluña)\r\n\r\n",
+    "name_eu": "Satisfacshow. 5 Musiko, 2 Trompeta, Tuba 1, Saxofoia Eta Tromboia. (kataluina)\n",
     "year": 2022,
     "month": 8,
     "day": "23",
     "hour": "20:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎻"
     ],
     "location": "Iglesia de la Encarnación"
   },
@@ -2607,18 +2582,6 @@
       "🎵"
     ],
     "location": "Zaratas"
-  },
-  {
-    "name": "NEGRACALAVERA (Bilbao) (HIGH ROCK AND ROLL)",
-    "name_eu": "NEGRACALAVERA (Bilbao) (HIGH ROCK AND ROLL)",
-    "year": 2022,
-    "month": 8,
-    "day": "23",
-    "hour": "21:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Bilborock"
   },
   {
     "name": "MONOTONOS",
@@ -2710,7 +2673,8 @@
     "day": "23",
     "hour": "23:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Abandoibarra"
   },
@@ -3496,14 +3460,15 @@
     "location": "Parque de Doña Casilda (Txikigune)"
   },
   {
-    "name": "THE LAST HIDDEN FOX (Bilbao) (COUNTRY FOLK ROCK)",
-    "name_eu": "THE LAST HIDDEN FOX (Bilbao) (COUNTRY FOLK ROCK)",
+    "name": "Xxxv Muestra Pop-rock: The Last Hidden Fox // Sonic Free Station (country Folk Rock // Soul Rock&blues)",
+    "name_eu": "Pop-rock-aren Xxxv. Erakustaldia. The Last Hidden Fox // Sonic Free Station (country Folk Rock // Soul Rock&blues)",
     "year": 2022,
     "month": 8,
     "day": "24",
     "hour": "20:00",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Bilborock"
   },
@@ -3554,14 +3519,15 @@
     "location": "Zaratas"
   },
   {
-    "name": "Arteus Orquesta",
-    "name_eu": "Arteus Orquesta",
+    "name": "Orquesta Arteus. 13 Músicos\n(euskadi)",
+    "name_eu": "Arteus Orkestra. 13 Musiko (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "24",
     "hour": "20:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎻"
     ],
     "location": "Iglesia de la Encarnación"
   },
@@ -3596,18 +3562,6 @@
       "🎵"
     ],
     "location": "Uribarri"
-  },
-  {
-    "name": "SONIC FREE STATION (Arrigorriaga-Nerbioi-Ibaizabal) (SOUL ROCK&BLUES)",
-    "name_eu": "SONIC FREE STATION (Arrigorriaga-Nerbioi-Ibaizabal) (SOUL ROCK&BLUES)",
-    "year": 2022,
-    "month": 8,
-    "day": "24",
-    "hour": "21:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Bilborock"
   },
   {
     "name": "Euskal karaokea",
@@ -3724,7 +3678,8 @@
     "day": "24",
     "hour": "23:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Abandoibarra"
   },
@@ -4506,26 +4461,28 @@
     "location": "Aixe Berri"
   },
   {
-    "name": "KINKI BOYS (Getxo-Madrid) (POST PUNK´N´ROLL)",
-    "name_eu": "KINKI BOYS (Getxo-Madrid) (POST PUNK´N´ROLL)",
+    "name": "Xxxv Muestra Pop-rock: Kinki Boys // Moonshakers (post Punk’n’roll // Garaje Rock Surf)",
+    "name_eu": "Pop-rock-aren Xxxv. Erakustaldia. Kinki Boys // Moonshakers (post Punk’n’roll // Garaje Rock Surf)",
     "year": 2022,
     "month": 8,
     "day": "25",
     "hour": "20:00",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Bilborock"
   },
   {
-    "name": "Cadenza Quartet",
-    "name_eu": "Cadenza Quartet",
+    "name": "Cadenza Quartet. 4 Músicos. (euskadi Y Asturias)",
+    "name_eu": "Cadenza Quartet. 4 Musiko. (euskadi & Asturias)",
     "year": 2022,
     "month": 8,
     "day": "25",
     "hour": "20:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎻"
     ],
     "location": "Iglesia de la Encarnación"
   },
@@ -4551,18 +4508,6 @@
     "hour": "20:30",
     "badges": [],
     "location": "Teatro Arriaga - Plaza"
-  },
-  {
-    "name": "MOONSHAKERS (Bilbao-Getxo) (GARAJE ROCK SURF)",
-    "name_eu": "MOONSHAKERS (Bilbao-Getxo) (GARAJE ROCK SURF)",
-    "year": 2022,
-    "month": 8,
-    "day": "25",
-    "hour": "21:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Bilborock"
   },
   {
     "name": "24º CONCURSO DE FEOS",
@@ -4689,7 +4634,8 @@
     "day": "25",
     "hour": "23:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Abandoibarra"
   },
@@ -5415,14 +5361,15 @@
     "location": "Parque de Doña Casilda (Txikigune)"
   },
   {
-    "name": "EMPIRE OF DISEASE (Bilbao) (THRASH GROOVE MELODIC DEATH METAL)",
-    "name_eu": "EMPIRE OF DISEASE (Bilbao) (THRASH GROOVE MELODIC DEATH METAL)",
+    "name": "Xxxv Muestra Pop-rock: Empire Of Disease // Deimocracy (thrash Groove Melodic Death Metal // Nu Metal / Melodic Death Metal)",
+    "name_eu": "Pop-rock-aren Xxxv. Erakustaldia. Empire Of Disease // Deimocracy (thrash Groove Melodic Death Metal // Nu Metal / Melodic Death Metal)",
     "year": 2022,
     "month": 8,
     "day": "26",
     "hour": "20:00",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Bilborock"
   },
@@ -5449,14 +5396,15 @@
     "location": "Txomin Barullo"
   },
   {
-    "name": "Emin Kurkchyan",
-    "name_eu": "Emin Kurkchyan",
+    "name": "Emin Kurkchyan. Piano 1. (euskadi)",
+    "name_eu": "Emin Kurkchyan. 1 Piano. (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "26",
     "hour": "20:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎻"
     ],
     "location": "Iglesia de la Encarnación"
   },
@@ -5469,18 +5417,6 @@
     "hour": "20:30",
     "badges": [],
     "location": "Teatro Arriaga - Plaza"
-  },
-  {
-    "name": "DEIMOCRACY (Bizkaia-Araba) (NU METAL)",
-    "name_eu": "DEIMOCRACY (Bizkaia-Araba) (NU METAL)",
-    "year": 2022,
-    "month": 8,
-    "day": "26",
-    "hour": "21:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Bilborock"
   },
   {
     "name": "Concurso de playback",
@@ -5596,7 +5532,8 @@
     "day": "26",
     "hour": "23:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Abandoibarra"
   },
@@ -6053,14 +5990,15 @@
     "location": "Zazpi Kaleak"
   },
   {
-    "name": "SONG OF ANHUBIS (Bilbao-Mungia) (ROCK GOTHIC METAL)",
-    "name_eu": "SONG OF ANHUBIS (Bilbao-Mungia) (ROCK GOTHIC METAL)",
+    "name": "Xxxv Muestra Pop-rock: Song Of Anhubis // Blackheart (rock Gothic Metal // Heavy Metal)",
+    "name_eu": "Pop-rock-aren Xxxv. Erakustaldia. Song Of Anhubis // Blackheart (rock Gothic Metal // Heavy Metal)",
     "year": 2022,
     "month": 8,
     "day": "27",
     "hour": "20:00",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Bilborock"
   },
@@ -6075,14 +6013,15 @@
     "location": "Teatro Arriaga - Plaza"
   },
   {
-    "name": "Rossini Abesbatza",
-    "name_eu": "Rossini Abesbatza",
+    "name": "Rossini Abesbatza. 40 Cantantes (euskadi)",
+    "name_eu": "Rossini Abesbatza. 40 Abeslari (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "27",
     "hour": "20:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎻"
     ],
     "location": "Iglesia de la Encarnación"
   },
@@ -6107,18 +6046,6 @@
     "hour": "20:30",
     "badges": [],
     "location": "Teatro Arriaga - Plaza"
-  },
-  {
-    "name": "BLACKHEARTH (Durango) (HEAVY METAL)",
-    "name_eu": "BLACKHEARTH (Durango) (HEAVY METAL)",
-    "year": 2022,
-    "month": 8,
-    "day": "27",
-    "hour": "21:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Bilborock"
   },
   {
     "name": "Poteo por el txosnagune",
@@ -6186,7 +6113,8 @@
     "day": "27",
     "hour": "23:30",
     "badges": [
-      "🎵"
+      "🎵",
+      "🎤"
     ],
     "location": "Abandoibarra"
   },
