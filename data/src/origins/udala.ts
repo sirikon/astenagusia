@@ -54,6 +54,9 @@ const PLACE_WHITELIST: RawEvents[0]["place_id"][] = [
 const PICTOGRAM_WHITELIST: RawEvents[0]["pictogram_name"][] = [
   "teatro_calle.jpg",
   "teatro_infantil.jpg",
+  "musica_dj.jpg",
+  "musica_lirico.jpg",
+  "verbena.jpg",
 ];
 
 const EVENT_RETITLE: { [K: string]: string } = {

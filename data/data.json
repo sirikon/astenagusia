@@ -49,6 +49,16 @@
     "location": "Bilborock"
   },
   {
+    "name": "Verbena (primer Pase): Jamaica Show",
+    "name_eu": "Gaupasa (lehen Pasea):  Jamaica Show",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "20:00",
+    "badges": [],
+    "location": "Plaza Circular"
+  },
+  {
     "name": "Apertura de txosnas",
     "name_eu": "Txosnen irekiera",
     "year": 2022,
@@ -140,6 +150,16 @@
       "🎵"
     ],
     "location": "Txomin Barullo"
+  },
+  {
+    "name": "Verbena (segundo Pase): Jamaica Show",
+    "name_eu": "Gaupasa (bigarren Pasea): Jamaica Show",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "23:15",
+    "badges": [],
+    "location": "Plaza Circular"
   },
   {
     "name": "Mikel Urdangarin + Bilboko Orkestra Sinfonikoa (BOS)",
@@ -742,6 +762,16 @@
     "location": "Bilborock"
   },
   {
+    "name": "Verbena (primer Pase):urrats",
+    "name_eu": "Gaupasa (lehen Pasea): Urrats",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "20:00",
+    "badges": [],
+    "location": "Plaza Circular"
+  },
+  {
     "name": "KEIMADA",
     "name_eu": "KEIMADA",
     "year": 2022,
@@ -855,6 +885,16 @@
       "🎵"
     ],
     "location": "Euskalgune"
+  },
+  {
+    "name": "Verbena (segundo Pase): Urrats",
+    "name_eu": "Gaupasa (bigarren Pasea): Urrats",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "23:15",
+    "badges": [],
+    "location": "Plaza Circular"
   },
   {
     "name": "Victor Manuel",
@@ -1850,6 +1890,16 @@
     "location": "Uribarri"
   },
   {
+    "name": "Verbena (segundo Pase): En Esenzia",
+    "name_eu": "Gaupasa (bigarren Pasea):en Esenzia ",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "23:15",
+    "badges": [],
+    "location": "Plaza Circular"
+  },
+  {
     "name": "El Drogas",
     "name_eu": "El Drogas",
     "year": 2022,
@@ -2729,6 +2779,16 @@
       "🎵"
     ],
     "location": "Uribarri"
+  },
+  {
+    "name": "Verbena (segundo Pase): Lehian ",
+    "name_eu": "Gaupasa (bigarren Pasea): Lehian  ",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "23:15",
+    "badges": [],
+    "location": "Plaza Circular"
   },
   {
     "name": "Viva Suecia",
@@ -3734,6 +3794,16 @@
     "location": "Uribarri"
   },
   {
+    "name": "Verbena (segundo Pase): Jamaica Show",
+    "name_eu": "Gaupasa (bigarren Pasea): Jamaica Show  ",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "23:15",
+    "badges": [],
+    "location": "Plaza Circular"
+  },
+  {
     "name": "La Oreja de Van Gogh",
     "name_eu": "La Oreja de Van Gogh",
     "year": 2022,
@@ -4688,6 +4758,16 @@
     "location": "Teatro Arriaga - Parte Trasera"
   },
   {
+    "name": "Verbena (segundo Pase): En Esenzia",
+    "name_eu": "Gaupasa (bigarren Pasea): En Esenzia ",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "23:15",
+    "badges": [],
+    "location": "Plaza Circular"
+  },
+  {
     "name": "Bulego",
     "name_eu": "Bulego",
     "year": 2022,
@@ -5572,6 +5652,16 @@
     "location": "Txomin Barullo"
   },
   {
+    "name": "Verbena (segundo Pase): Akerbeltz",
+    "name_eu": "Gaupasa (bigarren Pasea): Akerbeltz ",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "23:15",
+    "badges": [],
+    "location": "Plaza Circular"
+  },
+  {
     "name": "Dani Fernández",
     "name_eu": "Dani Fernández",
     "year": 2022,
@@ -6162,6 +6252,16 @@
       "💿"
     ],
     "location": "Algara"
+  },
+  {
+    "name": "Verbena (segundo Pase): Oxabi",
+    "name_eu": "Gaupasa (bigarren Pasea): Oxabi ",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "23:15",
+    "badges": [],
+    "location": "Plaza Circular"
   },
   {
     "name": "Pasión Vega",
