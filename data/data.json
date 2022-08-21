@@ -82,8 +82,8 @@
     "location": "Teatro Arriaga - Plaza"
   },
   {
-    "name": "Guateque: DJ Luis Carlos del Pozo",
-    "name_eu": "Guateque: DJ Luis Carlos del Pozo",
+    "name": "Dj Luis Carlos Del Pozo",
+    "name_eu": "Dj Luis Carlos Del Pozo",
     "year": 2022,
     "month": 8,
     "day": "20",
@@ -92,7 +92,7 @@
       "🎵",
       "💿"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Noche Temática: Noche Disco",
@@ -155,17 +155,17 @@
     "location": "Abandoibarra"
   },
   {
-    "name": "Guateque: Tennessee",
-    "name_eu": "Guateque: Tennessee",
+    "name": "Tennessee",
+    "name_eu": "Tennessee",
     "year": 2022,
     "month": 8,
     "day": "20",
     "hour": "23:30",
     "badges": [
       "🎵",
-      "💿"
+      "🎤"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Noche de DJ",
@@ -383,16 +383,14 @@
     "location": "Kranba"
   },
   {
-    "name": "Bilbainadas: Los 5 Bilbaínos",
-    "name_eu": "Bilbainadas: Los 5 Bilbaínos",
+    "name": "Bilbainadas: 5 Bilbainos",
+    "name_eu": "Bilbainadak: 5 Bilbainos",
     "year": 2022,
     "month": 8,
     "day": "21",
     "hour": "12:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Parque de Doña Casilda"
+    "badges": [],
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "BIOTXOKO",
@@ -473,6 +471,18 @@
     "hour": "12:15",
     "badges": [],
     "location": "Zaratas"
+  },
+  {
+    "name": "Teatro de Calle: Spasmo “mix” (castilla-león)",
+    "name_eu": "Kaleko Antzerkia: Spasmo “mix” (gaztela Eta Leon)",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "13:30",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
   },
   {
     "name": "Txan Magoa",
@@ -689,17 +699,14 @@
     "location": "Txinbotarrak"
   },
   {
-    "name": "“Gora bihotzak!” (Eidabe, Euskadi)",
-    "name_eu": "“Gora bihotzak!” (Eidabe, Euskadi)",
+    "name": "Teatro Infantil: Eidabe “gora Bihotzak!” (euskadi)",
+    "name_eu": "Haurrentzako Antzerkia: Eidabe “gora Bihotzak!” (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "21",
     "hour": "19:30",
-    "badges": [
-      "🎭",
-      "🧒"
-    ],
-    "location": "Parque de Doña Casilda (Txikigune)"
+    "badges": [],
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "AMNA TRIBAL",
@@ -790,6 +797,18 @@
       "🎵"
     ],
     "location": "Piztiak"
+  },
+  {
+    "name": "Teatro de Calle: Vaiven Circo “esencial” (andalucía)",
+    "name_eu": "Kaleko Antzerkia: Vaiven Circo “esencial” (andaluzia)",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "21:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
   },
   {
     "name": "Fuegos artificiales XXX Concurso internacional Villa de Bilbao: ORZELLA FIREWORKS (Italia)",
@@ -887,17 +906,17 @@
     "location": "Kulturgune"
   },
   {
-    "name": "Guateque: Anakoz: Discoeuphoria",
-    "name_eu": "Guateque: Anakoz: Discoeuphoria",
+    "name": "“diskoeuphoria\" Anakoz",
+    "name_eu": "“diskoeuphoria\" Anakoz",
     "year": 2022,
     "month": 8,
     "day": "21",
     "hour": "23:30",
     "badges": [
       "🎵",
-      "💿"
+      "🎤"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Covërhead",
@@ -1139,16 +1158,14 @@
     "location": "Kulturgune"
   },
   {
-    "name": "Bilbainadas: Mapa Mundi",
-    "name_eu": "Bilbainadas: Mapa Mundi",
+    "name": "Bilbainadas: Mapamundi",
+    "name_eu": "Bilbainadak: Mapamundi",
     "year": 2022,
     "month": 8,
     "day": "22",
     "hour": "12:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Parque de Doña Casilda"
+    "badges": [],
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "TERRAZA+PHOTOCOL",
@@ -1271,18 +1288,6 @@
     "location": "Uribarri"
   },
   {
-    "name": "\"Panoli Kabareta\" (Ganso & Cía)",
-    "name_eu": "\"Panoli Kabareta\" (Ganso & Cía)",
-    "year": 2022,
-    "month": 8,
-    "day": "22",
-    "hour": "13:15",
-    "badges": [
-      "🎭"
-    ],
-    "location": "Plaza del Gas"
-  },
-  {
     "name": "DESPOTORRE Ane Lindane & Raquel Torres",
     "name_eu": "DESPOTORRE Ane Lindane & Raquel Torres",
     "year": 2022,
@@ -1291,6 +1296,18 @@
     "hour": "13:30",
     "badges": [],
     "location": "Kranba"
+  },
+  {
+    "name": "Teatro de Calle: Ganso & Cia “panoli Kabareta” (euskadi)",
+    "name_eu": "Kaleko Antzerkia: Ganso & Cia “panoli Kabareta” (euskadi)",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "13:30",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
   },
   {
     "name": "Bienvenida con marianitos\r\npreparados",
@@ -1584,6 +1601,19 @@
     "location": "Hontzak"
   },
   {
+    "name": "Teatro Infantil: Chris-iris “gap Of 42” (alemania)",
+    "name_eu": "Haurrentzako Antzerkia:  Chris-iris “gap Of 42” (alemania)",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "19:30",
+    "badges": [
+      "🎭",
+      "🧒"
+    ],
+    "location": "Parque de Doña Casilda - Pérgola"
+  },
+  {
     "name": "Bertsotriki Kalejira: Onintza Enbeita y Jon Maia",
     "name_eu": "Bertsotriki Kalejira: Onintza Enbeita eta Jon Maia",
     "year": 2022,
@@ -1689,8 +1719,8 @@
     "location": "Txomin Barullo"
   },
   {
-    "name": "\"Psike\" (Markeline, Euskadi)",
-    "name_eu": "\"Psike\" (Markeline, Euskadi)",
+    "name": "Teatro de Calle: Markeliñe “psike” (euskadi)",
+    "name_eu": "Kaleko Antzerkia: Markeliñe “psike” (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "22",
@@ -1857,17 +1887,17 @@
     "location": "Kulturgune"
   },
   {
-    "name": "Guateque: \"Asier Bilbao Show\" Bilbao La Nuit",
-    "name_eu": "Guateque: \"Asier Bilbao Show\" Bilbao La Nuit",
+    "name": "“asier Bilbao Show” Bilbao La Nuit",
+    "name_eu": "“asier Bilbao Show” Bilbao La Nuit",
     "year": 2022,
     "month": 8,
     "day": "22",
     "hour": "23:30",
     "badges": [
       "🎵",
-      "💿"
+      "🎤"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Mi hermana Corina",
@@ -2159,15 +2189,13 @@
   },
   {
     "name": "Bilbainadas: Gau Pasa",
-    "name_eu": "Bilbainadas: Gau Pasa",
+    "name_eu": "Bilbainadak: Gau Pasa",
     "year": 2022,
     "month": 8,
     "day": "23",
     "hour": "12:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Parque de Doña Casilda"
+    "badges": [],
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "MURAL COLABORATIVO",
@@ -2278,6 +2306,18 @@
     "hour": "13:00",
     "badges": [],
     "location": "Algara"
+  },
+  {
+    "name": "Teatro de Calle: El Gran Dimitri “the Legend” (andalucía)",
+    "name_eu": "Kaleko Antzerkia: El Gran Dimitri “the Legend” (andaluzia)",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "13:30",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
   },
   {
     "name": "Certamen Gastronómico: Entrega de Premios",
@@ -2470,6 +2510,19 @@
     "location": "Uribarri"
   },
   {
+    "name": "Teatro Infantil: Circo Los “kasumay” (brasil-catalunya)",
+    "name_eu": "Haurrentzako Antzerkia:  Circo Los “kasumay” (brasil-catalunya)",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "19:30",
+    "badges": [
+      "🎭",
+      "🧒"
+    ],
+    "location": "Parque de Doña Casilda - Pérgola"
+  },
+  {
     "name": "KENIAMA",
     "name_eu": "KENIAMA",
     "year": 2022,
@@ -2582,6 +2635,18 @@
       "🎵"
     ],
     "location": "Zaratas"
+  },
+  {
+    "name": "Teatro de Calle: Chris-iris “gap Of 42” (alemania)",
+    "name_eu": "Kaleko Antzerkia: Chris-iris “gap Of 42” (alemania)",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "21:15",
+    "badges": [
+      "🎭"
+    ],
+    "location": "Plaza del Gas"
   },
   {
     "name": "MONOTONOS",
@@ -2715,17 +2780,17 @@
     "location": "Kulturgune"
   },
   {
-    "name": "Guateque: Mariachi Imperial Elegancia Mexicana",
-    "name_eu": "Guateque: Mariachi Imperial Elegancia Mexicana",
+    "name": "Mariachi Imperial Elegancia Mexicana",
+    "name_eu": "Mariachi Imperial Elegancia Mexicana",
     "year": 2022,
     "month": 8,
     "day": "23",
     "hour": "23:30",
     "badges": [
       "🎵",
-      "💿"
+      "🎤"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Amann & Wayward Sons",
@@ -3064,15 +3129,13 @@
   },
   {
     "name": "Bilbainadas: Los Chimberos",
-    "name_eu": "Bilbainadas: Los Chimberos",
+    "name_eu": "Bilbainadak: Los Chimberos",
     "year": 2022,
     "month": 8,
     "day": "24",
     "hour": "12:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Parque de Doña Casilda"
+    "badges": [],
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "BAILE EN FAMILIA",
@@ -3215,8 +3278,8 @@
     "location": "Uribarri"
   },
   {
-    "name": "\"Nüshu\" (Cía. Capicúa, Catalunya-Aragón)",
-    "name_eu": "\"Nüshu\" (Cía. Capicúa, Catalunya-Aragón)",
+    "name": "Teatro de Calle: Cía. Capicúa “nüshu” (catalunya-aragón)",
+    "name_eu": "Kaleko Antzerkia: Cía. Capicúa “nüshu” (katalunia-aragoi)\n",
     "year": 2022,
     "month": 8,
     "day": "24",
@@ -3447,8 +3510,8 @@
     "location": "Piztiak"
   },
   {
-    "name": "\"TNT\" (Akelar)",
-    "name_eu": "\"TNT\" (Akelar)",
+    "name": "Teatro Infantil: Akelar \"tnt\" (euskadi)",
+    "name_eu": "Haurrentzako Antzerkia:  Akelar \"tnt\" (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "24",
@@ -3457,7 +3520,7 @@
       "🎭",
       "🧒"
     ],
-    "location": "Parque de Doña Casilda (Txikigune)"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Xxxv Muestra Pop-rock: The Last Hidden Fox // Sonic Free Station (country Folk Rock // Soul Rock&blues)",
@@ -3589,8 +3652,8 @@
     "location": "Txomin Barullo"
   },
   {
-    "name": "\"Nüshu\" (Cía. Capicúa, Catalunya-Aragón)",
-    "name_eu": "\"Nüshu\" (Cía. Capicúa, Catalunya-Aragón)",
+    "name": "Teatro de Calle: Cía. Capicúa “nüshu” (catalunya-aragón)",
+    "name_eu": "Kaleko Antzerkia: Cía. Capicúa “nüshu” (katalunia-aragoi)\n",
     "year": 2022,
     "month": 8,
     "day": "24",
@@ -3708,17 +3771,17 @@
     "location": "Kulturgune"
   },
   {
-    "name": "Guateque: Tributo a María Dolores Pradera",
-    "name_eu": "Guateque: Tributo a María Dolores Pradera",
+    "name": "Tributo A Maria Dolores Pradera  (trio Veracruz)",
+    "name_eu": "Maria Dolores Pradera-ri Omenaldia (trio Veracruz)",
     "year": 2022,
     "month": 8,
     "day": "24",
     "hour": "23:30",
     "badges": [
       "🎵",
-      "💿"
+      "🎤"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Radio Guerrilla",
@@ -4036,16 +4099,14 @@
     "location": "Kulturgune"
   },
   {
-    "name": "Bilbainadas: Los 5 Bilbaínos",
-    "name_eu": "Bilbainadas: Los 5 Bilbaínos",
+    "name": "Bilbainadas: 5 Bilbainos",
+    "name_eu": "Bilbainadak: 5 Bilbainos",
     "year": 2022,
     "month": 8,
     "day": "25",
     "hour": "12:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Parque de Doña Casilda"
+    "badges": [],
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "CRECE PELO VEGETAL",
@@ -4198,8 +4259,8 @@
     "location": "Algara"
   },
   {
-    "name": "\"Txalaparta hutsa\" (Hutsun + Urtzi)",
-    "name_eu": "\"Txalaparta hutsa\" (Hutsun + Urtzi)",
+    "name": "Teatro de Calle: Hutsun+ortzi “txalaparta Hutsa” (euskadi)",
+    "name_eu": "Kaleko Antzerkia: Hutsun+ortzi “txalaparta Hutsa” (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "25",
@@ -4416,8 +4477,8 @@
     "location": "Piztiak"
   },
   {
-    "name": "\"Arin arin erbiaren abenturak\" (Panpotx)",
-    "name_eu": "\"Arin arin erbiaren abenturak\" (Panpotx)",
+    "name": "Teatro Infantil: Panpotx “arin Arin Erbiaren Abenturak” (euskadi)",
+    "name_eu": "Haurrentzako Antzerkia: Panpotx “arin Arin Erbiaren Abenturak” (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "25",
@@ -4426,7 +4487,7 @@
       "🎭",
       "🧒"
     ],
-    "location": "Parque de Doña Casilda (Txikigune)"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "THE DOLPHINERS",
@@ -4520,8 +4581,8 @@
     "location": "Moskotarrak"
   },
   {
-    "name": "Guateque: DJ Luis Carlos del Pozo",
-    "name_eu": "Guateque: DJ Luis Carlos del Pozo",
+    "name": "Dj. Luis Carlos Del Pozo",
+    "name_eu": "Dj Luis Carlos Del Pozo",
     "year": 2022,
     "month": 8,
     "day": "25",
@@ -4530,11 +4591,11 @@
       "🎵",
       "💿"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
-    "name": "\"Urbasa\" (Hutsun + Urtzi)",
-    "name_eu": "\"Urbasa\" (Hutsun + Urtzi)",
+    "name": "Teatro de Calle: Hutsun+ortzi “urbasa” (euskadi)",
+    "name_eu": "Kaleko Antzerkia: Hutsun+ortzi “urbasa” (euskadi)\n",
     "year": 2022,
     "month": 8,
     "day": "25",
@@ -4676,17 +4737,17 @@
     "location": "Kulturgune"
   },
   {
-    "name": "Guateque: Rock con Ñ",
-    "name_eu": "Guateque: Rock con Ñ",
+    "name": "Homenaje Al Rock de Los 80",
+    "name_eu": "Homenaje Al Rock de Los 80",
     "year": 2022,
     "month": 8,
     "day": "25",
     "hour": "23:30",
     "badges": [
       "🎵",
-      "💿"
+      "🎤"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "S.A.D. Sistemak Arrikutsuak Dira",
@@ -4970,27 +5031,13 @@
   },
   {
     "name": "Bilbainadas: Los Chimberos",
-    "name_eu": "Bilbainadas: Los Chimberos",
+    "name_eu": "Bilbainadak: Los Chimberos",
     "year": 2022,
     "month": 8,
     "day": "26",
     "hour": "12:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Parque de Doña Casilda"
-  },
-  {
-    "name": "Entrega de premios del XXXII Concurso de Bilbainadas",
-    "name_eu": "Entrega de premios del XXXII Concurso de Bilbainadas",
-    "year": 2022,
-    "month": 8,
-    "day": "26",
-    "hour": "12:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Parque de Doña Casilda"
+    "badges": [],
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "CHROMA KEY",
@@ -5095,12 +5142,12 @@
     "location": "Teatro Arriaga - Parte Trasera"
   },
   {
-    "name": "\"Gazte\" (Hika Teatroa)",
-    "name_eu": "\"Gazte\" (Hika Teatroa)",
+    "name": "Teatro de Calle: Hika Teatroa “gazte” (euskadi)",
+    "name_eu": "Kaleko Antzerkia: Hika Teatroa “gazte” (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "26",
-    "hour": "13:15",
+    "hour": "13:30",
     "badges": [
       "🎭"
     ],
@@ -5348,8 +5395,8 @@
     "location": "Pa...Ya!"
   },
   {
-    "name": "\"Txalaparta hutsa\" (Hutsun + Ortzi)",
-    "name_eu": "\"Txalaparta hutsa\" (Hutsun + Ortzi)",
+    "name": "Teatro Infantil: Hutsun+ortzi “txalaparta Hutsa” (euskadi)",
+    "name_eu": "Haurrentzako Antzerkia: Hutsun+ortzi “txalaparta Hutsa” (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "26",
@@ -5358,7 +5405,7 @@
       "🎭",
       "🧒"
     ],
-    "location": "Parque de Doña Casilda (Txikigune)"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Xxxv Muestra Pop-rock: Empire Of Disease // Deimocracy (thrash Groove Melodic Death Metal // Nu Metal / Melodic Death Metal)",
@@ -5429,8 +5476,8 @@
     "location": "Kaskagorri"
   },
   {
-    "name": "Guateque: DJ Luis Carlos del Pozo",
-    "name_eu": "Guateque: DJ Luis Carlos del Pozo",
+    "name": "Dj. Luis Carlos Del Pozo",
+    "name_eu": "Dj Luis Carlos Del Pozo",
     "year": 2022,
     "month": 8,
     "day": "26",
@@ -5439,11 +5486,11 @@
       "🎵",
       "💿"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
-    "name": "\"Jump cut\" (Double Take Cinematic Circus, Bélgica)",
-    "name_eu": "\"Jump cut\" (Double Take Cinematic Circus, Bélgica)",
+    "name": "Teatro de Calle: Double Take Cinematic Circus “jump Cut” (bélgica)",
+    "name_eu": "Kaleko Antzerkia: Double Take Cinematic Circus “jump Cut” (bélgica)",
     "year": 2022,
     "month": 8,
     "day": "26",
@@ -5538,17 +5585,17 @@
     "location": "Abandoibarra"
   },
   {
-    "name": "Guateque: La Carrocería",
-    "name_eu": "Guateque: La Carrocería",
+    "name": "La Carroceria",
+    "name_eu": "La Carroceria",
     "year": 2022,
     "month": 8,
     "day": "26",
     "hour": "23:30",
     "badges": [
       "🎵",
-      "💿"
+      "🎤"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Noche de DJ",
@@ -5809,15 +5856,13 @@
   },
   {
     "name": "Bilbainadas: Gau Pasa",
-    "name_eu": "Bilbainadas: Gau Pasa",
+    "name_eu": "Bilbainadak: Gau Pasa",
     "year": 2022,
     "month": 8,
     "day": "27",
     "hour": "12:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Parque de Doña Casilda"
+    "badges": [],
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "COCINA VEGANA",
@@ -5905,8 +5950,8 @@
     "location": "Hontzak"
   },
   {
-    "name": "\"De tú a tú\" (MUR, Catalunya)",
-    "name_eu": "\"De tú a tú\" (MUR, Catalunya)",
+    "name": "Teatro de Calle: Mur “de Tú A Tú” (catalunya)",
+    "name_eu": "Kaleko Antzerkia: Mur “de Tú A Tú” (catalunya)",
     "year": 2022,
     "month": 8,
     "day": "27",
@@ -5978,6 +6023,19 @@
     "hour": "17:30",
     "badges": [],
     "location": "Teatro Arriaga - Plaza"
+  },
+  {
+    "name": "Teatro Infantil: Double Take Cinematic Circus “jump Cut” (bélgica)",
+    "name_eu": "Haurrentzako Antzerkia: Double Take Cinematic Circus “jump Cut” (bélgica)",
+    "year": 2022,
+    "month": 8,
+    "day": "27",
+    "hour": "19:30",
+    "badges": [
+      "🎭",
+      "🧒"
+    ],
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Bilbo Kantari",
@@ -6058,8 +6116,8 @@
     "location": "Kaskagorri"
   },
   {
-    "name": "Guateque: DJ Luis Carlos del Pozo",
-    "name_eu": "Guateque: DJ Luis Carlos del Pozo",
+    "name": "Dj. Luis Carlos Del Pozo",
+    "name_eu": "Dj Luis Carlos Del Pozo",
     "year": 2022,
     "month": 8,
     "day": "27",
@@ -6068,11 +6126,11 @@
       "🎵",
       "💿"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
-    "name": "\"De tú a tú\" (MUR, Catalunya)",
-    "name_eu": "\"De tú a tú\" (MUR, Catalunya)",
+    "name": "Teatro de Calle: Mur “de Tú A Tú” (catalunya)",
+    "name_eu": "Kaleko Antzerkia: Mur “de Tú A Tú” (catalunya)",
     "year": 2022,
     "month": 8,
     "day": "27",
@@ -6119,17 +6177,17 @@
     "location": "Abandoibarra"
   },
   {
-    "name": "Guateque: Formula V",
-    "name_eu": "Guateque: Formula V",
+    "name": "Formula V",
+    "name_eu": "Formula V",
     "year": 2022,
     "month": 8,
     "day": "27",
     "hour": "23:30",
     "badges": [
       "🎵",
-      "💿"
+      "🎤"
     ],
-    "location": "Parque de Doña Casilda"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Noche de DJ",
@@ -6261,16 +6319,14 @@
     "location": "Kaskagorri"
   },
   {
-    "name": "Bilbainadas: Mapa Mundi",
-    "name_eu": "Bilbainadas: Mapa Mundi",
+    "name": "Bilbainadas: Mapamundi",
+    "name_eu": "Bilbainadak: Mapamundi",
     "year": 2022,
     "month": 8,
     "day": "28",
     "hour": "12:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Parque de Doña Casilda"
+    "badges": [],
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "CUENTACUENTOS",
@@ -6335,12 +6391,12 @@
     "location": "Hontzak"
   },
   {
-    "name": "\"Hemendikara\" (Zirika Zirkus)",
-    "name_eu": "\"Hemendikara\" (Zirika Zirkus)",
+    "name": "Teatro de Calle: Zirika Zirkus “hemendikara” (euskadi)",
+    "name_eu": "Kaleko Antzerkia: Zirika Zirkus “hemendikara” (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "28",
-    "hour": "13:15",
+    "hour": "13:30",
     "badges": [
       "🎭"
     ],
@@ -6424,8 +6480,8 @@
     "location": "Aixe Berri"
   },
   {
-    "name": "\"Plas & Co\" (Tippia)",
-    "name_eu": "\"Plas & Co\" (Tippia)",
+    "name": "Teatro Infantil: Ttipia “plast & Co” (euskadi)",
+    "name_eu": "Haurrentzako Antzerkia: Ttipia “plast & Co” (euskadi)",
     "year": 2022,
     "month": 8,
     "day": "28",
@@ -6434,7 +6490,7 @@
       "🎭",
       "🧒"
     ],
-    "location": "Parque de Doña Casilda (Txikigune)"
+    "location": "Parque de Doña Casilda - Pérgola"
   },
   {
     "name": "Hijos de tu Iglesia",
@@ -6457,18 +6513,6 @@
     "hour": "20:30",
     "badges": [],
     "location": "Teatro Arriaga - Plaza"
-  },
-  {
-    "name": "\"Esencial\" (Vaivén Circo, Andalucía)",
-    "name_eu": "\"Esencial\" (Vaivén Circo, Andalucía)",
-    "year": 2022,
-    "month": 8,
-    "day": "28",
-    "hour": "21:15",
-    "badges": [
-      "🎭"
-    ],
-    "location": "Plaza del Gas"
   },
   {
     "name": "Final de Fiestas y despedida a Marijaia",

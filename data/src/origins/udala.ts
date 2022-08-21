@@ -11,6 +11,7 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
   return udalaEvents
     .filter((e) => {
       if (PLACE_WHITELIST.includes(e.place_id)) return true;
+      if (PICTOGRAM_WHITELIST.includes(e.pictogram_name)) return true;
       return false;
     })
     .map((e) => ({
@@ -34,6 +35,8 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
         if (e.pictogram_name === "concierto.jpg") return ["🎵", "🎤"];
         if (e.pictogram_name === "musica_dj.jpg") return ["🎵", "💿"];
         if (e.pictogram_name === "musica_lirico.jpg") return ["🎵", "🎻"];
+        if (e.pictogram_name === "teatro_calle.jpg") return ["🎭"];
+        if (e.pictogram_name === "teatro_infantil.jpg") return ["🎭", "🧒"];
         return [];
       })(),
       location: PLACE_NAMES[e.place_id]!,
@@ -43,8 +46,14 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
 
 const PLACE_WHITELIST: RawEvents[0]["place_id"][] = [
   "abandoibarra",
+  "pergola",
   "bilborock_aretoa",
   "gizakunde_eliza",
+];
+
+const PICTOGRAM_WHITELIST: RawEvents[0]["pictogram_name"][] = [
+  "teatro_calle.jpg",
+  "teatro_infantil.jpg",
 ];
 
 const EVENT_RETITLE: { [K: string]: string } = {
