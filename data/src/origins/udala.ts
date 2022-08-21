@@ -58,6 +58,7 @@ const PICTOGRAM_WHITELIST: RawEvents[0]["pictogram_name"][] = [
   "musica_dj.jpg",
   "musica_lirico.jpg",
   "verbena.jpg",
+  "bertsolaris.jpg",
 ];
 
 const EVENT_RETITLE: { [K: string]: string } = {
