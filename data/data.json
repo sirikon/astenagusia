@@ -201,6 +201,44 @@
     "location": "Irrintzi"
   },
   {
+    "name": "YARE COLLECTIVE + Brutality Sound System (4 Scoops)",
+    "name_eu": "YARE COLLECTIVE + Brutality Sound System (4 Scoops)",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "00:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "AGOGÓ",
+    "name_eu": "AGOGÓ",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pinpilinpauxa"
+  },
+  {
+    "name": "SEXYSAXGUY",
+    "name_eu": "SEXYSAXGUY",
+    "year": 2022,
+    "month": 8,
+    "day": "20",
+    "hour": "02:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Piztiak"
+  },
+  {
     "name": "Turno solidario: AESAN EHU",
     "name_eu": "Elkartasun txanda: AESAN EHU",
     "year": 2022,
@@ -1027,8 +1065,21 @@
     "location": "Irrintzi"
   },
   {
-    "name": "YARE COLLECTIVE + Brutality Sound System (4 Scoops)",
-    "name_eu": "YARE COLLECTIVE + Brutality Sound System (4 Scoops)",
+    "name": "Sesión de DJ",
+    "name_eu": "DJ saioa",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "00:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Abante"
+  },
+  {
+    "name": "Dj Zakarra & Puñales",
+    "name_eu": "Dj Zakarra & Puñales",
     "year": 2022,
     "month": 8,
     "day": "21",
@@ -1040,8 +1091,8 @@
     "location": "Kranba"
   },
   {
-    "name": "AGOGÓ",
-    "name_eu": "AGOGÓ",
+    "name": "WRS",
+    "name_eu": "WRS",
     "year": 2022,
     "month": 8,
     "day": "21",
@@ -1052,17 +1103,54 @@
     "location": "Pinpilinpauxa"
   },
   {
-    "name": "SEXYSAXGUY",
-    "name_eu": "SEXYSAXGUY",
+    "name": "DAKIDARRIA",
+    "name_eu": "DAKIDARRIA",
     "year": 2022,
     "month": 8,
     "day": "21",
-    "hour": "02:00",
+    "hour": "01:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Euskalgune"
+  },
+  {
+    "name": "Keike",
+    "name_eu": "Keike",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "01:15",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Dj Celia Carrera",
+    "name_eu": "Dj Celia Carrera",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "01:30",
     "badges": [
       "🎵",
       "💿"
     ],
-    "location": "Piztiak"
+    "location": "Kranba"
+  },
+  {
+    "name": "Dj Marlon Random",
+    "name_eu": "Dj Marlon Random",
+    "year": 2022,
+    "month": 8,
+    "day": "21",
+    "hour": "03:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Kranba"
   },
   {
     "name": "Gastro-Txiki: inscripción, hasta comienzo de taller",
@@ -2037,34 +2125,32 @@
     "location": "Irrintzi"
   },
   {
-    "name": "Sesión de DJ",
-    "name_eu": "DJ saioa",
+    "name": "Concierto",
+    "name_eu": "Kontzertua",
     "year": 2022,
     "month": 8,
     "day": "22",
-    "hour": "00:00",
+    "hour": "00:30",
     "badges": [
-      "🎵",
-      "💿"
+      "🎵"
     ],
-    "location": "Abante"
+    "location": "Kaixo"
   },
   {
-    "name": "Dj Zakarra & Puñales",
-    "name_eu": "Dj Zakarra & Puñales",
+    "name": "Zoroen Kluba",
+    "name_eu": "Zoroen Kluba",
     "year": 2022,
     "month": 8,
     "day": "22",
-    "hour": "00:00",
+    "hour": "00:30",
     "badges": [
-      "🎵",
-      "💿"
+      "🎵"
     ],
     "location": "Kranba"
   },
   {
-    "name": "WRS",
-    "name_eu": "WRS",
+    "name": "LETICIA SABATER",
+    "name_eu": "LETICIA SABATER",
     "year": 2022,
     "month": 8,
     "day": "22",
@@ -2075,8 +2161,20 @@
     "location": "Pinpilinpauxa"
   },
   {
-    "name": "DAKIDARRIA",
-    "name_eu": "DAKIDARRIA",
+    "name": "oinutsik erromeria",
+    "name_eu": "Oinutsik erromeria",
+    "year": 2022,
+    "month": 8,
+    "day": "22",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Triangune"
+  },
+  {
+    "name": "STR",
+    "name_eu": "STR",
     "year": 2022,
     "month": 8,
     "day": "22",
@@ -2087,41 +2185,25 @@
     "location": "Euskalgune"
   },
   {
-    "name": "Keike",
-    "name_eu": "Keike",
+    "name": "Odei Barroso",
+    "name_eu": "Odei Barroso",
     "year": 2022,
     "month": 8,
     "day": "22",
-    "hour": "01:15",
+    "hour": "02:00",
     "badges": [
       "🎵"
-    ],
-    "location": "Kaskagorri"
-  },
-  {
-    "name": "Dj Celia Carrera",
-    "name_eu": "Dj Celia Carrera",
-    "year": 2022,
-    "month": 8,
-    "day": "22",
-    "hour": "01:30",
-    "badges": [
-      "🎵",
-      "💿"
     ],
     "location": "Kranba"
   },
   {
-    "name": "Dj Marlon Random",
-    "name_eu": "Dj Marlon Random",
+    "name": "Dj DrBravo & The Funky Console",
+    "name_eu": "Dj DrBravo & The Funky Console",
     "year": 2022,
     "month": 8,
     "day": "22",
-    "hour": "03:00",
-    "badges": [
-      "🎵",
-      "💿"
-    ],
+    "hour": "03:15",
+    "badges": [],
     "location": "Kranba"
   },
   {
@@ -2960,32 +3042,43 @@
     "location": "Kranba"
   },
   {
-    "name": "Concierto",
-    "name_eu": "Kontzertua",
+    "name": "Sesión de DJ",
+    "name_eu": "DJ saioa",
     "year": 2022,
     "month": 8,
     "day": "23",
-    "hour": "00:30",
+    "hour": "00:00",
     "badges": [
-      "🎵"
+      "🎵",
+      "💿"
     ],
-    "location": "Kaixo"
+    "location": "Abante"
   },
   {
-    "name": "Zoroen Kluba",
-    "name_eu": "Zoroen Kluba",
+    "name": "Travesia popular de piraguas",
+    "name_eu": "Pirauen igoera herrikoia",
     "year": 2022,
     "month": 8,
     "day": "23",
-    "hour": "00:30",
+    "hour": "00:00",
+    "badges": [],
+    "location": "Museo Vasco"
+  },
+  {
+    "name": "Mari Metal Jaia",
+    "name_eu": "Mari Metal Jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "00:00",
     "badges": [
       "🎵"
     ],
-    "location": "Kranba"
+    "location": "Uribarri"
   },
   {
-    "name": "LETICIA SABATER",
-    "name_eu": "LETICIA SABATER",
+    "name": "MELODY",
+    "name_eu": "MELODY",
     "year": 2022,
     "month": 8,
     "day": "23",
@@ -2996,20 +3089,8 @@
     "location": "Pinpilinpauxa"
   },
   {
-    "name": "oinutsik erromeria",
-    "name_eu": "Oinutsik erromeria",
-    "year": 2022,
-    "month": 8,
-    "day": "23",
-    "hour": "00:30",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Triangune"
-  },
-  {
-    "name": "STR",
-    "name_eu": "STR",
+    "name": "LA TOPADORA",
+    "name_eu": "LA TOPADORA",
     "year": 2022,
     "month": 8,
     "day": "23",
@@ -3020,26 +3101,78 @@
     "location": "Euskalgune"
   },
   {
-    "name": "Odei Barroso",
-    "name_eu": "Odei Barroso",
+    "name": "Feline",
+    "name_eu": "Feline",
     "year": 2022,
     "month": 8,
     "day": "23",
-    "hour": "02:00",
+    "hour": "01:00",
     "badges": [
       "🎵"
     ],
     "location": "Kranba"
   },
   {
-    "name": "Dj DrBravo & The Funky Console",
-    "name_eu": "Dj DrBravo & The Funky Console",
+    "name": "Merina Gris",
+    "name_eu": "Merina Gris",
     "year": 2022,
     "month": 8,
     "day": "23",
-    "hour": "03:15",
-    "badges": [],
+    "hour": "01:15",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kaskagorri"
+  },
+  {
+    "name": "Mari Metal Jaia",
+    "name_eu": "Mari Metal Jaia",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "01:45",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Uribarri"
+  },
+  {
+    "name": "Easyer & Tronis",
+    "name_eu": "Easyer & Tronis",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "02:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Algara"
+  },
+  {
+    "name": "AK Pintxadiskos",
+    "name_eu": "AK Pintxadiskos",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "02:00",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
     "location": "Kranba"
+  },
+  {
+    "name": "DJ BULL",
+    "name_eu": "DJ BULL",
+    "year": 2022,
+    "month": 8,
+    "day": "23",
+    "hour": "02:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Pa...Ya!"
   },
   {
     "name": "Gastro-Txiki: inscripción, hasta comienzo de taller",
@@ -3981,27 +4114,16 @@
     "location": "Irrintzi"
   },
   {
-    "name": "Sesión de DJ",
-    "name_eu": "DJ saioa",
+    "name": "Urrats Erromeria",
+    "name_eu": "Urrats Erromeria",
     "year": 2022,
     "month": 8,
     "day": "24",
     "hour": "00:00",
     "badges": [
-      "🎵",
-      "💿"
+      "🎵"
     ],
-    "location": "Abante"
-  },
-  {
-    "name": "Travesia popular de piraguas",
-    "name_eu": "Pirauen igoera herrikoia",
-    "year": 2022,
-    "month": 8,
-    "day": "24",
-    "hour": "00:00",
-    "badges": [],
-    "location": "Museo Vasco"
+    "location": "Kaixo"
   },
   {
     "name": "Ana Mena",
@@ -4016,20 +4138,20 @@
     "location": "Parque Europa"
   },
   {
-    "name": "Mari Metal Jaia",
-    "name_eu": "Mari Metal Jaia",
+    "name": "Acido Folklorico (acid folk indu",
+    "name_eu": "Acido Folklorico (acid folk industrial)",
     "year": 2022,
     "month": 8,
     "day": "24",
-    "hour": "00:00",
+    "hour": "00:30",
     "badges": [
       "🎵"
     ],
-    "location": "Uribarri"
+    "location": "Kranba"
   },
   {
-    "name": "MELODY",
-    "name_eu": "MELODY",
+    "name": "TUTTO CARRÀ",
+    "name_eu": "TUTTO CARRÀ",
     "year": 2022,
     "month": 8,
     "day": "24",
@@ -4040,8 +4162,21 @@
     "location": "Pinpilinpauxa"
   },
   {
-    "name": "LA TOPADORA",
-    "name_eu": "LA TOPADORA",
+    "name": "Noche Temática: Noche Rock",
+    "name_eu": "Gau Tematikoa: Rock Gaua",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "00:30",
+    "badges": [
+      "🎵",
+      "💿"
+    ],
+    "location": "Txomin Barullo"
+  },
+  {
+    "name": "DJ ELEPUNTO",
+    "name_eu": "DJ ELEPUNTO",
     "year": 2022,
     "month": 8,
     "day": "24",
@@ -4052,44 +4187,8 @@
     "location": "Euskalgune"
   },
   {
-    "name": "Feline",
-    "name_eu": "Feline",
-    "year": 2022,
-    "month": 8,
-    "day": "24",
-    "hour": "01:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Kranba"
-  },
-  {
-    "name": "Merina Gris",
-    "name_eu": "Merina Gris",
-    "year": 2022,
-    "month": 8,
-    "day": "24",
-    "hour": "01:15",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Kaskagorri"
-  },
-  {
-    "name": "Mari Metal Jaia",
-    "name_eu": "Mari Metal Jaia",
-    "year": 2022,
-    "month": 8,
-    "day": "24",
-    "hour": "01:45",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Uribarri"
-  },
-  {
-    "name": "Easyer & Tronis",
-    "name_eu": "Easyer & Tronis",
+    "name": "DJ Jonkass",
+    "name_eu": "DJ Jonkass",
     "year": 2022,
     "month": 8,
     "day": "24",
@@ -4101,29 +4200,17 @@
     "location": "Algara"
   },
   {
-    "name": "AK Pintxadiskos",
-    "name_eu": "AK Pintxadiskos",
+    "name": "Akrata Ruin Demakrada",
+    "name_eu": "Akrata Ruin Demakrada",
     "year": 2022,
     "month": 8,
     "day": "24",
-    "hour": "02:00",
+    "hour": "02:15",
     "badges": [
       "🎵",
       "💿"
     ],
     "location": "Kranba"
-  },
-  {
-    "name": "DJ BULL",
-    "name_eu": "DJ BULL",
-    "year": 2022,
-    "month": 8,
-    "day": "24",
-    "hour": "02:30",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Pa...Ya!"
   },
   {
     "name": "Certamen Gastronómico: Bacalao a la Bizkaína. Inscripción",
@@ -4965,16 +5052,17 @@
     "location": "Irrintzi"
   },
   {
-    "name": "Urrats Erromeria",
-    "name_eu": "Urrats Erromeria",
+    "name": "Sesión de DJ",
+    "name_eu": "DJ saioa",
     "year": 2022,
     "month": 8,
     "day": "25",
     "hour": "00:00",
     "badges": [
-      "🎵"
+      "🎵",
+      "💿"
     ],
-    "location": "Kaixo"
+    "location": "Abante"
   },
   {
     "name": "Los 40 Principales",
@@ -4989,20 +5077,8 @@
     "location": "Parque Europa"
   },
   {
-    "name": "Acido Folklorico (acid folk indu",
-    "name_eu": "Acido Folklorico (acid folk industrial)",
-    "year": 2022,
-    "month": 8,
-    "day": "25",
-    "hour": "00:30",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Kranba"
-  },
-  {
-    "name": "TUTTO CARRÀ",
-    "name_eu": "TUTTO CARRÀ",
+    "name": "AINHOA",
+    "name_eu": "AINHOA",
     "year": 2022,
     "month": 8,
     "day": "25",
@@ -5013,21 +5089,42 @@
     "location": "Pinpilinpauxa"
   },
   {
-    "name": "Noche Temática: Noche Rock",
-    "name_eu": "Gau Tematikoa: Rock Gaua",
+    "name": "Concierto",
+    "name_eu": "Kontzertua",
     "year": 2022,
     "month": 8,
     "day": "25",
     "hour": "00:30",
     "badges": [
-      "🎵",
-      "💿"
+      "🎵"
     ],
-    "location": "Txomin Barullo"
+    "location": "Teatro Arriaga - Parte Trasera"
   },
   {
-    "name": "DJ ELEPUNTO",
-    "name_eu": "DJ ELEPUNTO",
+    "name": "ARRANO PERTXA",
+    "name_eu": "ARRANO PERTXA",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "00:45",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Zaratas"
+  },
+  {
+    "name": "Reparto de Sopas de ajo",
+    "name_eu": "Baratxuri-zopa banaketa",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "01:00",
+    "badges": [],
+    "location": "Hontzak"
+  },
+  {
+    "name": "Suaia & Dubakustik",
+    "name_eu": "Suaia & Dubakustik",
     "year": 2022,
     "month": 8,
     "day": "25",
@@ -5035,15 +5132,15 @@
     "badges": [
       "🎵"
     ],
-    "location": "Euskalgune"
+    "location": "Kranba"
   },
   {
-    "name": "DJ Jonkass",
-    "name_eu": "DJ Jonkass",
+    "name": "ENDJ",
+    "name_eu": "ENDJ",
     "year": 2022,
     "month": 8,
     "day": "25",
-    "hour": "02:00",
+    "hour": "01:30",
     "badges": [
       "🎵",
       "💿"
@@ -5051,8 +5148,8 @@
     "location": "Algara"
   },
   {
-    "name": "Akrata Ruin Demakrada",
-    "name_eu": "Akrata Ruin Demakrada",
+    "name": "Dj Tiki Boom",
+    "name_eu": "Dj Tiki Boom",
     "year": 2022,
     "month": 8,
     "day": "25",
@@ -5062,6 +5159,18 @@
       "💿"
     ],
     "location": "Kranba"
+  },
+  {
+    "name": "Dj",
+    "name_eu": "Dj",
+    "year": 2022,
+    "month": 8,
+    "day": "25",
+    "hour": "03:00",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Teatro Arriaga - Parte Trasera"
   },
   {
     "name": "Gastro-Txiki: inscripción, hasta comienzo de taller",
@@ -5831,19 +5940,6 @@
     "location": "Irrintzi"
   },
   {
-    "name": "Sesión de DJ",
-    "name_eu": "DJ saioa",
-    "year": 2022,
-    "month": 8,
-    "day": "26",
-    "hour": "00:00",
-    "badges": [
-      "🎵",
-      "💿"
-    ],
-    "location": "Abante"
-  },
-  {
     "name": "En Tol Sarmiento (ETS)",
     "name_eu": "En Tol Sarmiento (ETS)",
     "year": 2022,
@@ -5856,8 +5952,20 @@
     "location": "Parque Europa"
   },
   {
-    "name": "AINHOA",
-    "name_eu": "AINHOA",
+    "name": "Follow the Party",
+    "name_eu": "Follow the Party",
+    "year": 2022,
+    "month": 8,
+    "day": "26",
+    "hour": "00:30",
+    "badges": [
+      "🎵"
+    ],
+    "location": "Kranba"
+  },
+  {
+    "name": "Las Fellini",
+    "name_eu": "Las Fellini",
     "year": 2022,
     "month": 8,
     "day": "26",
@@ -5866,90 +5974,6 @@
       "🎵"
     ],
     "location": "Pinpilinpauxa"
-  },
-  {
-    "name": "Concierto",
-    "name_eu": "Kontzertua",
-    "year": 2022,
-    "month": 8,
-    "day": "26",
-    "hour": "00:30",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Teatro Arriaga - Parte Trasera"
-  },
-  {
-    "name": "ARRANO PERTXA",
-    "name_eu": "ARRANO PERTXA",
-    "year": 2022,
-    "month": 8,
-    "day": "26",
-    "hour": "00:45",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Zaratas"
-  },
-  {
-    "name": "Reparto de Sopas de ajo",
-    "name_eu": "Baratxuri-zopa banaketa",
-    "year": 2022,
-    "month": 8,
-    "day": "26",
-    "hour": "01:00",
-    "badges": [],
-    "location": "Hontzak"
-  },
-  {
-    "name": "Suaia & Dubakustik",
-    "name_eu": "Suaia & Dubakustik",
-    "year": 2022,
-    "month": 8,
-    "day": "26",
-    "hour": "01:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Kranba"
-  },
-  {
-    "name": "ENDJ",
-    "name_eu": "ENDJ",
-    "year": 2022,
-    "month": 8,
-    "day": "26",
-    "hour": "01:30",
-    "badges": [
-      "🎵",
-      "💿"
-    ],
-    "location": "Algara"
-  },
-  {
-    "name": "Dj Tiki Boom",
-    "name_eu": "Dj Tiki Boom",
-    "year": 2022,
-    "month": 8,
-    "day": "26",
-    "hour": "02:15",
-    "badges": [
-      "🎵",
-      "💿"
-    ],
-    "location": "Kranba"
-  },
-  {
-    "name": "Dj",
-    "name_eu": "Dj",
-    "year": 2022,
-    "month": 8,
-    "day": "26",
-    "hour": "03:00",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Teatro Arriaga - Parte Trasera"
   },
   {
     "name": "Certamen Gastronómico: Marmitako. Inscripción",
@@ -6465,20 +6489,8 @@
     "location": "Parque Europa"
   },
   {
-    "name": "Follow the Party",
-    "name_eu": "Follow the Party",
-    "year": 2022,
-    "month": 8,
-    "day": "27",
-    "hour": "00:30",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Kranba"
-  },
-  {
-    "name": "Las Fellini",
-    "name_eu": "Las Fellini",
+    "name": "RAÚL",
+    "name_eu": "RAÚL",
     "year": 2022,
     "month": 8,
     "day": "27",
@@ -6796,17 +6808,5 @@
       "🎉"
     ],
     "location": "Arenal"
-  },
-  {
-    "name": "RAÚL",
-    "name_eu": "RAÚL",
-    "year": 2022,
-    "month": 8,
-    "day": "28",
-    "hour": "00:30",
-    "badges": [
-      "🎵"
-    ],
-    "location": "Pinpilinpauxa"
   }
 ]
