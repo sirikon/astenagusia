@@ -32,6 +32,7 @@ export const getUdalaEvents = async (): Promise<CoreEvent[]> => {
         },
       },
       badges: (() => {
+        if (e.pictogram_name === "verbena.jpg") return ["🎵"];
         if (e.pictogram_name === "concierto.jpg") return ["🎵", "🎤"];
         if (e.pictogram_name === "musica_dj.jpg") return ["🎵", "💿"];
         if (e.pictogram_name === "musica_lirico.jpg") return ["🎵", "🎻"];
