@@ -112,7 +112,7 @@ const parseRawEventDateTime = (
   const [hour, minute] = hora.split(":").map((n) => parseInt(n));
 
   return {
-    date: [year, month, day],
+    date: [year, month, hour <= DAY_HOUR_MAX_OVERLAP ? day - 1 : day],
     time: [(hour <= DAY_HOUR_MAX_OVERLAP ? 24 : 0) + hour, minute],
   };
 };
