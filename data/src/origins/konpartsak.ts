@@ -1,12 +1,13 @@
 import { CoreEvent } from "$/models/core.ts";
 import * as z from "zod";
 import { konpartsakExtract } from "../../origins/konpartsak_extract.ts";
+import { konpartsakNamesExtract } from "../../origins/konpartsak_names_extract.ts";
 
 const DAY_HOUR_MAX_OVERLAP = 5;
 
-export const getKonpartsakEvents = async (): Promise<CoreEvent[]> => {
-  await validateKonpartsakNames();
-  const rawEvents = await getKonpartsakRawEvents();
+export const getKonpartsakEvents = (): CoreEvent[] => {
+  validateKonpartsakNames();
+  const rawEvents = getKonpartsakRawEvents();
 
   return rawEvents.map((e) => ({
     info: {
@@ -47,37 +48,28 @@ const parseRawEventDateTime = (
 };
 
 const getKonpartsakRawEvents = () => {
-  // const actividadesData = JSON.parse(
-  //   await Deno.readTextFile(
-  //     "./apks/out/konpartsak/assets/www/datos/actividades.json",
-  //   ),
-  // );
   return ActividadesFileModel.parse(konpartsakExtract);
 };
 
-const validateKonpartsakNames = async () => {
-  // const konpartsakData = JSON.parse(
-  //   await Deno.readTextFile(
-  //     "./apks/out/konpartsak/assets/www/datos/konpartsak.json",
-  //   ),
-  // );
-  // const konpartsakFile = KonpartsakFileModel.parse(konpartsakData);
+const validateKonpartsakNames = () => {
+  const konpartsakFile = KonpartsakFileModel.parse(konpartsakNamesExtract);
 
-  // const konpartsakExpectedIds = KONPARTSAK_NAMES
-  //   .map((n) => n.toLowerCase());
-  // const konpartsakIds = konpartsakFile.map((i) => i.nombre);
+  const konpartsakExpectedIds = KONPARTSAK_NAMES
+    .map((n) => n.toLowerCase());
+  const konpartsakIds = konpartsakFile.map((i) => i.nombre);
 
-  // for (const id of konpartsakExpectedIds) {
-  //   const idToMatch = (() => {
-  //     if (id === "aixe berri") return "aixe-berri";
-  //     if (id === "abante") return "hor dago abante";
-  //     if (id === "pa ya") return "pa...ya";
-  //     return id;
-  //   })();
-  //   if (konpartsakIds.indexOf(idToMatch) === -1) {
-  //     throw new Error(`Konpartsak '${idToMatch}' not found on file`);
-  //   }
-  // }
+  for (const id of konpartsakExpectedIds) {
+    const idToMatch = (() => {
+      if (id === "aixe berri") return "aixe-berri";
+      if (id === "abante") return "hor dago abante";
+      if (id === "pa ya") return "pa...ya";
+      if (id === "hph") return "hau pittu hau!";
+      return id;
+    })();
+    if (konpartsakIds.indexOf(idToMatch) === -1) {
+      throw new Error(`Konpartsak '${idToMatch}' not found on file`);
+    }
+  }
 };
 
 const LUGAR_RENAME: { [K in ActividadesFile[0]["lugar"]]?: string } = {
@@ -117,13 +109,14 @@ const KONPARTSAK_NAMES = [
   "PINPILINPAUXA",
   "PIZTIAK",
   "PA YA",
+  "HPH",
 ] as const;
 
-// const KonpartsakFileModel = z.array(z.object({
-//   id: z.string().regex(/[0-9]+/),
-//   nombre: z.string().regex(/[a-z\-]+/),
-//   color: z.string().regex(/\#[0-9a-f]{6}/),
-// }));
+const KonpartsakFileModel = z.array(z.object({
+  id: z.string().regex(/[0-9]+/),
+  nombre: z.string().regex(/[a-z\-]+/),
+  color: z.string().regex(/\#[0-9a-f]{6}/),
+}));
 
 const ActividadesFileModel = z.array(z.object({
   id: z.string().regex(/[0-9]+/),
@@ -156,7 +149,6 @@ const ActividadesFileModel = z.array(z.object({
     "AREATZA",
     "AREATZA - GASTRO",
     "RIPA",
-    "HPH",
     "ZABALBIDE KALEA",
     "TRIANGUNE",
     "KULTURGUNE",
