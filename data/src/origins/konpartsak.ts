@@ -11,8 +11,8 @@ export const getKonpartsakEvents = (): CoreEvent[] => {
 
   return rawEvents.map((e) => ({
     info: {
-      es: { name: e.nombre_es },
-      eu: { name: e.nombre_eu },
+      es: { name: normalizeTitle(e.nombre_es) },
+      eu: { name: normalizeTitle(e.nombre_eu) },
     },
     badges: (() => {
       if (e.nombre_es.toLowerCase().indexOf("marijaia") >= 0) return ["🙆", "🎉"];
@@ -33,6 +33,29 @@ export const getKonpartsakEvents = (): CoreEvent[] => {
     })(),
     ...parseRawEventDateTime(e),
   }));
+};
+
+const TILDES_RE = /[a-z][ÁÉÍÓÚ]/g;
+export const normalizeTitle = (text: string) => {
+  const matches = (() => {
+    const result: number[] = [];
+    let match: ReturnType<typeof TILDES_RE["exec"]> = null;
+    do {
+      match = TILDES_RE.exec(text);
+      if (match) {
+        result.push(match.index + 1);
+      }
+    } while (match);
+    return result;
+  })();
+
+  const data = text.split("");
+  for (const match of matches) {
+    data[match] = data[match].toLowerCase();
+  }
+
+  return data.join("")
+    .replace("DÍa", "Día");
 };
 
 const parseRawEventDateTime = (
