@@ -2652,16 +2652,6 @@
     "location": "Arenal"
   },
   {
-    "name": "Juegos del pasado",
-    "name_eu": "Aintzinako jokuak",
-    "year": 2022,
-    "month": 8,
-    "day": "23",
-    "hour": "17:30",
-    "badges": [],
-    "location": "Pinpilinpauxa"
-  },
-  {
     "name": "TALLER DE PAÑUELO Y TXAPELA",
     "name_eu": "ZAPI ETA TXAPELA TAILERRA",
     "year": 2022,
@@ -3798,6 +3788,16 @@
     "hour": "18:00",
     "badges": [],
     "location": "Moskotarrak"
+  },
+  {
+    "name": "Travestipoteo",
+    "name_eu": "Trabestipoteoa",
+    "year": 2022,
+    "month": 8,
+    "day": "24",
+    "hour": "18:00",
+    "badges": [],
+    "location": "Pinpilinpauxa"
   },
   {
     "name": "JAZZ IN HELL",
