@@ -1,15 +1,14 @@
 import { CoreEvent } from "$/models/core.ts";
 import * as z from "zod";
-import { konpartsakExtract } from "../../origins/konpartsak_extract.ts";
-import { konpartsakNamesExtract } from "../../origins/konpartsak_names_extract.ts";
 
 const DAY_HOUR_MAX_OVERLAP = 5;
 
-export const getKonpartsakEvents = (): CoreEvent[] => {
-  validateKonpartsakNames();
-  const rawEvents = getKonpartsakRawEvents();
+export const getKonpartsakEvents = async (): Promise<CoreEvent[]> => {
+  await cacheKonpartsakData();
+  await validateKonpartsakNames();
+  const data = await getKonpartsakData();
 
-  return rawEvents.map((e) => ({
+  return data.progra.events.map((e) => ({
     info: {
       es: { name: normalizeTitle(e.nombre_es) },
       eu: { name: normalizeTitle(e.nombre_eu) },
@@ -33,6 +32,25 @@ export const getKonpartsakEvents = (): CoreEvent[] => {
     })(),
     ...parseRawEventDateTime(e),
   }));
+};
+
+const cacheKonpartsakData = async () => {
+  try {
+    const rawData = await fetch(
+      `https://app.bilbokokonpartsak.eus/data/data.json`,
+    ).then((r) => r.json());
+    const data = KonpartsakDataModel.parse(rawData);
+    data.progra.events.sort((a, b) => parseInt(a.id) - parseInt(b.id));
+    await Deno.writeTextFile(
+      "./origins/konpartsak_data.json",
+      JSON.stringify(data, null, 2),
+    );
+  } catch (err) {
+    console.log(
+      "!! Konpartsak info retrieval failed. Cached information will be used instead.",
+    );
+    console.log(err);
+  }
 };
 
 const TILDES_RE = /[a-z][ÁÉÍÓÚ]/g;
@@ -59,7 +77,7 @@ export const normalizeTitle = (text: string) => {
 };
 
 const parseRawEventDateTime = (
-  event: ActividadesFile[0],
+  event: KonpartsakData["progra"]["events"][0],
 ): Pick<CoreEvent, "date" | "time"> => {
   const [year, month, day] = event.fecha.split("-").map((n) => parseInt(n));
   const [hour, minute] = event.hora.split(":").map((n) => parseInt(n));
@@ -70,16 +88,18 @@ const parseRawEventDateTime = (
   };
 };
 
-const getKonpartsakRawEvents = () => {
-  return ActividadesFileModel.parse(konpartsakExtract);
+const getKonpartsakData = async () => {
+  return KonpartsakDataModel.parse(
+    JSON.parse(await Deno.readTextFile("./origins/konpartsak_data.json")),
+  );
 };
 
-const validateKonpartsakNames = () => {
-  const konpartsakFile = KonpartsakFileModel.parse(konpartsakNamesExtract);
+const validateKonpartsakNames = async () => {
+  const data = await getKonpartsakData();
 
   const konpartsakExpectedIds = KONPARTSAK_NAMES
     .map((n) => n.toLowerCase());
-  const konpartsakIds = konpartsakFile.map((i) => i.nombre);
+  const konpartsakIds = data.mapa.konpartsak.map((i) => i.nombre);
 
   for (const id of konpartsakExpectedIds) {
     const idToMatch = (() => {
@@ -95,7 +115,9 @@ const validateKonpartsakNames = () => {
   }
 };
 
-const LUGAR_RENAME: { [K in ActividadesFile[0]["lugar"]]?: string } = {
+const LUGAR_RENAME: {
+  [K in KonpartsakData["progra"]["events"][0]["lugar"]]?: string;
+} = {
   "PA YA": "Pa...Ya",
   "ARRIAGA PLAZA": "Teatro Arriaga - Plaza",
   "ARRIAGAKO ATZEKALDEA": "Teatro Arriaga - Parte Trasera",
@@ -135,84 +157,89 @@ const KONPARTSAK_NAMES = [
   "HPH",
 ] as const;
 
-const KonpartsakFileModel = z.array(z.object({
-  id: z.string().regex(/[0-9]+/),
-  nombre: z.string().regex(/[a-z\-]+/),
-  color: z.string().regex(/\#[0-9a-f]{6}/),
-}));
-
-const ActividadesFileModel = z.array(z.object({
-  id: z.string().regex(/[0-9]+/),
-  nombre_es: z.string(),
-  nombre_eu: z.string(),
-  fecha: z.enum([
-    "2022-08-20",
-    "2022-08-21",
-    "2022-08-22",
-    "2022-08-23",
-    "2022-08-24",
-    "2022-08-25",
-    "2022-08-26",
-    "2022-08-27",
-    "2022-08-28",
-  ]),
-  hora: z.string().regex(/[0-9]{2}\:[0-9]{2}\:[0-9]{2}/),
-  lugar: z.enum([
-    ...KONPARTSAK_NAMES,
-    "MAMIKI-TXOMIN",
-    "PIZTIAK - KRANBA",
-    "KRANBA - PIZTIAK",
-    "MAMIKI-TXOMIN-ABANTE",
-    "KAIALDE",
-    "EGUZKIZALEAK",
-    "BASURTO",
-    "ARRIAGA PLAZA",
-    "ZAZPI KALEAK",
-    "EUSKAL MUSEOA - MUSEO VASCO",
-    "AREATZA",
-    "AREATZA - GASTRO",
-    "RIPA",
-    "ZABALBIDE KALEA",
-    "TRIANGUNE",
-    "KULTURGUNE",
-    "EUSKALGUNE",
-    "ZABALGUNEKO MERKATUA",
-    "HONTZAK",
-    "ITSAS MUSEOA",
-    "SAN ANTON",
-    "SOMERA KALEA",
-    "SANTIAGO PLAZA",
-    "ETXEBARRIA PARKEA",
-    "BASURTU",
-    "ARRIAGAKO ATZEKALDEA",
-    "PLAZA BARRIA",
-  ]),
-  konpartsa: z.literal(""),
-  tipo: z.enum([
-    "GASTRONOMIA - GASTRONOMÍA",
-    "BAZKARIA - COMIDA",
-    "LEHIAKETA - CONCURSO",
-    "PIROTEKNIA - PIROTECNIA",
-    "ANTZERKIA - TEATRO",
-    "KIROLAK - DEPORTES",
-    "JOLASAK - JUEGOS",
-    "TAILERRAK - TALLERES",
-    "KONTZERTUAK - CONCIERTOS",
-    "MUSIKA - MÚSICA",
-    "DANTZAK - BAILES",
-    "EKITALDIA - ACTO",
-    "KALEJIRA",
-    "SU ARTIFIZIALAK - FUEGOS ARTIFICIALES",
-    "BESTELAKO IKUSKIZUNAK - OTROS ESPECTÁCULOS",
-    "BESTELAKOAK - OTROS",
-    "AZOKA - MERCADO",
-    "ERAKUSKETA - EXPOSICIÓN",
-    "BERTSOLARITZA",
-  ]),
-  publico: z.enum([
-    "DENAK - TODOS",
-    "TXIKIAK - INFANTIL",
-  ]),
-  id_autor: z.string().regex(/[0-9]+/),
-}));
-type ActividadesFile = z.infer<typeof ActividadesFileModel>;
+const KonpartsakDataModel = z.object({
+  mapa: z.object({
+    konpartsak: z.array(z.object({
+      id: z.string().regex(/[0-9]+/),
+      nombre: z.string().regex(/[a-z\-]+/),
+      color: z.string().regex(/\#[0-9a-f]{6}/),
+    })),
+  }),
+  progra: z.object({
+    events: z.array(z.object({
+      id: z.string().regex(/[0-9]+/),
+      nombre_es: z.string(),
+      nombre_eu: z.string(),
+      fecha: z.enum([
+        "2022-08-20",
+        "2022-08-21",
+        "2022-08-22",
+        "2022-08-23",
+        "2022-08-24",
+        "2022-08-25",
+        "2022-08-26",
+        "2022-08-27",
+        "2022-08-28",
+      ]),
+      hora: z.string().regex(/[0-9]{2}\:[0-9]{2}\:[0-9]{2}/),
+      lugar: z.enum([
+        ...KONPARTSAK_NAMES,
+        "MAMIKI-TXOMIN",
+        "PIZTIAK - KRANBA",
+        "KRANBA - PIZTIAK",
+        "MAMIKI-TXOMIN-ABANTE",
+        "KAIALDE",
+        "EGUZKIZALEAK",
+        "BASURTO",
+        "ARRIAGA PLAZA",
+        "ZAZPI KALEAK",
+        "EUSKAL MUSEOA - MUSEO VASCO",
+        "AREATZA",
+        "AREATZA - GASTRO",
+        "RIPA",
+        "ZABALBIDE KALEA",
+        "TRIANGUNE",
+        "KULTURGUNE",
+        "EUSKALGUNE",
+        "ZABALGUNEKO MERKATUA",
+        "HONTZAK",
+        "ITSAS MUSEOA",
+        "SAN ANTON",
+        "SOMERA KALEA",
+        "SANTIAGO PLAZA",
+        "ETXEBARRIA PARKEA",
+        "BASURTU",
+        "ARRIAGAKO ATZEKALDEA",
+        "PLAZA BARRIA",
+      ]),
+      konpartsa: z.literal(""),
+      tipo: z.enum([
+        "GASTRONOMIA - GASTRONOMÍA",
+        "BAZKARIA - COMIDA",
+        "LEHIAKETA - CONCURSO",
+        "PIROTEKNIA - PIROTECNIA",
+        "ANTZERKIA - TEATRO",
+        "KIROLAK - DEPORTES",
+        "JOLASAK - JUEGOS",
+        "TAILERRAK - TALLERES",
+        "KONTZERTUAK - CONCIERTOS",
+        "MUSIKA - MÚSICA",
+        "DANTZAK - BAILES",
+        "EKITALDIA - ACTO",
+        "KALEJIRA",
+        "SU ARTIFIZIALAK - FUEGOS ARTIFICIALES",
+        "BESTELAKO IKUSKIZUNAK - OTROS ESPECTÁCULOS",
+        "BESTELAKOAK - OTROS",
+        "AZOKA - MERCADO",
+        "ERAKUSKETA - EXPOSICIÓN",
+        "BERTSOLARITZA",
+      ]),
+      publico: z.enum([
+        "DENAK - TODOS",
+        "TXIKIAK - INFANTIL",
+      ]),
+      id_autor: z.string().regex(/[0-9]+/),
+    })),
+  }),
+});
+type KonpartsakData = z.infer<typeof KonpartsakDataModel>;
