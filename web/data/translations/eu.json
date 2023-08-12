@@ -20,5 +20,8 @@
     "FOOTER_DATA_ORIGINS": "Datuen jatorria:",
     "FOOTER_CREDITS": "<a target=\"_blank\" href=\"https://sirikon.me/about/\">Sirikon</a>-ek garatutako web <b>ez ofiziala</b>.",
     "FOOTER_SOURCE_CODE": "<a target=\"_blank\" href=\"https://github.com/sirikon/astenagusia\">Iturri kodea Github-en</a> ikusi dezakezu.",
-    "FOOTER_MADE": "Made with 💕 in <b>Málaga</b> for <b>Bilbao</b>"
+    "FOOTER_MADE": "Made with 💕 in <b>Málaga</b> for <b>Bilbao</b>",
+
+    "SORRY_1": "Este año 2023 me ha sido imposible sacar tiempo para actualizar la web con toda la información.",
+    "SORRY_2": "Nos vemos el año que viene."
 }

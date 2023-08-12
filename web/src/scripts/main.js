@@ -60,4 +60,4 @@ function onFilterOptionClick(locationName, locationSlug) {
 	render();
 }
 
-filterButtonElement.addEventListener('click', onFilterButtonClick);
+filterButtonElement?.addEventListener('click', onFilterButtonClick);
